@@ -5,7 +5,7 @@ This dataset was derived from the public-domain [Openfootball Worldcup Dataset](
 and can be freely used without any restrictions. In contrast to the original structured text files (with varying layouts),this dataset contains denormalized CSV files for Squads, Matches, and Goals that have been already cleaned (consistent country names, player names, round types, etc) in order to serve as a data ingestion use case in lectures on database systems. Note that this dataset is limited to the years 1954-2014 (instead of 1930-2014) to remove the complexity of replay games, and goals information is only complete for 2014.
 
 
-##Structure: 
+## Structure: 
 
 **1954_2014_Squads.csv:** The Squads file contains the player information of all teams participating in the worldcup. It's detailed structure and examples look as follows.
 ```
@@ -30,34 +30,3 @@ and can be freely used without any restrictions. In contrast to the original str
 2014,Brazil,760,Netherlands,Georginio Wijnaldum,90+1
 2014,Brazil,761,Germany,Mario Götze,113
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- cleaned data 
-
-and is parsed into denormalized CSV files to allow for easy 
-
-
-we restrict ourselves to the years .
-
-
-
-*SystemDS is a versatile system for the end-to-end data science lifecycle from data integration, cleaning, and feature engineering, over efficient, local and distributed ML model training, to deployment and serving. To this end, we aim to provide a stack of declarative languages with R-like syntax for (1) the different tasks of the data-science lifecycle, and (2) users with different expertise. These high-level scripts are compiled into hybrid execution plans of local, in-memory CPU and GPU operations, as well as distributed operations on Apache Spark. In contrast to existing systems - that either provide homogeneous tensors or 2D Datasets - and in order to serve the entire data science lifecycle, the underlying data model are DataTensors, i.e., tensors (multi-dimensional arrays) whose first dimension may have a heterogeneous and nested schema.
-*
-*
-*
-
-**Documentation:** [SystemDS Documentation](http://apache.github.io/systemml/dml-language-reference)<br/>
-
-**Status and Build:** SystemDS is still in pre-alpha status. The original code base was forked from [**Apache SystemML**](http://systemml.apache.org/) 1.2 in September 2019. We will continue to support linear algebra programs over matrices, while replacing the underlying data model and compiler, as well as substantially extending the supported functionalities. Until the first release, you can build your own snapshot via Apache Maven: `mvn -DskipTests clean package`.
