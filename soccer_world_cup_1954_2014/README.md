@@ -18,7 +18,7 @@ and can be freely used without any restrictions. In contrast to the original str
 **1954_2014_Matches.csv:** The Matches file contains all group and play-off match statistics of the worldcup. It's detailed structure and examples look as follows.
 ```
 #Year, Host_Country, Match_ID, Type, Date, Location, Team 1, Team 2, Score 1, Score 2
-2006,Germany,571,Group A,Fri Jun/9,Veltins-Arena, Gelsenkirchen,Poland,Ecuador,0,2
+2006,Germany,572,Group A,Wed Jun/14,Signal Iduna Park, Dortmund,Germany,Poland,1,0
 2010,South Africa,684,Round of 16,Sun Jun/27 16:00,Free State Stadium, Bloemfontein,Germany,England,4,1
 2014,Brazil,761,Final,Sun Jul/13 16:00,Estádio do Maracanã, Rio de Janeiro (UTC-3),Germany,Argentina,1,0
 ```
