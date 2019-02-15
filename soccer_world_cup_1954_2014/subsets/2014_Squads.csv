@@ -1,0 +1,737 @@
+#Year, Host_Country, Country, Jersey_Number, Position, Name, Club_Name, Club_Country
+2014,Brazil,Argentina,1,GK,Sergio Romero,AS Monaco,France
+2014,Brazil,Argentina,12,GK,Agustín Orión,Boca Juniors,Argentina
+2014,Brazil,Argentina,21,GK,Mariano Andújar,Catania,Italy
+2014,Brazil,Argentina,2,DF,Ezequiel Garay,Benfica,Portugal
+2014,Brazil,Argentina,3,DF,Hugo Campagnaro,Internazionale,Italy
+2014,Brazil,Argentina,4,DF,Pablo Zabaleta,Manchester City,England
+2014,Brazil,Argentina,15,DF,Martín Demichelis,Manchester City,England
+2014,Brazil,Argentina,16,DF,Marcos Rojo,Sporting,Portugal
+2014,Brazil,Argentina,17,DF,Federico Fernández,Napoli,Italy
+2014,Brazil,Argentina,23,DF,José María Basanta,Monterrey,Mexico
+2014,Brazil,Argentina,5,MF,Fernando Gago,Boca Juniors,Argentina
+2014,Brazil,Argentina,6,MF,Lucas Biglia,Lazio,Italy
+2014,Brazil,Argentina,7,MF,Ángel di María,Real Madrid,Spain
+2014,Brazil,Argentina,8,MF,Enzo Pérez,Benfica,Portugal
+2014,Brazil,Argentina,11,MF,Maxi Rodríguez,Newell's Old Boys,Argentina
+2014,Brazil,Argentina,13,MF,Augusto Fernández,Celta Vigo,Spain
+2014,Brazil,Argentina,14,MF,Javier Mascherano,Barcelona,Spain
+2014,Brazil,Argentina,19,MF,Ricardo Álvarez,Internazionale,Italy
+2014,Brazil,Argentina,9,FW,Gonzalo Higuaín,Napoli,Italy
+2014,Brazil,Argentina,10,FW,Lionel Messi,Barcelona,Spain
+2014,Brazil,Argentina,18,FW,Rodrigo Palacio,Internazionale,Italy
+2014,Brazil,Argentina,20,FW,Sergio Agüero,Manchester City,England
+2014,Brazil,Argentina,22,FW,Ezequiel Lavezzi,Paris Saint-Germain,France
+2014,Brazil,Australia,1,GK,Mathew Ryan,Club Brugge,Belgium
+2014,Brazil,Australia,12,GK,Mitchell Langerak,Borussia Dortmund,Germany
+2014,Brazil,Australia,18,GK,Eugene Galeković,Adelaide United,Australia
+2014,Brazil,Australia,2,DF,Ivan Franjić,Brisbane Roar,Australia
+2014,Brazil,Australia,3,DF,Jason Davidson,Heracles Almelo,Netherlands
+2014,Brazil,Australia,6,DF,Matthew Špiranović,Western Sydney Wanderers,Australia
+2014,Brazil,Australia,8,DF,Bailey Wright,Preston North End,England
+2014,Brazil,Australia,19,DF,Ryan McGowan,Shandong Luneng Taishan,China
+2014,Brazil,Australia,22,DF,Alex Wilkinson,Jeonbuk Hyundai Motors,
+2014,Brazil,Australia,5,MF,Mark Milligan,Melbourne Victory,Australia
+2014,Brazil,Australia,10,MF,Ben Halloran,Fortuna Düsseldorf,Germany
+2014,Brazil,Australia,11,MF,Tommy Oar,Utrecht,Netherlands
+2014,Brazil,Australia,13,MF,Oliver Bozanić,Luzern,Switzerland
+2014,Brazil,Australia,14,MF,James Troisi,Atalanta,Italy
+2014,Brazil,Australia,15,MF,Mile Jedinak,Crystal Palace,England
+2014,Brazil,Australia,16,MF,James Holland,Austria Wien,Austria
+2014,Brazil,Australia,17,MF,Matt McKay,Brisbane Roar,Australia
+2014,Brazil,Australia,20,MF,Dario Vidošić,Sion,Switzerland
+2014,Brazil,Australia,21,MF,Massimo Luongo,Swindon Town,England
+2014,Brazil,Australia,23,MF,Mark Bresciano,Al-Gharafa,Qatar
+2014,Brazil,Australia,4,FW,Tim Cahill,New York Red Bulls,United States
+2014,Brazil,Australia,7,FW,Mathew Leckie,FSV Frankfurt,Germany
+2014,Brazil,Australia,9,FW,Adam Taggart,Newcastle Jets,Australia
+2014,Brazil,Bosnia-Herzegovina,1,GK,Asmir Begović,Stoke City,England
+2014,Brazil,Bosnia-Herzegovina,12,GK,Jasmin Fejzić,VfR Aalen,Germany
+2014,Brazil,Bosnia-Herzegovina,22,GK,Asmir Avdukić,Borac Banja Luka,Bosnia-Herzegovina
+2014,Brazil,Bosnia-Herzegovina,2,DF,Avdija Vršajević,Hajduk Split,Croatia
+2014,Brazil,Bosnia-Herzegovina,3,DF,Ermin Bičakčić,Eintracht Braunschweig,Germany
+2014,Brazil,Bosnia-Herzegovina,4,DF,Emir Spahić,Bayer Leverkusen,Germany
+2014,Brazil,Bosnia-Herzegovina,5,DF,Sead Kolašinac,Schalke 04,Germany
+2014,Brazil,Bosnia-Herzegovina,6,DF,Ognjen Vranješ,Elazığspor,Turkey
+2014,Brazil,Bosnia-Herzegovina,7,DF,Muhamed Bešić,Ferencváros,Hungary
+2014,Brazil,Bosnia-Herzegovina,13,DF,Mensur Mujdža,SC Freiburg,Germany
+2014,Brazil,Bosnia-Herzegovina,15,DF,Toni Šunjić,Zorya Luhansk,Ukraine
+2014,Brazil,Bosnia-Herzegovina,8,MF,Miralem Pjanić,Roma,Italy
+2014,Brazil,Bosnia-Herzegovina,10,MF,Zvjezdan Misimović,Guizhou Renhe,China
+2014,Brazil,Bosnia-Herzegovina,14,MF,Izet Hajrović,Galatasaray,Turkey
+2014,Brazil,Bosnia-Herzegovina,16,MF,Senad Lulić,Lazio,Italy
+2014,Brazil,Bosnia-Herzegovina,17,MF,Senijad Ibričić,Kayseri Erciyesspor,Turkey
+2014,Brazil,Bosnia-Herzegovina,18,MF,Haris Medunjanin,Gaziantepspor,Turkey
+2014,Brazil,Bosnia-Herzegovina,20,MF,Anel Hadžić,Sturm Graz,Austria
+2014,Brazil,Bosnia-Herzegovina,21,MF,Tino-Sven Sušić,Hajduk Split,Croatia
+2014,Brazil,Bosnia-Herzegovina,23,MF,Sejad Salihović,1899 Hoffenheim,Germany
+2014,Brazil,Bosnia-Herzegovina,9,FW,Vedad Ibišević,VfB Stuttgart,Germany
+2014,Brazil,Bosnia-Herzegovina,11,FW,Edin Džeko,Manchester City,England
+2014,Brazil,Bosnia-Herzegovina,19,FW,Edin Višća,İstanbul BB,Turkey
+2014,Brazil,Belgium,1,GK,Thibaut Courtois,Atlético Madrid,Spain
+2014,Brazil,Belgium,12,GK,Simon Mignolet,Liverpool,England
+2014,Brazil,Belgium,13,GK,Sammy Bossut,Zulte Waregem,Belgium
+2014,Brazil,Belgium,2,DF,Toby Alderweireld,Atlético Madrid,Spain
+2014,Brazil,Belgium,3,DF,Thomas Vermaelen,Arsenal,England
+2014,Brazil,Belgium,4,DF,Vincent Kompany,Manchester City,England
+2014,Brazil,Belgium,5,DF,Jan Vertonghen,Tottenham Hotspur,England
+2014,Brazil,Belgium,15,DF,Daniel Van Buyten,Bayern Munich,Germany
+2014,Brazil,Belgium,18,DF,Nicolas Lombaerts,Zenit Saint Petersburg,Russia
+2014,Brazil,Belgium,21,DF,Anthony Vanden Borre,Anderlecht,Belgium
+2014,Brazil,Belgium,23,DF,Laurent Ciman,Standard Liège,Belgium
+2014,Brazil,Belgium,6,MF,Axel Witsel,Zenit Saint Petersburg,Russia
+2014,Brazil,Belgium,7,MF,Kevin De Bruyne,VfL Wolfsburg,Germany
+2014,Brazil,Belgium,8,MF,Marouane Fellaini,Manchester United,England
+2014,Brazil,Belgium,10,MF,Eden Hazard,Chelsea,England
+2014,Brazil,Belgium,11,MF,Kevin Mirallas,Everton,England
+2014,Brazil,Belgium,16,MF,Steven Defour,Porto,Portugal
+2014,Brazil,Belgium,19,MF,Mousa Dembélé,Tottenham Hotspur,England
+2014,Brazil,Belgium,20,MF,Adnan Januzaj,Manchester United,England
+2014,Brazil,Belgium,22,MF,Nacer Chadli,Tottenham Hotspur,England
+2014,Brazil,Belgium,9,FW,Romelu Lukaku,Everton,England
+2014,Brazil,Belgium,14,FW,Dries Mertens,Napoli,Italy
+2014,Brazil,Belgium,17,FW,Divock Origi,Lille,France
+2014,Brazil,Brazil,1,GK,Jefferson,Botafogo,Brazil
+2014,Brazil,Brazil,12,GK,Júlio César,Toronto,Canada
+2014,Brazil,Brazil,22,GK,Victor,Atlético Mineiro,Brazil
+2014,Brazil,Brazil,2,DF,Dani Alves,Barcelona,Spain
+2014,Brazil,Brazil,3,DF,Thiago Silva,Paris Saint-Germain,France
+2014,Brazil,Brazil,4,DF,David Luiz,Chelsea,England
+2014,Brazil,Brazil,6,DF,Marcelo,Real Madrid,Spain
+2014,Brazil,Brazil,13,DF,Dante,Bayern Munich,Germany
+2014,Brazil,Brazil,14,DF,Maxwell,Paris Saint-Germain,France
+2014,Brazil,Brazil,15,DF,Henrique,Napoli,Italy
+2014,Brazil,Brazil,23,DF,Maicon,Roma,Italy
+2014,Brazil,Brazil,5,MF,Fernandinho,Manchester City,England
+2014,Brazil,Brazil,8,MF,Paulinho,Tottenham Hotspur,England
+2014,Brazil,Brazil,11,MF,Oscar,Chelsea,England
+2014,Brazil,Brazil,16,MF,Ramires,Chelsea,England
+2014,Brazil,Brazil,17,MF,Luiz Gustavo,VfL Wolfsburg,Germany
+2014,Brazil,Brazil,18,MF,Hernanes,Internazionale,Italy
+2014,Brazil,Brazil,19,MF,Willian,Chelsea,England
+2014,Brazil,Brazil,7,FW,Hulk,Zenit Saint Petersburg,Russia
+2014,Brazil,Brazil,9,FW,Fred,Fluminense,Brazil
+2014,Brazil,Brazil,10,FW,Neymar,Barcelona,Spain
+2014,Brazil,Brazil,20,FW,Bernard,Shakhtar Donetsk,Ukraine
+2014,Brazil,Brazil,21,FW,Jô,Atlético Mineiro,Brazil
+2014,Brazil,Switzerland,1,GK,Diego Benaglio,VfL Wolfsburg,Germany
+2014,Brazil,Switzerland,12,GK,Yann Sommer,Basel,Switzerland
+2014,Brazil,Switzerland,21,GK,Roman Bürki,Grasshopper,Switzerland
+2014,Brazil,Switzerland,2,DF,Stephan Lichtsteiner,Juventus,Italy
+2014,Brazil,Switzerland,3,DF,Reto Ziegler,Sassuolo,Italy
+2014,Brazil,Switzerland,4,DF,Philippe Senderos,Valencia,Spain
+2014,Brazil,Switzerland,5,DF,Steve von Bergen,Young Boys,Switzerland
+2014,Brazil,Switzerland,6,DF,Michael Lang,Grasshopper,Switzerland
+2014,Brazil,Switzerland,13,DF,Ricardo Rodríguez,VfL Wolfsburg,Germany
+2014,Brazil,Switzerland,20,DF,Johan Djourou,Hamburger SV,Germany
+2014,Brazil,Switzerland,22,DF,Fabian Schär,Basel,Switzerland
+2014,Brazil,Switzerland,7,MF,Tranquillo Barnetta,Eintracht Frankfurt,Germany
+2014,Brazil,Switzerland,8,MF,Gökhan Inler,Napoli,Italy
+2014,Brazil,Switzerland,10,MF,Granit Xhaka,Borussia Mönchengladbach,Germany
+2014,Brazil,Switzerland,11,MF,Valon Behrami,Napoli,Italy
+2014,Brazil,Switzerland,14,MF,Valentin Stocker,Basel,Switzerland
+2014,Brazil,Switzerland,15,MF,Blerim Džemaili,Napoli,Italy
+2014,Brazil,Switzerland,16,MF,Gelson Fernandes,SC Freiburg,Germany
+2014,Brazil,Switzerland,23,MF,Xherdan Shaqiri,Bayern Munich,Germany
+2014,Brazil,Switzerland,9,FW,Haris Seferović,Real Sociedad,Spain
+2014,Brazil,Switzerland,17,FW,Mario Gavranović,Zürich,Switzerland
+2014,Brazil,Switzerland,18,FW,Admir Mehmedi,SC Freiburg,Germany
+2014,Brazil,Switzerland,19,FW,Josip Drmić,1. FC Nürnberg,Germany
+2014,Brazil,Côte d'Ivoire,1,GK,Boubacar Barry,Lokeren,Belgium
+2014,Brazil,Côte d'Ivoire,16,GK,Sylvain Gbohouo,Séwé Sport,Côte d'Ivoire
+2014,Brazil,Côte d'Ivoire,23,GK,Sayouba Mandé,Stabæk,Norway
+2014,Brazil,Côte d'Ivoire,2,DF,Ousmane Viera,Çaykur Rizespor,Turkey
+2014,Brazil,Côte d'Ivoire,3,DF,Arthur Boka,VfB Stuttgart,Germany
+2014,Brazil,Côte d'Ivoire,4,DF,Kolo Touré,Liverpool,England
+2014,Brazil,Côte d'Ivoire,5,DF,Didier Zokora,Trabzonspor,Turkey
+2014,Brazil,Côte d'Ivoire,7,DF,Jean-Daniel Akpa-Akpro,Toulouse,France
+2014,Brazil,Côte d'Ivoire,17,DF,Serge Aurier,Toulouse,France
+2014,Brazil,Côte d'Ivoire,18,DF,Constant Djakpa,Eintracht Frankfurt,Germany
+2014,Brazil,Côte d'Ivoire,22,DF,Sol Bamba,Trabzonspor,Turkey
+2014,Brazil,Côte d'Ivoire,9,MF,Cheick Tioté,Newcastle United,England
+2014,Brazil,Côte d'Ivoire,13,MF,Didier Ya Konan,Hannover 96,Germany
+2014,Brazil,Côte d'Ivoire,14,MF,Ismaël Diomandé,Saint-Étienne,France
+2014,Brazil,Côte d'Ivoire,19,MF,Yaya Touré,Manchester City,England
+2014,Brazil,Côte d'Ivoire,20,MF,Serey Die,Basel,Switzerland
+2014,Brazil,Côte d'Ivoire,6,FW,Mathis Bolly,Fortuna Düsseldorf,Germany
+2014,Brazil,Côte d'Ivoire,8,FW,Salomon Kalou,Lille,France
+2014,Brazil,Côte d'Ivoire,10,FW,Gervinho,Roma,Italy
+2014,Brazil,Côte d'Ivoire,11,FW,Didier Drogba,Galatasaray,Turkey
+2014,Brazil,Côte d'Ivoire,12,FW,Wilfried Bony,Swansea City,Wales
+2014,Brazil,Côte d'Ivoire,15,FW,Max Gradel,Saint-Étienne,France
+2014,Brazil,Côte d'Ivoire,21,FW,Giovanni Sio,Basel,Switzerland
+2014,Brazil,Chile,1,GK,Claudio Bravo,Real Sociedad,Spain
+2014,Brazil,Chile,12,GK,Cristopher Toselli,Universidad Católica,Chile
+2014,Brazil,Chile,23,GK,Johnny Herrera,Universidad de Chile,Chile
+2014,Brazil,Chile,2,DF,Eugenio Mena,Santos,Brazil
+2014,Brazil,Chile,3,DF,Miiko Albornoz,Malmö FF,Sweden
+2014,Brazil,Chile,13,DF,José Rojas,Universidad de Chile,Chile
+2014,Brazil,Chile,17,DF,Gary Medel,Cardiff City,Wales
+2014,Brazil,Chile,18,DF,Gonzalo Jara,Nottingham Forest,England
+2014,Brazil,Chile,4,MF,Mauricio Isla,Juventus,Italy
+2014,Brazil,Chile,5,MF,Francisco Silva,Osasuna,Spain
+2014,Brazil,Chile,6,MF,Carlos Carmona,Atalanta,Italy
+2014,Brazil,Chile,8,MF,Arturo Vidal,Juventus,Italy
+2014,Brazil,Chile,10,MF,Jorge Valdívia,Palmeiras,Brazil
+2014,Brazil,Chile,14,MF,Fabián Orellana,Celta Vigo,Spain
+2014,Brazil,Chile,15,MF,Jean Beausejour,Wigan Athletic,England
+2014,Brazil,Chile,16,MF,Felipe Gutiérrez,Twente,Netherlands
+2014,Brazil,Chile,19,MF,José Pedro Fuenzalida,Colo-Colo,Chile
+2014,Brazil,Chile,20,MF,Charles Aránguiz,Internacional,Brazil
+2014,Brazil,Chile,21,MF,Marcelo Díaz,Basel,Switzerland
+2014,Brazil,Chile,7,FW,Alexis Sánchez,Barcelona,Spain
+2014,Brazil,Chile,9,FW,Mauricio Pinilla,Cagliari,Italy
+2014,Brazil,Chile,11,FW,Eduardo Vargas,Valencia,Spain
+2014,Brazil,Chile,22,FW,Esteban Paredes,Colo-Colo,Chile
+2014,Brazil,Cameroon,1,GK,Loïc Feudjou,Coton Sport,Cameroon
+2014,Brazil,Cameroon,16,GK,Charles Itandje,Konyaspor,Turkey
+2014,Brazil,Cameroon,23,GK,Sammy N'Djock,Fethiyespor,Turkey
+2014,Brazil,Cameroon,2,DF,Benoît Assou-Ekotto,Queens Park Rangers,England
+2014,Brazil,Cameroon,3,DF,Nicolas N'Koulou,Marseille,France
+2014,Brazil,Cameroon,4,DF,Cédric Djeugoué,Coton Sport,Cameroon
+2014,Brazil,Cameroon,5,DF,Dany Nounkeu,Beşiktaş,Turkey
+2014,Brazil,Cameroon,12,DF,Henri Bedimo,Lyon,France
+2014,Brazil,Cameroon,14,DF,Aurélien Chedjou,Galatasaray,Turkey
+2014,Brazil,Cameroon,22,DF,Allan Nyom,Granada,Spain
+2014,Brazil,Cameroon,6,MF,Alex Song,Barcelona,Spain
+2014,Brazil,Cameroon,7,MF,Landry N'Guémo,Bordeaux,France
+2014,Brazil,Cameroon,11,MF,Jean Makoun,Rennes,France
+2014,Brazil,Cameroon,17,MF,Stéphane Mbia,Sevilla,Spain
+2014,Brazil,Cameroon,18,MF,Eyong Enoh,Antalyaspor,Turkey
+2014,Brazil,Cameroon,20,MF,Edgar Salli,Lens,France
+2014,Brazil,Cameroon,21,MF,Joël Matip,Schalke 04,Germany
+2014,Brazil,Cameroon,8,FW,Benjamin Moukandjo,Nancy,France
+2014,Brazil,Cameroon,9,FW,Samuel Eto'o,Chelsea,England
+2014,Brazil,Cameroon,10,FW,Vincent Aboubakar,Lorient,France
+2014,Brazil,Cameroon,13,FW,Maxim Choupo-Moting,Mainz 05,Germany
+2014,Brazil,Cameroon,15,FW,Pierre Webó,Fenerbahçe,Turkey
+2014,Brazil,Cameroon,19,FW,Fabrice Olinga,Zulte Waregem,Belgium
+2014,Brazil,Colombia,1,GK,David Ospina,Nice,France
+2014,Brazil,Colombia,12,GK,Camilo Vargas,Santa Fe,Colombia
+2014,Brazil,Colombia,22,GK,Faryd Mondragón,Deportivo Cali,Colombia
+2014,Brazil,Colombia,2,DF,Cristián Zapata,Milan,Italy
+2014,Brazil,Colombia,3,DF,Mario Yepes,Atalanta,Italy
+2014,Brazil,Colombia,4,DF,Santiago Arias,PSV,Netherlands
+2014,Brazil,Colombia,7,DF,Pablo Armero,West Ham United,England
+2014,Brazil,Colombia,16,DF,Éder Álvarez Balanta,River Plate,Argentina
+2014,Brazil,Colombia,18,DF,Juan Camilo Zúñiga,Napoli,Italy
+2014,Brazil,Colombia,23,DF,Carlos Valdés,San Lorenzo,Argentina
+2014,Brazil,Colombia,5,MF,Carlos Carbonero,River Plate,Argentina
+2014,Brazil,Colombia,6,MF,Carlos Sánchez,Elche,Spain
+2014,Brazil,Colombia,8,MF,Abel Aguilar,Toulouse,France
+2014,Brazil,Colombia,10,MF,James Rodríguez,AS Monaco,France
+2014,Brazil,Colombia,11,MF,Juan Guillermo Cuadrado,Fiorentina,Italy
+2014,Brazil,Colombia,13,MF,Fredy Guarín,Internazionale,Italy
+2014,Brazil,Colombia,14,MF,Víctor Ibarbo,Cagliari,Italy
+2014,Brazil,Colombia,15,MF,Alexander Mejía,Atlético Nacional,Colombia
+2014,Brazil,Colombia,20,MF,Juan Fernando Quintero,Porto,Portugal
+2014,Brazil,Colombia,9,FW,Teófilo Gutiérrez,River Plate,Argentina
+2014,Brazil,Colombia,17,FW,Carlos Bacca,Sevilla,Spain
+2014,Brazil,Colombia,19,FW,Adrián Ramos,Hertha BSC,Germany
+2014,Brazil,Colombia,21,FW,Jackson Martínez,Porto,Portugal
+2014,Brazil,Costa Rica,1,GK,Keylor Navas,Levante,Spain
+2014,Brazil,Costa Rica,18,GK,Patrick Pemberton,Alajuelense,Costa Rica
+2014,Brazil,Costa Rica,23,GK,Daniel Cambronero,Herediano,Costa Rica
+2014,Brazil,Costa Rica,2,DF,Johnny Acosta,Alajuelense,Costa Rica
+2014,Brazil,Costa Rica,3,DF,Giancarlo González,Columbus Crew,United States
+2014,Brazil,Costa Rica,4,DF,Michael Umaña,Saprissa,Costa Rica
+2014,Brazil,Costa Rica,6,DF,Óscar Duarte,Club Brugge,Belgium
+2014,Brazil,Costa Rica,8,DF,Heiner Mora,Saprissa,Costa Rica
+2014,Brazil,Costa Rica,12,DF,Waylon Francis,Columbus Crew,United States
+2014,Brazil,Costa Rica,15,DF,Júnior Díaz,Mainz 05,Germany
+2014,Brazil,Costa Rica,16,DF,Cristian Gamboa,Rosenborg,Norway
+2014,Brazil,Costa Rica,19,DF,Roy Miller,New York Red Bulls,United States
+2014,Brazil,Costa Rica,5,MF,Celso Borges,AIK,Sweden
+2014,Brazil,Costa Rica,7,MF,Christian Bolaños,Copenhagen,Denmark
+2014,Brazil,Costa Rica,11,MF,Michael Barrantes,Aalesund,Norway
+2014,Brazil,Costa Rica,13,MF,Esteban Granados,Herediano,Costa Rica
+2014,Brazil,Costa Rica,17,MF,Yeltsin Tejeda,Saprissa,Costa Rica
+2014,Brazil,Costa Rica,20,MF,Diego Calvo,Vålerenga,Norway
+2014,Brazil,Costa Rica,22,MF,José Miguel Cubero,Herediano,Costa Rica
+2014,Brazil,Costa Rica,9,FW,Joel Campbell,Olympiacos,Greece
+2014,Brazil,Costa Rica,10,FW,Bryan Ruiz,PSV,Netherlands
+2014,Brazil,Costa Rica,14,FW,Randall Brenes,Cartaginés,Costa Rica
+2014,Brazil,Costa Rica,21,FW,Marco Ureña,Kuban Krasnodar,Russia
+2014,Brazil,Germany,1,GK,Manuel Neuer,Bayern Munich,Germany
+2014,Brazil,Germany,12,GK,Ron-Robert Zieler,Hannover 96,Germany
+2014,Brazil,Germany,22,GK,Roman Weidenfeller,Borussia Dortmund,Germany
+2014,Brazil,Germany,2,DF,Kevin Großkreutz,Borussia Dortmund,Germany
+2014,Brazil,Germany,4,DF,Benedikt Höwedes,Schalke 04,Germany
+2014,Brazil,Germany,5,DF,Mats Hummels,Borussia Dortmund,Germany
+2014,Brazil,Germany,15,DF,Erik Durm,Borussia Dortmund,Germany
+2014,Brazil,Germany,16,DF,Philipp Lahm,Bayern Munich,Germany
+2014,Brazil,Germany,17,DF,Per Mertesacker,Arsenal,England
+2014,Brazil,Germany,20,DF,Jérôme Boateng,Bayern Munich,Germany
+2014,Brazil,Germany,3,MF,Matthias Ginter,SC Freiburg,Germany
+2014,Brazil,Germany,6,MF,Sami Khedira,Real Madrid,Spain
+2014,Brazil,Germany,7,MF,Bastian Schweinsteiger,Bayern Munich,Germany
+2014,Brazil,Germany,8,MF,Mesut Özil,Arsenal,England
+2014,Brazil,Germany,9,MF,André Schürrle,Chelsea,England
+2014,Brazil,Germany,13,MF,Thomas Müller,Bayern Munich,Germany
+2014,Brazil,Germany,14,MF,Julian Draxler,Schalke 04,Germany
+2014,Brazil,Germany,18,MF,Toni Kroos,Bayern Munich,Germany
+2014,Brazil,Germany,19,MF,Mario Götze,Bayern Munich,Germany
+2014,Brazil,Germany,21,MF,Marco Reus,Borussia Dortmund,Germany
+2014,Brazil,Germany,23,MF,Christoph Kramer,Borussia Mönchengladbach,Germany
+2014,Brazil,Germany,10,FW,Lukas Podolski,Arsenal,England
+2014,Brazil,Germany,11,FW,Miroslav Klose,Lazio,Italy
+2014,Brazil,Algeria,1,GK,Cédric Si Mohamed,CS Constantine,Algeria
+2014,Brazil,Algeria,16,GK,Mohamed Zemmamouche,USM Alger,Algeria
+2014,Brazil,Algeria,23,GK,Raïs M'Bolhi,CSKA Sofia,Bulgaria
+2014,Brazil,Algeria,2,DF,Madjid Bougherra,Lekhwiya,Qatar
+2014,Brazil,Algeria,3,DF,Faouzi Ghoulam,Napoli,Italy
+2014,Brazil,Algeria,4,DF,Essaïd Belkalem,Watford,England
+2014,Brazil,Algeria,5,DF,Rafik Halliche,Académica,Portugal
+2014,Brazil,Algeria,6,DF,Djamel Mesbah,Livorno,Italy
+2014,Brazil,Algeria,7,DF,Carl Medjani,Valenciennes,France
+2014,Brazil,Algeria,17,DF,Liassine Cadamuro-Bentaïba,Mallorca,Spain
+2014,Brazil,Algeria,20,DF,Aïssa Mandi,Reims,France
+2014,Brazil,Algeria,8,MF,Hassan Yebda,Udinese,Italy
+2014,Brazil,Algeria,10,MF,Sofiane Feghouli,Valencia,Spain
+2014,Brazil,Algeria,11,MF,Yacine Brahimi,Granada,Spain
+2014,Brazil,Algeria,12,MF,Medhi Lacen,Getafe,Spain
+2014,Brazil,Algeria,14,MF,Nabil Bentaleb,Tottenham Hotspur,England
+2014,Brazil,Algeria,18,MF,Abdelmoumene Djabou,Club Africain,Tunisia
+2014,Brazil,Algeria,19,MF,Saphir Taïder,Internazionale,Italy
+2014,Brazil,Algeria,21,MF,Riyad Mahrez,Leicester City,England
+2014,Brazil,Algeria,22,MF,Mehdi Mostefa,Ajaccio,France
+2014,Brazil,Algeria,9,FW,Nabil Ghilas,Porto,Portugal
+2014,Brazil,Algeria,13,FW,Islam Slimani,Sporting CP,Portugal
+2014,Brazil,Algeria,15,FW,El Arbi Hillel Soudani,Dinamo Zagreb,Croatia
+2014,Brazil,Ecuador,1,GK,Máximo Banguera,Barcelona,Ecuador
+2014,Brazil,Ecuador,12,GK,Adrián Bone,El Nacional,Ecuador
+2014,Brazil,Ecuador,22,GK,Alexander Domínguez,LDU Quito,Ecuador
+2014,Brazil,Ecuador,2,DF,Jorge Guagua,Emelec,Ecuador
+2014,Brazil,Ecuador,3,DF,Frickson Erazo,Flamengo,Brazil
+2014,Brazil,Ecuador,4,DF,Juan Carlos Paredes,Barcelona,Ecuador
+2014,Brazil,Ecuador,10,DF,Walter Ayoví,Pachuca,Mexico
+2014,Brazil,Ecuador,18,DF,Óscar Bagüí,Emelec,Ecuador
+2014,Brazil,Ecuador,21,DF,Gabriel Achilier,Emelec,Ecuador
+2014,Brazil,Ecuador,5,MF,Renato Ibarra,Vitesse,Netherlands
+2014,Brazil,Ecuador,6,MF,Christian Noboa,Dynamo Moscow,Russia
+2014,Brazil,Ecuador,7,MF,Jefferson Montero,Morelia,Mexico
+2014,Brazil,Ecuador,8,MF,Édison Méndez,Santa Fe,Colombia
+2014,Brazil,Ecuador,9,MF,Joao Rojas,Cruz Azul,Mexico
+2014,Brazil,Ecuador,14,MF,Segundo Castillo,Al-Hilal,Saudi Arabia
+2014,Brazil,Ecuador,15,MF,Michael Arroyo,Atlante,Mexico
+2014,Brazil,Ecuador,16,MF,Antonio Valencia,Manchester United,England
+2014,Brazil,Ecuador,19,MF,Luis Saritama,Barcelona,Ecuador
+2014,Brazil,Ecuador,20,MF,Fidel Martínez,Tijuana,Mexico
+2014,Brazil,Ecuador,23,MF,Carlos Gruezo,VfB Stuttgart,Germany
+2014,Brazil,Ecuador,11,FW,Felipe Caicedo,Al-Jazira,United Arab Emirates
+2014,Brazil,Ecuador,13,FW,Enner Valencia,Pachuca,Mexico
+2014,Brazil,Ecuador,17,FW,Jaime Ayoví,Tijuana,Mexico
+2014,Brazil,England,1,GK,Joe Hart,Manchester City,England
+2014,Brazil,England,13,GK,Ben Foster,West Bromwich Albion,England
+2014,Brazil,England,22,GK,Fraser Forster,Celtic,Scotland
+2014,Brazil,England,2,DF,Glen Johnson,Liverpool,England
+2014,Brazil,England,3,DF,Leighton Baines,Everton,England
+2014,Brazil,England,5,DF,Gary Cahill,Chelsea,England
+2014,Brazil,England,6,DF,Phil Jagielka,Everton,England
+2014,Brazil,England,12,DF,Chris Smalling,Manchester United,England
+2014,Brazil,England,16,DF,Phil Jones,Manchester United,England
+2014,Brazil,England,23,DF,Luke Shaw,Southampton,England
+2014,Brazil,England,4,MF,Steven Gerrard,Liverpool,England
+2014,Brazil,England,7,MF,Jack Wilshere,Arsenal,England
+2014,Brazil,England,8,MF,Frank Lampard,Chelsea,England
+2014,Brazil,England,14,MF,Jordan Henderson,Liverpool,England
+2014,Brazil,England,15,MF,Alex Oxlade-Chamberlain,Arsenal,England
+2014,Brazil,England,17,MF,James Milner,Manchester City,England
+2014,Brazil,England,19,MF,Raheem Sterling,Liverpool,England
+2014,Brazil,England,20,MF,Adam Lallana,Southampton,England
+2014,Brazil,England,21,MF,Ross Barkley,Everton,England
+2014,Brazil,England,9,FW,Daniel Sturridge,Liverpool,England
+2014,Brazil,England,10,FW,Wayne Rooney,Manchester United,England
+2014,Brazil,England,11,FW,Danny Welbeck,Manchester United,England
+2014,Brazil,England,18,FW,Rickie Lambert,Southampton,England
+2014,Brazil,Spain,1,GK,Iker Casillas,Real Madrid,Spain
+2014,Brazil,Spain,12,GK,David de Gea,Manchester United,England
+2014,Brazil,Spain,23,GK,Pepe Reina,Napoli,Italy
+2014,Brazil,Spain,2,DF,Raúl Albiol,Napoli,Italy
+2014,Brazil,Spain,3,DF,Gerard Piqué,Barcelona,Spain
+2014,Brazil,Spain,5,DF,Juanfran,Atlético Madrid,Spain
+2014,Brazil,Spain,15,DF,Sergio Ramos,Real Madrid,Spain
+2014,Brazil,Spain,18,DF,Jordi Alba,Barcelona,Spain
+2014,Brazil,Spain,22,DF,César Azpilicueta,Chelsea,England
+2014,Brazil,Spain,4,MF,Javi Martínez,Bayern Munich,Germany
+2014,Brazil,Spain,6,MF,Andrés Iniesta,Barcelona,Spain
+2014,Brazil,Spain,8,MF,Xavi,Barcelona,Spain
+2014,Brazil,Spain,10,MF,Cesc Fàbregas,Barcelona,Spain
+2014,Brazil,Spain,13,MF,Juan Mata,Manchester United,England
+2014,Brazil,Spain,14,MF,Xabi Alonso,Real Madrid,Spain
+2014,Brazil,Spain,16,MF,Sergio Busquets,Barcelona,Spain
+2014,Brazil,Spain,17,MF,Koke,Atlético Madrid,Spain
+2014,Brazil,Spain,20,MF,Santi Cazorla,Arsenal,England
+2014,Brazil,Spain,21,MF,David Silva,Manchester City,England
+2014,Brazil,Spain,7,FW,David Villa,Atlético Madrid,Spain
+2014,Brazil,Spain,9,FW,Fernando Torres,Chelsea,England
+2014,Brazil,Spain,11,FW,Pedro,Barcelona,Spain
+2014,Brazil,Spain,19,FW,Diego Costa,Atlético Madrid,Spain
+2014,Brazil,France,1,GK,Hugo Lloris,Tottenham Hotspur,England
+2014,Brazil,France,16,GK,Stéphane Ruffier,Saint-Étienne,France
+2014,Brazil,France,23,GK,Mickaël Landreau,Bastia,France
+2014,Brazil,France,2,DF,Mathieu Debuchy,Newcastle United,England
+2014,Brazil,France,3,DF,Patrice Evra,Manchester United,England
+2014,Brazil,France,4,DF,Raphaël Varane,Real Madrid,Spain
+2014,Brazil,France,5,DF,Mamadou Sakho,Liverpool,England
+2014,Brazil,France,13,DF,Eliaquim Mangala,Porto,Portugal
+2014,Brazil,France,15,DF,Bacary Sagna,Arsenal,England
+2014,Brazil,France,17,DF,Lucas Digne,Paris Saint-Germain,France
+2014,Brazil,France,21,DF,Laurent Koscielny,Arsenal,England
+2014,Brazil,France,6,MF,Yohan Cabaye,Paris Saint-Germain,France
+2014,Brazil,France,8,MF,Mathieu Valbuena,Marseille,France
+2014,Brazil,France,11,MF,Antoine Griezmann,Real Sociedad,Spain
+2014,Brazil,France,12,MF,Rio Mavuba,Lille,France
+2014,Brazil,France,14,MF,Blaise Matuidi,Paris Saint-Germain,France
+2014,Brazil,France,18,MF,Moussa Sissoko,Newcastle United,England
+2014,Brazil,France,19,MF,Paul Pogba,Juventus,Italy
+2014,Brazil,France,22,MF,Morgan Schneiderlin,Southampton,England
+2014,Brazil,France,7,FW,Rémy Cabella,Montpellier,France
+2014,Brazil,France,9,FW,Olivier Giroud,Arsenal,England
+2014,Brazil,France,10,FW,Karim Benzema,Real Madrid,Spain
+2014,Brazil,France,20,FW,Loïc Rémy,Newcastle United,England
+2014,Brazil,Ghana,1,GK,Steven Adams,Aduana Stars,Ghana
+2014,Brazil,Ghana,12,GK,Adam Kwarasey,Strømsgodset,Norway
+2014,Brazil,Ghana,16,GK,Fatau Dauda,Orlando Pirates,South Africa
+2014,Brazil,Ghana,2,DF,Samuel Inkoom,Platanias,Greece
+2014,Brazil,Ghana,4,DF,Daniel Opare,Standard Liège,Belgium
+2014,Brazil,Ghana,15,DF,Rashid Sumaila,Mamelodi Sundowns,South Africa
+2014,Brazil,Ghana,19,DF,Jonathan Mensah,Évian,France
+2014,Brazil,Ghana,21,DF,John Boye,Rennes,France
+2014,Brazil,Ghana,23,DF,Harrison Afful,Espérance,Tunisia
+2014,Brazil,Ghana,5,MF,Michael Essien,Milan,Italy
+2014,Brazil,Ghana,6,MF,Afriyie Acquah,Parma,Italy
+2014,Brazil,Ghana,7,MF,Christian Atsu,Vitesse,Netherlands
+2014,Brazil,Ghana,8,MF,Emmanuel Agyemang-Badu,Udinese,Italy
+2014,Brazil,Ghana,10,MF,André Ayew,Marseille,France
+2014,Brazil,Ghana,11,MF,Sulley Muntari,Milan,Italy
+2014,Brazil,Ghana,14,MF,Albert Adomah,Middlesbrough,England
+2014,Brazil,Ghana,17,MF,Mohammed Rabiu,Kuban Krasnodar,Russia
+2014,Brazil,Ghana,20,MF,Kwadwo Asamoah,Juventus,Italy
+2014,Brazil,Ghana,22,MF,Wakaso Mubarak,Rubin Kazan,Russia
+2014,Brazil,Ghana,3,FW,Asamoah Gyan,Al-Ain,United Arab Emirates
+2014,Brazil,Ghana,9,FW,Kevin-Prince Boateng,Schalke 04,Germany
+2014,Brazil,Ghana,13,FW,Jordan Ayew,Sochaux,France
+2014,Brazil,Ghana,18,FW,Majeed Waris,Valenciennes,France
+2014,Brazil,Greece,1,GK,Orestis Karnezis,Granada,Spain
+2014,Brazil,Greece,12,GK,Panagiotis Glykos,PAOK,Greece
+2014,Brazil,Greece,13,GK,Stefanos Kapino,Panathinaikos,Greece
+2014,Brazil,Greece,2,DF,Giannis Maniatis,Olympiacos,Greece
+2014,Brazil,Greece,3,DF,Giorgos Tzavellas,PAOK,Greece
+2014,Brazil,Greece,4,DF,Kostas Manolas,Olympiacos,Greece
+2014,Brazil,Greece,5,DF,Vangelis Moras,Verona,Italy
+2014,Brazil,Greece,11,DF,Loukas Vyntra,Levante,Spain
+2014,Brazil,Greece,15,DF,Vasilis Torosidis,Roma,Italy
+2014,Brazil,Greece,19,DF,Sokratis Papastathopoulos,Borussia Dortmund,Germany
+2014,Brazil,Greece,20,DF,José Holebas,Olympiacos,Greece
+2014,Brazil,Greece,6,MF,Alexandros Tziolis,Kayserispor,Turkey
+2014,Brazil,Greece,8,MF,Panagiotis Kone,Bologna,Italy
+2014,Brazil,Greece,10,MF,Giorgos Karagounis,Fulham,England
+2014,Brazil,Greece,16,MF,Lazaros Christodoulopoulos,Bologna,Italy
+2014,Brazil,Greece,18,MF,Giannis Fetfatzidis,Genoa,Italy
+2014,Brazil,Greece,21,MF,Kostas Katsouranis,PAOK,Greece
+2014,Brazil,Greece,22,MF,Andreas Samaris,Olympiacos,Greece
+2014,Brazil,Greece,23,MF,Panagiotis Tachtsidis,Torino,Italy
+2014,Brazil,Greece,7,FW,Giorgos Samaras,Celtic,Scotland
+2014,Brazil,Greece,9,FW,Kostas Mitroglou,Fulham,England
+2014,Brazil,Greece,14,FW,Dimitris Salpingidis,PAOK,Greece
+2014,Brazil,Greece,17,FW,Theofanis Gekas,Konyaspor,Turkey
+2014,Brazil,Honduras,1,GK,Luis López,Real España,Honduras
+2014,Brazil,Honduras,18,GK,Noel Valladares,Olimpia,Honduras
+2014,Brazil,Honduras,22,GK,Donis Escober,Olimpia,Honduras
+2014,Brazil,Honduras,2,DF,Osman Chávez,Qingdao Jonoon,China
+2014,Brazil,Honduras,3,DF,Maynor Figueroa,Hull City,England
+2014,Brazil,Honduras,4,DF,Juan Pablo Montes,Motagua,Honduras
+2014,Brazil,Honduras,5,DF,Víctor Bernárdez,San Jose Earthquakes,United States
+2014,Brazil,Honduras,6,DF,Juan Carlos García,Wigan Athletic,England
+2014,Brazil,Honduras,7,DF,Emilio Izaguirre,Celtic,Scotland
+2014,Brazil,Honduras,23,DF,Brayan Beckeles,Olimpia,Honduras
+2014,Brazil,Honduras,8,MF,Wilson Palacios,Stoke City,England
+2014,Brazil,Honduras,10,MF,Mario Martínez,Real España,Honduras
+2014,Brazil,Honduras,12,MF,Edder Delgado,Real España,Honduras
+2014,Brazil,Honduras,14,MF,Óscar García,Houston Dynamo,United States
+2014,Brazil,Honduras,15,MF,Roger Espinoza,Wigan Athletic,England
+2014,Brazil,Honduras,17,MF,Marvin Chávez,Chivas USA,United States
+2014,Brazil,Honduras,19,MF,Luis Garrido,Olimpia,Honduras
+2014,Brazil,Honduras,20,MF,Jorge Claros,Motagua,Honduras
+2014,Brazil,Honduras,21,MF,Andy Najar,Anderlecht,Belgium
+2014,Brazil,Honduras,9,FW,Jerry Palacios,Alajuelense,Costa Rica
+2014,Brazil,Honduras,11,FW,Jerry Bengtson,New England Revolution,United States
+2014,Brazil,Honduras,13,FW,Carlo Costly,Real España,Honduras
+2014,Brazil,Honduras,16,FW,Rony Martínez,Real Sociedad,Honduras
+2014,Brazil,Croatia,1,GK,Stipe Pletikosa,Rostov,Russia
+2014,Brazil,Croatia,12,GK,Oliver Zelenika,Lokomotiva,Croatia
+2014,Brazil,Croatia,23,GK,Danijel Subašić,AS Monaco,France
+2014,Brazil,Croatia,2,DF,Šime Vrsaljko,Genoa,Italy
+2014,Brazil,Croatia,3,DF,Danijel Pranjić,Panathinaikos,Greece
+2014,Brazil,Croatia,5,DF,Vedran Ćorluka,Lokomotiv Moscow,Russia
+2014,Brazil,Croatia,6,DF,Dejan Lovren,Southampton,England
+2014,Brazil,Croatia,11,DF,Darijo Srna,Shakhtar Donetsk,Ukraine
+2014,Brazil,Croatia,13,DF,Gordon Schildenfeld,Panathinaikos,Greece
+2014,Brazil,Croatia,21,DF,Domagoj Vida,Dynamo Kyiv,Ukraine
+2014,Brazil,Croatia,4,MF,Ivan Perišić,VfL Wolfsburg,Germany
+2014,Brazil,Croatia,7,MF,Ivan Rakitić,Sevilla,Spain
+2014,Brazil,Croatia,8,MF,Ognjen Vukojević,Dynamo Kyiv,Ukraine
+2014,Brazil,Croatia,10,MF,Luka Modrić,Real Madrid,Spain
+2014,Brazil,Croatia,14,MF,Marcelo Brozović,Dinamo Zagreb,Croatia
+2014,Brazil,Croatia,15,MF,Ivan Močinić,Rijeka,Croatia
+2014,Brazil,Croatia,19,MF,Sammir,Getafe,Spain
+2014,Brazil,Croatia,20,MF,Mateo Kovačić,Internazionale,Italy
+2014,Brazil,Croatia,9,FW,Nikica Jelavić,Hull City,England
+2014,Brazil,Croatia,16,FW,Ante Rebić,Fiorentina,Italy
+2014,Brazil,Croatia,17,FW,Mario Mandžukić,Bayern Munich,Germany
+2014,Brazil,Croatia,18,FW,Ivica Olić,VfL Wolfsburg,Germany
+2014,Brazil,Croatia,22,FW,Eduardo,Shakhtar Donetsk,Ukraine
+2014,Brazil,Iran,1,GK,Rahman Ahmadi,Sepahan,Iran
+2014,Brazil,Iran,12,GK,Alireza Haghighi,Sporting Covilhã,Portugal
+2014,Brazil,Iran,22,GK,Daniel Davari,Eintracht Braunschweig,Germany
+2014,Brazil,Iran,4,DF,Jalal Hosseini,Persepolis,Iran
+2014,Brazil,Iran,5,DF,Amir Hossein Sadeghi,Esteghlal,Iran
+2014,Brazil,Iran,13,DF,Hossein Mahini,Persepolis,Iran
+2014,Brazil,Iran,15,DF,Pejman Montazeri,Umm Salal,Qatar
+2014,Brazil,Iran,17,DF,Ahmad Alenemeh,Naft Tehran,Iran
+2014,Brazil,Iran,19,DF,Hashem Beikzadeh,Esteghlal,Iran
+2014,Brazil,Iran,20,DF,Steven Beitashour,Vancouver Whitecaps,Canada
+2014,Brazil,Iran,23,DF,Mehrdad Pouladi,Persepolis,Iran
+2014,Brazil,Iran,2,MF,Khosro Heydari,Esteghlal,Iran
+2014,Brazil,Iran,3,MF,Ehsan Hajsafi,Sepahan,Iran
+2014,Brazil,Iran,6,MF,Javad Nekounam,Al-Kuwait,Kuwait
+2014,Brazil,Iran,7,MF,Masoud Shojaei,Las Palmas,Spain
+2014,Brazil,Iran,8,MF,Reza Haghighi,Persepolis,Iran
+2014,Brazil,Iran,11,MF,Ghasem Haddadifar,Zob Ahan,Iran
+2014,Brazil,Iran,14,MF,Andranik Teymourian,Esteghlal,Iran
+2014,Brazil,Iran,18,MF,Bakhtiar Rahmani,Foolad,Iran
+2014,Brazil,Iran,21,MF,Ashkan Dejagah,Fulham,England
+2014,Brazil,Iran,9,FW,Alireza Jahanbakhsh,NEC,Netherlands
+2014,Brazil,Iran,10,FW,Karim Ansarifard,Tractor Sazi,Iran
+2014,Brazil,Iran,16,FW,Reza Ghoochannejhad,Charlton Athletic,England
+2014,Brazil,Italy,1,GK,Gianluigi Buffon,Juventus,Italy
+2014,Brazil,Italy,12,GK,Salvatore Sirigu,Paris Saint-Germain,France
+2014,Brazil,Italy,13,GK,Mattia Perin,Genoa,Italy
+2014,Brazil,Italy,2,DF,Mattia De Sciglio,Milan,Italy
+2014,Brazil,Italy,3,DF,Giorgio Chiellini,Juventus,Italy
+2014,Brazil,Italy,4,DF,Matteo Darmian,Torino,Italy
+2014,Brazil,Italy,7,DF,Ignazio Abate,Milan,Italy
+2014,Brazil,Italy,15,DF,Andrea Barzagli,Juventus,Italy
+2014,Brazil,Italy,19,DF,Leonardo Bonucci,Juventus,Italy
+2014,Brazil,Italy,20,DF,Gabriel Paletta,Parma,Italy
+2014,Brazil,Italy,5,MF,Thiago Motta,Paris Saint-Germain,France
+2014,Brazil,Italy,6,MF,Antonio Candreva,Lazio,Italy
+2014,Brazil,Italy,8,MF,Claudio Marchisio,Juventus,Italy
+2014,Brazil,Italy,14,MF,Alberto Aquilani,Fiorentina,Italy
+2014,Brazil,Italy,16,MF,Daniele De Rossi,Roma,Italy
+2014,Brazil,Italy,18,MF,Marco Parolo,Parma,Italy
+2014,Brazil,Italy,21,MF,Andrea Pirlo,Juventus,Italy
+2014,Brazil,Italy,23,MF,Marco Verratti,Paris Saint-Germain,France
+2014,Brazil,Italy,9,FW,Mario Balotelli,Milan,Italy
+2014,Brazil,Italy,10,FW,Antonio Cassano,Parma,Italy
+2014,Brazil,Italy,11,FW,Alessio Cerci,Torino,Italy
+2014,Brazil,Italy,17,FW,Ciro Immobile,Torino,Italy
+2014,Brazil,Italy,22,FW,Lorenzo Insigne,Napoli,Italy
+2014,Brazil,Japan,1,GK,Eiji Kawashima,Standard Liège,Belgium
+2014,Brazil,Japan,12,GK,Shusaku Nishikawa,Urawa Red Diamonds,Japan
+2014,Brazil,Japan,23,GK,Shūichi Gonda,F.C. Tokyo,Japan
+2014,Brazil,Japan,2,DF,Atsuto Uchida,Schalke 04,Germany
+2014,Brazil,Japan,3,DF,Gōtoku Sakai,VfB Stuttgart,Germany
+2014,Brazil,Japan,5,DF,Yuto Nagatomo,Internazionale,Italy
+2014,Brazil,Japan,6,DF,Masato Morishige,F.C. Tokyo,Japan
+2014,Brazil,Japan,15,DF,Yasuyuki Konno,Gamba Osaka,Japan
+2014,Brazil,Japan,19,DF,Masahiko Inoha,Jubilo Iwata,Japan
+2014,Brazil,Japan,21,DF,Hiroki Sakai,Hannover 96,Germany
+2014,Brazil,Japan,22,DF,Maya Yoshida,Southampton,England
+2014,Brazil,Japan,4,MF,Keisuke Honda,Milan,Italy
+2014,Brazil,Japan,7,MF,Yasuhito Endō,Gamba Osaka,Japan
+2014,Brazil,Japan,8,MF,Hiroshi Kiyotake,1. FC Nürnberg,Germany
+2014,Brazil,Japan,10,MF,Shinji Kagawa,Manchester United,England
+2014,Brazil,Japan,14,MF,Toshihiro Aoyama,Sanfrecce Hiroshima,Japan
+2014,Brazil,Japan,16,MF,Hotaru Yamaguchi,Cerezo Osaka,Japan
+2014,Brazil,Japan,17,MF,Makoto Hasebe,1. FC Nürnberg,Germany
+2014,Brazil,Japan,9,FW,Shinji Okazaki,Mainz 05,Germany
+2014,Brazil,Japan,11,FW,Yoichiro Kakitani,Cerezo Osaka,Japan
+2014,Brazil,Japan,13,FW,Yoshito Ōkubo,Kawasaki Frontale,Japan
+2014,Brazil,Japan,18,FW,Yuya Osako,1860 München,Germany
+2014,Brazil,Japan,20,FW,Manabu Saitō,Yokohama F. Marinos,Japan
+2014,Brazil,South Korea,1,GK,Jung Sung-Ryong,Suwon Bluewings,South Korea
+2014,Brazil,South Korea,21,GK,Kim Seung-Gyu,Ulsan Hyundai,South Korea
+2014,Brazil,South Korea,23,GK,Lee Bum-Young,Busan I'Park,South Korea
+2014,Brazil,South Korea,2,DF,Kim Chang-Soo,Kashiwa Reysol,Japan
+2014,Brazil,South Korea,3,DF,Yun Suk-Young,Queens Park Rangers,England
+2014,Brazil,South Korea,4,DF,Kwak Tae-Hwi,Al-Hilal,Saudi Arabia
+2014,Brazil,South Korea,5,DF,Kim Young-Gwon,Guangzhou Evergrande,China
+2014,Brazil,South Korea,6,DF,Hwang Seok-Ho,Sanfrecce Hiroshima,Japan
+2014,Brazil,South Korea,12,DF,Lee Yong,Ulsan Hyundai,South Korea
+2014,Brazil,South Korea,20,DF,Hong Jeong-Ho,FC Augsburg,Germany
+2014,Brazil,South Korea,22,DF,Park Joo-Ho,Mainz 05,Germany
+2014,Brazil,South Korea,7,MF,Kim Bo-Kyung,Cardiff City,Wales
+2014,Brazil,South Korea,8,MF,Ha Dae-Sung,Beijing Guoan,China
+2014,Brazil,South Korea,13,MF,Koo Ja-Cheol,Mainz 05,Germany
+2014,Brazil,South Korea,14,MF,Han Kook-Young,Kashiwa Reysol,Japan
+2014,Brazil,South Korea,15,MF,Park Jong-Woo,Guangzhou R&F,China
+2014,Brazil,South Korea,16,MF,Ki Sung-Yueng,Sunderland,England
+2014,Brazil,South Korea,17,MF,Lee Chung-Yong,Bolton Wanderers,England
+2014,Brazil,South Korea,9,FW,Son Heung-Min,Bayer Leverkusen,Germany
+2014,Brazil,South Korea,10,FW,Park Chu-Young,Watford,England
+2014,Brazil,South Korea,11,FW,Lee Keun-Ho,Sangju Sangmu,South Korea
+2014,Brazil,South Korea,18,FW,Kim Shin-Wook,Ulsan Hyundai,South Korea
+2014,Brazil,South Korea,19,FW,Ji Dong-Won,FC Augsburg,Germany
+2014,Brazil,Mexico,1,GK,José de Jesús Corona,Cruz Azul,Mexico
+2014,Brazil,Mexico,12,GK,Alfredo Talavera,Toluca,Mexico
+2014,Brazil,Mexico,13,GK,Guillermo Ochoa,Ajaccio,France
+2014,Brazil,Mexico,2,DF,Francisco Javier Rodríguez,América,Mexico
+2014,Brazil,Mexico,3,DF,Carlos Salcido,UANL,Mexico
+2014,Brazil,Mexico,4,DF,Rafael Márquez,León,Mexico
+2014,Brazil,Mexico,5,DF,Diego Reyes,Porto,Portugal
+2014,Brazil,Mexico,7,DF,Miguel Layún,América,Mexico
+2014,Brazil,Mexico,15,DF,Héctor Moreno,Espanyol,Spain
+2014,Brazil,Mexico,16,DF,Miguel Ángel Ponce,Toluca,Mexico
+2014,Brazil,Mexico,18,DF,Andrés Guardado,Bayer Leverkusen,Germany
+2014,Brazil,Mexico,22,DF,Paul Aguilar,América,Mexico
+2014,Brazil,Mexico,6,MF,Héctor Herrera,Porto,Portugal
+2014,Brazil,Mexico,8,MF,Marco Fabián,Cruz Azul,Mexico
+2014,Brazil,Mexico,17,MF,Isaác Brizuela,Toluca,Mexico
+2014,Brazil,Mexico,20,MF,Javier Aquino,Villarreal,Spain
+2014,Brazil,Mexico,21,MF,Carlos Peña,León,Mexico
+2014,Brazil,Mexico,23,MF,José Juan Vázquez,León,Mexico
+2014,Brazil,Mexico,9,FW,Raúl Jiménez,América,Mexico
+2014,Brazil,Mexico,10,FW,Giovani dos Santos,Villarreal,Spain
+2014,Brazil,Mexico,11,FW,Alan Pulido,UANL,Mexico
+2014,Brazil,Mexico,14,FW,Javier Hernández,Manchester United,England
+2014,Brazil,Mexico,19,FW,Oribe Peralta,Santos Laguna,Mexico
+2014,Brazil,Nigeria,1,GK,Vincent Enyeama,Lille,France
+2014,Brazil,Nigeria,16,GK,Austin Ejide,Hapoel Be'er Sheva,Israel
+2014,Brazil,Nigeria,21,GK,Chigozie Agbim,Gombe United,Nigeria
+2014,Brazil,Nigeria,2,DF,Joseph Yobo,Norwich City,England
+2014,Brazil,Nigeria,3,DF,Uwa Elderson Echiéjilé,AS Monaco,France
+2014,Brazil,Nigeria,5,DF,Efe Ambrose,Celtic,Scotland
+2014,Brazil,Nigeria,6,DF,Azubuike Egwuekwe,Warri Wolves,Nigeria
+2014,Brazil,Nigeria,12,DF,Kunle Odunlami,Sunshine Stars,Nigeria
+2014,Brazil,Nigeria,13,DF,Juwon Oshaniwa,Ashdod,Israel
+2014,Brazil,Nigeria,14,DF,Godfrey Oboabona,Çaykur Rizespor,Turkey
+2014,Brazil,Nigeria,22,DF,Kenneth Omeruo,Middlesbrough,England
+2014,Brazil,Nigeria,4,MF,Reuben Gabriel,Waasland-Beveren,Belgium
+2014,Brazil,Nigeria,10,MF,John Obi Mikel,Chelsea,England
+2014,Brazil,Nigeria,11,MF,Victor Moses,Liverpool,England
+2014,Brazil,Nigeria,15,MF,Ramon Azeez,Almería,Spain
+2014,Brazil,Nigeria,17,MF,Ogenyi Onazi,Lazio,Italy
+2014,Brazil,Nigeria,18,MF,Michael Babatunde,Volyn Lutsk,Ukraine
+2014,Brazil,Nigeria,7,FW,Ahmed Musa,CSKA Moscow,Russia
+2014,Brazil,Nigeria,8,FW,Peter Odemwingie,Stoke City,England
+2014,Brazil,Nigeria,9,FW,Emmanuel Emenike,Fenerbahçe,Turkey
+2014,Brazil,Nigeria,19,FW,Uche Nwofor,Heerenveen,Netherlands
+2014,Brazil,Nigeria,20,FW,Michael Uchebo,Cercle Brugge,Belgium
+2014,Brazil,Nigeria,23,FW,Shola Ameobi,Newcastle United,England
+2014,Brazil,Netherlands,1,GK,Jasper Cillessen,Ajax,
+2014,Brazil,Netherlands,22,GK,Michel Vorm,Swansea City,Wales
+2014,Brazil,Netherlands,23,GK,Tim Krul,Newcastle United,England
+2014,Brazil,Netherlands,2,DF,Ron Vlaar,Aston Villa,England
+2014,Brazil,Netherlands,3,DF,Stefan de Vrij,Feyenoord,Netherlands
+2014,Brazil,Netherlands,4,DF,Bruno Martins Indi,Feyenoord,Netherlands
+2014,Brazil,Netherlands,5,DF,Daley Blind,Ajax,Netherlands
+2014,Brazil,Netherlands,7,DF,Daryl Janmaat,Feyenoord,
+2014,Brazil,Netherlands,12,DF,Paul Verhaegh,Augsburg,Germany
+2014,Brazil,Netherlands,13,DF,Joël Veltman,Ajax,Netherlands
+2014,Brazil,Netherlands,14,DF,Terence Kongolo,Feyenoord,Netherlands
+2014,Brazil,Netherlands,6,MF,Jonathan de Guzmán,Swansea City,Wales
+2014,Brazil,Netherlands,8,MF,Nigel de Jong,Milan,Italy
+2014,Brazil,Netherlands,10,MF,Wesley Sneijder,Galatasaray,Turkey
+2014,Brazil,Netherlands,11,MF,Arjen Robben,Bayern Munich,Germany
+2014,Brazil,Netherlands,16,MF,Jordy Clasie,Feyenoord,Netherlands
+2014,Brazil,Netherlands,18,MF,Leroy Fer,Norwich City,England
+2014,Brazil,Netherlands,20,MF,Georginio Wijnaldum,PSV,Netherlands
+2014,Brazil,Netherlands,21,MF,Memphis Depay,PSV,Netherlands
+2014,Brazil,Netherlands,9,FW,Robin van Persie,Manchester United,England
+2014,Brazil,Netherlands,15,FW,Dirk Kuyt,Fenerbahçe,Turkey
+2014,Brazil,Netherlands,17,FW,Jeremain Lens,Dynamo Kyiv,Ukraine
+2014,Brazil,Netherlands,19,FW,Klaas-Jan Huntelaar,Schalke 04,Germany
+2014,Brazil,Portugal,1,GK,Eduardo,Braga,Portugal
+2014,Brazil,Portugal,12,GK,Rui Patrício,Sporting,Portugal
+2014,Brazil,Portugal,22,GK,Beto,Sevilla,Spain
+2014,Brazil,Portugal,2,DF,Bruno Alves,Fenerbahçe,Turkey
+2014,Brazil,Portugal,3,DF,Pepe,Real Madrid,Spain
+2014,Brazil,Portugal,5,DF,Fábio Coentrão,Real Madrid,Spain
+2014,Brazil,Portugal,13,DF,Ricardo Costa,Valencia,Spain
+2014,Brazil,Portugal,14,DF,Luís Neto,Zenit Saint Petersburg,Russia
+2014,Brazil,Portugal,19,DF,André Almeida,Benfica,Portugal
+2014,Brazil,Portugal,21,DF,João Pereira,Valencia,Spain
+2014,Brazil,Portugal,4,MF,Miguel Veloso,Dynamo Kyiv,Ukraine
+2014,Brazil,Portugal,6,MF,William Carvalho,Sporting,Portugal
+2014,Brazil,Portugal,8,MF,João Moutinho,AS Monaco,France
+2014,Brazil,Portugal,10,MF,Vieirinha,VfL Wolfsburg,Germany
+2014,Brazil,Portugal,15,MF,Rafa Silva,Braga,Portugal
+2014,Brazil,Portugal,16,MF,Raul Meireles,Fenerbahçe,Turkey
+2014,Brazil,Portugal,17,MF,Nani,Manchester United,England
+2014,Brazil,Portugal,18,MF,Silvestre Varela,Porto,Portugal
+2014,Brazil,Portugal,20,MF,Rúben Amorim,Benfica,Portugal
+2014,Brazil,Portugal,7,FW,Cristiano Ronaldo,Real Madrid,Spain
+2014,Brazil,Portugal,9,FW,Hugo Almeida,Beşiktaş,Turkey
+2014,Brazil,Portugal,11,FW,Éder,Braga,Portugal
+2014,Brazil,Portugal,23,FW,Hélder Postiga,Lazio,Italy
+2014,Brazil,Russia,1,GK,Igor Akinfeev,CSKA Moscow,
+2014,Brazil,Russia,12,GK,Yuri Lodygin,Zenit Saint Petersburg,
+2014,Brazil,Russia,16,GK,Sergey Ryzhikov,Rubin Kazan,
+2014,Brazil,Russia,2,DF,Aleksei Kozlov,Dynamo Moscow,
+2014,Brazil,Russia,3,DF,Georgi Shchennikov,CSKA Moscow,
+2014,Brazil,Russia,4,DF,Sergei Ignashevich,CSKA Moscow,
+2014,Brazil,Russia,5,DF,Andrei Semyonov,Terek Grozny,
+2014,Brazil,Russia,13,DF,Vladimir Granat,Dynamo Moscow,
+2014,Brazil,Russia,14,DF,Vasili Berezutski,CSKA Moscow,
+2014,Brazil,Russia,22,DF,Andrey Yeshchenko,Anzhi Makhachkala,
+2014,Brazil,Russia,23,DF,Dmitri Kombarov,Spartak Moscow,
+2014,Brazil,Russia,7,MF,Igor Denisov,Dynamo Moscow,
+2014,Brazil,Russia,8,MF,Denis Glushakov,Spartak Moscow,
+2014,Brazil,Russia,10,MF,Alan Dzagoev,CSKA Moscow,
+2014,Brazil,Russia,15,MF,Roman Shirokov,Krasnodar,
+2014,Brazil,Russia,17,MF,Oleg Shatov,Zenit Saint Petersburg,
+2014,Brazil,Russia,20,MF,Viktor Fayzulin,Zenit Saint Petersburg,
+2014,Brazil,Russia,6,FW,Maksim Kanunnikov,Rubin Kazan,
+2014,Brazil,Russia,9,FW,Aleksandr Kokorin,Dynamo Moscow,
+2014,Brazil,Russia,11,FW,Aleksandr Kerzhakov,Zenit Saint Petersburg,
+2014,Brazil,Russia,18,FW,Yuri Zhirkov,Dynamo Moscow,
+2014,Brazil,Russia,19,FW,Aleksandr Samedov,Lokomotiv Moscow,
+2014,Brazil,Russia,21,FW,Aleksei Ionov,Dynamo Moscow,
+2014,Brazil,United States,1,GK,Tim Howard,Everton,England
+2014,Brazil,United States,12,GK,Brad Guzan,Aston Villa,England
+2014,Brazil,United States,22,GK,Nick Rimando,Real Salt Lake,United States
+2014,Brazil,United States,2,DF,DeAndre Yedlin,Seattle Sounders FC,United States
+2014,Brazil,United States,3,DF,Omar Gonzalez,Los Angeles Galaxy,United States
+2014,Brazil,United States,5,DF,Matt Besler,Sporting Kansas City,United States
+2014,Brazil,United States,6,DF,John Brooks,Hertha BSC,Germany
+2014,Brazil,United States,7,DF,DaMarcus Beasley,Puebla,Mexico
+2014,Brazil,United States,20,DF,Geoff Cameron,Stoke City,England
+2014,Brazil,United States,21,DF,Timothy Chandler,1. FC Nürnberg,Germany
+2014,Brazil,United States,23,DF,Fabian Johnson,1899 Hoffenheim,Germany
+2014,Brazil,United States,4,MF,Michael Bradley,Toronto FC,Canada
+2014,Brazil,United States,10,MF,Mikkel Diskerud,Rosenborg,Norway
+2014,Brazil,United States,11,MF,Alejandro Bedoya,Nantes,France
+2014,Brazil,United States,13,MF,Jermaine Jones,Beşiktaş,Turkey
+2014,Brazil,United States,14,MF,Brad Davis,Houston Dynamo,United States
+2014,Brazil,United States,15,MF,Kyle Beckerman,Real Salt Lake,United States
+2014,Brazil,United States,16,MF,Julian Green,Bayern Munich,Germany
+2014,Brazil,United States,19,MF,Graham Zusi,Sporting Kansas City,United States
+2014,Brazil,United States,8,FW,Clint Dempsey,Seattle Sounders FC,United States
+2014,Brazil,United States,9,FW,Aron Jóhannsson,AZ,Netherlands
+2014,Brazil,United States,17,FW,Jozy Altidore,Sunderland,England
+2014,Brazil,United States,18,FW,Chris Wondolowski,San Jose Earthquakes,United States
+2014,Brazil,Uruguay,1,GK,Fernando Muslera,Galatasaray,Turkey
+2014,Brazil,Uruguay,12,GK,Rodrigo Muñoz,Libertad,Paraguay
+2014,Brazil,Uruguay,23,GK,Martín Silva,Vasco da Gama,Brazil
+2014,Brazil,Uruguay,2,DF,Diego Lugano,West Bromwich Albion,England
+2014,Brazil,Uruguay,3,DF,Diego Godín,Atlético Madrid,Spain
+2014,Brazil,Uruguay,4,DF,Sebastián Coates,Nacional,Uruguay
+2014,Brazil,Uruguay,13,DF,Jorge Fucile,Porto,Portugal
+2014,Brazil,Uruguay,16,DF,Maxi Pereira,Benfica,Portugal
+2014,Brazil,Uruguay,19,DF,José María Giménez,Atlético Madrid,Spain
+2014,Brazil,Uruguay,22,DF,Martín Cáceres,Juventus,Italy
+2014,Brazil,Uruguay,5,MF,Walter Gargano,Parma,Italy
+2014,Brazil,Uruguay,6,MF,Álvaro Pereira,São Paulo,Brazil
+2014,Brazil,Uruguay,7,MF,Cristian Rodríguez,Atlético Madrid,Spain
+2014,Brazil,Uruguay,14,MF,Nicolás Lodeiro,Botafogo,Brazil
+2014,Brazil,Uruguay,15,MF,Diego Pérez,Bologna,Italy
+2014,Brazil,Uruguay,17,MF,Egidio Arévalo Ríos,Morelia,Mexico
+2014,Brazil,Uruguay,18,MF,Gastón Ramírez,Southampton,England
+2014,Brazil,Uruguay,20,MF,Álvaro González,Lazio,Italy
+2014,Brazil,Uruguay,8,FW,Abel Hernández,Palermo,Italy
+2014,Brazil,Uruguay,9,FW,Luis Suárez,Liverpool,England
+2014,Brazil,Uruguay,10,FW,Diego Forlán,Cerezo Osaka,Japan
+2014,Brazil,Uruguay,11,FW,Christian Stuani,Espanyol,Spain
+2014,Brazil,Uruguay,21,FW,Edinson Cavani,Paris Saint-Germain,France
