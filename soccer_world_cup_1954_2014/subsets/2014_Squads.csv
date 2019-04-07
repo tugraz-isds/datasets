@@ -30,7 +30,7 @@
 2014,Brazil,Australia,6,DF,Matthew Špiranović,Western Sydney Wanderers,Australia
 2014,Brazil,Australia,8,DF,Bailey Wright,Preston North End,England
 2014,Brazil,Australia,19,DF,Ryan McGowan,Shandong Luneng Taishan,China
-2014,Brazil,Australia,22,DF,Alex Wilkinson,Jeonbuk Hyundai Motors,
+2014,Brazil,Australia,22,DF,Alex Wilkinson,Jeonbuk Hyundai Motors,South Korea
 2014,Brazil,Australia,5,MF,Mark Milligan,Melbourne Victory,Australia
 2014,Brazil,Australia,10,MF,Ben Halloran,Fortuna Düsseldorf,Germany
 2014,Brazil,Australia,11,MF,Tommy Oar,Utrecht,Netherlands
@@ -620,14 +620,14 @@
 2014,Brazil,Nigeria,19,FW,Uche Nwofor,Heerenveen,Netherlands
 2014,Brazil,Nigeria,20,FW,Michael Uchebo,Cercle Brugge,Belgium
 2014,Brazil,Nigeria,23,FW,Shola Ameobi,Newcastle United,England
-2014,Brazil,Netherlands,1,GK,Jasper Cillessen,Ajax,
+2014,Brazil,Netherlands,1,GK,Jasper Cillessen,Ajax,Netherlands
 2014,Brazil,Netherlands,22,GK,Michel Vorm,Swansea City,Wales
 2014,Brazil,Netherlands,23,GK,Tim Krul,Newcastle United,England
 2014,Brazil,Netherlands,2,DF,Ron Vlaar,Aston Villa,England
 2014,Brazil,Netherlands,3,DF,Stefan de Vrij,Feyenoord,Netherlands
 2014,Brazil,Netherlands,4,DF,Bruno Martins Indi,Feyenoord,Netherlands
 2014,Brazil,Netherlands,5,DF,Daley Blind,Ajax,Netherlands
-2014,Brazil,Netherlands,7,DF,Daryl Janmaat,Feyenoord,
+2014,Brazil,Netherlands,7,DF,Daryl Janmaat,Feyenoord,Netherlands
 2014,Brazil,Netherlands,12,DF,Paul Verhaegh,Augsburg,Germany
 2014,Brazil,Netherlands,13,DF,Joël Veltman,Ajax,Netherlands
 2014,Brazil,Netherlands,14,DF,Terence Kongolo,Feyenoord,Netherlands
@@ -666,29 +666,29 @@
 2014,Brazil,Portugal,9,FW,Hugo Almeida,Beşiktaş,Turkey
 2014,Brazil,Portugal,11,FW,Éder,Braga,Portugal
 2014,Brazil,Portugal,23,FW,Hélder Postiga,Lazio,Italy
-2014,Brazil,Russia,1,GK,Igor Akinfeev,CSKA Moscow,
-2014,Brazil,Russia,12,GK,Yuri Lodygin,Zenit Saint Petersburg,
-2014,Brazil,Russia,16,GK,Sergey Ryzhikov,Rubin Kazan,
-2014,Brazil,Russia,2,DF,Aleksei Kozlov,Dynamo Moscow,
-2014,Brazil,Russia,3,DF,Georgi Shchennikov,CSKA Moscow,
-2014,Brazil,Russia,4,DF,Sergei Ignashevich,CSKA Moscow,
-2014,Brazil,Russia,5,DF,Andrei Semyonov,Terek Grozny,
-2014,Brazil,Russia,13,DF,Vladimir Granat,Dynamo Moscow,
-2014,Brazil,Russia,14,DF,Vasili Berezutski,CSKA Moscow,
-2014,Brazil,Russia,22,DF,Andrey Yeshchenko,Anzhi Makhachkala,
-2014,Brazil,Russia,23,DF,Dmitri Kombarov,Spartak Moscow,
-2014,Brazil,Russia,7,MF,Igor Denisov,Dynamo Moscow,
-2014,Brazil,Russia,8,MF,Denis Glushakov,Spartak Moscow,
-2014,Brazil,Russia,10,MF,Alan Dzagoev,CSKA Moscow,
-2014,Brazil,Russia,15,MF,Roman Shirokov,Krasnodar,
-2014,Brazil,Russia,17,MF,Oleg Shatov,Zenit Saint Petersburg,
-2014,Brazil,Russia,20,MF,Viktor Fayzulin,Zenit Saint Petersburg,
-2014,Brazil,Russia,6,FW,Maksim Kanunnikov,Rubin Kazan,
-2014,Brazil,Russia,9,FW,Aleksandr Kokorin,Dynamo Moscow,
-2014,Brazil,Russia,11,FW,Aleksandr Kerzhakov,Zenit Saint Petersburg,
-2014,Brazil,Russia,18,FW,Yuri Zhirkov,Dynamo Moscow,
-2014,Brazil,Russia,19,FW,Aleksandr Samedov,Lokomotiv Moscow,
-2014,Brazil,Russia,21,FW,Aleksei Ionov,Dynamo Moscow,
+2014,Brazil,Russia,1,GK,Igor Akinfeev,CSKA Moscow,Russia
+2014,Brazil,Russia,12,GK,Yuri Lodygin,Zenit Saint Petersburg,Russia
+2014,Brazil,Russia,16,GK,Sergey Ryzhikov,Rubin Kazan,Russia
+2014,Brazil,Russia,2,DF,Aleksei Kozlov,Dynamo Moscow,Russia
+2014,Brazil,Russia,3,DF,Georgi Shchennikov,CSKA Moscow,Russia
+2014,Brazil,Russia,4,DF,Sergei Ignashevich,CSKA Moscow,Russia
+2014,Brazil,Russia,5,DF,Andrei Semyonov,Terek Grozny,Russia
+2014,Brazil,Russia,13,DF,Vladimir Granat,Dynamo Moscow,Russia
+2014,Brazil,Russia,14,DF,Vasili Berezutski,CSKA Moscow,Russia
+2014,Brazil,Russia,22,DF,Andrey Yeshchenko,Anzhi Makhachkala,Russia
+2014,Brazil,Russia,23,DF,Dmitri Kombarov,Spartak Moscow,Russia
+2014,Brazil,Russia,7,MF,Igor Denisov,Dynamo Moscow,Russia
+2014,Brazil,Russia,8,MF,Denis Glushakov,Spartak Moscow,Russia
+2014,Brazil,Russia,10,MF,Alan Dzagoev,CSKA Moscow,Russia
+2014,Brazil,Russia,15,MF,Roman Shirokov,Krasnodar,Russia
+2014,Brazil,Russia,17,MF,Oleg Shatov,Zenit Saint Petersburg,Russia
+2014,Brazil,Russia,20,MF,Viktor Fayzulin,Zenit Saint Petersburg,Russia
+2014,Brazil,Russia,6,FW,Maksim Kanunnikov,Rubin Kazan,Russia
+2014,Brazil,Russia,9,FW,Aleksandr Kokorin,Dynamo Moscow,Russia
+2014,Brazil,Russia,11,FW,Aleksandr Kerzhakov,Zenit Saint Petersburg,Russia
+2014,Brazil,Russia,18,FW,Yuri Zhirkov,Dynamo Moscow,Russia
+2014,Brazil,Russia,19,FW,Aleksandr Samedov,Lokomotiv Moscow,Russia
+2014,Brazil,Russia,21,FW,Aleksei Ionov,Dynamo Moscow,Russia
 2014,Brazil,United States,1,GK,Tim Howard,Everton,England
 2014,Brazil,United States,12,GK,Brad Guzan,Aston Villa,England
 2014,Brazil,United States,22,GK,Nick Rimando,Real Salt Lake,United States

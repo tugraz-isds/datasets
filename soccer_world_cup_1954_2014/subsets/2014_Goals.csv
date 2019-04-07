@@ -1,65 +1,65 @@
 #Year, Host_Country, Match_ID, Team, Player, Minute
 2014,Brazil,698,Brazil,Neymar,29
 2014,Brazil,698,Brazil,Neymar,71
-2014,Brazil,698,Brazil,Oscar,90+1
+2014,Brazil,698,Brazil,Oscar,91
 2014,Brazil,698,Croatia,Marcelo,11
 2014,Brazil,699,Mexico,Oribe Peralta,61
 2014,Brazil,701,Croatia,Ivica Olić,11
 2014,Brazil,701,Croatia,Ivan Perišić,48
 2014,Brazil,701,Croatia,Mario Mandžukić,61
 2014,Brazil,701,Croatia,Mario Mandžukić,73
-2014,Brazil,702,Cameroon,Joel Matip,26
+2014,Brazil,702,Cameroon,Joël Matip,26
 2014,Brazil,702,Brazil,Neymar,17
 2014,Brazil,702,Brazil,Neymar,35
 2014,Brazil,702,Brazil,Fred,49
 2014,Brazil,702,Brazil,Fernandinho,84
 2014,Brazil,703,Croatia,Ivan Perišić,87
 2014,Brazil,703,Mexico,Rafael Márquez,72
-2014,Brazil,703,Mexico,Andres Guardado,75
+2014,Brazil,703,Mexico,Andrés Guardado,75
 2014,Brazil,703,Mexico,Javier Hernández,82
 2014,Brazil,704,Spain,Xabi Alonso,27
-2014,Brazil,704,Netherlands,Robin Van Persie,44
-2014,Brazil,704,Netherlands,Robin Van Persie,72
+2014,Brazil,704,Netherlands,Robin van Persie,44
+2014,Brazil,704,Netherlands,Robin van Persie,72
 2014,Brazil,704,Netherlands,Arjen Robben,53
 2014,Brazil,704,Netherlands,Arjen Robben,80
-2014,Brazil,704,Netherlands,Stefan De Vrij,65
+2014,Brazil,704,Netherlands,Stefan de Vrij,65
 2014,Brazil,705,Chile,Alexis Sánchez,12
 2014,Brazil,705,Chile,Jorge Valdívia,14
-2014,Brazil,705,Chile,Jean Beausejour,90+2
+2014,Brazil,705,Chile,Jean Beausejour,92
 2014,Brazil,705,Australia,Tim Cahill,35
 2014,Brazil,706,Chile,Eduardo Vargas,20
 2014,Brazil,706,Chile,Charles Aránguiz,43
 2014,Brazil,707,Australia,Tim Cahill,21
 2014,Brazil,707,Australia,Mile Jedinak,54
 2014,Brazil,707,Netherlands,Arjen Robben,20
-2014,Brazil,707,Netherlands,Robin Van Persie,58
+2014,Brazil,707,Netherlands,Robin van Persie,58
 2014,Brazil,707,Netherlands,Memphis Depay,68
 2014,Brazil,708,Spain,David Villa,36
 2014,Brazil,708,Spain,Fernando Torres,69
 2014,Brazil,708,Spain,Juan Mata,82
 2014,Brazil,709,Netherlands,Leroy Fer,77
-2014,Brazil,709,Netherlands,Memphis Depay,90+2
+2014,Brazil,709,Netherlands,Memphis Depay,92
 2014,Brazil,710,Colombia,Pablo Armero,5
-2014,Brazil,710,Colombia,Teofilo Gutiérrez,58
-2014,Brazil,710,Colombia,James Rodríguez,90+3
+2014,Brazil,710,Colombia,Teófilo Gutiérrez,58
+2014,Brazil,710,Colombia,James Rodríguez,93
 2014,Brazil,711,Côte d'Ivoire,Wilfried Bony,64
 2014,Brazil,711,Côte d'Ivoire,Gervinho,66
 2014,Brazil,711,Japan,Keisuke Honda,16
 2014,Brazil,712,Colombia,James Rodríguez,64
-2014,Brazil,712,Colombia,Juan Quintero,70
+2014,Brazil,712,Colombia,Juan Fernando Quintero,70
 2014,Brazil,712,Côte d'Ivoire,Gervinho,73
-2014,Brazil,714,Japan,Shinji Okazaki,45+1
-2014,Brazil,714,Colombia,Juan Cuadrado,17
+2014,Brazil,714,Japan,Shinji Okazaki,46
+2014,Brazil,714,Colombia,Juan Guillermo Cuadrado,17
 2014,Brazil,714,Colombia,Jackson Martínez,55
 2014,Brazil,714,Colombia,Jackson Martínez,82
 2014,Brazil,714,Colombia,James Rodríguez,90
 2014,Brazil,715,Greece,Andreas Samaris,42
-2014,Brazil,715,Greece,Georgios Samaras,90+3
+2014,Brazil,715,Greece,Georgios Samaras,93
 2014,Brazil,715,Côte d'Ivoire,Wilfried Bony,74
 2014,Brazil,716,Uruguay,Edinson Cavani,24
 2014,Brazil,716,Costa Rica,Joel Campbell,54
-2014,Brazil,716,Costa Rica,Oscar Duarte,57
-2014,Brazil,716,Costa Rica,Marcos Ureña,84
+2014,Brazil,716,Costa Rica,Óscar Duarte,57
+2014,Brazil,716,Costa Rica,Marco Ureña,84
 2014,Brazil,717,England,Daniel Sturridge,37
 2014,Brazil,717,Italy,Claudio Marchisio,35
 2014,Brazil,717,Italy,Mario Balotelli,50
@@ -69,7 +69,7 @@
 2014,Brazil,719,Costa Rica,Bryan Ruiz,44
 2014,Brazil,720,Uruguay,Diego Godín,81
 2014,Brazil,722,Switzerland,Admir Mehmedi,48
-2014,Brazil,722,Switzerland,Haris Seferović,90+3
+2014,Brazil,722,Switzerland,Haris Seferović,93
 2014,Brazil,722,Ecuador,Enner Valencia,22
 2014,Brazil,723,France,Noel Valladares,48
 2014,Brazil,723,France,Karim Benzema,45
@@ -95,14 +95,14 @@
 2014,Brazil,732,Nigeria,Ahmed Musa,4
 2014,Brazil,732,Nigeria,Ahmed Musa,47
 2014,Brazil,732,Argentina,Lionel Messi,3
-2014,Brazil,732,Argentina,Lionel Messi,45+1
+2014,Brazil,732,Argentina,Lionel Messi,46
 2014,Brazil,732,Argentina,Marcos Rojo,50
 2014,Brazil,733,Bosnia-Herzegovina,Edin Džeko,23
 2014,Brazil,733,Bosnia-Herzegovina,Miralem Pjanić,59
 2014,Brazil,733,Bosnia-Herzegovina,Avdija Vršajević,83
 2014,Brazil,733,Iran,Reza Ghoochannejhad,82
 2014,Brazil,734,Germany,Thomas Müller,12
-2014,Brazil,734,Germany,Thomas Müller,45+1
+2014,Brazil,734,Germany,Thomas Müller,46
 2014,Brazil,734,Germany,Thomas Müller,78
 2014,Brazil,734,Germany,Mats Hummels,32
 2014,Brazil,735,Ghana,André Ayew,82
@@ -115,7 +115,7 @@
 2014,Brazil,737,United States,Jermaine Jones,64
 2014,Brazil,737,United States,Clint Dempsey,81
 2014,Brazil,737,Portugal,Nani,5
-2014,Brazil,737,Portugal,Silvestre Varela,90+5
+2014,Brazil,737,Portugal,Silvestre Varela,95
 2014,Brazil,738,Germany,Thomas Müller,55
 2014,Brazil,739,Portugal,John Boye,31
 2014,Brazil,739,Portugal,Cristiano Ronaldo,80
@@ -123,29 +123,29 @@
 2014,Brazil,740,Belgium,Marouane Fellaini,70
 2014,Brazil,740,Belgium,Dries Mertens,80
 2014,Brazil,740,Algeria,Sofiane Feghouli,25
-2014,Brazil,741,Russia,Alexander Kerzhakov,74
-2014,Brazil,741,South Korea,Lee Keunho,68
+2014,Brazil,741,Russia,Aleksandr Kerzhakov,74
+2014,Brazil,741,South Korea,Lee Keun-Ho,68
 2014,Brazil,742,Belgium,Divock Origi,88
-2014,Brazil,743,South Korea,Son Heung Min,50
-2014,Brazil,743,South Korea,Koo Jacheol,72
+2014,Brazil,743,South Korea,Son Heung-Min,50
+2014,Brazil,743,South Korea,Koo Ja-Cheol,72
 2014,Brazil,743,Algeria,Islam Slimani,26
 2014,Brazil,743,Algeria,Rafik Halliche,28
 2014,Brazil,743,Algeria,Abdelmoumene Djabou,38
 2014,Brazil,743,Algeria,Yacine Brahimi,62
 2014,Brazil,744,Belgium,Jan Vertonghen,78
 2014,Brazil,745,Algeria,Islam Slimani,60
-2014,Brazil,745,Russia,Alexander Kokorin,6
+2014,Brazil,745,Russia,Aleksandr Kerzhakov,6
 2014,Brazil,746,Brazil,David Luiz,18
 2014,Brazil,746,Chile,Alexis Sánchez,32
 2014,Brazil,747,Colombia,James Rodríguez,28
 2014,Brazil,747,Colombia,James Rodríguez,50
 2014,Brazil,748,Netherlands,Wesley Sneijder,88
-2014,Brazil,748,Netherlands,Klaas Jan Huntelaar,90
+2014,Brazil,748,Netherlands,Klaas-Jan Huntelaar,90
 2014,Brazil,748,Mexico,Giovani dos Santos,48
 2014,Brazil,749,Costa Rica,Bryan Ruiz,52
-2014,Brazil,749,Greece,Socratis Papastathopoulos,90
+2014,Brazil,749,Greece,Sokratis Papastathopoulos,90
 2014,Brazil,750,France,Paul Pogba,79
-2014,Brazil,750,France,Joseph Yobo,90+2
+2014,Brazil,750,France,Joseph Yobo,92
 2014,Brazil,751,Germany,André Schürrle,92
 2014,Brazil,751,Germany,Mesut Özil,120
 2014,Brazil,751,Algeria,Abdelmoumene Djabou,121
@@ -164,9 +164,9 @@
 2014,Brazil,758,Germany,Toni Kroos,24
 2014,Brazil,758,Germany,Toni Kroos,26
 2014,Brazil,758,Germany,Sami Khedira,29
-2014,Brazil,758,Germany,Andre Schürrle,69
-2014,Brazil,758,Germany,Andre Schürrle,79
-2014,Brazil,760,Netherlands,Robin Van Persie,3
+2014,Brazil,758,Germany,André Schürrle,69
+2014,Brazil,758,Germany,André Schürrle,79
+2014,Brazil,760,Netherlands,Robin van Persie,3
 2014,Brazil,760,Netherlands,Daley Blind,17
-2014,Brazil,760,Netherlands,Georginio Wijnaldum,90+1
+2014,Brazil,760,Netherlands,Georginio Wijnaldum,91
 2014,Brazil,761,Germany,Mario Götze,113
