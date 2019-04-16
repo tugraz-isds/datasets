@@ -3712,9 +3712,9 @@
 1990,Italy,Egypt,17,FW,Ayman Shawky,Al-Ahly,Egypt
 1990,Italy,Egypt,19,FW,Adel Abdelrahman,Al-Ahly,Egypt
 1990,Italy,England,1,GK,Peter Shilton,Derby County,England
-1990,Italy,England,,GK,David Seaman,Queens Park Rangers,England
+1990,Italy,England,101,GK,David Seaman,Queens Park Rangers,England
 1990,Italy,England,13,GK,Chris Woods,Rangers,Scotland
-1990,Italy,England,,GK,Dave Beasant,Chelsea,England
+1990,Italy,England,102,GK,Dave Beasant,Chelsea,England
 1990,Italy,England,2,DF,Gary Stevens,Rangers,Scotland
 1990,Italy,England,3,DF,Stuart Pearce,Nottingham Forest,England
 1990,Italy,England,5,DF,Des Walker,Nottingham Forest,England
@@ -6723,7 +6723,6 @@
 2006,Germany,Ukraine,15,FW,Artem Milevskyi,Dynamo Kyiv,Ukraine
 2006,Germany,Ukraine,16,FW,Andriy Vorobey,Shakhtar Donetsk,Ukraine
 2006,Germany,Ukraine,20,FW,Oleksiy Byelik,Shakhtar Donetsk,Ukraine
-2006,Germany,Ukraine,3,DF,Vyacheslav Shevchuk,Shakhtar Donetsk,Ukraine
 2006,Germany,United States,1,GK,Tim Howard,Manchester United,England
 2006,Germany,United States,18,GK,Kasey Keller,Borussia Mönchengladbach,Germany
 2006,Germany,United States,19,GK,Marcus Hahnemann,Reading,England
