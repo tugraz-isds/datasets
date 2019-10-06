@@ -287,7 +287,7 @@ Bergen Airport Flesland,Bergen,Norway,BGO,ENBR,60.29339981,5.218140125,170,1,E
 Batsfjord Airport,Batsfjord,Norway,BJF,ENBS,70.60050201416,29.691400527954,490,1,E
 Kristiansand Airport,Kristiansand,Norway,KRS,ENCN,58.204201,8.08537,57,1,E
 Bardufoss Airport,Bardufoss,Norway,BDU,ENDU,69.055801391602,18.540399551392,252,1,E
-Harstad/Narvik Airport, Evenes,Harstad/Narvik,Norway,EVE,ENEV,68.491302490234,16.678100585938,84,1,E
+Harstad/Narvik Airport,Evenes,Norway,EVE,ENEV,68.491302490234,16.678100585938,84,1,E
 Floro Airport,Floro,Norway,FRO,ENFL,61.583599090576,5.0247201919556,37,1,E
 Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681,1,E
 Haugesund Airport,Haugesund,Norway,HAU,ENHD,59.34529876709,5.2083601951599,86,1,E
@@ -898,8 +898,8 @@ Wellington International Airport,Wellington,New Zealand,WLG,NZWN,-41.3272018433,
 Whangarei Airport,Whangarei,New Zealand,WRE,NZWR,-35.7682991027832,174.36500549316406,133,12,Z
 Westport Airport,Westport,New Zealand,WSZ,NZWS,-41.73809814453125,171.58099365234375,13,12,Z
 Wanganui Airport,Wanganui,New Zealand,WAG,NZWU,-39.96220016479492,175.02499389648438,27,12,Z
-Herat Airport,Herat,Afghanistan,HEA,OAHR,34.209999084472656,62.22829818725586,3206,4,30,U
-Hamid Karzai International Airport,Kabul,Afghanistan,KBL,OAKB,34.565899,69.212303,5877,4,30,U
+Herat Airport,Herat,Afghanistan,HEA,OAHR,34.209999084472656,62.22829818725586,3206,4.30,U
+Hamid Karzai International Airport,Kabul,Afghanistan,KBL,OAKB,34.565899,69.212303,5877,4.30,U
 Bahrain International Airport,Bahrain,Bahrain,BAH,OBBI,26.27079963684082,50.63359832763672,6,3,U
 Abha Regional Airport,Abha,Saudi Arabia,AHB,OEAB,18.240400314299997,42.65660095210001,6858,3,U
 Al Ahsa Airport,Al-ahsa,Saudi Arabia,HOF,OEAH,25.28529930114746,49.485198974609375,588,3,U
@@ -923,17 +923,17 @@ Taif Regional Airport,Taif,Saudi Arabia,TIF,OETF,21.483001,40.543442,4848,3,U
 Turaif Domestic Airport,Turaif,Saudi Arabia,TUI,OETR,31.692188,38.731544,2803,3,U
 Al Wajh Domestic Airport,Wejh,Saudi Arabia,EJH,OEWJ,26.19860076904297,36.47639846801758,66,3,U
 Prince Abdulmohsin Bin Abdulaziz Airport,Yenbo,Saudi Arabia,YNB,OEYN,24.144199,38.0634,26,3,U
-Kandahar Airport,Kandahar,Afghanistan,KDH,OAKN,31.505800247192383,65.8478012084961,3337,4,30,U
-Mazar I Sharif Airport,Mazar-i-sharif,Afghanistan,MZR,OAMS,36.70690155029297,67.20970153808594,1284,4,30,U
-Adelaide International Airport,Adelaide,Australia,ADL,YPAD,-34.945,138.531006,20,9,30,O
-Alice Springs Airport,Alice Springs,Australia,ASP,YBAS,-23.806699752807617,133.90199279785156,1789,9,30,N
-Broken Hill Airport,Broken Hill,Australia,BHQ,YBHI,-32.0013999939,141.472000122,958,9,00,O
-Ceduna Airport,Ceduna,Australia,CED,YCDU,-32.13059997558594,133.7100067138672,77,9,00,O
-Coober Pedy Airport,Coober Pedy,Australia,CPD,YCBP,-29.040000915527344,134.7209930419922,740,9,00,O
-Darwin International Airport,Darwin,Australia,DRW,YPDN,-12.41469955444336,130.8769989013672,103,9,30,N
-Elcho Island Airport,Elcho Island,Australia,ELC,YELD,-12.019399642899998,135.570999146,101,9,00,O
-Gove Airport,Gove,Australia,GOV,YPGV,-12.269399642899998,136.817993164,192,9,00,O
-Groote Eylandt Airport,Groote Eylandt,Australia,GTE,YGTE,-13.975000381500001,136.460006714,53,9,00,O
+Kandahar Airport,Kandahar,Afghanistan,KDH,OAKN,31.505800247192383,65.8478012084961,3337,4.30,U
+Mazar I Sharif Airport,Mazar-i-sharif,Afghanistan,MZR,OAMS,36.70690155029297,67.20970153808594,1284,4.30,U
+Adelaide International Airport,Adelaide,Australia,ADL,YPAD,-34.945,138.531006,20,9.30,O
+Alice Springs Airport,Alice Springs,Australia,ASP,YBAS,-23.806699752807617,133.90199279785156,1789,9.30,N
+Broken Hill Airport,Broken Hill,Australia,BHQ,YBHI,-32.0013999939,141.472000122,958,9,O
+Ceduna Airport,Ceduna,Australia,CED,YCDU,-32.13059997558594,133.7100067138672,77,9,O
+Coober Pedy Airport,Coober Pedy,Australia,CPD,YCBP,-29.040000915527344,134.7209930419922,740,9,O
+Darwin International Airport,Darwin,Australia,DRW,YPDN,-12.41469955444336,130.8769989013672,103,9.30,N
+Elcho Island Airport,Elcho Island,Australia,ELC,YELD,-12.019399642899998,135.570999146,101,9,O
+Gove Airport,Gove,Australia,GOV,YPGV,-12.269399642899998,136.817993164,192,9,O
+Groote Eylandt Airport,Groote Eylandt,Australia,GTE,YGTE,-13.975000381500001,136.460006714,53,9,O
 Queen Alia International Airport,Amman,Jordan,AMM,OJAI,31.7226009369,35.9931983948,2395,2,E
 Aqaba King Hussein International Airport,Aqaba,Jordan,AQJ,OJAQ,29.611600875854492,35.01810073852539,175,2,E
 Kuwait International Airport,Kuwait,Kuwait,KWI,OKBK,29.226600646972656,47.96889877319336,206,3,U
@@ -1345,14 +1345,14 @@ Kazan International Airport,Kazan,Russia,KZN,UWKD,55.606201171875,49.27870178222
 Orenburg Central Airport,Orenburg,Russia,REN,UWOO,51.795799255371094,55.45669937133789,387,5,N
 Ufa International Airport,Ufa,Russia,UFA,UWUU,54.557498931885,55.874401092529,449,5,N
 Kurumoch International Airport,Samara,Russia,KUF,UWWW,53.504901885986,50.16429901123,477,4,N
-Maningrida Airport,Maningrida,Australia,MNG,YMGD,-12.0560998917,134.23399353,123,9,00,O
-McArthur River Mine Airport,McArthur River Mine,Australia,MCV,YMHU,-16.4424991608,136.083999634,131,9,00,O
-Milingimbi Airport,Milingimbi,Australia,MGT,YMGB,-12.0944004059,134.893997192,53,9,00,O
-Mount Gambier Airport,Mount Gambier,Australia,MGB,YMTG,-37.745601654052734,140.78500366210938,212,9,00,O
-Olympic Dam Airport,Olympic Dam,Australia,OLP,YOLD,-30.485000610399997,136.876998901,343,9,00,O
-Port Lincoln Airport,Port Lincoln,Australia,PLO,YPLC,-34.6053009033,135.880004883,36,9,00,O
-Ayers Rock Connellan Airport,Uluru,Australia,AYQ,YAYE,-25.1861,130.975998,1626,9,30,N
-Whyalla Airport,Whyalla,Australia,WYA,YWHA,-33.05889892578125,137.51400756835938,41,9,00,O
+Maningrida Airport,Maningrida,Australia,MNG,YMGD,-12.0560998917,134.23399353,123,9,O
+McArthur River Mine Airport,McArthur River Mine,Australia,MCV,YMHU,-16.4424991608,136.083999634,131,9,O
+Milingimbi Airport,Milingimbi,Australia,MGT,YMGB,-12.0944004059,134.893997192,53,9,O
+Mount Gambier Airport,Mount Gambier,Australia,MGB,YMTG,-37.745601654052734,140.78500366210938,212,9,O
+Olympic Dam Airport,Olympic Dam,Australia,OLP,YOLD,-30.485000610399997,136.876998901,343,9,O
+Port Lincoln Airport,Port Lincoln,Australia,PLO,YPLC,-34.6053009033,135.880004883,36,9,O
+Ayers Rock Connellan Airport,Uluru,Australia,AYQ,YAYE,-25.1861,130.975998,1626,9.30,N
+Whyalla Airport,Whyalla,Australia,WYA,YWHA,-33.05889892578125,137.51400756835938,41,9,O
 Phnom Penh International Airport,Phnom-penh,Cambodia,PNH,VDPP,11.546600341796875,104.84400177001953,40,7,U
 Siem Reap International Airport,Siem-reap,Cambodia,REP,VDSR,13.410699844400002,103.81300354,60,7,U
 Cox's Bazar Airport,Cox's Bazar,Bangladesh,CXB,VGCB,21.452199935913086,91.96389770507812,12,6,U
@@ -1361,26 +1361,26 @@ Jessore Airport,Jessore,Bangladesh,JSR,VGJR,23.183799743652344,89.16079711914062
 Osmany International Airport,Sylhet Osmani,Bangladesh,ZYL,VGSY,24.963199615478516,91.8667984008789,50,6,U
 Hazrat Shahjalal International Airport,Dhaka,Bangladesh,DAC,VGZR,23.843347,90.397783,30,6,U
 Hong Kong International Airport,Hong Kong,Hong Kong,HKG,VHHH,22.308901,113.915001,28,8,U
-Bagan Airport,Bagan,Burma,NYU,VYBG,21.178800582885742,94.9301986694336,312,6,30,U
-Dawei Airport,Dawei,Burma,TVY,VYDW,14.103899955749512,98.20359802246094,84,6,00,U
-Heho Airport,Heho,Burma,HEH,VYHH,20.746999740600586,96.79199981689453,3858,6,30,U
-Kawthoung Airport,Kawthoung,Burma,KAW,VYKT,10.049300193786621,98.53800201416016,180,6,00,U
-Kengtung Airport,Kengtung,Burma,KET,VYKG,21.301599502563477,99.63600158691406,2798,6,30,U
-Kyaukpyu Airport,Kyaukpyu,Burma,KYP,VYKP,19.42639923095703,93.53479766845703,20,6,30,U
+Bagan Airport,Bagan,Burma,NYU,VYBG,21.178800582885742,94.9301986694336,312,6.30,U
+Dawei Airport,Dawei,Burma,TVY,VYDW,14.103899955749512,98.20359802246094,84,6,U
+Heho Airport,Heho,Burma,HEH,VYHH,20.746999740600586,96.79199981689453,3858,6.30,U
+Kawthoung Airport,Kawthoung,Burma,KAW,VYKT,10.049300193786621,98.53800201416016,180,6,U
+Kengtung Airport,Kengtung,Burma,KET,VYKG,21.301599502563477,99.63600158691406,2798,6.30,U
+Kyaukpyu Airport,Kyaukpyu,Burma,KYP,VYKP,19.42639923095703,93.53479766845703,20,6.30,U
 Luang Phabang International Airport,Luang Prabang,Laos,LPQ,VLLB,19.897300720214844,102.16100311279297,955,7,U
 Pakse International Airport,Pakse,Laos,PKZ,VLPS,15.132100105285645,105.78099822998047,351,7,U
 Savannakhet Airport,Savannakhet,Laos,ZVK,VLSK,16.55660057067871,104.76000213623047,509,7,U
 Wattay International Airport,Vientiane,Laos,VTE,VLVT,17.988300323500003,102.56300354,564,7,U
 Macau International Airport,Macau,Macau,MFM,VMMC,22.149599,113.592003,20,8,U
-Mandalay International Airport,Mandalay,Burma,MDL,VYMD,21.702199935913086,95.97789764404297,300,6,30,U
-Myeik Airport,Myeik,Burma,MGZ,VYME,12.439800262451172,98.62149810791016,75,6,30,U
-Myitkyina Airport,Myitkyina,Burma,MYT,VYMK,25.38360023498535,97.35189819335938,475,6,30,U
-Naypyidaw Airport,Naypyidaw,Burma,NYT,VYEL,19.623501,96.200996,302,6,00,U
-Putao Airport,Putao,Burma,PBU,VYPT,27.32990074157715,97.42630004882812,1500,6,30,U
-Sittwe Airport,Sittwe,Burma,AKY,VYSW,20.132699966430664,92.87259674072266,27,6,30,U
-Tachileik Airport,Tachilek,Burma,THL,VYTL,20.483800888061523,99.9354019165039,1280,6,30,U
-Thandwe Airport,Thandwe,Burma,SNW,VYTD,18.4606990814209,94.30010223388672,20,6,30,U
-Yangon International Airport,Yangon,Burma,RGN,VYYY,16.907300949099998,96.1332015991,109,6,30,U
+Mandalay International Airport,Mandalay,Burma,MDL,VYMD,21.702199935913086,95.97789764404297,300,6.30,U
+Myeik Airport,Myeik,Burma,MGZ,VYME,12.439800262451172,98.62149810791016,75,6.30,U
+Myitkyina Airport,Myitkyina,Burma,MYT,VYMK,25.38360023498535,97.35189819335938,475,6.30,U
+Naypyidaw Airport,Naypyidaw,Burma,NYT,VYEL,19.623501,96.200996,302,6.00,U
+Putao Airport,Putao,Burma,PBU,VYPT,27.32990074157715,97.42630004882812,1500,6.30,U
+Sittwe Airport,Sittwe,Burma,AKY,VYSW,20.132699966430664,92.87259674072266,27,6.30,U
+Tachileik Airport,Tachilek,Burma,THL,VYTL,20.483800888061523,99.9354019165039,1280,6.30,U
+Thandwe Airport,Thandwe,Burma,SNW,VYTD,18.4606990814209,94.30010223388672,20,6.30,U
+Yangon International Airport,Yangon,Burma,RGN,VYYY,16.907300949099998,96.1332015991,109,6.30,U
 Paro Airport,Thimphu,Bhutan,PBH,VQPR,27.403200149499998,89.42459869380001,7332,6,N
 Male International Airport,Male,Maldives,MLE,VRMM,4.191830158233643,73.52909851074219,6,5,U
 Don Mueang International Airport,Bangkok,Thailand,DMK,VTBD,13.9125995636,100.607002258,9,7,U
@@ -1417,7 +1417,7 @@ Sam Ratulangi Airport,Manado,Indonesia,MDC,WAMM,1.5492600202560425,124.926002502
 Kasiguncu Airport,Poso,Indonesia,PSJ,WAMP,-1.41674995422,120.657997131,174,8,N
 Sultan Khairun Babullah Airport,Ternate,Indonesia,TTE,WAMT,0.831413984298706,127.38099670410156,49,9,N
 Syukuran Aminuddin Amir Airport,Luwuk,Indonesia,LUW,WAMW,-1.03892,122.772003,56,8,N
-Pattimura Airport, Ambon,Ambon,Indonesia,AMQ,WAPP,-3.7102599144,128.089004517,33,9,N
+Pattimura Airport,Ambon,Indonesia,AMQ,WAPP,-3.7102599144,128.089004517,33,9,N
 Fakfak Airport,Fak Fak,Indonesia,FKQ,WASF,-2.9201900959014893,132.26699829101562,462,9,N
 Kaimana Airport,Kaimana,Indonesia,KNG,WASK,-3.6445200443267822,133.6959991455078,19,9,N
 Babo Airport,Babo,Indonesia,BXB,WASO,-2.5322399139404297,133.43899536132812,10,9,N
@@ -2042,7 +2042,7 @@ Bordj Badji Mokhtar Airport,Bordj Badji Mokhtar,Algeria,BMW,DATM,21.375,0.923888
 Guemar Airport,Guemar,Algeria,ELU,DAUO,33.5113983154,6.77679014206,203,1,N
 Kumasi Airport,Kumasi,Ghana,KMS,DGSI,6.714560031890869,-1.5908199548721313,942,0,N
 Heringsdorf Airport,Heringsdorf,Germany,HDF,EDAH,53.8787002563,14.152299881,93,1,E
-Robin Hood Doncaster Sheffield Airport,Doncaster, Sheffield,United Kingdom,DSA,EGCN,53.4805378105,-1.01065635681,55,0,E
+Robin Hood Doncaster Sheffield Airport,Sheffield,United Kingdom,DSA,EGCN,53.4805378105,-1.01065635681,55,0,E
 Campbeltown Airport,Campbeltown,United Kingdom,CAL,EGEC,55.437198638916016,-5.686389923095703,42,0,E
 Eday Airport,Eday,United Kingdom,EOI,EGED,59.19060134887695,-2.7722198963165283,10,0,E
 North Ronaldsay Airport,North Ronaldsay,United Kingdom,NRL,EGEN,59.3675003052,-2.43443989754,40,0,E
@@ -2081,7 +2081,7 @@ Dakhla Airport,Dakhla,Western Sahara,VIL,GMMH,23.7183,-15.932,36,0,N
 Mogador Airport,Essadouira,Morocco,ESU,GMMI,31.3974990845,-9.6816701889,384,0,N
 Hassan I Airport,El Aaiun,Western Sahara,EUN,GMML,27.151699,-13.2192,207,0,N
 Nador International Airport,El Aroui,Morocco,NDR,GMMW,34.988800048799995,-3.0282099247,574,0,N
-Praia International Airport,Praia, Santiago Island,Cape Verde,RAI,GVNP,14.924500465393066,-23.493499755859375,230,-1,U
+Praia International Airport,Praia,Cape Verde,RAI,GVNP,14.924500465393066,-23.493499755859375,230,-1,U
 Sao Filipe Airport,Sao Filipe,Cape Verde,SFL,GVSF,14.8850002289,-24.4799995422,617,-1,U
 Bosaso Airport,Bosaso,Somalia,BSA,HCMF,11.275300025939941,49.14939880371094,3,3,U
 Aden Adde International Airport,Mogadishu,Somalia,MGQ,HCMM,2.0144400596618652,45.3046989440918,29,3,U
@@ -2186,7 +2186,7 @@ Ile Art - Waala Airport,Waala,New Caledonia,BMY,NWWC,-19.720600128173828,163.660
 Ile des Pins Airport,Ile des Pins,New Caledonia,ILP,NWWE,-22.588899612426758,167.45599365234375,315,11,U
 Al-Jawf Domestic Airport,Al-Jawf,Saudi Arabia,AJF,OESK,29.78510093688965,40.099998474121094,2261,3,U
 Wadi Al Dawasir Airport,Wadi-al-dawasir,Saudi Arabia,WAE,OEWD,20.504299163800003,45.199600219699995,2062,3,U
-Cocos (Keeling) Islands Airport,Cocos Keeling Island,Cocos (Keeling) Islands,CCK,YPCC,-12.1883001328,96.8339004517,10,6,00,U
+Cocos (Keeling) Islands Airport,Cocos Keeling Island,Cocos (Keeling) Islands,CCK,YPCC,-12.1883001328,96.8339004517,10,6,U
 Al Ain International Airport,Al Ain,United Arab Emirates,AAN,OMAL,24.261699676513672,55.60919952392578,869,4,U
 Bahawalpur Airport,Bahawalpur,Pakistan,BHV,OPBW,29.348100662231445,71.71800231933594,392,5,N
 Chitral Airport,Chitral,Pakistan,CJL,OPCH,35.886600494384766,71.80059814453125,4920,5,N
@@ -2309,8 +2309,8 @@ Dien Bien Phu Airport,Dienbienphu,Vietnam,DIN,VVDB,21.3974990845,103.008003235,1
 Phu Cat Airport,Phucat,Vietnam,UIH,VVPC,13.955,109.042,80,7,U
 Pleiku Airport,Pleiku,Vietnam,PXU,VVPK,14.004500389099121,108.01699829101562,2434,7,U
 Vinh Airport,Vinh,Vietnam,VII,VVVH,18.7376003265,105.67099762,23,7,U
-Agartala Airport,Agartala,India,IXA,VEAT,23.8869991302,91.24040222170001,46,5,30,N
-Agatti Airport,Agatti Island,India,AGX,VOAT,10.823699951171875,72.1760025024414,14,5,30,N
+Agartala Airport,Agartala,India,IXA,VEAT,23.8869991302,91.24040222170001,46,5.30,N
+Agatti Airport,Agatti Island,India,AGX,VOAT,10.823699951171875,72.1760025024414,14,5.30,N
 Tambolaka Airport,Waikabubak-Sumba Island,Indonesia,TMC,WADT,-9.40972,119.244003,161,8,N
 Kalimarau Airport,Tanjung Redep-Borneo Island,Indonesia,BEJ,WALK,2.1555,117.431999,59,8,N
 Dumatumbun Airport,Langgur-Kei Islands,Indonesia,LUV,WAPL,-5.661620140075684,132.7310028076172,10,9,N
@@ -2327,15 +2327,15 @@ Albany Airport,Albany,Australia,ALH,YABA,-34.94329833984375,117.80899810791016,2
 Aurukun Airport,Aurukun,Australia,AUU,YAUR,-13.354067,141.72065,31,10,O
 Barcaldine Airport,Barcaldine,Australia,BCI,YBAR,-23.5652999878,145.307006836,878,10,O
 Birdsville Airport,Birdsville,Australia,BVI,YBDV,-25.897499084472656,139.34800720214844,159,10,O
-Agra Airport,Agra,India,AGR,VIAG,27.155799865722656,77.96089935302734,551,5,30,N
+Agra Airport,Agra,India,AGR,VIAG,27.155799865722656,77.96089935302734,551,5.30,N
 Hamilton Island Airport,Hamilton Island,Australia,HTI,YBHM,-20.3581008911,148.95199585,15,10,O
 Bedourie Airport,Bedourie,Australia,BEU,YBIE,-24.346099853515625,139.4600067138672,300,10,O
 Burketown Airport,Burketown,Australia,BUC,YBKT,-17.748600006103516,139.53399658203125,21,10,O
 Boulia Airport,Boulia,Australia,BQL,YBOU,-22.913299560546875,139.89999389648438,542,10,O
 Bathurst Airport,Bathurst,Australia,BHS,YBTH,-33.4094009399,149.651992798,2435,10,O
-Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,AMD,VAAH,23.0771999359,72.63469696039999,189,5,30,N
+Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,AMD,VAAH,23.0771999359,72.63469696039999,189,5.30,N
 Cloncurry Airport,Cloncurry,Australia,CNJ,YCCY,-20.668600082399998,140.503997803,616,10,O
-Lengpui Airport,Aizwal,India,AJL,VELP,23.840599060099997,92.6196975708,1398,5,30,N
+Lengpui Airport,Aizwal,India,AJL,VELP,23.840599060099997,92.6196975708,1398,5.30,N
 Cunnamulla Airport,Cunnamulla,Australia,CMA,YCMU,-28.030000686645508,145.6219940185547,630,10,O
 Coen Airport,Coen,Australia,CUQ,YCOE,-13.761133,143.113311,532,10,O
 Doomadgee Airport,Doomadgee,Australia,DMD,YDMG,-17.9403,138.822006,153,10,O
@@ -2345,18 +2345,18 @@ Geraldton Airport,Geraldton,Australia,GET,YGEL,-28.796101,114.707001,121,8,O
 Gladstone Airport,Gladstone,Australia,GLT,YGLA,-23.869699,151.223007,64,10,O
 Griffith Airport,Griffith,Australia,GFF,YGTH,-34.2508010864,146.067001343,439,10,O
 Horn Island Airport,Horn Island,Australia,HID,YHID,-10.586400032,142.289993286,43,10,O
-Allahabad Airport,Allahabad,India,IXD,VIAL,25.440099716186523,81.73390197753906,322,5,30,N
+Allahabad Airport,Allahabad,India,IXD,VIAL,25.440099716186523,81.73390197753906,322,5.30,N
 Julia Creek Airport,Julia Creek,Australia,JCK,YJLC,-20.66830062866211,141.72300720214844,404,10,O
 King Island Airport,King Island,Australia,KNS,YKII,-39.877498626708984,143.8780059814453,132,10,O
 Kowanyama Airport,Kowanyama,Australia,KWM,YKOW,-15.485600471496582,141.75100708007812,35,10,O
-Sri Guru Ram Dass Jee International Airport,Amritsar,India,ATQ,VIAR,31.7096004486,74.7973022461,756,5,30,N
-Aurangabad Airport,Aurangabad,India,IXU,VAAU,19.862699508666992,75.39810180664062,1911,5,30,N
+Sri Guru Ram Dass Jee International Airport,Amritsar,India,ATQ,VIAR,31.7096004486,74.7973022461,756,5.30,N
+Aurangabad Airport,Aurangabad,India,IXU,VAAU,19.862699508666992,75.39810180664062,1911,5.30,N
 Lockhart River Airport,Lockhart River,Australia,IRG,YLHR,-12.7869,143.304993,77,10,O
 Lismore Airport,Lismore,Australia,LSY,YLIS,-28.8302993774,153.259994507,35,10,O
 Longreach Airport,Longreach,Australia,LRE,YLRE,-23.4342002869,144.279998779,627,10,O
 Merimbula Airport,Merimbula,Australia,MIM,YMER,-36.9085998535,149.901000977,7,10,O
-Bagdogra Airport,Baghdogra,India,IXB,VEBD,26.68120002746582,88.32859802246094,412,5,30,N
-Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000,5,30,N
+Bagdogra Airport,Baghdogra,India,IXB,VEBD,26.68120002746582,88.32859802246094,412,5.30,N
+Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000,5.30,N
 Mildura Airport,Mildura,Australia,MQL,YMIA,-34.229198455799995,142.085998535,167,10,O
 Moree Airport,Moree,Australia,MRZ,YMOR,-29.498899459799997,149.845001221,701,10,O
 Moranbah Airport,Moranbah,Australia,MOV,YMRB,-22.057800293,148.07699585,770,10,O
@@ -2366,7 +2366,7 @@ Narrandera Airport,Narrandera,Australia,NRA,YNAR,-34.7022018433,146.511993408,47
 Normanton Airport,Normanton,Australia,NTN,YNTN,-17.68409,141.069664,73,10,O
 Newman Airport,Newman,Australia,ZNE,YNWN,-23.417800903299998,119.803001404,1724,8,O
 Paraburdoo Airport,Paraburdoo,Australia,PBO,YPBO,-23.1711006165,117.745002747,1406,8,O
-Vadodara Airport,Baroda,India,BDQ,VABO,22.336201,73.226303,129,5,30,N
+Vadodara Airport,Baroda,India,BDQ,VABO,22.336201,73.226303,129,5.30,N
 Parkes Airport,Parkes,Australia,PKE,YPKS,-33.131401062,148.238998413,1069,10,O
 Pormpuraaw Airport,Pormpuraaw,Australia,EDR,YPMP,-14.896451,141.60908,10,10,O
 Port Macquarie Airport,Port Macquarie,Australia,PQQ,YPMQ,-31.4358005524,152.863006592,12,10,O
@@ -2374,7 +2374,7 @@ Quilpie Airport,Quilpie,Australia,ULP,YQLP,-26.612199783325195,144.2530059814453
 Roma Airport,Roma,Australia,RMA,YROM,-26.545000076300003,148.774993896,1032,10,O
 St George Airport,St George,Australia,SGO,YSGE,-28.049699783325195,148.59500122070312,656,10,O
 Thargomindah Airport,Thargomindah,Australia,XTG,YTGM,-27.986400604248047,143.81100463867188,433,10,O
-Bhavnagar Airport,Bhaunagar,India,BHU,VABV,21.752199173,72.1852035522,44,5,30,N
+Bhavnagar Airport,Bhaunagar,India,BHU,VABV,21.752199173,72.1852035522,44,5.30,N
 Windorah Airport,Windorah,Australia,WNR,YWDH,-25.41309928894043,142.66700744628906,452,10,O
 Winton Airport,Winton,Australia,WIN,YWTN,-22.36359977722168,143.08599853515625,638,10,O
 Wynyard Airport,Burnie,Australia,BWT,YWYY,-40.9989013671875,145.7310028076172,62,10,O
@@ -2471,18 +2471,18 @@ Kirovsk-Apatity Airport,Apatity,Russia,KVK,ULMK,67.46330261230469,33.58829879760
 Coronel Altino Machado de Oliveira Airport,Governador Valadares,Brazil,GVR,SBGV,-18.89520072937,-41.982200622559,561,-3,S
 Pajala Airport,Pajala,Sweden,PJA,ESUP,67.24559783935547,23.068899154663086,542,1,E
 Hagerstown Regional Richard A Henson Field,Hagerstown,United States,HGR,KHGR,39.707901,-77.72949982,703,-5,A
-Raja Bhoj International Airport,Bhopal,India,BHO,VABP,23.2875003815,77.3374023438,1711,5,30,N
+Raja Bhoj International Airport,Bhopal,India,BHO,VABP,23.2875003815,77.3374023438,1711,5.30,N
 Sand Point Airport,Sand Point,United States,SDP,PASD,55.314998626708984,-160.5229949951172,21,-9,A
 Hami Airport,Hami,China,HMI,ZWHM,42.8414,93.669197,2703,8,U
 Wuzhou Changzhoudao Airport,Wuzhou,China,WUZ,ZGWZ,23.456699,111.248001,89,8,U
-Biju Patnaik Airport,Bhubaneswar,India,BBI,VEBS,20.244400024399997,85.8178024292,138,5,30,N
-Bhuj Airport,Bhuj,India,BHJ,VABJ,23.2877998352,69.6701965332,268,5,30,N
+Biju Patnaik Airport,Bhubaneswar,India,BBI,VEBS,20.244400024399997,85.8178024292,138,5.30,N
+Bhuj Airport,Bhuj,India,BHJ,VABJ,23.2877998352,69.6701965332,268,5.30,N
 Tacheng Airport,Tacheng,China,TCG,ZWTC,46.67250061035156,83.3407974243164,0,8,U
 Mardin Airport,Mardin,Turkey,MQM,LTCR,37.223300933800004,40.6316986084,1729,3,E
 Leon Airport,Leon,Spain,LEN,LELN,42.5890007019043,-5.65556001663208,3006,1,E
 Burgos Airport,Burgos,Spain,RGS,LEBG,42.357601,-3.62076,2945,1,E
 Sege Airport,Sege,Solomon Islands,EGM,AGGS,-8.578889846801758,157.87600708007812,0,11,U
-Calicut International Airport,Calicut,India,CCJ,VOCL,11.1367998123,75.95529937740001,342,5,30,N
+Calicut International Airport,Calicut,India,CCJ,VOCL,11.1367998123,75.95529937740001,342,5.30,N
 Geneina Airport,Geneina,Sudan,EGN,HSGN,13.48169994354248,22.467199325561523,2650,3,U
 Long Akah Airport,Long Akah,Malaysia,LKH,WBGL,3.299999952316284,114.78299713134766,289,8,N
 Walaha Airport,Walaha,Vanuatu,WLH,NVSW,-15.411999702500001,167.690994263,151,11,U
@@ -2494,10 +2494,10 @@ Anadolu Airport,Eskissehir,Turkey,AOE,LTBY,39.809898,30.5194,2588,3,E
 Canakkale Airport,Canakkale,Turkey,CKZ,LTBH,40.1376991272,26.4267997742,23,3,E
 Mus Airport,Mus,Turkey,MSR,LTCK,38.747798919677734,41.66120147705078,4157,3,E
 Sinop Airport,Sinop,Turkey,NOP,LTCM,42.015800476074,35.066398620605,20,3,E
-Chandigarh Airport,Chandigarh,India,IXC,VICG,30.673500061035156,76.78849792480469,1012,5,30,N
+Chandigarh Airport,Chandigarh,India,IXC,VICG,30.673500061035156,76.78849792480469,1012,5.30,N
 Vieques Airport,Vieques Island,Puerto Rico,VQS,TJCG,18.115800857500002,-65.4226989746,19,-4,U
 St Augustin Airport,St-Augustin,Canada,YIF,CYIF,51.2117004395,-58.6582984924,20,-4,A
-Coimbatore International Airport,Coimbatore,India,CJB,VOCB,11.029999733,77.0434036255,1324,5,30,N
+Coimbatore International Airport,Coimbatore,India,CJB,VOCB,11.029999733,77.0434036255,1324,5.30,N
 Grafton Airport,Grafton,Australia,GFN,YGFN,-29.7593994140625,153.02999877929688,110,10,U
 Orange Airport,Orange,Australia,OAG,YORG,-33.3816986084,149.132995605,3115,10,U
 Taree Airport,Taree,Australia,TRO,YTRE,-31.8885993958,152.514007568,38,10,U
@@ -2527,7 +2527,7 @@ Begishevo Airport,Nizhnekamsk,Russia,NBC,UWKE,55.564701080322266,52.092498779296
 Warri Airport,Osubi,Nigeria,QRW,DNSU,5.59611,5.81778,242,1,U
 Siargao Airport,Siargao,Philippines,IAO,RPNS,9.859097,126.014,10,8,N
 Northeast Florida Regional Airport,St. Augustine Airport,United States,UST,KSGJ,29.9592,-81.339798,10,-5,A
-Dehradun Airport,Dehra Dun,India,DED,VIDN,30.189699,78.180298,1831,5,30,N
+Dehradun Airport,Dehra Dun,India,DED,VIDN,30.189699,78.180298,1831,5.30,N
 Charles M. Schulz Sonoma County Airport,Santa Rosa,United States,STS,KSTS,38.50899887,-122.8130035,128,-8,A
 Aspen-Pitkin Co/Sardy Field,Aspen,United States,ASE,KASE,39.22320175,-106.8690033,7820,-7,A
 Ulyanovsk Baratayevka Airport,Ulyanovsk,Russia,ULV,UWLL,54.26829910279999,48.226699829100006,463,4,N
@@ -2584,8 +2584,8 @@ Lleida-Alguaire Airport,Lleida,Spain,ILD,LEDA,41.728185,0.535023,1170,1,E
 Ulgii Mongolei Airport,Olgii,Mongolia,ULG,ZMUL,48.9933013916,89.9225006104,5732,7,U
 Qurghonteppa International Airport,Kurgan Tyube,Tajikistan,KQT,UTDT,37.86640167236328,68.86470031738281,1473,5,U
 Al Najaf International Airport,Najaf,Iraq,NJF,ORNI,31.989853,44.404317,103,3,U
-Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5665,77.103104,777,5,30,N
-Dimapur Airport,Dimapur,India,DMU,VEMR,25.883899688699998,93.77110290530001,487,5,00,N
+Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5665,77.103104,777,5.30,N
+Dimapur Airport,Dimapur,India,DMU,VEMR,25.883899688699998,93.77110290530001,487,5,N
 Fuyang Xiguan Airport,Fuyang,China,FUG,ZSFY,32.882157,115.734364,104,8,U
 Longyan Guanzhishan Airport,Longyan,China,LCX,ZSLD,25.6746997833,116.747001648,1225,8,U
 Baoshan Yunduan Airport,Baoshan,China,BSD,ZPBS,25.053301,99.168297,5453,8,U
@@ -2594,7 +2594,7 @@ Liping Airport,Liping,China,HZH,ZUNP,26.32217,109.1499,1620,8,U
 Zhijiang Airport,Zhijiang,China,HJJ,ZGCJ,27.4411111111,109.7,882,8,U
 Lintsang Airfield,Lincang,China,LNJ,ZPLC,23.738100051900002,100.025001526,6230,8,U
 Carajos Airport,Parauapebas,Brazil,CKS,SBCJ,-6.11527776718,-50.0013885498,2064,-3,S
-Diu Airport,Diu,India,DIU,VA1P,20.71310043334961,70.92109680175781,31,5,00,N
+Diu Airport,Diu,India,DIU,VA1P,20.71310043334961,70.92109680175781,31,5,N
 Mosul International Airport,Mosul,Iraq,OSM,ORBM,36.305801,43.1474,719,3,U
 Donoi Airport,Uliastai,Mongolia,ULZ,ZMDN,47.7093,96.5258,5800,8,U
 Ulaangom Airport,Ulaangom,Mongolia,ULO,ZMUG,50.066588,91.938273,0,7,U
@@ -2605,21 +2605,21 @@ Ulawa Airport,Ulawa,Solomon Islands,RNA,AGAR,-9.86054358262,161.979546547,40,11,
 Choiseul Bay Airport,Choiseul Bay,Solomon Islands,CHY,AGGC,-6.711944,156.396111,0,11,U
 Santa Ana Airport,Santa Ana,Solomon Islands,NNB,AGGT,-10.847994,162.454108,3,11,U
 Northwest Florida Beaches International Airport,Panama City,United States,ECP,KECP,30.357106,-85.795414,69,-6,A
-Dabolim Airport,Goa,India,GOI,VAGO,15.3808002472,73.8313980103,150,5,30,N
-Gorakhpur Airport,Gorakhpur,India,GOP,VEGK,26.739700317399997,83.4496994019,259,5,00,N
+Dabolim Airport,Goa,India,GOI,VAGO,15.3808002472,73.8313980103,150,5.30,N
+Gorakhpur Airport,Gorakhpur,India,GOP,VEGK,26.739700317399997,83.4496994019,259,5.00,N
 Zonguldak Airport,Zonguldak,Turkey,ONQ,LTAS,41.506401062,32.0886001587,39,3,E
 Tengchong Tuofeng Airport,Tengchong,China,TCZ,ZUTC,24.9380555556,98.48583333330001,6250,8,N
 Belbek Airport,Sevastopol,Ukraine,UKS,UKFB,44.688999176,33.570999145500004,344,3,U
 Yushu Batang Airport,Yushu,China,YUS,ZYLS,32.836388888900004,97.0363888889,12816,8,U
 Lianshui Airport,Huai An,China,HIA,ZSSH,33.7908333333,119.125,28,8,N
-Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,GAU,VEGT,26.10610008239746,91.58589935302734,162,5,00,N
-Gwalior Airport,Gwalior,India,GWL,VIGR,26.29330062866211,78.22779846191406,617,5,30,N
+Lokpriya Gopinath Bordoloi International Airport,Guwahati,India,GAU,VEGT,26.10610008239746,91.58589935302734,162,5,N
+Gwalior Airport,Gwalior,India,GWL,VIGR,26.29330062866211,78.22779846191406,617,5.30,N
 Ngari Gunsa Airport,Shiquanhe,China,NGQ,ZUAL,32.1,80.0530555556,14022,8,N
 Puerto Obaldia Airport,Puerto Obaldia,Panama,PUE,MPOA,8.667,-77.418,223,-5,U
 Zhongwei Shapotou Airport,Zhongwei,China,ZHY,ZLZW,37.573125,105.154454,8202,8,N
 Al Maktoum International Airport,Dubai,United Arab Emirates,DWC,OMDW,24.896356,55.161389,114,4,U
 Baise Youjiang Airport,Baise,China,AEB,ZGBS,23.7206001282,106.959999084,490,8,N
-Rajiv Gandhi International Airport,Hyderabad,India,HYD,VOHS,17.2313175201,78.4298553467,2024,5,00,N
+Rajiv Gandhi International Airport,Hyderabad,India,HYD,VOHS,17.2313175201,78.4298553467,2024,5,N
 Zona da Mata Regional Airport,Juiz de Fora,Brazil,IZA,SDZY,-21.5130558014,-43.1730575562,1348,-3,S
 Vinnytsia/Gavyryshivka Airport,Vinnitsa,Ukraine,VIN,UKWW,49.242531,28.613778,961,2,E
 La Romaine Airport,La Romaine,Canada,ZGS,CTT5,50.259701,-60.679401,90,-4,A
@@ -2635,14 +2635,14 @@ Senadora Eunice Micheles Airport,Sao Paulo de Olivenca,Brazil,OLC,SDCG,-3.467929
 Tapuruquara Airport,Santa Isabel do Rio Negro,Brazil,IRZ,SWTP,-0.3786,-64.9923,223,-4,S
 Oriximina Airport,Oriximina,Brazil,ORX,SNOX,-1.7140799760818481,-55.83620071411133,262,-3,S
 Gazipaia Airport,Alanya,Turkey,GZP,LTGP,36.299217,32.300598,86,3,E
-Imphal Airport,Imphal,India,IMF,VEIM,24.7600002289,93.896697998,2540,5,30,N
+Imphal Airport,Imphal,India,IMF,VEIM,24.7600002289,93.896697998,2540,5.30,N
 Hilton Head Airport,Hilton Head Island,United States,HHH,KHXD,32.2243995667,-80.6975021362,19,-5,A
 Turukhansk Airport,Turukhansk,Russia,THX,UOTT,65.797203064,87.9353027344,128,7,N
 Podkamennaya Tunguska Airport,Bor,Russia,TGP,UNIP,61.589699,89.994003,213,7,N
-Devi Ahilyabai Holkar Airport,Indore,India,IDR,VAID,22.7217998505,75.8011016846,1850,5,30,N
-Jabalpur Airport,Jabalpur,India,JLR,VAJB,23.177799224853516,80.052001953125,1624,5,30,N
+Devi Ahilyabai Holkar Airport,Indore,India,IDR,VAID,22.7217998505,75.8011016846,1850,5.30,N
+Jabalpur Airport,Jabalpur,India,JLR,VAJB,23.177799224853516,80.052001953125,1624,5.30,N
 Majeed Bin Abdulaziz Airport,Al-Ula,Saudi Arabia,ULH,OEAO,26.48,38.1288888889,2050,3,N
-Jaipur International Airport,Jaipur,India,JAI,VIJP,26.8242,75.812202,1263,5,30,N
+Jaipur International Airport,Jaipur,India,JAI,VIJP,26.8242,75.812202,1263,5.30,N
 Lombok International Airport,Praya,Indonesia,LOP,WADL,-8.757322,116.276675,319,8,N
 Handan Airport,Handan,China,HDG,ZBHD,36.5258333333,114.425555556,229,8,N
 Modlin Airport,Warsaw,Poland,WMI,EPMO,52.451099,20.6518,341,1,E
@@ -2650,8 +2650,8 @@ Jixi Xingkaihu Airport,Jixi,China,JXA,ZYJX,45.293,131.193,760,8,N
 Beloyarskiy Airport,Beloyarsky,Russia,EYK,USHY,63.686901,66.698601,82,5,N
 Uummannaq Heliport,Uummannaq,Greenland,UMD,BGUM,70.6804279261,-52.111630439799995,50,-3,E
 Bayannur Tianjitai Airport,Bayannur,China,RLK,ZBYZ,40.926,107.7428,3400,8,U
-Jammu Airport,Jammu,India,IXJ,VIJU,32.6890983582,74.8374023438,1029,5,30,N
-Jamnagar Airport,Jamnagar,India,JGA,VAJM,22.465499877929688,70.01260375976562,69,5,30,N
+Jammu Airport,Jammu,India,IXJ,VIJU,32.6890983582,74.8374023438,1029,5.30,N
+Jamnagar Airport,Jamnagar,India,JGA,VAJM,22.465499877929688,70.01260375976562,69,5.30,N
 Ust-Tsylma Airport,Ust-Tsylma,Russia,UTS,UUYX,65.43729400630001,52.20033645629999,262,3,N
 Gorno-Altaysk Airport,Gorno-Altaysk,Russia,RGK,UNBG,51.9667015076,85.8332977295,965,7,N
 Moma Airport,Honuu,Russia,MQJ,UEMA,66.450861,143.261551,656,11,N
@@ -2659,7 +2659,7 @@ Lankaran International Airport,Lankaran,Azerbaijan,LLK,UBBL,38.746398925799994,4
 Gabala International Airport,Qabala,Azerbaijan,GBB,UBBQ,40.826667,47.7125,935,4,E
 Qianjiang Wulingshan Airport,Qianjiang,China,JIQ,ZUQJ,29.5133333333,108.831111111,2075,8,N
 Changbaishan Airport,Baishan,China,NBS,ZYBS,42.066944,127.602222,2874,8,N
-Jodhpur Airport,Jodhpur,India,JDH,VIJO,26.251100540161133,73.04889678955078,717,5,30,N
+Jodhpur Airport,Jodhpur,India,JDH,VIJO,26.251100540161133,73.04889678955078,717,5.30,N
 Lublin Airport,Lublin,Poland,LUZ,EPLB,51.240278,22.713611,633,1,E
 Lingling Airport,Yongzhou,China,LLF,ZGLG,26.338661,111.610043,340,8,U
 Yangzhou Taizhou Airport,Yangzhou,China,YTY,ZSYA,32.5634,119.7198,7,8,N
@@ -2676,8 +2676,8 @@ Sanliurfa GAP Airport,Sanliurfa,Turkey,GNY,LTCS,37.445663,38.895592,2708,3,E
 Zafer Airport,Kutahya,Turkey,KZR,LTBZ,39.113079,30.128111,3327,3,E
 Busselton Regional Airport,Brusselton,Australia,BQB,YBLN,-33.6884231567,115.401596069,55,8,O
 Yichun Mingyueshan Airport,Yichun,China,YIC,ZSYC,27.8025,114.3062,430,8,U
-Kangra Airport,Kangra,India,DHM,VIGG,32.16510009765625,76.26339721679688,2525,5,00,N
-Kanpur Airport,Kanpur,India,KNU,VICX,26.404301,80.410103,410,5,30,N
+Kangra Airport,Kangra,India,DHM,VIGG,32.16510009765625,76.26339721679688,2525,5,N
+Kanpur Airport,Kanpur,India,KNU,VICX,26.404301,80.410103,410,5.30,N
 Bingol Geltiksuyu Airport,Bingol,Turkey,BGG,LTCU,38.8592605591,40.5959625244,3506,3,E
 Kastamonu Airport,Kastamonu,Turkey,KFS,LTAL,41.31420135498047,33.795799255371094,3520,3,E
 Daocheng Yading Airport,Daocheng,China,DCY,ZUDC,29.323056,100.053333,14472,8,N
@@ -2703,107 +2703,107 @@ Melangguane Airport,Melonguane,Indonesia,MNA,WAMN,4.00694,126.672997,3,8,N
 Oksibil Airport,Oksibil,Indonesia,OKL,WAJO,-4.9071,140.6277,4315,9,N
 Richmond Airport,Richmond,Australia,RCM,YRMD,-20.701900482177734,143.11500549316406,676,10,N
 RAAF Base Curtin,Derby,Australia,DCN,YCIN,-17.5813999176,123.82800293,300,8,N
-Khajuraho Airport,Khajuraho,India,HJR,VAKJ,24.817199707,79.91860198970001,728,5,30,N
+Khajuraho Airport,Khajuraho,India,HJR,VAKJ,24.817199707,79.91860198970001,728,5.30,N
 Erenhot Saiwusu International Airport,Erenhot,China,ERL,ZBER,43.4225,112.096667,3301,8,N
-Cochin International Airport,Kochi,India,COK,VOCI,10.152,76.401901,30,5,30,N
-Netaji Subhash Chandra Bose International Airport,Kolkata,India,CCU,VECC,22.654699325561523,88.44670104980469,16,5,30,N
+Cochin International Airport,Kochi,India,COK,VOCI,10.152,76.401901,30,5.30,N
+Netaji Subhash Chandra Bose International Airport,Kolkata,India,CCU,VECC,22.654699325561523,88.44670104980469,16,5.30,N
 Jumandy Airport,Tena,Ecuador,TNW,SEJD,-1.059722,-77.583333,1234,-5,S
 Zhangjiakou Ningyuan Airport,Zhangjiakou,China,ZQZ,ZBZJ,40.7386016846,114.930000305,2347,8,N
 Arxan Yi'ershi Airport,Arxan,China,YIE,ZBES,47.3106,119.9117,2925,8,N
-Kullu Manali Airport,Kulu,India,KUU,VIBR,31.876699447631836,77.15440368652344,3573,5,30,N
-Leh Kushok Bakula Rimpochee Airport,Leh,India,IXL,VILH,34.1358985901,77.5465011597,10682,5,30,N
+Kullu Manali Airport,Kulu,India,KUU,VIBR,31.876699447631836,77.15440368652344,3573,5.30,N
+Leh Kushok Bakula Rimpochee Airport,Leh,India,IXL,VILH,34.1358985901,77.5465011597,10682,5.30,N
 Hamad International Airport,Doha,Qatar,DOH,OTHH,25.273056,51.608056,13,3,N
 Beni Airport,Beni,Congo (Kinshasa),BNC,FZNP,0.575,29.4739,3517,1,U
 Dharavandhoo Airport,DHARAVANDHOO,Maldives,DRV,VRMD,5.1561,73.1302,6,5,N
 Saumlaki/Olilit Airport,Saumlaki,Indonesia,SXK,WAPI,-7.9886097908,131.305999756,218,9,N
 Kongolo Airport,Kongolo,Congo (Kinshasa),KOO,FZRQ,-5.39444,26.99,1850,1,U
-Chaudhary Charan Singh International Airport,Lucknow,India,LKO,VILK,26.7605991364,80.8892974854,410,5,30,N
+Chaudhary Charan Singh International Airport,Lucknow,India,LKO,VILK,26.7605991364,80.8892974854,410,5.30,N
 Jinchuan Airport,Jinchuan,China,JIC,ZLJC,38.542222222199996,102.348333333,4740,8,U
 Alashankou Bole (Bortala) airport,Bole,China,BPL,ZWAX,44.895,82.3,1253,8,N
-Ludhiana Airport,Ludhiaha,India,LUH,VILD,30.854700088500977,75.95259857177734,834,5,30,N
-Chennai International Airport,Madras,India,MAA,VOMM,12.990005493164062,80.16929626464844,52,5,30,N
-Madurai Airport,Madurai,India,IXM,VOMD,9.83450984955,78.09339904790001,459,5,30,N
-Mangalore International Airport,Mangalore,India,IXE,VOML,12.9612998962,74.8900985718,337,5,30,N
-Dibrugarh Airport,Mohanbari,India,DIB,VEMN,27.4839000702,95.0168991089,362,5,30,N
-Chhatrapati Shivaji International Airport,Mumbai,India,BOM,VABB,19.0886993408,72.8678970337,39,5,30,N
-Dr. Babasaheb Ambedkar International Airport,Nagpur,India,NAG,VANP,21.092199325561523,79.04720306396484,1033,5,30,N
-Lok Nayak Jayaprakash Airport,Patina,India,PAT,VEPT,25.591299057,85.0879974365,170,5,30,N
-Porbandar Airport,Porbandar,India,PBD,VAPR,21.6487007141,69.65720367429999,23,5,30,N
-Vir Savarkar International Airport,Port Blair,India,IXZ,VOPB,11.641200065612793,92.72969818115234,14,5,30,N
-Pune Airport,Pune,India,PNQ,VAPO,18.58209991455078,73.9197006225586,1942,5,30,N
-Raipur Airport,Raipur,India,RPR,VARP,21.180401,81.7388,1041,5,30,N
-Rajahmundry Airport,Rajahmundry,India,RJA,VORY,17.1103992462,81.81819915770001,151,5,30,N
-Rajkot Airport,Rajkot,India,RAJ,VARK,22.3092002869,70.77950286869999,441,5,30,N
-Birsa Munda Airport,Ranchi,India,IXR,VERC,23.314300537100003,85.3217010498,2148,5,30,N
-Shillong Airport,Shillong,India,SHL,VEBI,25.70359992980957,91.97869873046875,2910,5,00,N
-Silchar Airport,Silchar,India,IXS,VEKU,24.9129009247,92.97869873050001,352,5,30,N
-Sheikh ul Alam Airport,Srinagar,India,SXR,VISR,33.987098693847656,74.77420043945312,5429,5,30,N
-Surat Airport,Surat,India,STV,VASU,21.1140995026,72.7417984009,16,5,30,N
-Tiruchirapally Civil Airport Airport,Tiruchirappalli,India,TRZ,VOTR,10.765399932861328,78.70970153808594,288,5,30,N
-Tirupati Airport,Tirupeti,India,TIR,VOTP,13.632499694800002,79.543296814,350,5,30,N
-Trivandrum International Airport,Trivandrum,India,TRV,VOTV,8.48211956024,76.9200973511,15,5,30,N
-Maharana Pratap Airport,Udaipur,India,UDR,VAUD,24.617700576799997,73.89610290530001,1684,5,30,N
-Lal Bahadur Shastri Airport,Varanasi,India,VNS,VIBN,25.4524002075,82.8592987061,266,5,30,N
-Vijayawada Airport,Vijayawada,India,VGA,VOBZ,16.530399322509766,80.79679870605469,82,5,30,N
-Vishakhapatnam Airport,Vishakhapatnam,India,VTZ,VEVZ,17.721200943,83.2245025635,15,5,30,N
-Abadan Airport,Abadan,Iran,ABD,OIAA,30.371099472,48.2282981873,10,3,30,E
-Ahwaz Airport,Ahwaz,Iran,AWZ,OIAW,31.337400436399996,48.7620010376,66,3,30,E
-Ardabil Airport,Ardabil,Iran,ADU,OITL,38.3256988525,48.4244003296,4315,3,00,E
-Shahid Ashrafi Esfahani Airport,Bakhtaran,Iran,KSH,OICC,34.3459014893,47.1581001282,4307,3,30,E
-Bam Airport,Bam,Iran,BXR,OIKM,29.084199905395508,58.45000076293945,3231,3,00,E
-Bandar Abbas International Airport,Bandar Abbas,Iran,BND,OIKB,27.218299865722656,56.37779998779297,22,3,30,E
-Bandar Lengeh Airport,Bandar Lengeh,Iran,BDH,OIBL,26.531999588,54.824798584,67,3,30,E
-Mahshahr Airport,Bandar Mahshahr,Iran,MRX,OIAM,30.55620002746582,49.15190124511719,8,3,30,E
-Birjand Airport,Birjand,Iran,XBJ,OIMB,32.898101806640625,59.2661018371582,4952,3,30,E
-Bojnord Airport,Bojnourd,Iran,BJB,OIMN,37.49300003051758,57.30820083618164,3499,3,00,E
-Bushehr Airport,Bushehr,Iran,BUZ,OIBB,28.9447994232,50.8345985413,68,3,30,E
-Konarak Airport,Chah Bahar,Iran,ZBR,OIZC,25.443300247199996,60.3820991516,43,3,30,E
-Dasht-e Naz Airport,Dasht-e-naz,Iran,SRY,OINZ,36.635799408,53.193599700899995,35,3,00,E
-Dezful Airport,Dezful,Iran,DEF,OIAD,32.434399,48.397598,474,3,30,E
-Esfahan Shahid Beheshti International Airport,Esfahan,Iran,IFN,OIFM,32.75080108642578,51.86130142211914,5059,3,30,E
-Gachsaran Airport,Gachsaran,Iran,GCH,OIAH,30.337600708,50.827999115,2414,3,30,E
-Gorgan Airport,Gorgan,Iran,GBT,OING,36.909400939899996,54.4012985229,-24,3,00,E
-Hamadan Airport,Hamadan,Iran,HDM,OIHH,34.86920166015625,48.5525016784668,5755,3,00,E
-Ilam Airport,Ilam,Iran,IIL,OICI,33.58660125732422,46.40480041503906,4404,3,00,E
-Kerman Airport,Kerman,Iran,KER,OIKK,30.274400711099997,56.9510993958,5741,3,30,E
-Persian Gulf International Airport,Khalije Fars,Iran,PGU,OIBP,27.379601,52.737701,27,3,00,U
-Khoram Abad Airport,Khorram Abad,Iran,KHD,OICK,33.43539810180664,48.282901763916016,3782,3,00,E
-Khoy Airport,Khoy,Iran,KHY,OITK,38.4275016784668,44.97359848022461,3981,3,30,E
-Kish International Airport,Kish Island,Iran,KIH,OIBK,26.5261993408,53.980201721200004,101,3,30,E
-Lamerd Airport,Lamerd,Iran,LFM,OISR,27.3726997375,53.18880081179999,1337,3,30,E
-Lar Airport,Lar,Iran,LRR,OISL,27.6746997833,54.3833007812,2641,3,00,E
-Mashhad International Airport,Mashhad,Iran,MHD,OIMM,36.235198974609375,59.64099884033203,3263,3,00,E
-Noshahr Airport,Noshahr,Iran,NSH,OINN,36.663299560546875,51.464698791503906,-61,3,00,E
-Parsabade Moghan Airport,Parsabad,Iran,PFQ,OITP,39.60359954834,47.881500244141,251,3,00,E
-Ramsar Airport,Ramsar,Iran,RZR,OINR,36.9099006652832,50.67959976196289,-70,3,30,E
-Sardar-e-Jangal Airport,Rasht,Iran,RAS,OIGG,37.323333,49.617778,-40,3,30,E
-Sabzevar National Airport,Sabzevar,Iran,AFZ,OIMS,36.16809844970703,57.59519958496094,3010,3,00,E
-Sanandaj Airport,Sanandaj,Iran,SDG,OICS,35.24589920043945,47.00920104980469,4522,3,30,E
-Shiraz Shahid Dastghaib International Airport,Shiraz,Iran,SYZ,OISS,29.539199829101562,52.58980178833008,4920,3,30,E
-Sirri Island Airport,Siri Island,Iran,SXI,OIBS,25.908899307250977,54.539398193359375,43,3,30,E
-Tabriz International Airport,Tabriz,Iran,TBZ,OITT,38.1338996887207,46.23500061035156,4459,3,30,E
-Mehrabad International Airport,Teheran,Iran,THR,OIII,35.68920135498047,51.31340026855469,3962,3,30,E
-Imam Khomeini International Airport,Tehran,Iran,IKA,OIIE,35.416099548339844,51.152198791503906,3305,3,00,E
-Urmia Airport,Uromiyeh,Iran,OMH,OITR,37.6680984497,45.0686988831,4343,3,00,E
-Yasouj Airport,Yasuj,Iran,YES,OISY,30.700500488281,51.545101165771,5939,3,00,U
-Shahid Sadooghi Airport,Yazd,Iran,AZD,OIYY,31.9048995972,54.2765007019,4054,3,30,E
-Zabol Airport,Zabol,Iran,ACZ,OIZB,31.09830093383789,61.54389953613281,1628,3,30,E
-Zahedan International Airport,Zahedan,Iran,ZAH,OIZH,29.47570037841797,60.90620040893555,4564,3,30,E
+Ludhiana Airport,Ludhiaha,India,LUH,VILD,30.854700088500977,75.95259857177734,834,5.30,N
+Chennai International Airport,Madras,India,MAA,VOMM,12.990005493164062,80.16929626464844,52,5.30,N
+Madurai Airport,Madurai,India,IXM,VOMD,9.83450984955,78.09339904790001,459,5.30,N
+Mangalore International Airport,Mangalore,India,IXE,VOML,12.9612998962,74.8900985718,337,5.30,N
+Dibrugarh Airport,Mohanbari,India,DIB,VEMN,27.4839000702,95.0168991089,362,5.30,N
+Chhatrapati Shivaji International Airport,Mumbai,India,BOM,VABB,19.0886993408,72.8678970337,39,5.30,N
+Dr. Babasaheb Ambedkar International Airport,Nagpur,India,NAG,VANP,21.092199325561523,79.04720306396484,1033,5.30,N
+Lok Nayak Jayaprakash Airport,Patina,India,PAT,VEPT,25.591299057,85.0879974365,170,5.30,N
+Porbandar Airport,Porbandar,India,PBD,VAPR,21.6487007141,69.65720367429999,23,5.30,N
+Vir Savarkar International Airport,Port Blair,India,IXZ,VOPB,11.641200065612793,92.72969818115234,14,5.30,N
+Pune Airport,Pune,India,PNQ,VAPO,18.58209991455078,73.9197006225586,1942,5.30,N
+Raipur Airport,Raipur,India,RPR,VARP,21.180401,81.7388,1041,5.30,N
+Rajahmundry Airport,Rajahmundry,India,RJA,VORY,17.1103992462,81.81819915770001,151,5.30,N
+Rajkot Airport,Rajkot,India,RAJ,VARK,22.3092002869,70.77950286869999,441,5.30,N
+Birsa Munda Airport,Ranchi,India,IXR,VERC,23.314300537100003,85.3217010498,2148,5.30,N
+Shillong Airport,Shillong,India,SHL,VEBI,25.70359992980957,91.97869873046875,2910,5,N
+Silchar Airport,Silchar,India,IXS,VEKU,24.9129009247,92.97869873050001,352,5.30,N
+Sheikh ul Alam Airport,Srinagar,India,SXR,VISR,33.987098693847656,74.77420043945312,5429,5.30,N
+Surat Airport,Surat,India,STV,VASU,21.1140995026,72.7417984009,16,5.30,N
+Tiruchirapally Civil Airport Airport,Tiruchirappalli,India,TRZ,VOTR,10.765399932861328,78.70970153808594,288,5.30,N
+Tirupati Airport,Tirupeti,India,TIR,VOTP,13.632499694800002,79.543296814,350,5.30,N
+Trivandrum International Airport,Trivandrum,India,TRV,VOTV,8.48211956024,76.9200973511,15,5.30,N
+Maharana Pratap Airport,Udaipur,India,UDR,VAUD,24.617700576799997,73.89610290530001,1684,5.30,N
+Lal Bahadur Shastri Airport,Varanasi,India,VNS,VIBN,25.4524002075,82.8592987061,266,5.30,N
+Vijayawada Airport,Vijayawada,India,VGA,VOBZ,16.530399322509766,80.79679870605469,82,5.30,N
+Vishakhapatnam Airport,Vishakhapatnam,India,VTZ,VEVZ,17.721200943,83.2245025635,15,5.30,N
+Abadan Airport,Abadan,Iran,ABD,OIAA,30.371099472,48.2282981873,10,3.30,E
+Ahwaz Airport,Ahwaz,Iran,AWZ,OIAW,31.337400436399996,48.7620010376,66,3.30,E
+Ardabil Airport,Ardabil,Iran,ADU,OITL,38.3256988525,48.4244003296,4315,3.30,E
+Shahid Ashrafi Esfahani Airport,Bakhtaran,Iran,KSH,OICC,34.3459014893,47.1581001282,4307,3.30,E
+Bam Airport,Bam,Iran,BXR,OIKM,29.084199905395508,58.45000076293945,3231,3.00,E
+Bandar Abbas International Airport,Bandar Abbas,Iran,BND,OIKB,27.218299865722656,56.37779998779297,22,3.30,E
+Bandar Lengeh Airport,Bandar Lengeh,Iran,BDH,OIBL,26.531999588,54.824798584,67,3.30,E
+Mahshahr Airport,Bandar Mahshahr,Iran,MRX,OIAM,30.55620002746582,49.15190124511719,8,3.30,E
+Birjand Airport,Birjand,Iran,XBJ,OIMB,32.898101806640625,59.2661018371582,4952,3.30,E
+Bojnord Airport,Bojnourd,Iran,BJB,OIMN,37.49300003051758,57.30820083618164,3499,3,E
+Bushehr Airport,Bushehr,Iran,BUZ,OIBB,28.9447994232,50.8345985413,68,3.30,E
+Konarak Airport,Chah Bahar,Iran,ZBR,OIZC,25.443300247199996,60.3820991516,43,3.30,E
+Dasht-e Naz Airport,Dasht-e-naz,Iran,SRY,OINZ,36.635799408,53.193599700899995,35,3,E
+Dezful Airport,Dezful,Iran,DEF,OIAD,32.434399,48.397598,474,3.30,E
+Esfahan Shahid Beheshti International Airport,Esfahan,Iran,IFN,OIFM,32.75080108642578,51.86130142211914,5059,3.30,E
+Gachsaran Airport,Gachsaran,Iran,GCH,OIAH,30.337600708,50.827999115,2414,3.30,E
+Gorgan Airport,Gorgan,Iran,GBT,OING,36.909400939899996,54.4012985229,-24,3,E
+Hamadan Airport,Hamadan,Iran,HDM,OIHH,34.86920166015625,48.5525016784668,5755,3,E
+Ilam Airport,Ilam,Iran,IIL,OICI,33.58660125732422,46.40480041503906,4404,3,E
+Kerman Airport,Kerman,Iran,KER,OIKK,30.274400711099997,56.9510993958,5741,3.30,E
+Persian Gulf International Airport,Khalije Fars,Iran,PGU,OIBP,27.379601,52.737701,27,3,U
+Khoram Abad Airport,Khorram Abad,Iran,KHD,OICK,33.43539810180664,48.282901763916016,3782,3,E
+Khoy Airport,Khoy,Iran,KHY,OITK,38.4275016784668,44.97359848022461,3981,3.30,E
+Kish International Airport,Kish Island,Iran,KIH,OIBK,26.5261993408,53.980201721200004,101,3.30,E
+Lamerd Airport,Lamerd,Iran,LFM,OISR,27.3726997375,53.18880081179999,1337,3,E
+Lar Airport,Lar,Iran,LRR,OISL,27.6746997833,54.3833007812,2641,3,E
+Mashhad International Airport,Mashhad,Iran,MHD,OIMM,36.235198974609375,59.64099884033203,3263,3,E
+Noshahr Airport,Noshahr,Iran,NSH,OINN,36.663299560546875,51.464698791503906,-61,3,E
+Parsabade Moghan Airport,Parsabad,Iran,PFQ,OITP,39.60359954834,47.881500244141,251,3,E
+Ramsar Airport,Ramsar,Iran,RZR,OINR,36.9099006652832,50.67959976196289,-70,3.30,E
+Sardar-e-Jangal Airport,Rasht,Iran,RAS,OIGG,37.323333,49.617778,-40,3.30,E
+Sabzevar National Airport,Sabzevar,Iran,AFZ,OIMS,36.16809844970703,57.59519958496094,3010,3,E
+Sanandaj Airport,Sanandaj,Iran,SDG,OICS,35.24589920043945,47.00920104980469,4522,3.30,E
+Shiraz Shahid Dastghaib International Airport,Shiraz,Iran,SYZ,OISS,29.539199829101562,52.58980178833008,4920,3.30,E
+Sirri Island Airport,Siri Island,Iran,SXI,OIBS,25.908899307250977,54.539398193359375,43,3.30,E
+Tabriz International Airport,Tabriz,Iran,TBZ,OITT,38.1338996887207,46.23500061035156,4459,3.30,E
+Mehrabad International Airport,Teheran,Iran,THR,OIII,35.68920135498047,51.31340026855469,3962,3.30,E
+Imam Khomeini International Airport,Tehran,Iran,IKA,OIIE,35.416099548339844,51.152198791503906,3305,3,E
+Urmia Airport,Uromiyeh,Iran,OMH,OITR,37.6680984497,45.0686988831,4343,3,E
+Yasouj Airport,Yasuj,Iran,YES,OISY,30.700500488281,51.545101165771,5939,3,U
+Shahid Sadooghi Airport,Yazd,Iran,AZD,OIYY,31.9048995972,54.2765007019,4054,3.30,E
+Zabol Airport,Zabol,Iran,ACZ,OIZB,31.09830093383789,61.54389953613281,1628,3.30,E
+Zahedan International Airport,Zahedan,Iran,ZAH,OIZH,29.47570037841797,60.90620040893555,4564,3.30,E
 Iwakuni Marine Corps Air Station,Iwakuni,Japan,IWK,RJOI,34.143902,132.235992,7,N
-Gautam Buddha Airport,Bhairawa,Nepal,BWA,VNBW,27.505685,83.416293,358,5,30,N
+Gautam Buddha Airport,Bhairawa,Nepal,BWA,VNBW,27.505685,83.416293,358,5.30,N
 Bharatpur Airport,Bharatpur,Nepal,BHR,VNBP,27.678101,84.429398,600,30,N
-Biratnagar Airport,Biratnagar,Nepal,BIR,VNVT,26.48150062561035,87.26399993896484,236,5,30,N
+Biratnagar Airport,Biratnagar,Nepal,BIR,VNVT,26.48150062561035,87.26399993896484,236,5.30,N
 Bhadrapur Airport,Chandragarhi,Nepal,BDP,VNCG,26.5708007812,88.07959747310001,300,30,N
-Dhangarhi Airport,Dhangarhi,Nepal,DHI,VNDH,28.753299713134766,80.58190155029297,690,5,45,N
-Janakpur Airport,Janakpur,Nepal,JKR,VNJP,26.708799362199997,85.9224014282,256,5,30,N
-Tribhuvan International Airport,Kathmandu,Nepal,KTM,VNKT,27.6966,85.3591,4390,5,30,N
+Dhangarhi Airport,Dhangarhi,Nepal,DHI,VNDH,28.753299713134766,80.58190155029297,690,5.45,N
+Janakpur Airport,Janakpur,Nepal,JKR,VNJP,26.708799362199997,85.9224014282,256,5.30,N
+Tribhuvan International Airport,Kathmandu,Nepal,KTM,VNKT,27.6966,85.3591,4390,5.30,N
 Nepalgunj Airport,Nepalgunj,Nepal,KEP,VNNG,28.103599548339844,81.66699981689453,540,30,N
-Pokhara Airport,Pokhara,Nepal,PKR,VNPK,28.200899124145508,83.98210144042969,2712,5,30,N
-Tumling Tar Airport,Tumling Tar,Nepal,TMI,VNTR,27.315001,87.193298,1700,5,45,N
-Pyongyang Sunan International Airport,Pyongyang,North Korea,FNJ,ZKPY,39.224098,125.669998,117,9,30,U
+Pokhara Airport,Pokhara,Nepal,PKR,VNPK,28.200899124145508,83.98210144042969,2712,5.30,N
+Tumling Tar Airport,Tumling Tar,Nepal,TMI,VNTR,27.315001,87.193298,1700,5.45,N
+Pyongyang Sunan International Airport,Pyongyang,North Korea,FNJ,ZKPY,39.224098,125.669998,117,9.30,U
 Laguindingan Airport,Cagayan de Oro City,Philippines,CGY,RPMY,8.612203,124.456496,190,N
-Bandaranaike International Colombo Airport,Colombo,Sri Lanka,CMB,VCBI,7.180759906768799,79.88410186767578,30,5,30,U
-Mattala Rajapaksa International Airport,Mattala,Sri Lanka,HRI,VCRI,6.284467,81.124128,157,5,00,N
+Bandaranaike International Colombo Airport,Colombo,Sri Lanka,CMB,VCBI,7.180759906768799,79.88410186767578,30,5.30,U
+Mattala Rajapaksa International Airport,Mattala,Sri Lanka,HRI,VCRI,6.284467,81.124128,157,5,N
 Songwe Airport,Mbeya,Tanzania,MBI,HTGW,-8.919942,33.273981,4412,N
 Nogliki Airport,Nogliki,Russia,NGK,UHSN,51.780102,143.139008,109,11,N
 Oyo Ollombo Airport,Oyo,Congo (Brazzaville),OLL,FCOD,-1.226666,15.91,1073,1,N
