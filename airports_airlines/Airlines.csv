@@ -1,0 +1,511 @@
+#Name, IATA, ICAO, Country, Active
+Indonesa Air Aisa X,ZM,IDX,Indonesia,Y
+Alghanim,ZL,KYA,United States,Y
+Norwegian Air International,ZK,IBK,Norway,Y
+Boliviana de Aviacion,ZI,BOV,Bolivia,Y
+AtlasGlobal Ukraine,ZH,UJX,Ukraine,Y
+Pouya Air,ZE,PYA,Iran,Y
+Mann Yadanarpon Airlines,ZB,MYP,Burma,Y
+BA101,Z9,710,United Kingdom,Y
+Fly Africa Zimbabwe,Z6,FZW,Zimbabwe,Y
+Jet Suite,Z4,RSP,United States,Y
+FTI Fluggesellschaft,Z3,FTI,Germany,N
+Go2Sky,Z2,RLX,Slovakia,Y
+Tomsk-Avia,YT,TKS,Russia,Y
+Simrik Airlines,YQ,RMK,Nepal,Y
+Russkie Krylya,YO,KRY,Russia,Y
+FLYJET,YM,FYJ,Poland,Y
+Comfort Express Virtual Charters Albany,YK,EVC,United States,Y
+Golden Myanmar Airlines,YC,GMR,Burma,Y
+Nurnberger Flugdienst,Y9,NFD,Germany,N
+Eastern Atlantic Charters,Y8,EDI,United States,N
+Taunus Air Gmbh,Y7,TAQ,Germany,N
+Bingo Airways,Y5,BGY,Poland,Y
+Flybe Finland Oy,Y4,FCM,Finland,Y
+Rotana Jet,XY,RJD,United Arab Emirates,Y
+East Horizon,XV,EHN,Afghanistan,Y
+Executive AirShare,XQ,XSR,United States,Y
+Air Engiadina-BRN,XL,RQX,Switzerland,N
+Malaysia Wings,XK,MWI,Malaysia,Y
+Medallion Air,WY,MDP,Romania,Y
+Direct Aero Services,WX,DSV,Romania,Y
+YES Airways,WW,YEP,Poland,Y
+AlbaStar,WU,LAV,Spain,Y
+Air Bucharest,WS,BUR,Romania,Y
+Holidays Czech Airlines,WP,HCC,Czech Republic,Y
+Air Cudlua,WN,CUD,United Kingdom,Y
+Kan Air,WM,KND,Thailand,Y
+Compania de Aviacion Faucett,WJ,CFP,Peru,N
+OCEAN AIR CARGO,WF,IXO,India,Y
+SUR Lineas Aereas,WB,SZZ,Argentina,Y
+CBM America,W9,XBM,United States,Y
+Finlandian,W6,FN1,Finland,Y
+Zapolyarie Airlines,W5,PZY,Russia,Y
+Korea Express Air,W3,KEA,South Korea,Y
+Jupiter Airlines,W2,JPU,United Arab Emirates,Y
+Grand China Air,VY,GDC,China,Y
+Flugfelag Vestmannaeyja,VX,FVM,Iceland,Y
+Norlandair,VW,FNA,Iceland,Y
+Sevenair,VT,SEN,Tunisia,Y
+Wind Rose Aviation,VS,WRC,Ukraine,Y
+Air Italy Egypt,VR,EUD,Egypt,Y
+EgyptAir Express,VQ,MSE,Egypt,Y
+Air 26,VN,DCD,Angola,Y
+Air Century,VJ,CEY,Dominican Republic,Y
+Southern Air Charter,VH,SOA,Bahamas,Y
+Enerjet,VF,ENJ,Canada,Y
+LIO Flugmennt,VB,LIO,Iceland,N
+Hellenic Star Airways,VA,HST,Greece,N
+Inter European Airways,V9,IEA,United Kingdom,N
+Dan-Air London,V7,DAN,United Kingdom,N
+Zorex,V3,ORZ,Spain,N
+Zhez Air,V0,KZH,Kazakhstan,N
+Zhejiang Airlines,UY,CJG,China,N
+Zephyr Express,UX,RZR,United States,N
+Zenith Air,UU,AZR,South Africa,N
+Zantop International Airlines,US,ZAN,United States,N
+Zanair,UR,TAN,Tanzania,Y
+Zaire Aero Service,UP,ZAI,Democratic Republic of Congo,N
+Zagros Airlines,UO,IZG,Iran,N
+Z-Avia,UN,RZV,Armenia,N
+Yuzhmashavia,UM,UMK,Ukraine,Y
+Yuzhnaya Aircompany,UL,UGN,Kazakhstan,N
+Yellow Wings Air Services,UJ,ELW,Kenya,N
+Yak-Service,UG,AKY,Russia,N
+Xerox Corporation,UE,XER,United States,N
+Xclusive Jet Charter Limited,UD,XJC,United Kingdom,N
+XP Internation,UA,XPS,Netherlands,N
+Worldwide Jet Charter,U6,WWI,United States,N
+Woodgate Executive Air Charter,U2,CWY,United Kingdom,N
+Wisman Aviation,TZ,WSM,United States,N
+Winlink,TY,WIN,Saint Lucia,N
+Wings of Lebanon Aviation,TX,WLB,Lebanon,N
+Wings Aviation,TW,WOL,Guyana,N
+Wings Airways,TV,WAW,United States,N
+Wings Air Transport,TU,WAT,Sudan,N
+Windrose Air,TT,QGA,Germany,N
+Wind Spirit Air,TS,WSI,United States,N
+Winair,TR,WNA,United States,N
+Williams Air,TP,WLS,United States,N
+Wiking Helikopter Service,TO,WHS,Germany,N
+Wiggins Airways,TN,WIG,United States,N
+Whyalla Airlines,TM,WWL,Australia,N
+White Eagle Aviation,TL,WEA,Poland,N
+White,TK,WHT,Portugal,N
+Westland Helicopters,TJ,WHE,United Kingdom,N
+Western Aviators,TG,WTV,United States,N
+Western Arctic Air,TF,WAL,Canada,N
+Western Air,TD,WST,Bahamas,N
+Westair Aviation,TA,WAA,Namibia,N
+West Coast Airlines,T7,WCG,Ghana,N
+West Air Luxembourg,T5,WLX,Luxembourg,N
+West African Airlines,T3,WSF,Benin,N
+Welch Aviation,SZ,TDB,United States,N
+Weasua Air Transport Company,SY,WTC,Liberia,N
+Warbelow's Air Ventures,SX,WAV,United States,N
+Wapiti Aviation,SW,WPT,Canada,N
+Walter I Linkoping,SV,GOT,Sweden,N
+Walsten Air Services,SU,WAS,Canada,N
+Walmart Aviation,ST,CGG,United States,N
+WSI Corporation,SS,XWS,United States,N
+WRA Inc,SQ,WRR,United States,N
+Volga Aviaexpress,SN,WLG,Russia,N
+Vuelos Internos Privados VIP,SK,VUR,Ecuador,N
+Vointeh,SJ,VTV,Bulgaria,N
+Victor Tagle Larrain,SI,VTL,Chile,N
+Voronezh Aircraft Manufacturing Society,SG,VSO,Russia,N
+Vickers Limited,SE,VSB,United Kingdom,N
+Voar Lda,SD,VRL,Angola,N
+Volare Airlines,SC,VRE,Ukraine,N
+Vertair,SB,VRA,United Kingdom,N
+VIP-Avia,SA,VPV,Georgia,N
+VIP Air,S9,VPA,Slovakia,N
+Vertical-T Air Company,S7,VLT,Russia,N
+Vistajet,S6,VJT,Canada,N
+Viking Airlines,S4,VIK,Sweden,N
+Vichi,S3,VIH,Moldova,N
+Vega Aviation,S2,VIG,Sudan,N
+VZ Flights,RX,VFT,Mexico,N
+Viscount Air Service,RQ,VCT,United States,N
+VIM-Aviaservice,RO,MVY,Russia,N
+Veritair Ltd,RL,BTP,United Kingdom,N
+Vega Air Company,RJ,WGA,Ukraine,N
+Vega,RI,VAG,Kazakhstan,N
+Valan Limited,RC,VLN,Moldova,N
+Vacationair,RA,VAC,Canada,N
+Universal Airlines,R3,UVG,Guyana,N
+Universal Airways,R2,UVA,United States,N
+UTAGE,QZ,UTG,Equatorial Guinea,N
+US Check Airlines,QV,USC,United States,N
+Uraiavia,QU,URV,Russia,N
+Unsped Paket Servisi,QS,UNS,Turkey,N
+Universal Jet,QR,UNJ,Spain,N
+Ukraine Air Alliance,QN,UKL,Ukraine,N
+Universal Jet Aviation,QL,UJT,United States,N
+Uganda Airlines,QH,UGA,Uganda,N
+UFS,QG,UFS,United States,N
+Ues-Avia Aircompany,QF,UES,Ukraine,N
+United Arab Emirates Air Force,QC,UAF,United Arab Emirates,N
+Ukraine Transavia,QB,TRB,Ukraine,N
+Universal Airlines,Q9,PNA,United States,N
+University of North Dakota,Q8,NDU,United States,N
+US Marshals Service,Q7,MSH,United States,N
+Unijet,Q6,LEA,France,N
+University Air Squadron,Q3,UAJ,United Kingdom,N
+University Air Squadron,Q2,UAD,United Kingdom,N
+United States Department Of Agriculture,PZ,AGR,United States,N
+United States Coast Guard Auxiliary,PY,CGX,United States,N
+United Kingdom Royal VIP Flights,PX,TQF,United Kingdom,N
+United Kingdom Civil Aviation Authority,PW,SDS,United Kingdom,N
+United Kingdom Royal VIP Flight,PV,KRH,United Kingdom,N
+United Arabian Airlines,PS,UAB,Sudan,N
+US Army Parachute Team,PR,GKA,United States,N
+United Kingdom Civil Aviation Authority,PQ,EXM,United Kingdom,N
+Travel Express Aviation Services,PN,XAR,Indonesia,N
+Taxi de Veracruz,PM,VRC,Mexico,N
+Tag Aviation UK,PL,VIP,United Kingdom,N
+Transaven,PK,VEN,Venezuela,N
+Transarabian Transportation Services,PJ,UTT,Uganda,N
+TAPC Aviatrans Aircompany,PI,UTM,Uzbekistan,N
+Trans Asian Airlines,PG,SRT,Kazakhstan,N
+Trans Am Compania,PE,RTM,Ecuador,N
+Tbilisi Aviation University,PD,RRY,Georgia,N
+Tas Aviation,PC,RMS,United States,N
+Trans-Pacific Orient Airways,P9,PCW,Philippines,N
+Transportacion Aerea Del Mar De Cortes,P0,MCT,Mexico,N
+Top Sky International,OZ,LKW,Indonesia,N
+The Army Aviation Heritage Foundation,OY,LEG,United States,N
+The Lancair Company,OX,LCC,United States,N
+Transaviabaltika,OV,KTB,Lithuania,N
+Transcontinental Airlines,OU,KRA,Kazakhstan,N
+Trading Air Cargo,OR,JCH,Mauritania,N
+Tango Bravo,ON,HTO,France,N
+TAF Helicopters,OM,HET,Spain,N
+Tradewind Aviation,OK,GPD,United States,N
+Trans-Air-Link,OJ,GJB,United States,N
+Transportes Aereos Don Carlos,OD,DCL,Chile,N
+Tashkent Aircraft Production Corporation,OB,CTP,Uzbekistan,N
+Triple Alpha,OA,CLU,Germany,N
+Tiphook PLC,O6,BOX,United Kingdom,N
+Tajikstan,NZ,TZK,Tajikistan,N
+Transporte Aereo Ernesto Saenz,NY,TZE,Mexico,N
+Tyrol Air Ambulance,NX,TYW,Austria,N
+Texas Air Charters,NU,TXT,United States,N
+Texas Airlines,NT,TXS,United States,N
+Taxirey,NS,TXR,Mexico,N
+Taxi Aereo Cozatl,NP,TXL,Mexico,N
+Twinjet Aircraft Sales,NL,TWJ,United Kingdom,N
+Transwede Airways,NK,TWE,Sweden,N
+Trabajos Aereos Vascongados,NH,TVH,Spain,N
+Tuna Aero,NF,TUZ,Sweden,N
+Taftan Airlines,N3,SBT,Iran,N
+Tramson Limited,MU,TRR,Sudan,N
+Trans Euro Air,MR,TRJ,United Kingdom,N
+Trans Air Charter,MO,TRC,United States,N
+Transportacion Aerea De Queretaro,MN,TQR,Mexico,N
+Taquan Air Services,MM,TQN,United States,N
+Transportes Aereos De Xalapa,MK,TPX,Mexico,N
+Thai Pacific Airlines Business,MJ,TPV,Thailand,N
+Trans American Airlines (Trans Am),MI,TPU,Peru,N
+Taxis Aereos De Parral,MF,TPR,Mexico,N
+Transpac Express,ME,TPP,Australia,N
+Transportacion Aerea del Norte,MD,TPN,Mexico,N
+Top Speed,M9,TPD,Austria,N
+Twin Town Leasing Company,M6,TNY,United States,N
+Trener Ltd,M5,TNX,Hungary,N
+Transnorthern,M4,TNV,United States,N
+Trans Air-Benin,LY,TNB,Benin,N
+Tranporte Amazonair,LX,TMZ,Venezuela,N
+Transportes Aereos del Mundo Maya,LW,TMY,Mexico,N
+Tramon Air,LV,TMX,South Africa,N
+Temsco Helicopters,LT,TMS,United States,N
+Timberline Air,LS,TMR,Canada,N
+TRAM,LR,TMQ,Mauritania,N
+Tamir Airways,LO,TMI,Israel,N
+Taxis Turisticos Marakame,LN,TMH,Mexico,N
+Top-Fly,LM,TLY,Spain,N
+TLC Air,LJ,TLS,United States,N
+Tunisavia,LI,TAJ,Tunisia,N
+Eagle Canyon Airlines,LH,TLO,United States,N
+Trans Atlantic Airlines,LG,TLL,Sierra Leone,N
+Transport Africa,LF,TLF,Sierra Leone,N
+Tikal Jets Airlines,LC,TKC,Guatemala,N
+Tajikair,LA,TJK,Tajikistan,N
+Travel International Air Charters,L6,TIC,Zambia,N
+Toumai Air Tchad,KY,THE,Chad,N
+Tar Heel Aviation,KX,THC,United States,N
+Transport Canada,KU,TGO,Canada,N
+Transportes Aereos Regionales,KS,TGI,Mexico,N
+Trabajos Aereos,KR,TGE,Spain,N
+TG Aviation,KQ,TGC,United Kingdom,N
+Transafrik International,KN,TFK,Sao Tome and Principe,N
+Transport Facilitators,KM,TFI,United States,N
+Thai Flying Helicopter Service,KL,TFH,Thailand,N
+Trabajos Aereos Murcianos,KK,AIM,Spain,N
+Telford Aviation,KE,TEL,United States,N
+Tecnicas Fotograficas,KC,TEF,Spain,N
+Tenir Airlines,KB,TEB,Kyrgyzstan,N
+Tradewinds Airlines,KA,TDX,United States,N
+Tadair,K6,TDC,Spain,N
+Transcontinental Sur,K5,TCT,Uruguay,N
+Trans Continental Airlines,K3,TCN,United States,N
+Teledyne Continental Motors,K2,TCM,United States,N
+Trans Continental Airlines,JY,TCC,Sudan,N
+Tobago Express,JW,TBX,Trinidad and Tobago,N
+Taban Air Lines,JU,TBM,Iran,N
+TAB Express International,JT,TBI,United States,N
+Trinity Air Bahamas,JS,TBH,Bahamas,N
+Transbrasil,JQ,TBA,Brazil,N
+Travelair,JP,TAX,Germany,N
+Transaustralian Air Express,JN,AUC,Australia,N
+TAG Aviation USA,JL,TAG,United States,N
+Tranporte Aereo Dominicano,JJ,TAD,Dominican Republic,N
+Trans Jet Airways,JH,SWL,Sweden,N
+Skyplan Services,JE,XXS,Canada,N
+Sector Airlines,JD,XTR,Canada,N
+Stephenville Aviation Services,JB,XSN,Canada,N
+Spectrum Air Service,JA,XSA,United States,N
+SENEAM,J9,XMX,Mexico,N
+Safarilink Aviation,J8,XLK,Kenya,N
+Sirvair,J5,VRS,Mexico,N
+Stichting Vliegschool 16Hoven,J4,VGS,Netherlands,N
+Servicios Aereos Avandaro,J3,VDO,Mexico,N
+Samarkand Airways,J2,UZS,Uzbekistan,N
+Skif-Air,IZ,USK,Ukraine,N
+Servicios Aereos Universitarios,IY,UNT,Mexico,N
+Second Sverdlovsk Air Enterprise,IX,UKU,Russia,N
+S C Ion Tiriac,IR,TIH,Romania,N
+South Pacific Island Airways,IL,SPI,United States,Y
+Southern Airways,IG,SOU,United States,Y
+Sonair Servico Aereo,IE,SOR,Angola,N
+Solinair,ID,SOP,Slovenia,N
+Sunshine Air Tours,IB,SON,United States,N
+Southern Ohio Aviation Sales,I9,SOH,United States,N
+Southern Cargo Air Lines,I8,SOC,Russia,N
+Sun West Airlines,I6,SNW,United States,N
+Sun Pacific International,HZ,SNP,United States,N
+Servizi Aerei,HY,SNM,Italy,N
+Soonair Lines,HX,SNL,United States,N
+Savanah Airlines,HW,SNI,Nigeria,N
+Shans Air,HU,SNF,Russia,N
+Skyline,HR,SMT,Nigeria,N
+Samar Air,HQ,SMQ,Tajikistan,N
+Smalandsflyg,HO,SMF,Sweden,N
+Servicios Aereos La Marquesa,HN,SMD,Mexico,N
+Sabang Merauke Raya Air Charter,HM,SMC,Indonesia,N
+Super Luza,HK,SLZ,Angola,N
+Sete Linhas Aereas,HI,SLX,Brazil,N
+Servicios Aereos Slainte,HG,SLS,Mexico,N
+Salpa Aviation,HF,SLP,Sudan,N
+Servicios Aereos de Los Angeles,HD,AGE,Mexico,N
+Streamline,HA,SLE,South Africa,N
+Sakaviaservice,H2,AZG,Georgia,N
+Sky Harbor Air Service,GZ,SKD,United States,N
+Servicios De Rampa Y Mostrador,GY,RMP,Mexico,N
+Servicios Aereos Profesionales,GS,PSV,Dominican Republic,N
+Survey Udara (Penas),GR,PNS,Indonesia,N
+Servicios Aereos Premier,GQ,PMR,Mexico,N
+Servicios Intergrales De Aviacion,GL,NTG,Mexico,N
+Servicios Aereos Del Norte,GK,NTB,Mexico,N
+Servicio De Viglancia Aerea Del Ministerio De Seguridad Publica,GF,MSP,Costa Rica,N
+Servico Aereo Regional,GE,MSG,Mozambique,N
+SANSA,GA,LRS,Costa Rica,N
+Sky Limo Corporation,G9,LMO,United States,N
+Servicios Aereos Ejecutivos De La Laguna,G8,LGU,Mexico,N
+Salem,G5,KKS,Kazakhstan,N
+Sark International Airways,G4,JIM,United Kingdom,N
+Saha Airlines Services,G3,IRZ,Iran,N
+Svenska Direktflyg,FY,HSV,Sweden,N
+Servicios Ejecutivos Gosa,FV,HJE,Mexico,N
+Star XL German Airlines,FS,GXL,Germany,N
+Sky Wings Airlines,FR,GSW,Greece,N
+S.P. Aviation,FO,GDG,United States,N
+South Coast Aviation,FM,GAD,United Kingdom,N
+Sky Bus,FL,FLH,United States,N
+Shalom Air Services,FJ,FFH,Nigeria,N
+Skypower Express Airways,FG,EAN,Nigeria,N
+Sioux Falls Aviation,FE,DKT,United States,N
+Shuangyang General Aviation,FD,CSY,China,N
+Sunwest Home Aviation,FB,CNK,Canada,N
+Swedish Airlines,F9,CFL,Sweden,N
+Spectrem Air,F7,CDS,South Africa,N
+Starair,F5,BLY,Ireland,N
+Slate Falls Airways,EY,SYJ,Canada,N
+Skyways,EU,SYA,Argentina,N
+Safari Express Cargo,ET,SXY,Kenya,N
+Sky Exec Aviation Services,EQ,SXC,Nigeria,N
+Southern Cross Aviation,EP,SXA,United States,N
+Sky Jet,EO,SWY,Switzerland,N
+Swazi Express Airways,EN,SWX,Swaziland,N
+Sunwest Aviation (Lindquist Investment),EL,SWS,United States,N
+Swift Air (Interstate Equipment Leasing),EK,SWQ,United States,N
+Surninam International Victory Airline,EI,SWO,Suriname,N
+Swedeways,EG,SWE,Sweden,N
+South West Air,EF,SWC,Canada,N
+Sevastopol-Avia,E9,SVL,Ukraine,N
+Servicios De Transporte Aereo,E8,SVI,Mexico,N
+Sundance Air,E5,SUV,Venezuela,N
+Swiss Air Force,E2,SUI,Switzerland,N
+Suburban Air Freight,DZ,SUB,United States,N
+Silesia Air,DY,SUA,Czech Republic,N
+Styrian Airways,DX,STY,Austria,N
+Star Air,DV,STQ,Indonesia,N
+Sella Aviation,DT,STJ,Netherlands,N
+Stadium City Limited,DN,STC,United Kingdom,N
+Star Aviation,DL,STA,United Kingdom,N
+Starspeed,DH,SSP,United Kingdom,N
+Special Scope Limited,DG,SSO,United Kingdom,N
+Slovak Government Flying Service,DE,SSG,Slovakia,N
+Severstal,DD,SSF,Russia,N
+Servicios Aereos Sunset,DC,SSE,Mexico,N
+Star Up,D7,SRU,Peru,N
+Selkirk Remote Sensing,D6,SRS,Canada,N
+Servicios Aeronauticos Aero Personal,D3,SRL,Mexico,N
+Searca,D2,SRC,Colombia,N
+Servicos De Alquiler,CZ,SQL,Mexico,N
+Slovak Air Force,CY,SQF,Slovakia,N
+Southeast Airmotive,CU,SPU,United States,N
+Saber Airlines,CN,SIS,Egypt,N
+Salair,CM,SIR,United States,N
+Seco International,CI,SIJ,Japan,N
+Sky Airlines,CG,SHY,Turkey,N
+Shawnee Airline,CE,SHW,United States,N
+Shooter Air Courier,CC,SHR,Canada,N
+Sheremetyevo-Cargo,CA,SHO,Russia,N
+Samson Aviation,C8,SHL,United Kingdom,N
+STAC Swiss Government Flights,BX,SGF,Switzerland,N
+Sky Gate International Aviation,BW,SGD,Kyrgyzstan,N
+Southern Right Air Charter,BV,SGC,South Africa,N
+Solent Flight,BU,SFU,United Kingdom,N
+Skyfreight,BT,SFT,United States,N
+Safe Air,BR,SFP,Pakistan,N
+Sun Freight Logistics,BP,SFG,Thailand,N
+Servicio Aereo Saltillo,BM,SES,Mexico,N
+Selcon Airlines,BL,SEO,Nigeria,N
+Sentel Corporation,BK,SEL,United States,N
+Skyjet,BJ,SEK,Kazakhstan,N
+Shaheen Air Cargo,BI,SEE,Pakistan,N
+Sedona Air Center,BH,SED,United States,N
+Servicios Aereos Luce,BG,SEB,Mexico,N
+Servicio Tecnico Aero De Mexico,BE,SDX,Mexico,N
+Sud Airlines,BC,SDU,France,N
+Spirit of Africa Airlines,BB,SDN,Sudan,N
+Skydrift,BA,SDL,United Kingdom,N
+SADELCA - Sociedad Aerea Del Caqueta,B9,SDK,Colombia,N
+Sundorph Aeronautical Corporation,B7,SDF,United States,N
+Skymaster Air Taxi,B6,SDD,United States,N
+South African Non Scheduled Airways,B2,SCS,South Africa,N
+Sunbird Airlines,AZ,CDL,United States,N
+Servicios Aereos de Chihuahua Aerochisa,AY,AHI,Mexico,N
+Servicios Aereos San Cristobal,AW,SCI,Mexico,N
+Socofer,AV,SCF,Angola,N
+Seacoast Airlines,AT,SCC,United States,N
+South Central Air,AS,SCA,United States,N
+Spanish Air Force,AR,AME,Spain,N
+Saint Barth Commuter,AP,SBU,France,N
+Sky Bahamas,AM,SBM,Bahamas,N
+Seven Bar Flying Service,AK,SBF,United States,N
+STA-MALI,AI,SBA,Mali,N
+Swiss Air-Ambulance,AH,SAZ,Switzerland,N
+Sham Wing Airlines,AF,SAW,Syrian Arab Republic,N
+Samal Air,AE,SAV,Kazakhstan,N
+Secretaria de Marina,AD,ANX,Mexico,N
+Sahel Aviation Service,AC,SAO,Mali,N
+Servicios Aereos Nacionales,AB,SAN,Ecuador,N
+SAM Colombia,AA,SAM,Colombia,N
+Red Arrows Display Squadron,A9,SAK,United Kingdom,N
+SASCO Airlines,A5,SAC,Sudan,N
+State Air Company Berkut,A3,BEC,Kazakhstan,N
+Rynes Aviation,A2,RAA,United States,N
+Rwanda Airlines,9W,RUA,Rwanda,N
+Rutland Aviation,9V,RND,United Kingdom,N
+Rutas Aereas,9U,RUC,Venezuela,N
+Rusline,9R,RLU,Russia,Y
+Rubystar,9K,RSB,Belarus,N
+Royal Phnom Penh Airways,9E,PPW,Cambodia,Y
+Royal Oman Police,9C,ROP,Oman,N
+Royal Daisy Airlines,8V,KDR,Uganda,N
+Royal Bahrain Airlines,8U,RYB,Bahrain,N
+Royal Aviation Express,8T,RXP,Canada,N
+Royal American Airways,8R,RLM,United States,N
+Royal Air Force,8Q,RRF,United Kingdom,N
+Royal Air Force,8P,RRR,United Kingdom,N
+Rover Airways International,8M,ROV,United States,N
+Rotormotion,8L,RKT,United Kingdom,N
+Rossair,8I,RSS,South Africa,N
+Roraima Airways,8E,ROR,Guyana,N
+Rog-Air,8B,FAD,Canada,N
+Rivne Universal Avia,7R,UNR,Ukraine,N
+River Ministries Air Charter,7P,RVM,South Africa,N
+Rikspolisstyrelsen,7M,POL,Sweden,N
+Ridder Avia,7J,RID,Kazakhstan,N
+Rick Lucas Helicopters,7I,HPR,New Zealand,N
+Richland Aviation,7H,RCA,United States,N
+Richardson's Airway,7G,RIC,United States,N
+Richards Aviation,7F,RVC,United States,N
+Riau Airlines,7C,RIU,Indonesia,N
+Renown Aviation,6Y,RGS,United States,N
+Renan,6W,RAN,Moldova,N
+Regional Air Express,6T,REW,Germany,N
+Regional Air,6R,RIL,Mauritania,N
+Reef Air,6I,REF,New Zealand,N
+Reed Aviation,6H,RAV,United Kingdom,N
+Red Sea Aviation,6E,RDV,Egypt,N
+Real Aeroclub De Ternerife,5Z,RCD,Spain,N
+Raytheon Aircraft Company,5T,RTN,United States,N
+Raya Jet,5Q,RYT,Jordan,N
+Ray Aviation,5P,REI,Israel,N
+Raven Air,5N,RVN,United States,N
+Raven Air,5M,RVR,United Kingdom,N
+Rangemile Limited,5J,RGM,United Kingdom,N
+Ram Aircraft Corporation,5G,RMT,United States,N
+Race Cargo Airlines,5C,ACE,Ghana,N
+Waddington FTU,4U,WAD,United Kingdom,N
+RAF Valley SAR Training Unit,4T,VLL,United Kingdom,N
+RAF St Athan,4Q,STN,UNited Kingdom,N
+Northwood Headquarters,4O,NWO,United Kingdom,N
+Marham Flying Training Unit,4N,MRH,United Kingdom,N
+Lossiemouth Flying Training Unit,4M,LOS,United Kingdom,N
+RAF Leuchars,4K,LCS,United Kingdom,N
+Leeming Flying Training Unit,4H,LEE,United Kingdom,N
+Cranwell Flying Training Unit,4G,CWL,United Kingdom,N
+Coningsby Flying Training Unit,4D,CBY,United Kingdom,N
+Church Fenton Flying Training Unit,4B,CFN,United Kingdom,N
+Quisqueya Airlines,3U,QAS,Haiti,N
+Quick Air Jet Charter,3S,QAJ,Germany,N
+Quest Diagnostics,3R,LBQ,United States,N
+Quebec Government Air Service,3P,QUE,Canada,N
+Quantex Environmental,3O,QTX,Canada,N
+Qatar Amiri Flight,3M,QAF,Qatar,N
+Qatar Air Cargo,3L,QAC,Qatar,N
+Qanot Sharq,3K,QNT,Uzbekistan,N
+Pyramid Air Lines,3J,PYR,Egypt,N
+Puntavia Air Services,3G,PTV,Djibouti,N
+Puma Linhas Aereas,3F,PLY,Brazil,N
+Ptarmigan Airways,2Z,PTA,Canada,N
+Promotora Industria Totolapa,2P,PTT,Mexico,N
+Professione VOlare,2O,PVL,Italy,N
+Professional Express Courier Service,2N,PAD,United States,N
+Pro Air Service,2L,PSZ,United States,N
+Pro Air,2K,PRH,United States,N
+Privilege Style L,2J,PVG,Spain,N
+Private Jet Management,2I,PJA,United States,N
+Priority Aviation Company,2G,BCK,United States,N
+Princely Jets,2B,PJP,Pakistan,N
+Lynx Aviation,ZY,SSX,United States,N
+GX Airlines,ZX,CBG,China,Y
+Tianjin Airlines,VE,GCR,China,N
+Cathay Pacific,CX,CPA,Hong Kong SAR of China,Y
+Continental Airlines,CO,COA,United States,Y
+Orbest,VG,OBS,Portugal,Y
+Mauritania Airways,VO,MTW,Mauritania,Y
+Transportes Aereos Cielos Andinos,VK,NDN,Peru,Y
+Transportes Aereos de Ixtlan,K7,TDI,Mexico,N
+Taxi Aereo Turistico,NC,TUO,Mexico,N
+Tempelhof Airways,KD,TEH,United States,N
+Tech-Mont Helicopter Company,KF,TEM,Slovakia,N
+Sefofane Air Charters,BN,SFE,South Africa,N
+Austrian Airlines,OS,AUA,Austria,Y
+Turkish Airlines,TH,THY,Turkey,Y
+Lufthansa,MH,DLH,Germany,Y
+Egyptair,MS,MSR,Egypt,Y
