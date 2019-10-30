@@ -367,8 +367,8 @@ Francistown Airport,Francistown,Botswana,FRW,FBFT,-21.15959930419922,27.47450065
 Kasane Airport,Kasane,Botswana,BBK,FBKE,-17.83289909362793,25.162399291992188,3289,2,U
 Maun Airport,Maun,Botswana,MUB,FBMN,-19.97260093688965,23.431100845336914,3093,2,U
 Sir Seretse Khama International Airport,Gaberone,Botswana,GBE,FBSK,-24.555201,25.9182,3299,2,U
-Maya-Maya Airport,Brazzaville,Congo (Brazzaville),BZV,FCBB,-4.251699924468994,15.253000259399414,1048,1,N
-Pointe Noire Airport,Pointe-noire,Congo (Brazzaville),PNR,FCPP,-4.816030025482178,11.88659954071045,55,1,N
+Maya-Maya Airport,Brazzaville,Republic of Congo,BZV,FCBB,-4.251699924468994,15.253000259399414,1048,1,N
+Pointe Noire Airport,Pointe-noire,Republic of Congo,PNR,FCPP,-4.816030025482178,11.88659954071045,55,1,N
 Bangui M'Poko International Airport,Bangui,Central African Republic,BGF,FEFF,4.39847993850708,18.518800735473633,1208,1,N
 Bata Airport,Bata,Equatorial Guinea,BSG,FGBT,1.9054700136184692,9.805680274963379,13,1,N
 Malabo Airport,Malabo,Equatorial Guinea,SSG,FGSL,3.755270004272461,8.708720207214355,76,1,N
@@ -429,19 +429,19 @@ Victoria Falls International Airport,Victoria Falls,Zimbabwe,VFA,FVFA,-18.095899
 Robert Gabriel Mugabe International Airport,Harare,Zimbabwe,HRE,FVHA,-17.931801,31.0928,4887,2,U
 Chileka International Airport,Blantyre,Malawi,BLZ,FWCL,-15.679100036621094,34.9739990234375,2555,2,U
 Lilongwe International Airport,Lilongwe,Malawi,LLW,FWKI,-13.7894001007,33.78099823,4035,2,U
-Ndjili International Airport,Kinshasa,Congo (Kinshasa),FIH,FZAA,-4.38575,15.4446,1027,1,N
-Mbandaka Airport,Mbandaka,Congo (Kinshasa),MDK,FZEA,0.0226000007242,18.2887001038,1040,1,N
-Gemena Airport,Gemena,Congo (Kinshasa),GMA,FZFK,3.2353699207299997,19.771299362199997,1378,1,N
-Bangoka International Airport,Kisangani,Congo (Kinshasa),FKI,FZIC,0.481638997793,25.3379993439,1417,2,U
-Matari Airport,Isiro,Congo (Kinshasa),IRP,FZJH,2.8276100158691406,27.588300704956055,2438,2,U
-Bunia Airport,Bunia,Congo (Kinshasa),BUX,FZKA,1.5657199621200562,30.220800399780273,4045,2,U
-Bukavu Kavumu Airport,Bukavu/kavumu,Congo (Kinshasa),BKY,FZMA,-2.3089799880981445,28.808799743652344,5643,2,U
-Goma International Airport,Goma,Congo (Kinshasa),GOM,FZNA,-1.6708099842071533,29.238500595092773,5089,2,U
-Kindu Airport,Kindu,Congo (Kinshasa),KND,FZOA,-2.91917991638,25.915399551399997,1630,2,U
-Lubumbashi International Airport,Lubumashi,Congo (Kinshasa),FBM,FZQA,-11.5913000107,27.5308990479,4295,2,U
-Kalemie Airport,Kalemie,Congo (Kinshasa),FMI,FZRF,-5.8755598068237305,29.25,2569,2,U
-Kananga Airport,Kananga,Congo (Kinshasa),KGA,FZUA,-5.90005016327,22.4692001343,2139,2,U
-Mbuji Mayi Airport,Mbuji-mayi,Congo (Kinshasa),MJM,FZWA,-6.121240139010001,23.569000244099996,2221,2,U
+Ndjili International Airport,Kinshasa,Democratic Republic of Congo,FIH,FZAA,-4.38575,15.4446,1027,1,N
+Mbandaka Airport,Mbandaka,Democratic Republic of Congo,MDK,FZEA,0.0226000007242,18.2887001038,1040,1,N
+Gemena Airport,Gemena,Democratic Republic of Congo,GMA,FZFK,3.2353699207299997,19.771299362199997,1378,1,N
+Bangoka International Airport,Kisangani,Democratic Republic of Congo,FKI,FZIC,0.481638997793,25.3379993439,1417,2,U
+Matari Airport,Isiro,Democratic Republic of Congo,IRP,FZJH,2.8276100158691406,27.588300704956055,2438,2,U
+Bunia Airport,Bunia,Democratic Republic of Congo,BUX,FZKA,1.5657199621200562,30.220800399780273,4045,2,U
+Bukavu Kavumu Airport,Bukavu/kavumu,Democratic Republic of Congo,BKY,FZMA,-2.3089799880981445,28.808799743652344,5643,2,U
+Goma International Airport,Goma,Democratic Republic of Congo,GOM,FZNA,-1.6708099842071533,29.238500595092773,5089,2,U
+Kindu Airport,Kindu,Democratic Republic of Congo,KND,FZOA,-2.91917991638,25.915399551399997,1630,2,U
+Lubumbashi International Airport,Lubumashi,Democratic Republic of Congo,FBM,FZQA,-11.5913000107,27.5308990479,4295,2,U
+Kalemie Airport,Kalemie,Democratic Republic of Congo,FMI,FZRF,-5.8755598068237305,29.25,2569,2,U
+Kananga Airport,Kananga,Democratic Republic of Congo,KGA,FZUA,-5.90005016327,22.4692001343,2139,2,U
+Mbuji Mayi Airport,Mbuji-mayi,Democratic Republic of Congo,MJM,FZWA,-6.121240139010001,23.569000244099996,2221,2,U
 Modibo Keita International Airport,Bamako,Mali,BKO,GABS,12.533544,-7.94994,1247,0,N
 Banjul International Airport,Banjul,Gambia,BJL,GBYD,13.338000297546387,-16.65220069885254,95,0,N
 Fuerteventura Airport,Fuerteventura,Spain,FUE,GCFV,28.452699661254883,-13.863800048828125,85,0,E
@@ -2713,10 +2713,10 @@ Arxan Yi'ershi Airport,Arxan,China,YIE,ZBES,47.3106,119.9117,2925,8,N
 Kullu Manali Airport,Kulu,India,KUU,VIBR,31.876699447631836,77.15440368652344,3573,5.30,N
 Leh Kushok Bakula Rimpochee Airport,Leh,India,IXL,VILH,34.1358985901,77.5465011597,10682,5.30,N
 Hamad International Airport,Doha,Qatar,DOH,OTHH,25.273056,51.608056,13,3,N
-Beni Airport,Beni,Congo (Kinshasa),BNC,FZNP,0.575,29.4739,3517,1,U
+Beni Airport,Beni,Democratic Republic of Congo,BNC,FZNP,0.575,29.4739,3517,1,U
 Dharavandhoo Airport,DHARAVANDHOO,Maldives,DRV,VRMD,5.1561,73.1302,6,5,N
 Saumlaki/Olilit Airport,Saumlaki,Indonesia,SXK,WAPI,-7.9886097908,131.305999756,218,9,N
-Kongolo Airport,Kongolo,Congo (Kinshasa),KOO,FZRQ,-5.39444,26.99,1850,1,U
+Kongolo Airport,Kongolo,Democratic Republic of Congo,KOO,FZRQ,-5.39444,26.99,1850,1,U
 Chaudhary Charan Singh International Airport,Lucknow,India,LKO,VILK,26.7605991364,80.8892974854,410,5.30,N
 Jinchuan Airport,Jinchuan,China,JIC,ZLJC,38.542222222199996,102.348333333,4740,8,U
 Alashankou Bole (Bortala) airport,Bole,China,BPL,ZWAX,44.895,82.3,1253,8,N
@@ -2806,7 +2806,7 @@ Bandaranaike International Colombo Airport,Colombo,Sri Lanka,CMB,VCBI,7.18075990
 Mattala Rajapaksa International Airport,Mattala,Sri Lanka,HRI,VCRI,6.284467,81.124128,157,5,N
 Songwe Airport,Mbeya,Tanzania,MBI,HTGW,-8.919942,33.273981,4412,3,N
 Nogliki Airport,Nogliki,Russia,NGK,UHSN,51.780102,143.139008,109,11,N
-Oyo Ollombo Airport,Oyo,Congo (Brazzaville),OLL,FCOD,-1.226666,15.91,1073,1,N
+Oyo Ollombo Airport,Oyo,Republic of Congo,OLL,FCOD,-1.226666,15.91,1073,1,N
 Palenque International Airport,Palenque,Mexico,PQM,MMPQ,17.533153,-92.015484,200,-5,U
 Eqalugaarsuit Heliport,Eqalugaarsuit,Greenland,QFG,BGET,60.6197196536,-45.9140619636,9,-3,N
 Sakkyryr Airport,Batagay-Alyta,Russia,SUK,UEBS,67.792,130.394,1686,9,N
