@@ -450,7 +450,7 @@ JKey,shortname,title,volumne,number,year
 "J449","TKDE","IEEE Trans. Knowl. Data Eng.","32","1","2020"
 "J450","SIGMOD","SIGMOD Record","48","1","2019"
 "J451","KAIS","Knowl. Inf. Syst.","39","1","2014"
-"J452","IS","Inf. Syst.","74","Part","2018"
+"J452","IS","Inf. Syst.","74",,"2018"
 "J453","CACM","Commun. ACM","54","10","2011"
 "J454","CACM","Commun. ACM","61","6","2018"
 "J455","PVLDB","PVLDB","7","10","2014"
