@@ -1,716 +1,716 @@
 JKey,shortname,title,volume,number,year
-"J1","TKDE","IEEE Trans. Knowl. Data Eng.","28","6","2016"
-"J2","PVLDB","PVLDB","9","4","2015"
-"J3","VLDB","VLDB J.","21","1","2012"
-"J4","KAIS","Knowl. Inf. Syst.","30","2","2012"
-"J5","PVLDB","PVLDB","7","1","2013"
-"J6","PVLDB","PVLDB","6","8","2013"
-"J7","IS","Inf. Syst.","86",,"2019"
-"J8","IS","Inf. Syst.","49",,"2015"
-"J9","IS","Inf. Syst.","37","5","2012"
-"J10","PVLDB","PVLDB","6","3","2013"
-"J11","KAIS","Knowl. Inf. Syst.","54","1","2018"
-"J12","DBSK","Datenbank-Spektrum","11","1","2011"
-"J13","KAIS","Knowl. Inf. Syst.","33","3","2012"
-"J14","CACM","Commun. ACM","61","5","2018"
-"J15","TODS","ACM Trans. Database Syst.","41","3","2016"
-"J16","TKDE","IEEE Trans. Knowl. Data Eng.","28","1","2016"
-"J17","CACM","Commun. ACM","59","11","2016"
-"J18","KAIS","Knowl. Inf. Syst.","52","3","2017"
-"J19","DEBU","IEEE Data Eng. Bull.","41","4","2018"
-"J20","KAIS","Knowl. Inf. Syst.","46","3","2016"
-"J21","VLDB","VLDB J.","27","6","2018"
-"J22","TKDE","IEEE Trans. Knowl. Data Eng.","29","9","2017"
-"J23","DBSK","Datenbank-Spektrum","16","3","2016"
-"J24","KAIS","Knowl. Inf. Syst.","60","1","2019"
-"J25","DEBU","IEEE Data Eng. Bull.","42","2","2019"
-"J26","CACM","Commun. ACM","57","6","2014"
-"J27","IS","Inf. Syst.","44",,"2014"
-"J28","VLDB","VLDB J.","25","5","2016"
-"J29","TKDE","IEEE Trans. Knowl. Data Eng.","29","4","2017"
-"J30","PVLDB","PVLDB","8","13","2015"
-"J31","TODS","ACM Trans. Database Syst.","42","1","2017"
-"J32","IS","Inf. Syst.","78",,"2018"
-"J33","PVLDB","PVLDB","7","6","2014"
-"J34","TKDE","IEEE Trans. Knowl. Data Eng.","29","10","2017"
-"J35","TKDE","IEEE Trans. Knowl. Data Eng.","30","2","2018"
-"J36","SIGMOD","SIGMOD Record","45","4","2016"
-"J37","TODS","ACM Trans. Database Syst.","39","2","2014"
-"J38","IS","Inf. Syst.","36","7","2011"
-"J39","PVLDB","PVLDB","12","8","2019"
-"J40","TKDE","IEEE Trans. Knowl. Data Eng.","31","12","2019"
-"J41","VLDB","VLDB J.","26","3","2017"
-"J42","CACM","Commun. ACM","56","3","2013"
-"J43","CACM","Commun. ACM","62","8","2019"
-"J44","KAIS","Knowl. Inf. Syst.","59","3","2019"
-"J45","TKDE","IEEE Trans. Knowl. Data Eng.","24","2","2012"
-"J46","PVLDB","PVLDB","8","9","2015"
-"J47","DEBU","IEEE Data Eng. Bull.","36","2","2013"
-"J48","TKDE","IEEE Trans. Knowl. Data Eng.","25","12","2013"
-"J49","PVLDB","PVLDB","4","10","2011"
-"J50","PVLDB","PVLDB","11","5","2018"
-"J51","PVLDB","PVLDB","9","12","2016"
-"J52","TKDE","IEEE Trans. Knowl. Data Eng.","31","5","2019"
-"J53","SIGMOD","SIGMOD Record","46","2","2017"
-"J54","KAIS","Knowl. Inf. Syst.","37","2","2013"
-"J55","VLDB","VLDB J.","23","2","2014"
-"J56","PVLDB","PVLDB","7","14","2014"
-"J57","TKDE","IEEE Trans. Knowl. Data Eng.","26","11","2014"
-"J58","PVLDB","PVLDB","12","3","2018"
-"J59","CACM","Commun. ACM","56","8","2013"
-"J60","DEBU","IEEE Data Eng. Bull.","39","3","2016"
-"J61","KAIS","Knowl. Inf. Syst.","50","2","2017"
-"J62","DBSK","Datenbank-Spektrum","13","2","2013"
-"J63","KAIS","Knowl. Inf. Syst.","56","2","2018"
-"J64","IS","Inf. Syst.","36","2","2011"
-"J65","TKDE","IEEE Trans. Knowl. Data Eng.","30","7","2018"
-"J66","KAIS","Knowl. Inf. Syst.","41","1","2014"
-"J67","VLDB","VLDB J.","22","4","2013"
-"J68","TKDE","IEEE Trans. Knowl. Data Eng.","24","7","2012"
-"J69","CACM","Commun. ACM","62","3","2019"
-"J70","IS","Inf. Syst.","65",,"2017"
-"J71","KAIS","Knowl. Inf. Syst.","27","3","2011"
-"J72","TODS","ACM Trans. Database Syst.","36","1","2011"
-"J73","SIGMOD","SIGMOD Record","42","3","2013"
-"J74","KAIS","Knowl. Inf. Syst.","43","2","2015"
-"J75","CACM","Commun. ACM","58","12","2015"
-"J76","TKDE","IEEE Trans. Knowl. Data Eng.","26","8","2014"
-"J77","TKDE","IEEE Trans. Knowl. Data Eng.","25","5","2013"
-"J78","IS","Inf. Syst.","57",,"2016"
-"J79","CACM","Commun. ACM","59","4","2016"
-"J80","KAIS","Knowl. Inf. Syst.","28","1","2011"
-"J81","TODS","ACM Trans. Database Syst.","37","4","2012"
-"J82","PVLDB","PVLDB","11","10","2018"
-"J83","SIGMOD","SIGMOD Record","44","1","2015"
-"J84","TODS","ACM Trans. Database Syst.","44","4","2019"
-"J85","CACM","Commun. ACM","60","11","2017"
-"J86","DEBU","IEEE Data Eng. Bull.","40","1","2017"
-"J87","VLDB","VLDB J.","23","4","2014"
-"J88","KAIS","Knowl. Inf. Syst.","47","3","2016"
-"J89","CACM","Commun. ACM","62","5","2019"
-"J90","CACM","Commun. ACM","55","10","2012"
-"J91","KAIS","Knowl. Inf. Syst.","34","3","2013"
-"J92","TKDE","IEEE Trans. Knowl. Data Eng.","27","12","2015"
-"J93","KAIS","Knowl. Inf. Syst.","38","2","2014"
-"J94","VLDB","VLDB J.","20","3","2011"
-"J95","TKDE","IEEE Trans. Knowl. Data Eng.","28","11","2016"
-"J96","CACM","Commun. ACM","60","2","2017"
-"J97","VLDB","VLDB J.","24","2","2015"
-"J98","PVLDB","PVLDB","10","11","2017"
-"J99","IS","Inf. Syst.","60",,"2016"
-"J100","CACM","Commun. ACM","59","9","2016"
-"J101","TKDE","IEEE Trans. Knowl. Data Eng.","27","8","2015"
-"J102","PVLDB","PVLDB","9","14","2016"
-"J103","IS","Inf. Syst.","73",,"2018"
-"J104","KAIS","Knowl. Inf. Syst.","28","3","2011"
-"J105","KAIS","Knowl. Inf. Syst.","57","2","2018"
-"J106","CACM","Commun. ACM","61","10","2018"
-"J107","PVLDB","PVLDB","5","11","2012"
-"J108","KAIS","Knowl. Inf. Syst.","35","1","2013"
-"J109","IS","Inf. Syst.","52",,"2015"
-"J110","TKDE","IEEE Trans. Knowl. Data Eng.","27","3","2015"
-"J111","PVLDB","PVLDB","5","5","2012"
-"J112","KAIS","Knowl. Inf. Syst.","29","1","2011"
-"J113","TKDE","IEEE Trans. Knowl. Data Eng.","31","7","2019"
-"J114","TODS","ACM Trans. Database Syst.","38","4","2013"
-"J115","TKDE","IEEE Trans. Knowl. Data Eng.","25","2","2013"
-"J116","DEBU","IEEE Data Eng. Bull.","34","1","2011"
-"J117","TKDE","IEEE Trans. Knowl. Data Eng.","26","5","2014"
-"J118","CACM","Commun. ACM","54","2","2011"
-"J119","TODS","ACM Trans. Database Syst.","37","1","2012"
-"J120","SIGMOD","SIGMOD Record","43","3","2014"
-"J121","PVLDB","PVLDB","4","12","2011"
-"J122","CACM","Commun. ACM","60","7","2017"
-"J123","KAIS","Knowl. Inf. Syst.","44","2","2015"
-"J124","PVLDB","PVLDB","4","7","2011"
-"J125","PVLDB","PVLDB","10","7","2017"
-"J126","TKDE","IEEE Trans. Knowl. Data Eng.","23","4","2011"
-"J127","IS","Inf. Syst.","81",,"2019"
-"J128","CACM","Commun. ACM","57","8","2014"
-"J129","PVLDB","PVLDB","13","3","2019"
-"J130","IS","Inf. Syst.","37","7","2012"
-"J131","CACM","Commun. ACM","55","5","2012"
-"J132","DBSK","Datenbank-Spektrum","17","3","2017"
-"J133","TKDE","IEEE Trans. Knowl. Data Eng.","29","1","2017"
-"J134","IS","Inf. Syst.","37","2","2012"
-"J135","DEBU","IEEE Data Eng. Bull.","37","2","2014"
-"J136","KAIS","Knowl. Inf. Syst.","55","1","2018"
-"J137","PVLDB","PVLDB","10","2","2016"
-"J138","CACM","Commun. ACM","54","7","2011"
-"J139","DBSK","Datenbank-Spektrum","14","2","2014"
-"J140","CACM","Commun. ACM","58","6","2015"
-"J141","DBSK","Datenbank-Spektrum","18","1","2018"
-"J142","DEBU","IEEE Data Eng. Bull.","35","4","2012"
-"J143","TKDE","IEEE Trans. Knowl. Data Eng.","23","9","2011"
-"J144","TODS","ACM Trans. Database Syst.","42","3","2017"
-"J145","PVLDB","PVLDB","8","1","2014"
-"J146","VLDB","VLDB J.","28","1","2019"
-"J147","KAIS","Knowl. Inf. Syst.","31","2","2012"
-"J148","CACM","Commun. ACM","57","3","2014"
-"J149","KAIS","Knowl. Inf. Syst.","53","3","2017"
-"J150","TODS","ACM Trans. Database Syst.","43","1","2018"
-"J151","PVLDB","PVLDB","7","8","2014"
-"J152","PVLDB","PVLDB","9","9","2016"
-"J153","VLDB","VLDB J.","27","3","2018"
-"J154","TKDE","IEEE Trans. Knowl. Data Eng.","29","6","2017"
-"J155","PVLDB","PVLDB","7","3","2013"
-"J156","PVLDB","PVLDB","6","10","2013"
-"J157","SIGMOD","SIGMOD Record","40","2","2011"
-"J158","KAIS","Knowl. Inf. Syst.","48","1","2016"
-"J159","PVLDB","PVLDB","8","10","2015"
-"J160","TKDE","IEEE Trans. Knowl. Data Eng.","31","2","2019"
-"J161","IS","Inf. Syst.","38","5","2013"
-"J162","KAIS","Knowl. Inf. Syst.","40","3","2014"
-"J163","VLDB","VLDB J.","21","6","2012"
-"J164","SIGMOD","SIGMOD Record","47","2","2018"
-"J165","CACM","Commun. ACM","58","1","2015"
-"J166","VLDB","VLDB J.","28","6","2019"
-"J167","PVLDB","PVLDB","8","6","2015"
-"J168","KAIS","Knowl. Inf. Syst.","61","1","2019"
-"J169","TKDE","IEEE Trans. Knowl. Data Eng.","30","4","2018"
-"J170","IS","Inf. Syst.","41",,"2014"
-"J171","IS","Inf. Syst.","54",,"2015"
-"J172","VLDB","VLDB J.","28","3","2019"
-"J173","TODS","ACM Trans. Database Syst.","39","4","2014"
-"J174","SIGMOD","SIGMOD Record","46","4","2017"
-"J175","PVLDB","PVLDB","10","4","2016"
-"J176","IS","Inf. Syst.","67",,"2017"
-"J177","KAIS","Knowl. Inf. Syst.","49","1","2016"
-"J178","CACM","Commun. ACM","58","3","2015"
-"J179","TKDE","IEEE Trans. Knowl. Data Eng.","23","1","2011"
-"J180","DBSK","Datenbank-Spektrum","15","2","2015"
-"J181","PVLDB","PVLDB","7","11","2014"
-"J182","VLDB","VLDB J.","29","1","2020"
-"J183","CACM","Commun. ACM","54","11","2011"
-"J184","TKDE","IEEE Trans. Knowl. Data Eng.","32","2","2020"
-"J185","VLDB","VLDB J.","25","2","2016"
-"J186","TKDE","IEEE Trans. Knowl. Data Eng.","29","12","2017"
-"J187","PVLDB","PVLDB","11","2","2017"
-"J188","CACM","Commun. ACM","56","5","2013"
-"J189","DEBU","IEEE Data Eng. Bull.","38","2","2015"
-"J190","CACM","Commun. ACM","55","7","2012"
-"J191","DEBU","IEEE Data Eng. Bull.","35","1","2012"
-"J192","TKDE","IEEE Trans. Knowl. Data Eng.","30","10","2018"
-"J193","TODS","ACM Trans. Database Syst.","40","2","2015"
-"J194","DBSK","Datenbank-Spektrum","12","1","2012"
-"J195","KAIS","Knowl. Inf. Syst.","48","3","2016"
-"J196","VLDB","VLDB J.","22","1","2013"
-"J197","DBSK","Datenbank-Spektrum","18","3","2018"
-"J198","TKDE","IEEE Trans. Knowl. Data Eng.","24","4","2012"
-"J199","KAIS","Knowl. Inf. Syst.","26","2","2011"
-"J200","KAIS","Knowl. Inf. Syst.","62","1","2020"
-"J201","PVLDB","PVLDB","9","6","2016"
-"J202","DBSK","Datenbank-Spektrum","19","1","2019"
-"J203","IS","Inf. Syst.","38","7","2013"
-"J204","TODS","ACM Trans. Database Syst.","36","3","2011"
-"J205","DEBU","IEEE Data Eng. Bull.","36","4","2013"
-"J206","TKDE","IEEE Trans. Knowl. Data Eng.","23","6","2011"
-"J207","VLDB","VLDB J.","21","3","2012"
-"J208","CACM","Commun. ACM","59","1","2016"
-"J209","PVLDB","PVLDB","6","12","2013"
-"J210","DBSK","Datenbank-Spektrum","11","3","2011"
-"J211","IS","Inf. Syst.","38","2","2013"
-"J212","KAIS","Knowl. Inf. Syst.","54","3","2018"
-"J213","CACM","Commun. ACM","62","11","2019"
-"J214","PVLDB","PVLDB","8","3","2014"
-"J215","KAIS","Knowl. Inf. Syst.","39","2","2014"
-"J216","TKDE","IEEE Trans. Knowl. Data Eng.","24","10","2012"
-"J217","VLDB","VLDB J.","22","6","2013"
-"J218","TKDE","IEEE Trans. Knowl. Data Eng.","30","9","2018"
-"J219","SIGMOD","SIGMOD Record","48","2","2019"
-"J220","IS","Inf. Syst.","59",,"2016"
-"J221","KAIS","Knowl. Inf. Syst.","32","2","2012"
-"J222","SIGMOD","SIGMOD Record","41","2","2012"
-"J223","PVLDB","PVLDB","9","1","2015"
-"J224","KAIS","Knowl. Inf. Syst.","42","1","2015"
-"J225","TKDE","IEEE Trans. Knowl. Data Eng.","25","7","2013"
-"J226","KAIS","Knowl. Inf. Syst.","51","2","2017"
-"J227","PVLDB","PVLDB","12","11","2019"
-"J228","CACM","Commun. ACM","60","4","2017"
-"J229","KAIS","Knowl. Inf. Syst.","41","3","2014"
-"J230","CACM","Commun. ACM","57","10","2014"
-"J231","PVLDB","PVLDB","5","7","2012"
-"J232","TKDE","IEEE Trans. Knowl. Data Eng.","27","5","2015"
-"J233","IS","Inf. Syst.","62",,"2016"
-"J234","TODS","ACM Trans. Database Syst.","44","1","2019"
-"J235","TKDE","IEEE Trans. Knowl. Data Eng.","24","9","2012"
-"J236","TKDE","IEEE Trans. Knowl. Data Eng.","28","8","2016"
-"J237","IS","Inf. Syst.","75",,"2018"
-"J238","PVLDB","PVLDB","11","12","2018"
-"J239","CACM","Commun. ACM","59","6","2016"
-"J240","CACM","Commun. ACM","61","2","2018"
-"J241","CACM","Commun. ACM","56","11","2013"
-"J242","IS","Inf. Syst.","88",,"2020"
-"J243","PVLDB","PVLDB","5","2","2011"
-"J244","SIGMOD","SIGMOD Record","45","1","2016"
-"J245","KAIS","Knowl. Inf. Syst.","36","1","2013"
-"J246","PVLDB","PVLDB","11","7","2018"
-"J247","DEBU","IEEE Data Eng. Bull.","41","1","2018"
-"J248","IS","Inf. Syst.","36","4","2011"
-"J249","CACM","Commun. ACM","54","4","2011"
-"J250","IS","Inf. Syst.","83",,"2019"
-"J251","CACM","Commun. ACM","60","9","2017"
-"J252","KAIS","Knowl. Inf. Syst.","58","2","2019"
-"J253","KAIS","Knowl. Inf. Syst.","45","2","2015"
-"J254","DEBU","IEEE Data Eng. Bull.","40","3","2017"
-"J255","CACM","Commun. ACM","55","2","2012"
-"J256","KAIS","Knowl. Inf. Syst.","60","3","2019"
-"J257","KAIS","Knowl. Inf. Syst.","35","3","2013"
-"J258","TODS","ACM Trans. Database Syst.","38","1","2013"
-"J259","SIGMOD","SIGMOD Record","44","3","2015"
-"J260","PVLDB","PVLDB","12","5","2019"
-"J261","VLDB","VLDB J.","24","4","2015"
-"J262","IS","Inf. Syst.","46",,"2014"
-"J263","CACM","Commun. ACM","61","7","2018"
-"J264","PVLDB","PVLDB","6","5","2013"
-"J265","TKDE","IEEE Trans. Knowl. Data Eng.","28","3","2016"
-"J266","VLDB","VLDB J.","26","5","2017"
-"J267","DEBU","IEEE Data Eng. Bull.","37","4","2014"
-"J268","TKDE","IEEE Trans. Knowl. Data Eng.","25","4","2013"
-"J269","PVLDB","PVLDB","6","2","2013"
-"J270","PVLDB","PVLDB","6","2","2012"
-"J271","TKDE","IEEE Trans. Knowl. Data Eng.","31","9","2019"
-"J272","CACM","Commun. ACM","54","9","2011"
-"J273","VLDB","VLDB J.","27","5","2018"
-"J274","IS","Inf. Syst.","36","6","2011"
-"J275","PVLDB","PVLDB","12","7","2019"
-"J276","TODS","ACM Trans. Database Syst.","41","2","2016"
-"J277","KAIS","Knowl. Inf. Syst.","29","3","2011"
-"J278","KAIS","Knowl. Inf. Syst.","30","1","2012"
-"J279","TKDE","IEEE Trans. Knowl. Data Eng.","23","11","2011"
-"J280","TKDE","IEEE Trans. Knowl. Data Eng.","28","5","2016"
-"J281","KAIS","Knowl. Inf. Syst.","61","3","2019"
-"J282","PVLDB","PVLDB","10","9","2017"
-"J283","CACM","Commun. ACM","57","5","2014"
-"J284","KAIS","Knowl. Inf. Syst.","42","3","2015"
-"J285","TKDE","IEEE Trans. Knowl. Data Eng.","29","3","2017"
-"J286","IS","Inf. Syst.","70",,"2017"
-"J287","IS","Inf. Syst.","36","1","2011"
-"J288","PVLDB","PVLDB","6","7","2013"
-"J289","PVLDB","PVLDB","12","13","2019"
-"J290","SIGMOD","SIGMOD Record","47","4","2018"
-"J291","CACM","Commun. ACM","59","10","2016"
-"J292","PVLDB","PVLDB","7","5","2014"
-"J293","IS","Inf. Syst.","56",,"2016"
-"J294","DEBU","IEEE Data Eng. Bull.","34","3","2011"
-"J295","KAIS","Knowl. Inf. Syst.","52","2","2017"
-"J296","PVLDB","PVLDB","12","2","2018"
-"J297","TKDE","IEEE Trans. Knowl. Data Eng.","25","9","2013"
-"J298","CACM","Commun. ACM","56","2","2013"
-"J299","CACM","Commun. ACM","62","7","2019"
-"J300","CACM","Commun. ACM","61","12","2018"
-"J301","DBSK","Datenbank-Spektrum","16","2","2016"
-"J302","PVLDB","PVLDB","13","5","2020"
-"J303","KAIS","Knowl. Inf. Syst.","59","2","2019"
-"J304","VLDB","VLDB J.","26","2","2017"
-"J305","TKDE","IEEE Trans. Knowl. Data Eng.","26","10","2014"
-"J306","CACM","Commun. ACM","61","4","2018"
-"J307","VLDB","VLDB J.","20","5","2011"
-"J308","KAIS","Knowl. Inf. Syst.","36","3","2013"
-"J309","IS","Inf. Syst.","37","4","2012"
-"J310","IS","Inf. Syst.","48",,"2015"
-"J311","SIGMOD","SIGMOD Record","46","1","2017"
-"J312","DEBU","IEEE Data Eng. Bull.","42","1","2019"
-"J313","TKDE","IEEE Trans. Knowl. Data Eng.","30","1","2018"
-"J314","KAIS","Knowl. Inf. Syst.","27","2","2011"
-"J315","KAIS","Knowl. Inf. Syst.","37","1","2013"
-"J316","VLDB","VLDB J.","23","1","2014"
-"J317","PVLDB","PVLDB","10","13","2017"
-"J318","PVLDB","PVLDB","8","12","2015"
-"J319","TODS","ACM Trans. Database Syst.","37","3","2012"
-"J320","CACM","Commun. ACM","55","12","2012"
-"J321","SIGMOD","SIGMOD Record","40","4","2011"
-"J322","TKDE","IEEE Trans. Knowl. Data Eng.","29","8","2017"
-"J323","KAIS","Knowl. Inf. Syst.","56","1","2018"
-"J324","TKDE","IEEE Trans. Knowl. Data Eng.","31","11","2019"
-"J325","KAIS","Knowl. Inf. Syst.","49","3","2016"
-"J326","TKDE","IEEE Trans. Knowl. Data Eng.","25","11","2013"
-"J327","CACM","Commun. ACM","62","2","2019"
-"J328","KAIS","Knowl. Inf. Syst.","46","2","2016"
-"J329","IS","Inf. Syst.","77",,"2018"
-"J330","PVLDB","PVLDB","8","8","2015"
-"J331","PVLDB","PVLDB","9","11","2016"
-"J332","CACM","Commun. ACM","58","11","2015"
-"J333","PVLDB","PVLDB","4","9","2011"
-"J334","TKDE","IEEE Trans. Knowl. Data Eng.","26","7","2014"
-"J335","CACM","Commun. ACM","58","8","2015"
-"J336","TKDE","IEEE Trans. Knowl. Data Eng.","24","1","2012"
-"J337","TKDE","IEEE Trans. Knowl. Data Eng.","31","4","2019"
-"J338","KAIS","Knowl. Inf. Syst.","33","2","2012"
-"J339","DEBU","IEEE Data Eng. Bull.","36","1","2013"
-"J340","TKDE","IEEE Trans. Knowl. Data Eng.","30","6","2018"
-"J341","IS","Inf. Syst.","69",,"2017"
-"J342","CACM","Commun. ACM","56","7","2013"
-"J343","DBSK","Datenbank-Spektrum","13","1","2013"
-"J344","TODS","ACM Trans. Database Syst.","43","3","2018"
-"J345","VLDB","VLDB J.","23","6","2014"
-"J346","KAIS","Knowl. Inf. Syst.","43","1","2015"
-"J347","DBSK","Datenbank-Spektrum","12","3","2012"
-"J348","SIGMOD","SIGMOD Record","42","2","2013"
-"J349","VLDB","VLDB J.","22","3","2013"
-"J350","PVLDB","PVLDB","4","4","2011"
-"J351","TKDE","IEEE Trans. Knowl. Data Eng.","26","2","2014"
-"J352","KAIS","Knowl. Inf. Syst.","55","3","2018"
-"J353","PVLDB","PVLDB","10","10","2017"
-"J354","DBSK","Datenbank-Spektrum","19","3","2019"
-"J355","CACM","Commun. ACM","59","8","2016"
-"J356","KAIS","Knowl. Inf. Syst.","53","2","2017"
-"J357","KAIS","Knowl. Inf. Syst.","43","3","2015"
-"J358","VLDB","VLDB J.","20","2","2011"
-"J359","TKDE","IEEE Trans. Knowl. Data Eng.","26","9","2014"
-"J360","PVLDB","PVLDB","5","4","2011"
-"J361","SIGMOD","SIGMOD Record","43","2","2014"
-"J362","TKDE","IEEE Trans. Knowl. Data Eng.","27","7","2015"
-"J363","PVLDB","PVLDB","8","5","2015"
-"J364","IS","Inf. Syst.","85",,"2019"
-"J365","IS","Inf. Syst.","72",,"2017"
-"J366","PVLDB","PVLDB","5","9","2012"
-"J367","PVLDB","PVLDB","4","6","2011"
-"J368","CACM","Commun. ACM","60","10","2017"
-"J369","KAIS","Knowl. Inf. Syst.","44","1","2015"
-"J370","CACM","Commun. ACM","60","1","2017"
-"J371","PVLDB","PVLDB","11","9","2018"
-"J372","TKDE","IEEE Trans. Knowl. Data Eng.","24","6","2012"
-"J373","KAIS","Knowl. Inf. Syst.","47","2","2016"
-"J374","CACM","Commun. ACM","59","3","2016"
-"J375","KAIS","Knowl. Inf. Syst.","40","2","2014"
-"J376","PVLDB","PVLDB","11","4","2017"
-"J377","PVLDB","PVLDB","9","13","2016"
-"J378","DEBU","IEEE Data Eng. Bull.","38","4","2015"
-"J379","KAIS","Knowl. Inf. Syst.","57","1","2018"
-"J380","VLDB","VLDB J.","24","1","2015"
-"J381","TKDE","IEEE Trans. Knowl. Data Eng.","27","11","2015"
-"J382","CACM","Commun. ACM","60","6","2017"
-"J383","TKDE","IEEE Trans. Knowl. Data Eng.","26","4","2014"
-"J384","TKDE","IEEE Trans. Knowl. Data Eng.","23","8","2011"
-"J385","CACM","Commun. ACM","58","5","2015"
-"J386","PVLDB","PVLDB","10","6","2017"
-"J387","CACM","Commun. ACM","54","1","2011"
-"J388","KAIS","Knowl. Inf. Syst.","50","1","2017"
-"J389","TODS","ACM Trans. Database Syst.","44","3","2019"
-"J390","KAIS","Knowl. Inf. Syst.","56","3","2018"
-"J391","TKDE","IEEE Trans. Knowl. Data Eng.","30","12","2018"
-"J392","DEBU","IEEE Data Eng. Bull.","39","2","2016"
-"J393","DBSK","Datenbank-Spektrum","13","3","2013"
-"J394","VLDB","VLDB J.","25","4","2016"
-"J395","TKDE","IEEE Trans. Knowl. Data Eng.","27","2","2015"
-"J396","VLDB","VLDB J.","23","3","2014"
-"J397","TKDE","IEEE Trans. Knowl. Data Eng.","28","10","2016"
-"J398","PVLDB","PVLDB","7","13","2014"
-"J399","KAIS","Knowl. Inf. Syst.","34","2","2013"
-"J400","TKDE","IEEE Trans. Knowl. Data Eng.","31","6","2019"
-"J401","IS","Inf. Syst.","37","1","2012"
-"J402","CACM","Commun. ACM","61","9","2018"
-"J403","DBSK","Datenbank-Spektrum","14","1","2014"
-"J404","VLDB","VLDB J.","24","6","2015"
-"J405","TKDE","IEEE Trans. Knowl. Data Eng.","24","12","2012"
-"J406","TODS","ACM Trans. Database Syst.","39","1","2014"
-"J407","SIGMOD","SIGMOD Record","45","3","2016"
-"J408","PVLDB","PVLDB","10","1","2016"
-"J409","DEBU","IEEE Data Eng. Bull.","37","1","2014"
-"J410","DEBU","IEEE Data Eng. Bull.","41","3","2018"
-"J411","CACM","Commun. ACM","54","6","2011"
-"J412","PVLDB","PVLDB","9","8","2016"
-"J413","IS","Inf. Syst.","51",,"2015"
-"J414","CACM","Commun. ACM","57","2","2014"
-"J415","PVLDB","PVLDB","6","14","2013"
-"J416","TODS","ACM Trans. Database Syst.","38","3","2013"
-"J417","IS","Inf. Syst.","64",,"2017"
-"J418","IS","Inf. Syst.","37","6","2012"
-"J419","TKDE","IEEE Trans. Knowl. Data Eng.","31","1","2019"
-"J420","CACM","Commun. ACM","55","4","2012"
-"J421","IS","Inf. Syst.","43",,"2014"
-"J422","CACM","Commun. ACM","55","9","2012"
-"J423","KAIS","Knowl. Inf. Syst.","30","3","2012"
-"J424","IS","Inf. Syst.","38","4","2013"
-"J425","VLDB","VLDB J.","21","5","2012"
-"J426","SIGMOD","SIGMOD Record","47","1","2018"
-"J427","CACM","Commun. ACM","63","2","2020"
-"J428","SIGMOD","SIGMOD Record","41","4","2012"
-"J429","VLDB","VLDB J.","28","5","2019"
-"J430","CACM","Commun. ACM","57","12","2014"
-"J431","PVLDB","PVLDB","5","10","2012"
-"J432","DBSK","Datenbank-Spektrum","17","2","2017"
-"J433","TKDE","IEEE Trans. Knowl. Data Eng.","23","3","2011"
-"J434","PVLDB","PVLDB","13","2","2019"
-"J435","TODS","ACM Trans. Database Syst.","40","4","2016"
-"J436","DEBU","IEEE Data Eng. Bull.","35","3","2012"
-"J437","KAIS","Knowl. Inf. Syst.","31","1","2012"
-"J438","PVLDB","PVLDB","9","3","2015"
-"J439","PVLDB","PVLDB","7","2","2013"
-"J440","VLDB","VLDB J.","27","2","2018"
-"J441","SIGMOD","SIGMOD Record","40","1","2011"
-"J442","IS","Inf. Syst.","80",,"2019"
-"J443","KAIS","Knowl. Inf. Syst.","38","1","2014"
-"J444","TKDE","IEEE Trans. Knowl. Data Eng.","29","11","2017"
-"J445","PVLDB","PVLDB","7","7","2014"
-"J446","DBSK","Datenbank-Spektrum","11","2","2011"
-"J447","KAIS","Knowl. Inf. Syst.","58","1","2019"
-"J448","CACM","Commun. ACM","55","1","2012"
-"J449","TKDE","IEEE Trans. Knowl. Data Eng.","32","1","2020"
-"J450","SIGMOD","SIGMOD Record","48","1","2019"
-"J451","KAIS","Knowl. Inf. Syst.","39","1","2014"
-"J452","IS","Inf. Syst.","74",,"2018"
-"J453","CACM","Commun. ACM","54","10","2011"
-"J454","CACM","Commun. ACM","61","6","2018"
-"J455","PVLDB","PVLDB","7","10","2014"
-"J456","KAIS","Knowl. Inf. Syst.","48","2","2016"
-"J457","CACM","Commun. ACM","59","12","2016"
-"J458","TODS","ACM Trans. Database Syst.","39","3","2014"
-"J459","VLDB","VLDB J.","22","5","2013"
-"J460","DEBU","IEEE Data Eng. Bull.","42","3","2019"
-"J461","KAIS","Knowl. Inf. Syst.","26","1","2011"
-"J462","IS","Inf. Syst.","53",,"2015"
-"J463","CACM","Commun. ACM","62","10","2019"
-"J464","SIGMOD","SIGMOD Record","46","3","2017"
-"J465","KAIS","Knowl. Inf. Syst.","45","1","2015"
-"J466","CACM","Commun. ACM","58","2","2015"
-"J467","TKDE","IEEE Trans. Knowl. Data Eng.","29","5","2017"
-"J468","TODS","ACM Trans. Database Syst.","36","2","2011"
-"J469","SIGMOD","SIGMOD Record","42","4","2013"
-"J470","PVLDB","PVLDB","6","11","2013"
-"J471","PVLDB","PVLDB","9","5","2016"
-"J472","KAIS","Knowl. Inf. Syst.","54","2","2018"
-"J473","VLDB","VLDB J.","25","6","2016"
-"J474","CACM","Commun. ACM","55","6","2012"
-"J475","IS","Inf. Syst.","38","1","2013"
-"J476","TODS","ACM Trans. Database Syst.","42","2","2017"
-"J477","TKDE","IEEE Trans. Knowl. Data Eng.","30","3","2018"
-"J478","IS","Inf. Syst.","66",,"2017"
-"J479","SIGMOD","SIGMOD Record","41","1","2012"
-"J480","VLDB","VLDB J.","28","2","2019"
-"J481","TKDE","IEEE Trans. Knowl. Data Eng.","28","7","2016"
-"J482","PVLDB","PVLDB","12","9","2019"
-"J483","DEBU","IEEE Data Eng. Bull.","36","3","2013"
-"J484","TODS","ACM Trans. Database Syst.","40","1","2015"
-"J485","CACM","Commun. ACM","57","7","2014"
-"J486","TODS","ACM Trans. Database Syst.","41","4","2016"
-"J487","PVLDB","PVLDB","6","9","2013"
-"J488","VLDB","VLDB J.","21","2","2012"
-"J489","KAIS","Knowl. Inf. Syst.","32","1","2012"
-"J490","TKDE","IEEE Trans. Knowl. Data Eng.","25","1","2013"
-"J491","KAIS","Knowl. Inf. Syst.","50","3","2017"
-"J492","PVLDB","PVLDB","12","4","2018"
-"J493","IS","Inf. Syst.","45",,"2014"
-"J494","CACM","Commun. ACM","59","5","2016"
-"J495","IS","Inf. Syst.","36","3","2011"
-"J496","CACM","Commun. ACM","56","9","2013"
-"J497","DEBU","IEEE Data Eng. Bull.","39","4","2016"
-"J498","TKDE","IEEE Trans. Knowl. Data Eng.","30","8","2018"
-"J499","IS","Inf. Syst.","36","8","2011"
-"J500","TKDE","IEEE Trans. Knowl. Data Eng.","28","2","2016"
-"J501","PVLDB","PVLDB","5","6","2012"
-"J502","KAIS","Knowl. Inf. Syst.","41","2","2014"
-"J503","CACM","Commun. ACM","56","4","2013"
-"J504","TKDE","IEEE Trans. Knowl. Data Eng.","24","3","2012"
-"J505","PVLDB","PVLDB","11","6","2018"
-"J506","PVLDB","PVLDB","4","11","2011"
-"J507","TKDE","IEEE Trans. Knowl. Data Eng.","27","4","2015"
-"J508","CACM","Commun. ACM","62","9","2019"
-"J509","IS","Inf. Syst.","58",,"2016"
-"J510","KAIS","Knowl. Inf. Syst.","60","2","2019"
-"J511","DBSK","Datenbank-Spektrum","15","1","2015"
-"J512","PVLDB","PVLDB","11","1","2017"
-"J513","KAIS","Knowl. Inf. Syst.","28","2","2011"
-"J514","TKDE","IEEE Trans. Knowl. Data Eng.","26","12","2014"
-"J515","TKDE","IEEE Trans. Knowl. Data Eng.","25","6","2013"
-"J516","KAIS","Knowl. Inf. Syst.","35","2","2013"
-"J517","PVLDB","PVLDB","6","4","2013"
-"J518","PVLDB","PVLDB","11","11","2018"
-"J519","IS","Inf. Syst.","79",,"2019"
-"J520","VLDB","VLDB J.","26","4","2017"
-"J521","CACM","Commun. ACM","61","1","2018"
-"J522","KAIS","Knowl. Inf. Syst.","37","3","2013"
-"J523","CACM","Commun. ACM","62","4","2019"
-"J524","KAIS","Knowl. Inf. Syst.","51","1","2017"
-"J525","TKDE","IEEE Trans. Knowl. Data Eng.","24","8","2012"
-"J526","IS","Inf. Syst.","87",,"2020"
-"J527","PVLDB","PVLDB","5","1","2011"
-"J528","PVLDB","PVLDB","12","10","2019"
-"J529","VLDB","VLDB J.","25","1","2016"
-"J530","CACM","Commun. ACM","60","3","2017"
-"J531","PVLDB","PVLDB","5","12","2012"
-"J532","VLDB","VLDB J.","26","6","2017"
-"J533","DBSK","Datenbank-Spektrum","16","1","2016"
-"J534","PVLDB","PVLDB","12","1","2018"
-"J535","TKDE","IEEE Trans. Knowl. Data Eng.","23","10","2011"
-"J536","KAIS","Knowl. Inf. Syst.","29","2","2011"
-"J537","KAIS","Knowl. Inf. Syst.","38","3","2014"
-"J538","SIGMOD","SIGMOD Record","47","3","2018"
-"J539","TKDE","IEEE Trans. Knowl. Data Eng.","28","12","2016"
-"J540","TKDE","IEEE Trans. Knowl. Data Eng.","31","3","2019"
-"J541","CACM","Commun. ACM","54","3","2011"
-"J542","IS","Inf. Syst.","68",,"2017"
-"J543","VLDB","VLDB J.","24","3","2015"
-"J544","IS","Inf. Syst.","36","5","2011"
-"J545","VLDB","VLDB J.","27","4","2018"
-"J546","KAIS","Knowl. Inf. Syst.","57","3","2018"
-"J547","TKDE","IEEE Trans. Knowl. Data Eng.","31","8","2019"
-"J548","SIGMOD","SIGMOD Record","44","2","2015"
-"J549","IS","Inf. Syst.","40",,"2014"
-"J550","CACM","Commun. ACM","56","1","2013"
-"J551","CACM","Commun. ACM","60","8","2017"
-"J552","TKDE","IEEE Trans. Knowl. Data Eng.","31","10","2019"
-"J553","CACM","Commun. ACM","62","6","2019"
-"J554","TKDE","IEEE Trans. Knowl. Data Eng.","25","3","2013"
-"J555","VLDB","VLDB J.","23","5","2014"
-"J556","CACM","Commun. ACM","56","10","2013"
-"J557","KAIS","Knowl. Inf. Syst.","59","1","2019"
-"J558","KAIS","Knowl. Inf. Syst.","44","3","2015"
-"J559","TKDE","IEEE Trans. Knowl. Data Eng.","27","9","2015"
-"J560","VLDB","VLDB J.","20","4","2011"
-"J561","KAIS","Knowl. Inf. Syst.","51","3","2017"
-"J562","PVLDB","PVLDB","13","4","2019"
-"J563","SIGMOD","SIGMOD Record","43","4","2014"
-"J564","TODS","ACM Trans. Database Syst.","37","2","2012"
-"J565","IS","Inf. Syst.","37","3","2012"
-"J566","CACM","Commun. ACM","61","11","2018"
-"J567","VLDB","VLDB J.","26","1","2017"
-"J568","CACM","Commun. ACM","60","12","2017"
-"J569","PVLDB","PVLDB","6","1","2013"
-"J570","PVLDB","PVLDB","6","1","2012"
-"J571","KAIS","Knowl. Inf. Syst.","42","2","2015"
-"J572","KAIS","Knowl. Inf. Syst.","52","1","2017"
-"J573","TKDE","IEEE Trans. Knowl. Data Eng.","25","8","2013"
-"J574","IS","Inf. Syst.","82",,"2019"
-"J575","CACM","Commun. ACM","62","1","2019"
-"J576","CACM","Commun. ACM","54","8","2011"
-"J577","IS","Inf. Syst.","89",,"2020"
-"J578","DEBU","IEEE Data Eng. Bull.","34","2","2011"
-"J579","TODS","ACM Trans. Database Syst.","43","2","2018"
-"J580","PVLDB","PVLDB","4","8","2011"
-"J581","IS","Inf. Syst.","38","6","2013"
-"J582","SIGMOD","SIGMOD Record","42","1","2013"
-"J583","KAIS","Knowl. Inf. Syst.","33","1","2011"
-"J584","KAIS","Knowl. Inf. Syst.","31","3","2012"
-"J585","PVLDB","PVLDB","8","2","2014"
-"J586","CACM","Commun. ACM","58","10","2015"
-"J587","KAIS","Knowl. Inf. Syst.","46","1","2016"
-"J588","KAIS","Knowl. Inf. Syst.","55","2","2018"
-"J589","TKDE","IEEE Trans. Knowl. Data Eng.","26","6","2014"
-"J590","VLDB","VLDB J.","22","2","2013"
-"J591","TODS","ACM Trans. Database Syst.","42","4","2017"
-"J592","DBSK","Datenbank-Spektrum","18","2","2018"
-"J593","PVLDB","PVLDB","10","8","2017"
-"J594","PVLDB","PVLDB","10","12","2017"
-"J595","TKDE","IEEE Trans. Knowl. Data Eng.","23","5","2011"
-"J596","TKDE","IEEE Trans. Knowl. Data Eng.","29","2","2017"
-"J597","SIGMOD","SIGMOD Record","40","3","2011"
-"J598","IS","Inf. Syst.","47",,"2015"
-"J599","PVLDB","PVLDB","7","4","2013"
-"J600","PVLDB","PVLDB","8","11","2015"
-"J601","PVLDB","PVLDB","9","10","2016"
-"J602","CACM","Commun. ACM","55","11","2012"
-"J603","DEBU","IEEE Data Eng. Bull.","38","1","2015"
-"J604","CACM","Commun. ACM","54","12","2011"
-"J605","IS","Inf. Syst.","61",,"2016"
-"J606","CACM","Commun. ACM","57","9","2014"
-"J607","KAIS","Knowl. Inf. Syst.","61","2","2019"
-"J608","IS","Inf. Syst.","39",,"2014"
-"J609","DBSK","Datenbank-Spektrum","14","3","2014"
-"J610","DBSK","Datenbank-Spektrum","12","2","2012"
-"J611","TKDE","IEEE Trans. Knowl. Data Eng.","26","1","2014"
-"J612","PVLDB","PVLDB","8","7","2015"
-"J613","CACM","Commun. ACM","57","4","2014"
-"J614","DEBU","IEEE Data Eng. Bull.","37","3","2014"
-"J615","PVLDB","PVLDB","10","3","2016"
-"J616","CACM","Commun. ACM","58","7","2015"
-"J617","TKDE","IEEE Trans. Knowl. Data Eng.","30","5","2018"
-"J618","IS","Inf. Syst.","37","8","2012"
-"J619","PVLDB","PVLDB","7","9","2014"
-"J620","TKDE","IEEE Trans. Knowl. Data Eng.","29","7","2017"
-"J621","CACM","Commun. ACM","56","6","2013"
-"J622","PVLDB","PVLDB","4","5","2011"
-"J623","TKDE","IEEE Trans. Knowl. Data Eng.","27","1","2015"
-"J624","DEBU","IEEE Data Eng. Bull.","39","1","2016"
-"J625","TKDE","IEEE Trans. Knowl. Data Eng.","26","3","2014"
-"J626","CACM","Commun. ACM","55","8","2012"
-"J627","KAIS","Knowl. Inf. Syst.","62","2","2020"
-"J628","PVLDB","PVLDB","11","3","2017"
-"J629","IS","Inf. Syst.","55",,"2016"
-"J630","CACM","Commun. ACM","59","2","2016"
-"J631","KAIS","Knowl. Inf. Syst.","40","1","2014"
-"J632","TODS","ACM Trans. Database Syst.","40","3","2015"
-"J633","TKDE","IEEE Trans. Knowl. Data Eng.","24","5","2012"
-"J634","VLDB","VLDB J.","28","4","2019"
-"J635","IS","Inf. Syst.","42",,"2014"
-"J636","PVLDB","PVLDB","5","3","2011"
-"J637","DBSK","Datenbank-Spektrum","19","2","2019"
-"J638","DEBU","IEEE Data Eng. Bull.","38","3","2015"
-"J639","TODS","ACM Trans. Database Syst.","43","4","2018"
-"J640","DBSK","Datenbank-Spektrum","15","3","2015"
-"J641","PVLDB","PVLDB","10","5","2017"
-"J642","IS","Inf. Syst.","38","3","2013"
-"J643","SIGMOD","SIGMOD Record","43","1","2014"
-"J644","TKDE","IEEE Trans. Knowl. Data Eng.","23","2","2011"
-"J645","CACM","Commun. ACM","58","9","2015"
-"J646","KAIS","Knowl. Inf. Syst.","49","2","2016"
-"J647","TKDE","IEEE Trans. Knowl. Data Eng.","25","10","2013"
-"J648","KAIS","Knowl. Inf. Syst.","39","3","2014"
-"J649","TODS","ACM Trans. Database Syst.","44","2","2019"
-"J650","TKDE","IEEE Trans. Knowl. Data Eng.","24","11","2012"
-"J651","VLDB","VLDB J.","25","3","2016"
-"J652","KAIS","Knowl. Inf. Syst.","34","1","2013"
-"J653","PVLDB","PVLDB","8","4","2014"
-"J654","PVLDB","PVLDB","6","13","2013"
-"J655","PVLDB","PVLDB","7","12","2014"
-"J656","KAIS","Knowl. Inf. Syst.","27","1","2011"
-"J657","CACM","Commun. ACM","59","7","2016"
-"J658","IS","Inf. Syst.","71",,"2017"
-"J659","TKDE","IEEE Trans. Knowl. Data Eng.","30","11","2018"
-"J660","SIGMOD","SIGMOD Record","48","3","2019"
-"J661","CACM","Commun. ACM","58","4","2015"
-"J662","TODS","ACM Trans. Database Syst.","36","4","2011"
-"J663","PVLDB","PVLDB","11","13","2018"
-"J664","KAIS","Knowl. Inf. Syst.","47","1","2016"
-"J665","IS","Inf. Syst.","38","8","2013"
-"J666","TKDE","IEEE Trans. Knowl. Data Eng.","27","10","2015"
-"J667","KAIS","Knowl. Inf. Syst.","26","3","2011"
-"J668","TKDE","IEEE Trans. Knowl. Data Eng.","32","3","2020"
-"J669","IS","Inf. Syst.","63",,"2017"
-"J670","TKDE","IEEE Trans. Knowl. Data Eng.","23","7","2011"
-"J671","CACM","Commun. ACM","62","12","2019"
-"J672","CACM","Commun. ACM","61","3","2018"
-"J673","KAIS","Knowl. Inf. Syst.","45","3","2015"
-"J674","IS","Inf. Syst.","50",,"2015"
-"J675","TODS","ACM Trans. Database Syst.","38","2","2013"
-"J676","SIGMOD","SIGMOD Record","44","4","2015"
-"J677","PVLDB","PVLDB","9","7","2016"
-"J678","CACM","Commun. ACM","56","12","2013"
-"J679","DEBU","IEEE Data Eng. Bull.","40","4","2017"
-"J680","CACM","Commun. ACM","57","1","2014"
-"J681","VLDB","VLDB J.","20","6","2011"
-"J682","TKDE","IEEE Trans. Knowl. Data Eng.","28","9","2016"
-"J683","PVLDB","PVLDB","6","6","2013"
-"J684","VLDB","VLDB J.","24","5","2015"
-"J685","PVLDB","PVLDB","12","12","2019"
-"J686","CACM","Commun. ACM","60","5","2017"
-"J687","VLDB","VLDB J.","27","1","2018"
-"J688","SIGMOD","SIGMOD Record","41","3","2012"
-"J689","KAIS","Knowl. Inf. Syst.","36","2","2013"
-"J690","PVLDB","PVLDB","9","2","2015"
-"J691","DEBU","IEEE Data Eng. Bull.","41","2","2018"
-"J692","DEBU","IEEE Data Eng. Bull.","34","4","2011"
-"J693","KAIS","Knowl. Inf. Syst.","58","3","2019"
-"J694","SIGMOD","SIGMOD Record","45","2","2016"
-"J695","KAIS","Knowl. Inf. Syst.","32","3","2012"
-"J696","VLDB","VLDB J.","21","4","2012"
-"J697","CACM","Commun. ACM","57","11","2014"
-"J698","TKDE","IEEE Trans. Knowl. Data Eng.","27","6","2015"
-"J699","PVLDB","PVLDB","12","6","2019"
-"J700","DEBU","IEEE Data Eng. Bull.","35","2","2012"
-"J701","DBSK","Datenbank-Spektrum","17","1","2017"
-"J702","CACM","Commun. ACM","61","8","2018"
-"J703","VLDB","VLDB J.","20","1","2011"
-"J704","TKDE","IEEE Trans. Knowl. Data Eng.","28","4","2016"
-"J705","PVLDB","PVLDB","13","1","2019"
-"J706","CACM","Commun. ACM","55","3","2012"
-"J707","TKDE","IEEE Trans. Knowl. Data Eng.","23","12","2011"
-"J708","KAIS","Knowl. Inf. Syst.","53","1","2017"
-"J709","IS","Inf. Syst.","84",,"2019"
-"J710","CACM","Commun. ACM","54","5","2011"
-"J711","PVLDB","PVLDB","11","8","2018"
-"J712","CACM","Commun. ACM","63","1","2020"
-"J713","IS","Inf. Syst.","76",,"2018"
-"J714","PVLDB","PVLDB","5","8","2012"
-"J715","TODS","ACM Trans. Database Syst.","41","1","2016"
+J1,TKDE,IEEE Trans. Knowl. Data Eng.,28,6,2016
+J2,PVLDB,PVLDB,9,4,2015
+J3,VLDB,VLDB J.,21,1,2012
+J4,KAIS,Knowl. Inf. Syst.,30,2,2012
+J5,PVLDB,PVLDB,7,1,2013
+J6,PVLDB,PVLDB,6,8,2013
+J7,IS,Inf. Syst.,86,,2019
+J8,IS,Inf. Syst.,49,,2015
+J9,IS,Inf. Syst.,37,5,2012
+J10,PVLDB,PVLDB,6,3,2013
+J11,KAIS,Knowl. Inf. Syst.,54,1,2018
+J12,DBSK,Datenbank-Spektrum,11,1,2011
+J13,KAIS,Knowl. Inf. Syst.,33,3,2012
+J14,CACM,Commun. ACM,61,5,2018
+J15,TODS,ACM Trans. Database Syst.,41,3,2016
+J16,TKDE,IEEE Trans. Knowl. Data Eng.,28,1,2016
+J17,CACM,Commun. ACM,59,11,2016
+J18,KAIS,Knowl. Inf. Syst.,52,3,2017
+J19,DEBU,IEEE Data Eng. Bull.,41,4,2018
+J20,KAIS,Knowl. Inf. Syst.,46,3,2016
+J21,VLDB,VLDB J.,27,6,2018
+J22,TKDE,IEEE Trans. Knowl. Data Eng.,29,9,2017
+J23,DBSK,Datenbank-Spektrum,16,3,2016
+J24,KAIS,Knowl. Inf. Syst.,60,1,2019
+J25,DEBU,IEEE Data Eng. Bull.,42,2,2019
+J26,CACM,Commun. ACM,57,6,2014
+J27,IS,Inf. Syst.,44,,2014
+J28,VLDB,VLDB J.,25,5,2016
+J29,TKDE,IEEE Trans. Knowl. Data Eng.,29,4,2017
+J30,PVLDB,PVLDB,8,13,2015
+J31,TODS,ACM Trans. Database Syst.,42,1,2017
+J32,IS,Inf. Syst.,78,,2018
+J33,PVLDB,PVLDB,7,6,2014
+J34,TKDE,IEEE Trans. Knowl. Data Eng.,29,10,2017
+J35,TKDE,IEEE Trans. Knowl. Data Eng.,30,2,2018
+J36,SIGMOD,SIGMOD Record,45,4,2016
+J37,TODS,ACM Trans. Database Syst.,39,2,2014
+J38,IS,Inf. Syst.,36,7,2011
+J39,PVLDB,PVLDB,12,8,2019
+J40,TKDE,IEEE Trans. Knowl. Data Eng.,31,12,2019
+J41,VLDB,VLDB J.,26,3,2017
+J42,CACM,Commun. ACM,56,3,2013
+J43,CACM,Commun. ACM,62,8,2019
+J44,KAIS,Knowl. Inf. Syst.,59,3,2019
+J45,TKDE,IEEE Trans. Knowl. Data Eng.,24,2,2012
+J46,PVLDB,PVLDB,8,9,2015
+J47,DEBU,IEEE Data Eng. Bull.,36,2,2013
+J48,TKDE,IEEE Trans. Knowl. Data Eng.,25,12,2013
+J49,PVLDB,PVLDB,4,10,2011
+J50,PVLDB,PVLDB,11,5,2018
+J51,PVLDB,PVLDB,9,12,2016
+J52,TKDE,IEEE Trans. Knowl. Data Eng.,31,5,2019
+J53,SIGMOD,SIGMOD Record,46,2,2017
+J54,KAIS,Knowl. Inf. Syst.,37,2,2013
+J55,VLDB,VLDB J.,23,2,2014
+J56,PVLDB,PVLDB,7,14,2014
+J57,TKDE,IEEE Trans. Knowl. Data Eng.,26,11,2014
+J58,PVLDB,PVLDB,12,3,2018
+J59,CACM,Commun. ACM,56,8,2013
+J60,DEBU,IEEE Data Eng. Bull.,39,3,2016
+J61,KAIS,Knowl. Inf. Syst.,50,2,2017
+J62,DBSK,Datenbank-Spektrum,13,2,2013
+J63,KAIS,Knowl. Inf. Syst.,56,2,2018
+J64,IS,Inf. Syst.,36,2,2011
+J65,TKDE,IEEE Trans. Knowl. Data Eng.,30,7,2018
+J66,KAIS,Knowl. Inf. Syst.,41,1,2014
+J67,VLDB,VLDB J.,22,4,2013
+J68,TKDE,IEEE Trans. Knowl. Data Eng.,24,7,2012
+J69,CACM,Commun. ACM,62,3,2019
+J70,IS,Inf. Syst.,65,,2017
+J71,KAIS,Knowl. Inf. Syst.,27,3,2011
+J72,TODS,ACM Trans. Database Syst.,36,1,2011
+J73,SIGMOD,SIGMOD Record,42,3,2013
+J74,KAIS,Knowl. Inf. Syst.,43,2,2015
+J75,CACM,Commun. ACM,58,12,2015
+J76,TKDE,IEEE Trans. Knowl. Data Eng.,26,8,2014
+J77,TKDE,IEEE Trans. Knowl. Data Eng.,25,5,2013
+J78,IS,Inf. Syst.,57,,2016
+J79,CACM,Commun. ACM,59,4,2016
+J80,KAIS,Knowl. Inf. Syst.,28,1,2011
+J81,TODS,ACM Trans. Database Syst.,37,4,2012
+J82,PVLDB,PVLDB,11,10,2018
+J83,SIGMOD,SIGMOD Record,44,1,2015
+J84,TODS,ACM Trans. Database Syst.,44,4,2019
+J85,CACM,Commun. ACM,60,11,2017
+J86,DEBU,IEEE Data Eng. Bull.,40,1,2017
+J87,VLDB,VLDB J.,23,4,2014
+J88,KAIS,Knowl. Inf. Syst.,47,3,2016
+J89,CACM,Commun. ACM,62,5,2019
+J90,CACM,Commun. ACM,55,10,2012
+J91,KAIS,Knowl. Inf. Syst.,34,3,2013
+J92,TKDE,IEEE Trans. Knowl. Data Eng.,27,12,2015
+J93,KAIS,Knowl. Inf. Syst.,38,2,2014
+J94,VLDB,VLDB J.,20,3,2011
+J95,TKDE,IEEE Trans. Knowl. Data Eng.,28,11,2016
+J96,CACM,Commun. ACM,60,2,2017
+J97,VLDB,VLDB J.,24,2,2015
+J98,PVLDB,PVLDB,10,11,2017
+J99,IS,Inf. Syst.,60,,2016
+J100,CACM,Commun. ACM,59,9,2016
+J101,TKDE,IEEE Trans. Knowl. Data Eng.,27,8,2015
+J102,PVLDB,PVLDB,9,14,2016
+J103,IS,Inf. Syst.,73,,2018
+J104,KAIS,Knowl. Inf. Syst.,28,3,2011
+J105,KAIS,Knowl. Inf. Syst.,57,2,2018
+J106,CACM,Commun. ACM,61,10,2018
+J107,PVLDB,PVLDB,5,11,2012
+J108,KAIS,Knowl. Inf. Syst.,35,1,2013
+J109,IS,Inf. Syst.,52,,2015
+J110,TKDE,IEEE Trans. Knowl. Data Eng.,27,3,2015
+J111,PVLDB,PVLDB,5,5,2012
+J112,KAIS,Knowl. Inf. Syst.,29,1,2011
+J113,TKDE,IEEE Trans. Knowl. Data Eng.,31,7,2019
+J114,TODS,ACM Trans. Database Syst.,38,4,2013
+J115,TKDE,IEEE Trans. Knowl. Data Eng.,25,2,2013
+J116,DEBU,IEEE Data Eng. Bull.,34,1,2011
+J117,TKDE,IEEE Trans. Knowl. Data Eng.,26,5,2014
+J118,CACM,Commun. ACM,54,2,2011
+J119,TODS,ACM Trans. Database Syst.,37,1,2012
+J120,SIGMOD,SIGMOD Record,43,3,2014
+J121,PVLDB,PVLDB,4,12,2011
+J122,CACM,Commun. ACM,60,7,2017
+J123,KAIS,Knowl. Inf. Syst.,44,2,2015
+J124,PVLDB,PVLDB,4,7,2011
+J125,PVLDB,PVLDB,10,7,2017
+J126,TKDE,IEEE Trans. Knowl. Data Eng.,23,4,2011
+J127,IS,Inf. Syst.,81,,2019
+J128,CACM,Commun. ACM,57,8,2014
+J129,PVLDB,PVLDB,13,3,2019
+J130,IS,Inf. Syst.,37,7,2012
+J131,CACM,Commun. ACM,55,5,2012
+J132,DBSK,Datenbank-Spektrum,17,3,2017
+J133,TKDE,IEEE Trans. Knowl. Data Eng.,29,1,2017
+J134,IS,Inf. Syst.,37,2,2012
+J135,DEBU,IEEE Data Eng. Bull.,37,2,2014
+J136,KAIS,Knowl. Inf. Syst.,55,1,2018
+J137,PVLDB,PVLDB,10,2,2016
+J138,CACM,Commun. ACM,54,7,2011
+J139,DBSK,Datenbank-Spektrum,14,2,2014
+J140,CACM,Commun. ACM,58,6,2015
+J141,DBSK,Datenbank-Spektrum,18,1,2018
+J142,DEBU,IEEE Data Eng. Bull.,35,4,2012
+J143,TKDE,IEEE Trans. Knowl. Data Eng.,23,9,2011
+J144,TODS,ACM Trans. Database Syst.,42,3,2017
+J145,PVLDB,PVLDB,8,1,2014
+J146,VLDB,VLDB J.,28,1,2019
+J147,KAIS,Knowl. Inf. Syst.,31,2,2012
+J148,CACM,Commun. ACM,57,3,2014
+J149,KAIS,Knowl. Inf. Syst.,53,3,2017
+J150,TODS,ACM Trans. Database Syst.,43,1,2018
+J151,PVLDB,PVLDB,7,8,2014
+J152,PVLDB,PVLDB,9,9,2016
+J153,VLDB,VLDB J.,27,3,2018
+J154,TKDE,IEEE Trans. Knowl. Data Eng.,29,6,2017
+J155,PVLDB,PVLDB,7,3,2013
+J156,PVLDB,PVLDB,6,10,2013
+J157,SIGMOD,SIGMOD Record,40,2,2011
+J158,KAIS,Knowl. Inf. Syst.,48,1,2016
+J159,PVLDB,PVLDB,8,10,2015
+J160,TKDE,IEEE Trans. Knowl. Data Eng.,31,2,2019
+J161,IS,Inf. Syst.,38,5,2013
+J162,KAIS,Knowl. Inf. Syst.,40,3,2014
+J163,VLDB,VLDB J.,21,6,2012
+J164,SIGMOD,SIGMOD Record,47,2,2018
+J165,CACM,Commun. ACM,58,1,2015
+J166,VLDB,VLDB J.,28,6,2019
+J167,PVLDB,PVLDB,8,6,2015
+J168,KAIS,Knowl. Inf. Syst.,61,1,2019
+J169,TKDE,IEEE Trans. Knowl. Data Eng.,30,4,2018
+J170,IS,Inf. Syst.,41,,2014
+J171,IS,Inf. Syst.,54,,2015
+J172,VLDB,VLDB J.,28,3,2019
+J173,TODS,ACM Trans. Database Syst.,39,4,2014
+J174,SIGMOD,SIGMOD Record,46,4,2017
+J175,PVLDB,PVLDB,10,4,2016
+J176,IS,Inf. Syst.,67,,2017
+J177,KAIS,Knowl. Inf. Syst.,49,1,2016
+J178,CACM,Commun. ACM,58,3,2015
+J179,TKDE,IEEE Trans. Knowl. Data Eng.,23,1,2011
+J180,DBSK,Datenbank-Spektrum,15,2,2015
+J181,PVLDB,PVLDB,7,11,2014
+J182,VLDB,VLDB J.,29,1,2020
+J183,CACM,Commun. ACM,54,11,2011
+J184,TKDE,IEEE Trans. Knowl. Data Eng.,32,2,2020
+J185,VLDB,VLDB J.,25,2,2016
+J186,TKDE,IEEE Trans. Knowl. Data Eng.,29,12,2017
+J187,PVLDB,PVLDB,11,2,2017
+J188,CACM,Commun. ACM,56,5,2013
+J189,DEBU,IEEE Data Eng. Bull.,38,2,2015
+J190,CACM,Commun. ACM,55,7,2012
+J191,DEBU,IEEE Data Eng. Bull.,35,1,2012
+J192,TKDE,IEEE Trans. Knowl. Data Eng.,30,10,2018
+J193,TODS,ACM Trans. Database Syst.,40,2,2015
+J194,DBSK,Datenbank-Spektrum,12,1,2012
+J195,KAIS,Knowl. Inf. Syst.,48,3,2016
+J196,VLDB,VLDB J.,22,1,2013
+J197,DBSK,Datenbank-Spektrum,18,3,2018
+J198,TKDE,IEEE Trans. Knowl. Data Eng.,24,4,2012
+J199,KAIS,Knowl. Inf. Syst.,26,2,2011
+J200,KAIS,Knowl. Inf. Syst.,62,1,2020
+J201,PVLDB,PVLDB,9,6,2016
+J202,DBSK,Datenbank-Spektrum,19,1,2019
+J203,IS,Inf. Syst.,38,7,2013
+J204,TODS,ACM Trans. Database Syst.,36,3,2011
+J205,DEBU,IEEE Data Eng. Bull.,36,4,2013
+J206,TKDE,IEEE Trans. Knowl. Data Eng.,23,6,2011
+J207,VLDB,VLDB J.,21,3,2012
+J208,CACM,Commun. ACM,59,1,2016
+J209,PVLDB,PVLDB,6,12,2013
+J210,DBSK,Datenbank-Spektrum,11,3,2011
+J211,IS,Inf. Syst.,38,2,2013
+J212,KAIS,Knowl. Inf. Syst.,54,3,2018
+J213,CACM,Commun. ACM,62,11,2019
+J214,PVLDB,PVLDB,8,3,2014
+J215,KAIS,Knowl. Inf. Syst.,39,2,2014
+J216,TKDE,IEEE Trans. Knowl. Data Eng.,24,10,2012
+J217,VLDB,VLDB J.,22,6,2013
+J218,TKDE,IEEE Trans. Knowl. Data Eng.,30,9,2018
+J219,SIGMOD,SIGMOD Record,48,2,2019
+J220,IS,Inf. Syst.,59,,2016
+J221,KAIS,Knowl. Inf. Syst.,32,2,2012
+J222,SIGMOD,SIGMOD Record,41,2,2012
+J223,PVLDB,PVLDB,9,1,2015
+J224,KAIS,Knowl. Inf. Syst.,42,1,2015
+J225,TKDE,IEEE Trans. Knowl. Data Eng.,25,7,2013
+J226,KAIS,Knowl. Inf. Syst.,51,2,2017
+J227,PVLDB,PVLDB,12,11,2019
+J228,CACM,Commun. ACM,60,4,2017
+J229,KAIS,Knowl. Inf. Syst.,41,3,2014
+J230,CACM,Commun. ACM,57,10,2014
+J231,PVLDB,PVLDB,5,7,2012
+J232,TKDE,IEEE Trans. Knowl. Data Eng.,27,5,2015
+J233,IS,Inf. Syst.,62,,2016
+J234,TODS,ACM Trans. Database Syst.,44,1,2019
+J235,TKDE,IEEE Trans. Knowl. Data Eng.,24,9,2012
+J236,TKDE,IEEE Trans. Knowl. Data Eng.,28,8,2016
+J237,IS,Inf. Syst.,75,,2018
+J238,PVLDB,PVLDB,11,12,2018
+J239,CACM,Commun. ACM,59,6,2016
+J240,CACM,Commun. ACM,61,2,2018
+J241,CACM,Commun. ACM,56,11,2013
+J242,IS,Inf. Syst.,88,,2020
+J243,PVLDB,PVLDB,5,2,2011
+J244,SIGMOD,SIGMOD Record,45,1,2016
+J245,KAIS,Knowl. Inf. Syst.,36,1,2013
+J246,PVLDB,PVLDB,11,7,2018
+J247,DEBU,IEEE Data Eng. Bull.,41,1,2018
+J248,IS,Inf. Syst.,36,4,2011
+J249,CACM,Commun. ACM,54,4,2011
+J250,IS,Inf. Syst.,83,,2019
+J251,CACM,Commun. ACM,60,9,2017
+J252,KAIS,Knowl. Inf. Syst.,58,2,2019
+J253,KAIS,Knowl. Inf. Syst.,45,2,2015
+J254,DEBU,IEEE Data Eng. Bull.,40,3,2017
+J255,CACM,Commun. ACM,55,2,2012
+J256,KAIS,Knowl. Inf. Syst.,60,3,2019
+J257,KAIS,Knowl. Inf. Syst.,35,3,2013
+J258,TODS,ACM Trans. Database Syst.,38,1,2013
+J259,SIGMOD,SIGMOD Record,44,3,2015
+J260,PVLDB,PVLDB,12,5,2019
+J261,VLDB,VLDB J.,24,4,2015
+J262,IS,Inf. Syst.,46,,2014
+J263,CACM,Commun. ACM,61,7,2018
+J264,PVLDB,PVLDB,6,5,2013
+J265,TKDE,IEEE Trans. Knowl. Data Eng.,28,3,2016
+J266,VLDB,VLDB J.,26,5,2017
+J267,DEBU,IEEE Data Eng. Bull.,37,4,2014
+J268,TKDE,IEEE Trans. Knowl. Data Eng.,25,4,2013
+J269,PVLDB,PVLDB,6,2,2013
+J270,PVLDB,PVLDB,6,2,2012
+J271,TKDE,IEEE Trans. Knowl. Data Eng.,31,9,2019
+J272,CACM,Commun. ACM,54,9,2011
+J273,VLDB,VLDB J.,27,5,2018
+J274,IS,Inf. Syst.,36,6,2011
+J275,PVLDB,PVLDB,12,7,2019
+J276,TODS,ACM Trans. Database Syst.,41,2,2016
+J277,KAIS,Knowl. Inf. Syst.,29,3,2011
+J278,KAIS,Knowl. Inf. Syst.,30,1,2012
+J279,TKDE,IEEE Trans. Knowl. Data Eng.,23,11,2011
+J280,TKDE,IEEE Trans. Knowl. Data Eng.,28,5,2016
+J281,KAIS,Knowl. Inf. Syst.,61,3,2019
+J282,PVLDB,PVLDB,10,9,2017
+J283,CACM,Commun. ACM,57,5,2014
+J284,KAIS,Knowl. Inf. Syst.,42,3,2015
+J285,TKDE,IEEE Trans. Knowl. Data Eng.,29,3,2017
+J286,IS,Inf. Syst.,70,,2017
+J287,IS,Inf. Syst.,36,1,2011
+J288,PVLDB,PVLDB,6,7,2013
+J289,PVLDB,PVLDB,12,13,2019
+J290,SIGMOD,SIGMOD Record,47,4,2018
+J291,CACM,Commun. ACM,59,10,2016
+J292,PVLDB,PVLDB,7,5,2014
+J293,IS,Inf. Syst.,56,,2016
+J294,DEBU,IEEE Data Eng. Bull.,34,3,2011
+J295,KAIS,Knowl. Inf. Syst.,52,2,2017
+J296,PVLDB,PVLDB,12,2,2018
+J297,TKDE,IEEE Trans. Knowl. Data Eng.,25,9,2013
+J298,CACM,Commun. ACM,56,2,2013
+J299,CACM,Commun. ACM,62,7,2019
+J300,CACM,Commun. ACM,61,12,2018
+J301,DBSK,Datenbank-Spektrum,16,2,2016
+J302,PVLDB,PVLDB,13,5,2020
+J303,KAIS,Knowl. Inf. Syst.,59,2,2019
+J304,VLDB,VLDB J.,26,2,2017
+J305,TKDE,IEEE Trans. Knowl. Data Eng.,26,10,2014
+J306,CACM,Commun. ACM,61,4,2018
+J307,VLDB,VLDB J.,20,5,2011
+J308,KAIS,Knowl. Inf. Syst.,36,3,2013
+J309,IS,Inf. Syst.,37,4,2012
+J310,IS,Inf. Syst.,48,,2015
+J311,SIGMOD,SIGMOD Record,46,1,2017
+J312,DEBU,IEEE Data Eng. Bull.,42,1,2019
+J313,TKDE,IEEE Trans. Knowl. Data Eng.,30,1,2018
+J314,KAIS,Knowl. Inf. Syst.,27,2,2011
+J315,KAIS,Knowl. Inf. Syst.,37,1,2013
+J316,VLDB,VLDB J.,23,1,2014
+J317,PVLDB,PVLDB,10,13,2017
+J318,PVLDB,PVLDB,8,12,2015
+J319,TODS,ACM Trans. Database Syst.,37,3,2012
+J320,CACM,Commun. ACM,55,12,2012
+J321,SIGMOD,SIGMOD Record,40,4,2011
+J322,TKDE,IEEE Trans. Knowl. Data Eng.,29,8,2017
+J323,KAIS,Knowl. Inf. Syst.,56,1,2018
+J324,TKDE,IEEE Trans. Knowl. Data Eng.,31,11,2019
+J325,KAIS,Knowl. Inf. Syst.,49,3,2016
+J326,TKDE,IEEE Trans. Knowl. Data Eng.,25,11,2013
+J327,CACM,Commun. ACM,62,2,2019
+J328,KAIS,Knowl. Inf. Syst.,46,2,2016
+J329,IS,Inf. Syst.,77,,2018
+J330,PVLDB,PVLDB,8,8,2015
+J331,PVLDB,PVLDB,9,11,2016
+J332,CACM,Commun. ACM,58,11,2015
+J333,PVLDB,PVLDB,4,9,2011
+J334,TKDE,IEEE Trans. Knowl. Data Eng.,26,7,2014
+J335,CACM,Commun. ACM,58,8,2015
+J336,TKDE,IEEE Trans. Knowl. Data Eng.,24,1,2012
+J337,TKDE,IEEE Trans. Knowl. Data Eng.,31,4,2019
+J338,KAIS,Knowl. Inf. Syst.,33,2,2012
+J339,DEBU,IEEE Data Eng. Bull.,36,1,2013
+J340,TKDE,IEEE Trans. Knowl. Data Eng.,30,6,2018
+J341,IS,Inf. Syst.,69,,2017
+J342,CACM,Commun. ACM,56,7,2013
+J343,DBSK,Datenbank-Spektrum,13,1,2013
+J344,TODS,ACM Trans. Database Syst.,43,3,2018
+J345,VLDB,VLDB J.,23,6,2014
+J346,KAIS,Knowl. Inf. Syst.,43,1,2015
+J347,DBSK,Datenbank-Spektrum,12,3,2012
+J348,SIGMOD,SIGMOD Record,42,2,2013
+J349,VLDB,VLDB J.,22,3,2013
+J350,PVLDB,PVLDB,4,4,2011
+J351,TKDE,IEEE Trans. Knowl. Data Eng.,26,2,2014
+J352,KAIS,Knowl. Inf. Syst.,55,3,2018
+J353,PVLDB,PVLDB,10,10,2017
+J354,DBSK,Datenbank-Spektrum,19,3,2019
+J355,CACM,Commun. ACM,59,8,2016
+J356,KAIS,Knowl. Inf. Syst.,53,2,2017
+J357,KAIS,Knowl. Inf. Syst.,43,3,2015
+J358,VLDB,VLDB J.,20,2,2011
+J359,TKDE,IEEE Trans. Knowl. Data Eng.,26,9,2014
+J360,PVLDB,PVLDB,5,4,2011
+J361,SIGMOD,SIGMOD Record,43,2,2014
+J362,TKDE,IEEE Trans. Knowl. Data Eng.,27,7,2015
+J363,PVLDB,PVLDB,8,5,2015
+J364,IS,Inf. Syst.,85,,2019
+J365,IS,Inf. Syst.,72,,2017
+J366,PVLDB,PVLDB,5,9,2012
+J367,PVLDB,PVLDB,4,6,2011
+J368,CACM,Commun. ACM,60,10,2017
+J369,KAIS,Knowl. Inf. Syst.,44,1,2015
+J370,CACM,Commun. ACM,60,1,2017
+J371,PVLDB,PVLDB,11,9,2018
+J372,TKDE,IEEE Trans. Knowl. Data Eng.,24,6,2012
+J373,KAIS,Knowl. Inf. Syst.,47,2,2016
+J374,CACM,Commun. ACM,59,3,2016
+J375,KAIS,Knowl. Inf. Syst.,40,2,2014
+J376,PVLDB,PVLDB,11,4,2017
+J377,PVLDB,PVLDB,9,13,2016
+J378,DEBU,IEEE Data Eng. Bull.,38,4,2015
+J379,KAIS,Knowl. Inf. Syst.,57,1,2018
+J380,VLDB,VLDB J.,24,1,2015
+J381,TKDE,IEEE Trans. Knowl. Data Eng.,27,11,2015
+J382,CACM,Commun. ACM,60,6,2017
+J383,TKDE,IEEE Trans. Knowl. Data Eng.,26,4,2014
+J384,TKDE,IEEE Trans. Knowl. Data Eng.,23,8,2011
+J385,CACM,Commun. ACM,58,5,2015
+J386,PVLDB,PVLDB,10,6,2017
+J387,CACM,Commun. ACM,54,1,2011
+J388,KAIS,Knowl. Inf. Syst.,50,1,2017
+J389,TODS,ACM Trans. Database Syst.,44,3,2019
+J390,KAIS,Knowl. Inf. Syst.,56,3,2018
+J391,TKDE,IEEE Trans. Knowl. Data Eng.,30,12,2018
+J392,DEBU,IEEE Data Eng. Bull.,39,2,2016
+J393,DBSK,Datenbank-Spektrum,13,3,2013
+J394,VLDB,VLDB J.,25,4,2016
+J395,TKDE,IEEE Trans. Knowl. Data Eng.,27,2,2015
+J396,VLDB,VLDB J.,23,3,2014
+J397,TKDE,IEEE Trans. Knowl. Data Eng.,28,10,2016
+J398,PVLDB,PVLDB,7,13,2014
+J399,KAIS,Knowl. Inf. Syst.,34,2,2013
+J400,TKDE,IEEE Trans. Knowl. Data Eng.,31,6,2019
+J401,IS,Inf. Syst.,37,1,2012
+J402,CACM,Commun. ACM,61,9,2018
+J403,DBSK,Datenbank-Spektrum,14,1,2014
+J404,VLDB,VLDB J.,24,6,2015
+J405,TKDE,IEEE Trans. Knowl. Data Eng.,24,12,2012
+J406,TODS,ACM Trans. Database Syst.,39,1,2014
+J407,SIGMOD,SIGMOD Record,45,3,2016
+J408,PVLDB,PVLDB,10,1,2016
+J409,DEBU,IEEE Data Eng. Bull.,37,1,2014
+J410,DEBU,IEEE Data Eng. Bull.,41,3,2018
+J411,CACM,Commun. ACM,54,6,2011
+J412,PVLDB,PVLDB,9,8,2016
+J413,IS,Inf. Syst.,51,,2015
+J414,CACM,Commun. ACM,57,2,2014
+J415,PVLDB,PVLDB,6,14,2013
+J416,TODS,ACM Trans. Database Syst.,38,3,2013
+J417,IS,Inf. Syst.,64,,2017
+J418,IS,Inf. Syst.,37,6,2012
+J419,TKDE,IEEE Trans. Knowl. Data Eng.,31,1,2019
+J420,CACM,Commun. ACM,55,4,2012
+J421,IS,Inf. Syst.,43,,2014
+J422,CACM,Commun. ACM,55,9,2012
+J423,KAIS,Knowl. Inf. Syst.,30,3,2012
+J424,IS,Inf. Syst.,38,4,2013
+J425,VLDB,VLDB J.,21,5,2012
+J426,SIGMOD,SIGMOD Record,47,1,2018
+J427,CACM,Commun. ACM,63,2,2020
+J428,SIGMOD,SIGMOD Record,41,4,2012
+J429,VLDB,VLDB J.,28,5,2019
+J430,CACM,Commun. ACM,57,12,2014
+J431,PVLDB,PVLDB,5,10,2012
+J432,DBSK,Datenbank-Spektrum,17,2,2017
+J433,TKDE,IEEE Trans. Knowl. Data Eng.,23,3,2011
+J434,PVLDB,PVLDB,13,2,2019
+J435,TODS,ACM Trans. Database Syst.,40,4,2016
+J436,DEBU,IEEE Data Eng. Bull.,35,3,2012
+J437,KAIS,Knowl. Inf. Syst.,31,1,2012
+J438,PVLDB,PVLDB,9,3,2015
+J439,PVLDB,PVLDB,7,2,2013
+J440,VLDB,VLDB J.,27,2,2018
+J441,SIGMOD,SIGMOD Record,40,1,2011
+J442,IS,Inf. Syst.,80,,2019
+J443,KAIS,Knowl. Inf. Syst.,38,1,2014
+J444,TKDE,IEEE Trans. Knowl. Data Eng.,29,11,2017
+J445,PVLDB,PVLDB,7,7,2014
+J446,DBSK,Datenbank-Spektrum,11,2,2011
+J447,KAIS,Knowl. Inf. Syst.,58,1,2019
+J448,CACM,Commun. ACM,55,1,2012
+J449,TKDE,IEEE Trans. Knowl. Data Eng.,32,1,2020
+J450,SIGMOD,SIGMOD Record,48,1,2019
+J451,KAIS,Knowl. Inf. Syst.,39,1,2014
+J452,IS,Inf. Syst.,74,,2018
+J453,CACM,Commun. ACM,54,10,2011
+J454,CACM,Commun. ACM,61,6,2018
+J455,PVLDB,PVLDB,7,10,2014
+J456,KAIS,Knowl. Inf. Syst.,48,2,2016
+J457,CACM,Commun. ACM,59,12,2016
+J458,TODS,ACM Trans. Database Syst.,39,3,2014
+J459,VLDB,VLDB J.,22,5,2013
+J460,DEBU,IEEE Data Eng. Bull.,42,3,2019
+J461,KAIS,Knowl. Inf. Syst.,26,1,2011
+J462,IS,Inf. Syst.,53,,2015
+J463,CACM,Commun. ACM,62,10,2019
+J464,SIGMOD,SIGMOD Record,46,3,2017
+J465,KAIS,Knowl. Inf. Syst.,45,1,2015
+J466,CACM,Commun. ACM,58,2,2015
+J467,TKDE,IEEE Trans. Knowl. Data Eng.,29,5,2017
+J468,TODS,ACM Trans. Database Syst.,36,2,2011
+J469,SIGMOD,SIGMOD Record,42,4,2013
+J470,PVLDB,PVLDB,6,11,2013
+J471,PVLDB,PVLDB,9,5,2016
+J472,KAIS,Knowl. Inf. Syst.,54,2,2018
+J473,VLDB,VLDB J.,25,6,2016
+J474,CACM,Commun. ACM,55,6,2012
+J475,IS,Inf. Syst.,38,1,2013
+J476,TODS,ACM Trans. Database Syst.,42,2,2017
+J477,TKDE,IEEE Trans. Knowl. Data Eng.,30,3,2018
+J478,IS,Inf. Syst.,66,,2017
+J479,SIGMOD,SIGMOD Record,41,1,2012
+J480,VLDB,VLDB J.,28,2,2019
+J481,TKDE,IEEE Trans. Knowl. Data Eng.,28,7,2016
+J482,PVLDB,PVLDB,12,9,2019
+J483,DEBU,IEEE Data Eng. Bull.,36,3,2013
+J484,TODS,ACM Trans. Database Syst.,40,1,2015
+J485,CACM,Commun. ACM,57,7,2014
+J486,TODS,ACM Trans. Database Syst.,41,4,2016
+J487,PVLDB,PVLDB,6,9,2013
+J488,VLDB,VLDB J.,21,2,2012
+J489,KAIS,Knowl. Inf. Syst.,32,1,2012
+J490,TKDE,IEEE Trans. Knowl. Data Eng.,25,1,2013
+J491,KAIS,Knowl. Inf. Syst.,50,3,2017
+J492,PVLDB,PVLDB,12,4,2018
+J493,IS,Inf. Syst.,45,,2014
+J494,CACM,Commun. ACM,59,5,2016
+J495,IS,Inf. Syst.,36,3,2011
+J496,CACM,Commun. ACM,56,9,2013
+J497,DEBU,IEEE Data Eng. Bull.,39,4,2016
+J498,TKDE,IEEE Trans. Knowl. Data Eng.,30,8,2018
+J499,IS,Inf. Syst.,36,8,2011
+J500,TKDE,IEEE Trans. Knowl. Data Eng.,28,2,2016
+J501,PVLDB,PVLDB,5,6,2012
+J502,KAIS,Knowl. Inf. Syst.,41,2,2014
+J503,CACM,Commun. ACM,56,4,2013
+J504,TKDE,IEEE Trans. Knowl. Data Eng.,24,3,2012
+J505,PVLDB,PVLDB,11,6,2018
+J506,PVLDB,PVLDB,4,11,2011
+J507,TKDE,IEEE Trans. Knowl. Data Eng.,27,4,2015
+J508,CACM,Commun. ACM,62,9,2019
+J509,IS,Inf. Syst.,58,,2016
+J510,KAIS,Knowl. Inf. Syst.,60,2,2019
+J511,DBSK,Datenbank-Spektrum,15,1,2015
+J512,PVLDB,PVLDB,11,1,2017
+J513,KAIS,Knowl. Inf. Syst.,28,2,2011
+J514,TKDE,IEEE Trans. Knowl. Data Eng.,26,12,2014
+J515,TKDE,IEEE Trans. Knowl. Data Eng.,25,6,2013
+J516,KAIS,Knowl. Inf. Syst.,35,2,2013
+J517,PVLDB,PVLDB,6,4,2013
+J518,PVLDB,PVLDB,11,11,2018
+J519,IS,Inf. Syst.,79,,2019
+J520,VLDB,VLDB J.,26,4,2017
+J521,CACM,Commun. ACM,61,1,2018
+J522,KAIS,Knowl. Inf. Syst.,37,3,2013
+J523,CACM,Commun. ACM,62,4,2019
+J524,KAIS,Knowl. Inf. Syst.,51,1,2017
+J525,TKDE,IEEE Trans. Knowl. Data Eng.,24,8,2012
+J526,IS,Inf. Syst.,87,,2020
+J527,PVLDB,PVLDB,5,1,2011
+J528,PVLDB,PVLDB,12,10,2019
+J529,VLDB,VLDB J.,25,1,2016
+J530,CACM,Commun. ACM,60,3,2017
+J531,PVLDB,PVLDB,5,12,2012
+J532,VLDB,VLDB J.,26,6,2017
+J533,DBSK,Datenbank-Spektrum,16,1,2016
+J534,PVLDB,PVLDB,12,1,2018
+J535,TKDE,IEEE Trans. Knowl. Data Eng.,23,10,2011
+J536,KAIS,Knowl. Inf. Syst.,29,2,2011
+J537,KAIS,Knowl. Inf. Syst.,38,3,2014
+J538,SIGMOD,SIGMOD Record,47,3,2018
+J539,TKDE,IEEE Trans. Knowl. Data Eng.,28,12,2016
+J540,TKDE,IEEE Trans. Knowl. Data Eng.,31,3,2019
+J541,CACM,Commun. ACM,54,3,2011
+J542,IS,Inf. Syst.,68,,2017
+J543,VLDB,VLDB J.,24,3,2015
+J544,IS,Inf. Syst.,36,5,2011
+J545,VLDB,VLDB J.,27,4,2018
+J546,KAIS,Knowl. Inf. Syst.,57,3,2018
+J547,TKDE,IEEE Trans. Knowl. Data Eng.,31,8,2019
+J548,SIGMOD,SIGMOD Record,44,2,2015
+J549,IS,Inf. Syst.,40,,2014
+J550,CACM,Commun. ACM,56,1,2013
+J551,CACM,Commun. ACM,60,8,2017
+J552,TKDE,IEEE Trans. Knowl. Data Eng.,31,10,2019
+J553,CACM,Commun. ACM,62,6,2019
+J554,TKDE,IEEE Trans. Knowl. Data Eng.,25,3,2013
+J555,VLDB,VLDB J.,23,5,2014
+J556,CACM,Commun. ACM,56,10,2013
+J557,KAIS,Knowl. Inf. Syst.,59,1,2019
+J558,KAIS,Knowl. Inf. Syst.,44,3,2015
+J559,TKDE,IEEE Trans. Knowl. Data Eng.,27,9,2015
+J560,VLDB,VLDB J.,20,4,2011
+J561,KAIS,Knowl. Inf. Syst.,51,3,2017
+J562,PVLDB,PVLDB,13,4,2019
+J563,SIGMOD,SIGMOD Record,43,4,2014
+J564,TODS,ACM Trans. Database Syst.,37,2,2012
+J565,IS,Inf. Syst.,37,3,2012
+J566,CACM,Commun. ACM,61,11,2018
+J567,VLDB,VLDB J.,26,1,2017
+J568,CACM,Commun. ACM,60,12,2017
+J569,PVLDB,PVLDB,6,1,2013
+J570,PVLDB,PVLDB,6,1,2012
+J571,KAIS,Knowl. Inf. Syst.,42,2,2015
+J572,KAIS,Knowl. Inf. Syst.,52,1,2017
+J573,TKDE,IEEE Trans. Knowl. Data Eng.,25,8,2013
+J574,IS,Inf. Syst.,82,,2019
+J575,CACM,Commun. ACM,62,1,2019
+J576,CACM,Commun. ACM,54,8,2011
+J577,IS,Inf. Syst.,89,,2020
+J578,DEBU,IEEE Data Eng. Bull.,34,2,2011
+J579,TODS,ACM Trans. Database Syst.,43,2,2018
+J580,PVLDB,PVLDB,4,8,2011
+J581,IS,Inf. Syst.,38,6,2013
+J582,SIGMOD,SIGMOD Record,42,1,2013
+J583,KAIS,Knowl. Inf. Syst.,33,1,2011
+J584,KAIS,Knowl. Inf. Syst.,31,3,2012
+J585,PVLDB,PVLDB,8,2,2014
+J586,CACM,Commun. ACM,58,10,2015
+J587,KAIS,Knowl. Inf. Syst.,46,1,2016
+J588,KAIS,Knowl. Inf. Syst.,55,2,2018
+J589,TKDE,IEEE Trans. Knowl. Data Eng.,26,6,2014
+J590,VLDB,VLDB J.,22,2,2013
+J591,TODS,ACM Trans. Database Syst.,42,4,2017
+J592,DBSK,Datenbank-Spektrum,18,2,2018
+J593,PVLDB,PVLDB,10,8,2017
+J594,PVLDB,PVLDB,10,12,2017
+J595,TKDE,IEEE Trans. Knowl. Data Eng.,23,5,2011
+J596,TKDE,IEEE Trans. Knowl. Data Eng.,29,2,2017
+J597,SIGMOD,SIGMOD Record,40,3,2011
+J598,IS,Inf. Syst.,47,,2015
+J599,PVLDB,PVLDB,7,4,2013
+J600,PVLDB,PVLDB,8,11,2015
+J601,PVLDB,PVLDB,9,10,2016
+J602,CACM,Commun. ACM,55,11,2012
+J603,DEBU,IEEE Data Eng. Bull.,38,1,2015
+J604,CACM,Commun. ACM,54,12,2011
+J605,IS,Inf. Syst.,61,,2016
+J606,CACM,Commun. ACM,57,9,2014
+J607,KAIS,Knowl. Inf. Syst.,61,2,2019
+J608,IS,Inf. Syst.,39,,2014
+J609,DBSK,Datenbank-Spektrum,14,3,2014
+J610,DBSK,Datenbank-Spektrum,12,2,2012
+J611,TKDE,IEEE Trans. Knowl. Data Eng.,26,1,2014
+J612,PVLDB,PVLDB,8,7,2015
+J613,CACM,Commun. ACM,57,4,2014
+J614,DEBU,IEEE Data Eng. Bull.,37,3,2014
+J615,PVLDB,PVLDB,10,3,2016
+J616,CACM,Commun. ACM,58,7,2015
+J617,TKDE,IEEE Trans. Knowl. Data Eng.,30,5,2018
+J618,IS,Inf. Syst.,37,8,2012
+J619,PVLDB,PVLDB,7,9,2014
+J620,TKDE,IEEE Trans. Knowl. Data Eng.,29,7,2017
+J621,CACM,Commun. ACM,56,6,2013
+J622,PVLDB,PVLDB,4,5,2011
+J623,TKDE,IEEE Trans. Knowl. Data Eng.,27,1,2015
+J624,DEBU,IEEE Data Eng. Bull.,39,1,2016
+J625,TKDE,IEEE Trans. Knowl. Data Eng.,26,3,2014
+J626,CACM,Commun. ACM,55,8,2012
+J627,KAIS,Knowl. Inf. Syst.,62,2,2020
+J628,PVLDB,PVLDB,11,3,2017
+J629,IS,Inf. Syst.,55,,2016
+J630,CACM,Commun. ACM,59,2,2016
+J631,KAIS,Knowl. Inf. Syst.,40,1,2014
+J632,TODS,ACM Trans. Database Syst.,40,3,2015
+J633,TKDE,IEEE Trans. Knowl. Data Eng.,24,5,2012
+J634,VLDB,VLDB J.,28,4,2019
+J635,IS,Inf. Syst.,42,,2014
+J636,PVLDB,PVLDB,5,3,2011
+J637,DBSK,Datenbank-Spektrum,19,2,2019
+J638,DEBU,IEEE Data Eng. Bull.,38,3,2015
+J639,TODS,ACM Trans. Database Syst.,43,4,2018
+J640,DBSK,Datenbank-Spektrum,15,3,2015
+J641,PVLDB,PVLDB,10,5,2017
+J642,IS,Inf. Syst.,38,3,2013
+J643,SIGMOD,SIGMOD Record,43,1,2014
+J644,TKDE,IEEE Trans. Knowl. Data Eng.,23,2,2011
+J645,CACM,Commun. ACM,58,9,2015
+J646,KAIS,Knowl. Inf. Syst.,49,2,2016
+J647,TKDE,IEEE Trans. Knowl. Data Eng.,25,10,2013
+J648,KAIS,Knowl. Inf. Syst.,39,3,2014
+J649,TODS,ACM Trans. Database Syst.,44,2,2019
+J650,TKDE,IEEE Trans. Knowl. Data Eng.,24,11,2012
+J651,VLDB,VLDB J.,25,3,2016
+J652,KAIS,Knowl. Inf. Syst.,34,1,2013
+J653,PVLDB,PVLDB,8,4,2014
+J654,PVLDB,PVLDB,6,13,2013
+J655,PVLDB,PVLDB,7,12,2014
+J656,KAIS,Knowl. Inf. Syst.,27,1,2011
+J657,CACM,Commun. ACM,59,7,2016
+J658,IS,Inf. Syst.,71,,2017
+J659,TKDE,IEEE Trans. Knowl. Data Eng.,30,11,2018
+J660,SIGMOD,SIGMOD Record,48,3,2019
+J661,CACM,Commun. ACM,58,4,2015
+J662,TODS,ACM Trans. Database Syst.,36,4,2011
+J663,PVLDB,PVLDB,11,13,2018
+J664,KAIS,Knowl. Inf. Syst.,47,1,2016
+J665,IS,Inf. Syst.,38,8,2013
+J666,TKDE,IEEE Trans. Knowl. Data Eng.,27,10,2015
+J667,KAIS,Knowl. Inf. Syst.,26,3,2011
+J668,TKDE,IEEE Trans. Knowl. Data Eng.,32,3,2020
+J669,IS,Inf. Syst.,63,,2017
+J670,TKDE,IEEE Trans. Knowl. Data Eng.,23,7,2011
+J671,CACM,Commun. ACM,62,12,2019
+J672,CACM,Commun. ACM,61,3,2018
+J673,KAIS,Knowl. Inf. Syst.,45,3,2015
+J674,IS,Inf. Syst.,50,,2015
+J675,TODS,ACM Trans. Database Syst.,38,2,2013
+J676,SIGMOD,SIGMOD Record,44,4,2015
+J677,PVLDB,PVLDB,9,7,2016
+J678,CACM,Commun. ACM,56,12,2013
+J679,DEBU,IEEE Data Eng. Bull.,40,4,2017
+J680,CACM,Commun. ACM,57,1,2014
+J681,VLDB,VLDB J.,20,6,2011
+J682,TKDE,IEEE Trans. Knowl. Data Eng.,28,9,2016
+J683,PVLDB,PVLDB,6,6,2013
+J684,VLDB,VLDB J.,24,5,2015
+J685,PVLDB,PVLDB,12,12,2019
+J686,CACM,Commun. ACM,60,5,2017
+J687,VLDB,VLDB J.,27,1,2018
+J688,SIGMOD,SIGMOD Record,41,3,2012
+J689,KAIS,Knowl. Inf. Syst.,36,2,2013
+J690,PVLDB,PVLDB,9,2,2015
+J691,DEBU,IEEE Data Eng. Bull.,41,2,2018
+J692,DEBU,IEEE Data Eng. Bull.,34,4,2011
+J693,KAIS,Knowl. Inf. Syst.,58,3,2019
+J694,SIGMOD,SIGMOD Record,45,2,2016
+J695,KAIS,Knowl. Inf. Syst.,32,3,2012
+J696,VLDB,VLDB J.,21,4,2012
+J697,CACM,Commun. ACM,57,11,2014
+J698,TKDE,IEEE Trans. Knowl. Data Eng.,27,6,2015
+J699,PVLDB,PVLDB,12,6,2019
+J700,DEBU,IEEE Data Eng. Bull.,35,2,2012
+J701,DBSK,Datenbank-Spektrum,17,1,2017
+J702,CACM,Commun. ACM,61,8,2018
+J703,VLDB,VLDB J.,20,1,2011
+J704,TKDE,IEEE Trans. Knowl. Data Eng.,28,4,2016
+J705,PVLDB,PVLDB,13,1,2019
+J706,CACM,Commun. ACM,55,3,2012
+J707,TKDE,IEEE Trans. Knowl. Data Eng.,23,12,2011
+J708,KAIS,Knowl. Inf. Syst.,53,1,2017
+J709,IS,Inf. Syst.,84,,2019
+J710,CACM,Commun. ACM,54,5,2011
+J711,PVLDB,PVLDB,11,8,2018
+J712,CACM,Commun. ACM,63,1,2020
+J713,IS,Inf. Syst.,76,,2018
+J714,PVLDB,PVLDB,5,8,2012
+J715,TODS,ACM Trans. Database Syst.,41,1,2016
