@@ -388,7 +388,7 @@ T9116,A41528,Efficient query processing in co-processor-accelerated databases,20
 T9128,A1480191,Enhancing users' privacy: static resolution of the dynamic properties of android,2019,PhD,University of Potsdam,Germany,111,
 T9134,A2313548,System-Mediated Support of Explicit Collaboration in Information Retrieval,2016,PhD,FernUniversity of in Hagen,Germany,,
 T9155,A773430,Proaktive modellbasierte Performance-Analyse und -Vorhersage für relationale Datenbankanwendungen,2016,PhD,Friedrich Schiller University of Jena,Germany,,
-T9165,A1436307,Extracting and Learning Semantics from Social Web Data,2019,PhD,Julius Maximilians University Würzburg,Germany,,
+T9165,A1436307,Extracting and Learning Semantics from Social Web Data,2019,PhD,Julius Maximilians University of Würzburg,Germany,,
 T9181,A2138643,Efficient Processing of Range Queries in Main Memory,2019,PhD,Humboldt University of Berlin,Germany,,
 T9184,A524207,Reasoning in many dimensions: uncertainty and products of modal logics,2014,PhD,University of Bremen,Germany,209,
 T9195,A885805,Anonymous Publish-Subscribe Overlays,2016,PhD,Darmstadt University of Technology,Germany,175,
@@ -396,7 +396,7 @@ T9205,A1984613,Lossy Time-Series Transformation Techniques in the Context of the
 T9210,A925567,Social search in collaborative tagging networks: the role of ties,2013,PhD,University of Hanover,Germany,123,
 T9227,A1319526,Joint downlink beamforming and discrete resource allocation using missed-integer programming,2013,PhD,Darmstadt University of Technology,Germany,163,
 T9235,A2032493,Data provisioning in simulation workflows,2017,PhD,University of Stuttgart,Germany,,
-T9238,A513951,Heterogeneity in distributed embedded systems: from programming paradigms to testing,2012,PhD,University of Braunschweig Institute of Technology,Germany,154,978-3-95404-273-9
+T9238,A513951,Heterogeneity in distributed embedded systems: from programming paradigms to testing,2012,PhD,University of Braunschweig,Germany,154,978-3-95404-273-9
 T9241,A1279814,Incremental parallel and distributed systems,2015,PhD,Saarland University,Germany,,
 T9242,A1424540,Visual Odometry and Sparse Scene Reconstruction for UAVs with a Multi-Fisheye Camera System,2019,PhD,University of Bonn,Germany,,
 T9245,A1230166,Scalable analytical query processing,2013,PhD,Technical University of Munich,Germany,138,
@@ -417,7 +417,7 @@ T9383,A819061,Anforderungsbasierte Modellierung und Ausführung von Datenflussmo
 T9391,A1355118,A Framework for Knowledge-Based Complex Event Processing,2014,PhD,Free University of Berlin,Germany,,
 T9392,A1724722,Exploiting semantic web knowledge graphs in data mining,2018,PhD,University of Mannheim,Germany,,978-3-89838-742-2
 T9396,A2381404,A mobile data management architecture for interoperability of resource and context data,2013,PhD,University of Stuttgart,Germany,,
-T9423,A1138986,Brain-computer interfaces based on event-related potentials: toward fast; reliable and easy-to-use communication systems for people with neurodegenerative disease,2013,PhD,Julius Maximilian University of Würzburg,Germany,,
+T9423,A1138986,Brain-computer interfaces based on event-related potentials: toward fast; reliable and easy-to-use communication systems for people with neurodegenerative disease,2013,PhD,Julius Maximilians University of Würzburg,Germany,,
 T9444,A269474,Performance Analysis of Complex Shared Memory Systems,2017,PhD,Dresden University of Technology,Germany,,
 T9455,A2075050,On construction; performance; and diversification for structured queries on the semantic desktop,2011,PhD,University of Hanover,Germany,157,
 T9468,A1877728,Conservative Extensions and Satisfiability in Fragments of First-Order Logic: Complexity and Expressive Power,2018,PhD,University of Bremen,Germany,,
@@ -504,7 +504,7 @@ T10673,A298190,Active learning for recommender systems,2014,PhD,University of Hi
 T10674,A544684,Adaptive Data Quality Monitoring with a Focus on the Completeness of Timestamped Data,2018,PhD,University of Erlangen Nuremberg,Germany,,
 T10698,A1189352,Designing and evaluating recommender systems with the user in the loop,2019,PhD,Dortmund University of Technology,Germany,,
 T10709,A2048913,Virtualisierung und Software-Parallelisierung für Fail-Operational Multicore-Domänensteuergeräte in der Automobilindustrie,2017,PhD,Technical University of Munich,Germany,228,978-3-7369-9691-5
-T10713,A906743,UI-; User-; & Usability-Oriented Engineering of Participative Knowledge-Based Systems,2014,PhD,Julius Maximilians University Würzburg,Germany,214,978-3-95826-012-2
+T10713,A906743,UI-; User-; & Usability-Oriented Engineering of Participative Knowledge-Based Systems,2014,PhD,Julius Maximilians University of Würzburg,Germany,214,978-3-95826-012-2
 T10728,A1519319,Question answering over knowledge bases with continuous learning,2019,PhD,Saarland University,Germany,,
 T10735,A1551819,Privacy preserving content analysis; indexing and retrieval for social search applications,2015,PhD,University of Hanover,Germany,,
 T10796,A963911,Citation-based Plagiarism Detection: applying citation pattern analysis to identify currently non-machine-detectible disguised plagiarism in scientific publications,2013,PhD,Otto von Guericke University Magdeburg,Germany,,
@@ -519,7 +519,7 @@ T10956,A1021040,Integrating relational databases with the semantic web,2016,PhD,
 T10966,A330707,Konzepterkennung in Informationsnetzwerken,2012,PhD,University of Konstanz,Germany,,
 T10998,A1925122,Parallel and External High Quality Graph Partitioning,2019,PhD,Karlsruhe Institute of Technology,Germany,,
 T10999,A121455,Question answering and query processing for extended knowledge graphs,2016,PhD,Saarland University,Germany,,
-T11004,A1376909,Automated Reasoning Embedded in Question Answering,2013,PhD,University of Koblenz Landau,Germany,,
+T11004,A1376909,Automated Reasoning Embedded in Question Answering,2013,PhD,University of Koblenz and Landau,Germany,,
 T11025,A34966,Analysis of grammar-based tree compression,2016,PhD,University of Siegen,Germany,,
 T11034,A1390308,Algorithm Engineering for Realistic Journey Planning in Transportation Networks,2013,PhD,Karlsruhe Institute of Technology,Germany,,
 T11041,A1969792,Mining and Querying Ranked Entitites,2018,PhD,Kaiserslautern University of Technology,Germany,,
@@ -538,7 +538,7 @@ T11161,A705897,Ontology Based Query Expansion - Retrieval Support for the Domain
 T11167,A1849440,Static detection of complex vulnerabilities in modern PHP applications,2016,PhD,Ruhr University Bochum,Germany,,
 T11168,A1283598,What Search Engines Can't Do. Holistic Entity Search on Web Data,2015,PhD,Braunschweig University of Technology,Germany,,
 T11169,A1477876,Dynamisches Task-Scheduling in heterogenen Mehrprozessorsystemen,2014,PhD,Dresden University of Technology,Germany,157,978-3-938860-77-9
-T11216,A137307,On structural aspects of unconnectedness in knowledge and social networks,2014,PhD,University of Koblenz Landau,Germany,,
+T11216,A137307,On structural aspects of unconnectedness in knowledge and social networks,2014,PhD,University of Koblenz and Landau,Germany,,
 T11220,A1034817,Probabilistic tracking with database systems,2014,PhD,University of Bonn,Germany,225,978-3-89863-258-4
 T11222,A1290858,Generative Vorhersagetechniken für Raten und Ontologie-basierte Ähnlichkeitsberechnung mit Anwendungen im Suchmaschinenmarketing,2019,PhD,University of Kassel,Germany,206,978-3-7376-0748-3
 T11236,A524927,Adaptive User Support in Interactive Information Retrieval Processes,2017,PhD,University of Hagen,Germany,,
@@ -557,7 +557,7 @@ T11387,A2159104,Scalable integration of uncertainty reasoning and semantic web t
 T11389,A1267764,Learning with Graphs using Kernels from Propagated Information,2015,PhD,University of Bonn,Germany,,
 T11391,A2378327,Load dependent sensor placement method based on representative least squares: applications in structural health monitoring,2012,PhD,University of Siegen,Germany,,
 T11401,A1728053,Automatisierte Verfahren für die Themenanalyse nachrichtenorientierter Textquellen,2016,PhD,Leipzig University,Germany,233,
-T11423,A883523,NeOn methodology for building ontology networks: specification; scheduling and reuse,2012,PhD,Technical University of Madrid,Germany,268,978-3-89838-338-7
+T11423,A883523,NeOn methodology for building ontology networks: specification; scheduling and reuse,2012,PhD,Technical University of Madrid,Spain,268,978-3-89838-338-7
 T11429,A838274,Efficient code offloading techniques for mobile applications,2017,PhD,University of Stuttgart,Germany,,
 T11432,A1619330,Implicit Incremental Model Analyses and Transformations,2018,PhD,Karlsruhe Institute of Technology,Germany,,
 T11435,A2080068,A generic approach to component-level evaluation in information retrieval,2012,PhD,Chemnitz University of Technology,Germany,372,978-3-941003-68-2
@@ -633,7 +633,7 @@ T12582,A1136409,Information work support based on activity data (Handlungsdatenb
 T12588,A1863852,Lower Bounds for Heuristic Algorithms,2014,PhD,RWTH Aachen,Germany,,
 T12605,A1728053,Automatisierte Verfahren für die Themenanalyse nachrichtenorientierter Textquellen,2018,B,,,258,978-3-86962-261-3
 T12612,A1045291,Adaptation-Aware Architecture Modeling and Analysis of Energy Efficiency for Software Systems,2018,PhD,Karlsruhe Institute of Technology,Germany,398,
-T12615,A1198494,Choosing the right thing: cooperative trade-off enhanced skyline queries,2011,PhD,University of Braunschweig Institute of Technology,Germany,,
+T12615,A1198494,Choosing the right thing: cooperative trade-off enhanced skyline queries,2011,PhD,University of Braunschweig,Germany,,
 T12634,A1929213,Query Processing and Optimization in Modern Database Systems,2016,PhD,Technical University of Munich,Germany,,
 T12660,A716759,Architectural Principles for Database Systems on Storage-Class Memory,2018,PhD,Dresden University of Technology,Germany,,
 T12670,A1509438,Closing the circle of algorithmic and system-centric database optimization: a comprehensive survey on adaptive indexing; data partitioning; and the rewiring of virtual memory,2016,PhD,Saarland University,Germany,,
@@ -683,7 +683,7 @@ T13424,A118637,Evaluating the Accuracy and Utility of Recommender Systems,2013,P
 T13441,A1636415,Effiziente Mehrkernarchitektur für eingebettete Java-Bytecode-Prozessoren,2011,PhD,Dresden University of Technology,Germany,102,
 T13456,A545760,Ranking for Web Data Search Using On-The-Fly Data Integration,2014,PhD,Karlsruhe Institute of Technology,Germany,,
 T13457,A993492,Feedback-driven data clustering,2014,PhD,Dresden University of Technology,Germany,151,
-T13473,A1403512,Mining social media: methods and approaches for content analysis,2014,PhD,University of Koblenz Landau,Germany,,
+T13473,A1403512,Mining social media: methods and approaches for content analysis,2014,PhD,University of Koblenz and Landau,Germany,,
 T13484,A740466,Schema Flexibility and Data Sharing in Multi-Tenant Databases,2011,PhD,Technical University of Munich,Germany,132,
 T13526,A1264381,Consistency; isolation; and irrevocability in software transactional memory,2011,PhD,University of Freiburg,Germany,,
 T13534,A2033537,Deep; Seamless; Multi-format; Multi-notation Definition and Use of Domain-specific Languages,2017,PhD,University of Mannheim,Germany,309,978-3-8439-3066-6
@@ -703,7 +703,7 @@ T13823,A1864486,Declarative design and enforcement for secure cloud applications
 T13870,A1132575,Automatic methods for low-cost evaluation and position-aware models for neural information retrieval,2017,PhD,Saarland University,Germany,,
 T13904,A520362,Adding value to text with user-generated content,2018,PhD,University of Potsdam,Germany,114,
 T13918,A1474119,Contributions to computer-aided analysis of cuneiform tablet fragments,2019,PhD,Dortmund University of Technology,Germany,,
-T13935,A556853,Process model management using description logics,2012,PhD,University of Koblenz Landau,Germany,255,978-3-89838-507-7
+T13935,A556853,Process model management using description logics,2012,PhD,University of Koblenz and Landau,Germany,255,978-3-89838-507-7
 T13936,A1933640,Efficiency in Cluster Database Systems - Dynamic and Workload-Aware Scaling and Allocation,2011,PhD,University of Passau,Germany,,
 T13943,A609509,Non-parametric Bayesian Latent Factor Models for Network Reconstruction,2020,PhD,Darmstadt University of Technology,Germany,,
 T13948,A402534,Throughput improvements for BPEL engines: implementation techniques and measurements applied to SWoM,2013,PhD,University of Stuttgart,Germany,,
@@ -722,7 +722,7 @@ T14159,A2277121,Private-by-Design Advertising and Analytics: From Theory to Prac
 T14174,A1278422,Flexible processing of streamed context data in a distributed environment,2014,PhD,University of Stuttgart,Germany,,
 T14175,A2212071,Neural information extraction from natural language text,2019,PhD,Ludwig Maximilians University of Munich,Germany,,
 T14183,A662978,Advances in probabilistic modeling of natural images,2015,PhD,University of Tübingen,Germany,,
-T14198,A735747,Finite Field Arithmetic over GF(2 to m) on FPGAs - Analysis; Evaluation and Implementations,2015,PhD,University of Braunschweig Institute of Technology,Germany,,
+T14198,A735747,Finite Field Arithmetic over GF(2 to m) on FPGAs - Analysis; Evaluation and Implementations,2015,PhD,University of Braunschweig,Germany,,
 T14202,A2296847,Transforming TechKnowledgies: the case of open digital fabrication,2017,PhD,Technical University of Munich,Germany,,
 T14224,A1710477,Maschinelles Lernen in Datenstrommanagementsystemen,2014,PhD,Carl von Ossietzky University of Oldenburg,Germany,189,978-3-95599-001-5
 T14254,A1393104,Discovering and disambiguating named entities in text,2015,PhD,Saarland University,Germany,,
@@ -813,9 +813,9 @@ T15465,A1275867,Dependency discovery for data integration,2013,PhD,University of
 T15473,A1304285,Real-time business intelligence through compact and efficient query processing under updates,2018,PhD,Dresden University of Technology,Germany,133,
 T15492,A2365624,Behavioural profiles: a relational approach to behaviour consistency,2011,PhD,University of Potsdam,Germany,,
 T15496,A82645,Towards trustworthy social computing systems,2016,PhD,Saarland University,Germany,,
-T15518,A1282577,Advances in K-means clustering: a data mining thinking,2012,PhD,Tsinghua University,Germany,178,978-3-642-29806-6
+T15518,A1282577,Advances in K-means clustering: a data mining thinking,2012,PhD,Tsinghua University,China,178,978-3-642-29806-6
 T15536,A1636111,Querying a Web of Linked Data,2014,PhD,Humboldt University of Berlin,Germany,248,978-3-89838-713-2
-T15555,A741430,Der Nutzen informetrischer Analysen und nicht-textueller Dokumentattribute für das Information Retrieval in digitalen Bibliotheken,2013,PhD,University of Koblenz Landau,Germany,,
+T15555,A741430,Der Nutzen informetrischer Analysen und nicht-textueller Dokumentattribute für das Information Retrieval in digitalen Bibliotheken,2013,PhD,University of Koblenz and Landau,Germany,,
 T15562,A1249283,Query processing in complex modern traffic networks,2016,PhD,Ludwig Maximilians University of Munich,Germany,,
 T15575,A1537571,Konzepte für Datensicherheit und Datenschutz in mobilen Anwendungen,2017,PhD,University of Stuttgart,Germany,,
 T15578,A203034,Efficient Content-based Publish/Subscribe Routing and Boolean Expression Matching Algorithms,2018,PhD,Technical University of Munich,Germany,,
@@ -840,7 +840,7 @@ T16009,A206866,Online Multi-label Text Classification using Topic Models,2018,Ph
 T16013,A217163,Moving objects with multiple transportation modes,2012,PhD,FernUniversity of in Hagen,Germany,,
 T16052,A2153870,Cloud-based support for Massively Multiplayer Online Role-Playing Games,2017,PhD,Otto von Guericke University Magdeburg,Germany,,
 T16064,A1322551,Alternative clustering in subspace projections,2015,PhD,RWTH Aachen,Germany,,978-3-86359-368-1
-T16075,A2038832,The concept of the crowd: mining perceptual attributes from rating data on the social web,2012,PhD,University of Braunschweig Institute of Technology,Germany,146,
+T16075,A2038832,The concept of the crowd: mining perceptual attributes from rating data on the social web,2012,PhD,University of Braunschweig,Germany,146,
 T16080,A1853770,Automatic Synthesis and Verification of Industrial Commissioning Processes,2016,PhD,Karlsruhe Institute of Technology,Germany,,
 T16085,A1424926,Distributed querying of large labeled graphs,2017,PhD,Saarland University,Germany,,
 T16109,A1864086,Crawling von Enterprise Topologien zur automatisierten Migration von Anwendungen: eine Cloud-Perspektive,2015,PhD,University of Stuttgart,Germany,,
@@ -848,7 +848,7 @@ T16117,A1847410,Efficient Anonymous Group Communication,2018,PhD,Darmstadt Unive
 T16119,A2279803,Dynamic resource allocation for distributed dataflows,2018,PhD,Technical University of Berlin,Germany,,
 T16124,A1700420,Search Interaction Optimization: A Human-Centered Design Approach,2016,PhD,Chemnitz University of Technology,Germany,,978-3-944640-99-0
 T16137,A47989,Aspects of Information Access: Modeling Navigation on Wikipedia,2018,PhD,University of Koblenz and Landau,Germany,,
-T16153,A1275159,High-dimensional and low-quality visual information processing: from structured sensing and understanding,2015,PhD,Tsinghua University Beijing,Germany,99,978-3-662-44525-9
+T16153,A1275159,High-dimensional and low-quality visual information processing: from structured sensing and understanding,2015,PhD,Tsinghua University Beijing,China,99,978-3-662-44525-9
 T16176,A1748627,Geographic feature mining: framework and fundamental tasks for geographic knowledge discovery from user-generated data,2015,PhD,University of Heidelberg,Germany,195,
 T16181,A2212724,Analysis and removal of code clones in software product lines,2013,PhD,Otto von Guericke University Magdeburg,Germany,,
 T16221,A2066166,Effective searching of RDF knowledge bases,2012,PhD,Saarland University,Germany,,
@@ -916,7 +916,7 @@ T18062,A530196,Extraction de connaissances spatio-temporelles incertaines pour l
 T18066,A1131440,Systèmes de recommandation dans des contextes industriels. (Recommender systems in industrial contexts),2012,PhD,Grenoble Alpes University,France,,
 T18099,A1693747,Algorithmic Contributions to Qualitative Constraint-based Spatial and Temporal Reasoning. (Contributions Algorithmiques au Raisonnement Spatial et Temporel basé sur des Contraintes Qualitatives),2017,PhD,Artois University,France,,
 T18102,A589617,Recommandation Diversifiée et Distribuée pour les Données Scientifiques. (Diversified and Distributed Recommendation for Scientific Data),2014,PhD,Montpellier 2 University,France,,
-T18131,A817305,Efficient persistence; query; and transformation of large models. (Persistance; requêtage; et transformation efficaces de grands modèles),2017,PhD,IMT Atlantique Bretagne Pays de la Loire,Germany,,
+T18131,A817305,Efficient persistence; query; and transformation of large models. (Persistance; requêtage; et transformation efficaces de grands modèles),2017,PhD,IMT Atlantique Bretagne Pays de la Loire,France,,
 T18159,A18266,Mining user similarity in online social networks: analysis;modeling and applications. (Fouille de similarité de l'utilisateur dans les réseaux sociaux: analyse; modélisation et applications),2015,PhD,Telecom Management SudParis,France,,
 T18177,A817079,Practically Preserving and Evaluating Location Privacy. (Protéger et évaluer la confidentialité des données géo-localisées par la pratique),2018,PhD,University of Lyon,France,,
 T18183,A2161654,Mesures de proximité appliquées à la détection de communautés dans les grands graphes de terrain. (Proximity measure applied to community detection in complex networks),2015,PhD,Pierre and Marie Curie University,France,,
@@ -1160,13 +1160,13 @@ T25054,A1249212,Mezzo: a typed language for safe effectful concurrent programs. 
 T25055,A974705,Etude et implantation de l'extraction de requêtes fréquentes dans les bases de données multidimensionnelles. (Mining pattern in relational databases),2011,PhD,Gaston Berger University,Senegal,,
 T25058,A1046178,Evaluation des requêtes hybrides basées sur la coordination des services. (Evaluation of hybrid queries based on service coordination),2011,PhD,Grenoble Alpes University,France,,
 T25076,A1416505,Interacting with Personal Fabrication Devices,2016,PhD,Hasso Plattner Institute,Germany,,
-T25077,A2343364,Space and Time-Efficient Data Structures for Massive Datasets,2018,PhD,University of Pisa,Germany,,
+T25077,A2343364,Space and Time-Efficient Data Structures for Massive Datasets,2018,PhD,University of Pisa,Italy,,
 T25110,A2168939,Target localization in MRI-guided prostate biopsy,2014,PhD,Queen's University at Kingston,Canada,,
 T25129,A286038,Enabling Ultra Large-Scale Radio Identification Systems,2011,PhD,Queen's University at Kingston,Canada,,
 T25139,A1741137,Log Engineering: Towards Systematic Log Mining to Support the Development of Ultra-large Scale Systems,2014,PhD,Queen's University at Kingston,Canada,,
 T25187,A999987,Autonomic Workload Management for Database Management Systems,2014,PhD,Queen's University at Kingston,Canada,,
 T25190,A568004,Mining Unstructured Software Repositories Using IR Models,2012,PhD,Queen's University at Kingston,Canada,,
-T25206,A2074484,Application integration patterns and their compositions,2019,PhD,University of Vienna,Germany,,
+T25206,A2074484,Application integration patterns and their compositions,2019,PhD,University of Vienna,Austria,,
 T25223,A84637,Health-care telematics in Germany: design and application of a security analysis method,2011,PhD,Technical University of Munich,Germany,271,978-3-8349-2442-1
 T25225,A1192969,Deklarative Verarbeitung von Datenströmen in Sensornetzwerken,2011,PhD,Technische University of Ilmenau,Germany,207,
 T25263,A361208,Semantic Annotation and Search: Bridging the Gap between Text; Knowledge and Language,2018,PhD,Karlsruhe Institute of Technology,Germany,,
@@ -1175,7 +1175,7 @@ T25287,A1316795,Privacy-Enhancing Methods for Time Series and their Impact on El
 T25293,A1859216,Efficient clustering of big data streams,2015,PhD,RWTH Aachen,Germany,,
 T25314,A1962740,Contextualization; user modeling and personalization in the social web: from social tagging via context to cross-system user modeling and personalization,2011,PhD,University of Hanover,Germany,,
 T25327,A1203385,Real-Time Reconstruction of Static and Dynamic Scenes,2015,PhD,University of Erlangen Nuremberg,Germany,196,
-T25387,A1416886,On the Spectral Evolution of Large Networks,2011,PhD,University of Koblenz Landau,Germany,,
+T25387,A1416886,On the Spectral Evolution of Large Networks,2011,PhD,University of Koblenz and Landau,Germany,,
 T25399,A907487,Similarity measures for scientific workflows,2016,PhD,Humboldt University of Berlin,Germany,,
 T25400,A1681766,Data-mining techniques for call-graph-based software-defect localisation,2011,PhD,Karlsruhe Institute of Technology,Germany,,
 T25414,A398091,Generic modeling and mapping languages for model management,2011,PhD,RWTH Aachen,Germany,228,
@@ -1188,7 +1188,7 @@ T25564,A851734,Verteilung globaler Anfragen auf heterogene Stromverarbeitungssys
 T25577,A1313722,Entity linkage for heterogeneous; uncertain; and volatile data,2011,PhD,University of Hanover,Germany,106,
 T25580,A737293,Reusing open source code: value creation and value appropriation perspectives on knowledge reuse,2011,PhD,Technical University of Munich,Germany,288,978-3-8349-2668-5
 T25587,A654200,Domain-sensitive temporal tagging for event-centric information retrieval,2015,PhD,University of Heidelberg,Germany,284,
-T25592,A13073,Marrying model-driven engineering and ontology technologies: The TwoUse approach,2011,PhD,University of Koblenz Landau,Germany,,
+T25592,A13073,Marrying model-driven engineering and ontology technologies: The TwoUse approach,2011,PhD,University of Koblenz and Landau,Germany,,
 T25616,A1041942,Formal concept analysis and tag recommendations in collaborative tagging systems,2011,PhD,University of Kassel,Germany,201,978-3-89838-332-5
 T25632,A357004,Performance modeling and benchmarking of event-based systems,2011,PhD,Darmstadt University of Technology,Germany,160,978-3-86844-353-0
 T25646,A988383,Non-uniform Sampling in Clustering and Streaming,2011,PhD,Dortmund University of Technology,Germany,,
@@ -1317,7 +1317,7 @@ T26815,A1591625,Structural Kernels and Neural Network Models for Question Answer
 T26822,A410249,Influence modeling in behavioral data,2015,PhD,Georgia Institute of Technology,USA,,
 T26827,A1423287,Scalable learning for geostatistics and speaker recognition,2011,PhD,University of Maryland,USA,,
 T26831,A2241279,Graph database; and its tale on uncertainty,2013,PhD,University of New South Wales,Australia,,
-T26855,A2227889,Big Data Architectures For Robust Systems,2017,PhD,University of Luxembourg,Germany,,
+T26855,A2227889,Big Data Architectures For Robust Systems,2017,PhD,University of Luxembourg,Luxembourg,,
 T26878,A1542072,Towards integrating learning algorithms into computer system design,2019,PhD,University of New South Wales,Australia,,
 T26883,A1758898,Hotspots of Dendritic Spine Dynamics Facilitate Learning and Memory,2017,PhD,UC,USA,,
 T26888,A339109,Data mining in large audio collections of dolphin signals,2015,PhD,Georgia Institute of Technology,USA,,
@@ -1397,7 +1397,7 @@ T27464,A303330,Goal-Oriented Development of Self-Adaptive Systems,2011,PhD,Unive
 T27468,A1631322,Database Acceleration on FPGAs,2019,PhD,Delft University of Technology,The Netherlands,,
 T27488,A1904671,Increasing the Efficiency of High-Recall Information Retrieval,2019,PhD,University of Waterloo,Canada,,
 T27496,A1598885,Value-based global optimization,2012,PhD,Georgia Institute of Technology,USA,,
-T27511,A2076485,Enabling Model-Driven Live Analytics For Cyber-Physical Systems: The Case of Smart Grids,2016,PhD,University of Luxembourg,Germany,,
+T27511,A2076485,Enabling Model-Driven Live Analytics For Cyber-Physical Systems: The Case of Smart Grids,2016,PhD,University of Luxembourg,Luxembourg,,
 T27518,A1587938,Program Analyses for Cloud Computations,2015,PhD,UC,USA,,
 T27534,A113354,An algorithmic approach to Approximate Query,2014,PhD,University of Sydney,Australia,,
 T27541,A1975792,Online; Data Driven Learning Approaches in Operations Management Problems,2012,PhD,UC,USA,,
@@ -1490,7 +1490,7 @@ T28418,A456834,Development of a Novel Evolving Neuro-Fuzzy System for Learning i
 T28424,A890427,Leveraging contextual cues for dynamic scene understanding,2016,PhD,Georgia Institute of Technology,USA,,
 T28429,A708930,Point process-based modeling and analysis of asynchronous event sequences,2017,PhD,Georgia Institute of Technology,USA,,
 T28443,A2129499,Robust and efficient unsupervised anomaly detection in complex and dynamic environments,2018,PhD,University of Melbourne,Australia,,
-T28446,A1094825,Transforming Time Series for Efficient and Accurate Classification,2018,PhD,University of Luxembourg,Germany,,
+T28446,A1094825,Transforming Time Series for Efficient and Accurate Classification,2018,PhD,University of Luxembourg,Luxembourg,,
 T28471,A134452,Proximity of Terms; Texts and Semantic Vectors in Information Retrieval,2017,PhD,Delft University of Technology,The Netherlands,,
 T28494,A858474,Efficient Processing of Spatial Keyword Queries,2015,PhD,University of New South Wales,Australia,,
 T28501,A1086243,System-Aware Optimization for Machine Learning at Scale,2017,PhD,UC,USA,,
@@ -1845,7 +1845,7 @@ T31988,A341797,Sensing Human Sentiment via Social Media Images: Methodologies an
 T31992,A2056411,Online Spectral Clustering on Network Streams,2012,PhD,University of Kansas,USA,,
 T32025,A1352568,Exploiting the Volatile Nature of Data and Information in Evolving Repositories and Systems with User Generated Content,2013,PhD,University of Trento,Italy,,
 T32028,A168240,On Design and Evaluation of High-Recall Retrieval Systems for Electronic Discovery,2017,PhD,University of Waterloo,Canada,,
-T32031,A30282,Towards Ambient Intelligent Applications Using Models@run.time And Machine Learning For Context-Awareness,2016,PhD,University of Luxembourg,Germany,,
+T32031,A30282,Towards Ambient Intelligent Applications Using Models@run.time And Machine Learning For Context-Awareness,2016,PhD,University of Luxembourg,Luxembourg,,
 T32032,A1541989,Efficient Location Aware Spatial Query,2013,PhD,University of New South Wales,Australia,,
 T32039,A1420273,Protecting User Privacy in Remotely Managed Applications,2013,PhD,UC,USA,,
 T32049,A379720,Advanced classification and identification of plugged-in electric loads,2014,PhD,Georgia Institute of Technology,USA,,
@@ -1917,13 +1917,13 @@ T32724,A319666,Inferring sensitive information from seemingly innocuous smartpho
 T32740,A1548032,Semantic Sparse Learning in Images and Videos,2014,PhD,Arizona State University,USA,,
 T32754,A1138748,Prediction in Social Media for Monitoring and Recommendation,2012,PhD,University of Maryland,USA,,
 T32755,A2055375,Optimizing Hierarchical Storage Management For Database System,2014,PhD,University of Waterloo,Canada,,
-T32761,A1266386,Compositional design and verification of component-based information systems,2011,PhD,Eindhoven University of Technology,Germany,221,978-90-386-2412-9
+T32761,A1266386,Compositional design and verification of component-based information systems,2011,PhD,Eindhoven University of Technology,The Netherlands,221,978-90-386-2412-9
 T32767,A2347714,Organizing; querying; and analyzing ad-hoc processes' data,2012,PhD,University of New South Wales,Australia,,
 T32777,A977590,Learning expressive linkage rules for entity matching using genetic programming,2013,PhD,University of Mannheim,Germany,216,
-T32783,A299401,Foundations of Information Integration - Analyzing; Managing and Reasoning about Schema Mappings,2014,PhD,Technical University of Vienna,Germany,252,
-T32811,A70826,Intrinsic Plagiarism Detection and Author Analysis by Utilizing Grammar,2014,PhD,University of Innsbruck,Germany,176,
-T32812,A2217086,Scalable exploration of spatial data in large-scale scientific simulations,2014,PhD,Ecole Polytechnique Federale de Lausanne,Germany,139,
-T32834,A852248,Novel Techniques for Efficient and Effective Subgroup Discovery,2014,PhD,Julius Maximilians University Würzburg,Germany,238,
+T32783,A299401,Foundations of Information Integration - Analyzing; Managing and Reasoning about Schema Mappings,2014,PhD,Technical University of Vienna,Austria,252,
+T32811,A70826,Intrinsic Plagiarism Detection and Author Analysis by Utilizing Grammar,2014,PhD,University of Innsbruck,Austria,176,
+T32812,A2217086,Scalable exploration of spatial data in large-scale scientific simulations,2014,PhD,Ecole Polytechnique Federale de Lausanne,Switzerland,139,
+T32834,A852248,Novel Techniques for Efficient and Effective Subgroup Discovery,2014,PhD,Julius Maximilians University of Würzburg,Germany,238,
 T32839,A972429,Non-asymptotic performance evaluation and sampling-based parameter estimation for communication networks with long memory traffic,2013,PhD,University of Hannover,Germany,122,
 T32848,A1005159,Forecasting in database systems,2014,PhD,Dresden University of Technology,Germany,179,
 T32851,A405173,Automatic offline understanding of hand-drawn sketch maps,2014,PhD,University of Münster,Germany,145,
