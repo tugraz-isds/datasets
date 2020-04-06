@@ -2673,7 +2673,7 @@ P262800,A2076776,Computational Advertising at Scale,2875,C27
 P262801,A31414:A1972386:A1331163:A394384,Sentiment expression conditioned by affective transitions and social forces,1136-1145,C24
 P262802,A266345,To buy or not to buy: that is the question,1133,C21
 P262803,A1088709:A1336726:A1683901:A1138192,Resolving Abstract Anaphora Implicitly in Conversational Assistants using a Hierarchically stacked RNN,433-442,C27
-P262804,A1133454:A474894:A885913:A1037090,TRIEST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size,825-834,C22
+P262804,A1133454:A474894:A885913:A1037090,TRIÈST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size,825-834,C22
 P262805,A2382643:A10256:A464009:A2080879:A834679:A349854,RainMon: an integrated approach to mining bursty timeseries monitoring data,1158-1166,C23
 P262806,A1645094:A39727:A270995:A341582:A77021,Geo-spotting: mining online location-based services for optimal retail store placement,793-801,C21
 P262808,A1703962:A900920:A1695647:A41039:A1899755:A856301,Towards never-ending learning from time series streams,874-882,C21
@@ -2947,7 +2947,7 @@ P280577,A1185455:A1855345,Dismantling Complicated Query Attributes with Crowd,40
 P280580,A1986575:A2161941:A1483570,ChaseFUN: a Data Exchange Engine for Functional Dependencies at Scale,534-537,C34
 P280583,A377683,Scalable Public Transportation Queries on the Database,527-538,C31
 P280584,A743188:A2283874:A773692:A2031835,Cost exploration of data sharings in the cloud,601-612,C30
-P280585,A1652384:A1966274:A1855286:A908661,Efficient Motif Discovery in Spatial Trajectories Using Discrete Frechet Distance,378-389,C34
+P280585,A1652384:A1966274:A1855286:A908661,Efficient Motif Discovery in Spatial Trajectories Using Discrete Fréchet Distance,378-389,C34
 P280586,A2159154:A393588:A1010673,EmbedS: Scalable; Ontology-aware Graph Embeddings,433-436,C36
 P280588,A1761799:A1855308:A834775,Adaptive indexing in modern database kernels,566-569,C32
 P280589,A533862:A705718:A1443791,RQL: Retrospective Computations over Snapshot Sets,600-611,C36
@@ -3681,7 +3681,7 @@ P311822,A117504,How to Talk to People at Conferences,,C41
 P311823,A1558734:A1565139:A334704:A1554131:A2106336,High Performance Transactions in Deuteronomy,,C37
 P311824,A1546038:A867271:A1855080:A34509:A693036:A1970886,Database Forensic Analysis with DBCarver,,C41
 P311825,A304079,Big Data; AI and Banks - Uses Cases and Possibilities on the Ground,,C39
-P311826,A1986116,SQL for NoSQL Databases: Deja Vu,,C37
+P311826,A1986116,SQL for NoSQL Databases: Déjà Vu,,C37
 P311827,A1929213:A2098593:A16343:A855715:A1243036,Cardinality Estimation Done Right: Index-Based Join Sampling,,C41
 P311828,A1139077:A20758:A1854819:A1542061:A1855158,StatusQuo: Making Familiar Abstractions Perform Using Program Analysis,,C40
 P311829,A403919:A1986677:A1986182:A523144:A695815:A2453699,Trusted Cells: A Sea Change for Personal Data Services,,C40
@@ -4846,7 +4846,7 @@ P525021,A2284193:A1443899:A1123446:A2285738:A1805919:A834679,Peering through the
 P525024,A2189875:A834773:A2453273,Waldo: An Adaptive Human Interface for Crowd Entity Resolution,1133-1148,C49
 P525025,A385880:A384569,Arachnid: Generalized Visual Data Cleaning,1850-1852,C44
 P525026,A1928549:A288438:A1023744,SpongeFiles: mitigating data skew in mapreduce using distributed memory,551-562,C48
-P525027,A556455:A610579:A1854819,What Makes a Good Physical plan?: Experiencing Hardware-Conscious Query Optimization with Candomble,2149-2152,C46
+P525027,A556455:A610579:A1854819,What Makes a Good Physical plan?: Experiencing Hardware-Conscious Query Optimization with Candomblé,2149-2152,C46
 P525028,A1219773:A658889:A660513:A2444364:A1863634:A1242949,RDFind: Scalable Conditional Inclusion Dependency Discovery in RDF Datasets,953-967,C46
 P525029,A918352:A625966:A611741:A611362:A612667:A607830:A678167:A1355934,Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA,1307-1318,C46
 P525031,A1986129:A2301435:A855872:A2295979:A865353:A1299120,Recurring job optimization in scope,805-806,C47
@@ -5281,7 +5281,7 @@ P687268,A1977580:A2232647:A1541084,Empirical Comparison of Model Consistency Bet
 P687269,A319796:A1986497:A986660:A1476904:A2449228:A1854947,The Common Ontology of Value and Risk,121-135,C60
 P687270,A1125330:A1204289:A111470,Facilitating Data-Metadata Transformation by Domain Specialists in a Web-Based Information System Using Simple Correspondences,445-459,C55
 P687271,A2295227:A2453574:A81843:A1895656,Applying Conceptual Modeling to Better Understand the Human Genome,404-412,C55
-P687273,A1964683:A1372257:A1325143:A1140242:A2190293,Nomos 3: Legal Compliance of Roles and Requirements,275-288,C57
+P687273,A1964683:A1372257:A1325143:A1140242:A2190293,Nòmos 3: Legal Compliance of Roles and Requirements,275-288,C57
 P687274,A851180:A1667311:A1821284:A1823033:A1822875:A1820873,Towards Thinking Manufacturing and Design Together: An Aeronautical Case Study,340-353,C58
 P687276,A38928:A2045437:A2106390,Various Notions of Soundness for Decision-Aware Business Processes,403-418,C58
 P687279,A2449228,On the Semantics of Ongoing and Future Occurrence Identifiers,477-490,C58
@@ -5364,12 +5364,12 @@ P687422,A741300:A705680:A1686944,Semi-automatic Conceptual Data Modeling Using E
 P687425,A1324421:A2353013:A47575:A906313,Mining Rules with Constants from Large Scale Knowledge Bases,521-535,C60
 P687428,A1645801:A1986497:A986660,A Semantic Oriented Method for Conceptual Data Modeling in OntoUML Based on Linguistic Concepts,486-494,C59
 P687429,A852613:A2071166:A2247061,Model-Driven Design of Graph Databases,172-185,C57
-P687431,A393394:A1053261:A303330:A1325143:A1280905:A1365342:A1624182:A350081:A2190293,Aligning Business Goals and Risks in OSS Adoption,35-49,C52
+P687431,A393394:A1053261:A303330:A1325143:A1280905:A1365342:A1147832:A350081:A2190293,Aligning Business Goals and Risks in OSS Adoption,35-49,C52
 P687432,A1986339:A834588:A2166387:A981940,A Hidden Markov Model Approach to Keyword-Based Search over Relational Databases,411-420,C59
 P687433,A121060:A1740760:A1000517,Taming Software Variability: Ontological Foundations of Variability Mechanisms,399-406,C52
 P687434,A11285:A1934421,Mapping Heterogeneous XML Document Collections to Relational Databases,86-99,C57
 P687435,A254920:A550956:A1203913:A307540:A1274894,Automated Discovery of Structured Process Models: Discover Structured vs. Discover and Structure,313-329,C55
-P687436,A2356747:A250038:A653315:A1964683:A1854947,Building Large Models of Law with NomosT,233-247,C55
+P687436,A2356747:A250038:A653315:A1964683:A1854947,Building Large Models of Law with NómosT,233-247,C55
 P687439,A1985081:A1563846:A111324:A207275:A117177:A1002455:A1533270:A926088,Creating Quantitative Goal Models: Governmental Experience,466-473,C57
 P687440,A1210203:A1821686:A704730,Conceptual Modelling of Autonomous Multi-cloud Interaction with Reflective Semantics,120-133,C58
 P687441,A1664756:A1494380:A1501998,Understanding Constraint Expressions in Large Conceptual Schemas by Automatic Filtering,50-63,C56
@@ -5547,7 +5547,7 @@ P687785,A319461:A2105613:A1847581:A1153046,Tangible Modelling to Elicit Domain K
 P687786,A1560080:A408975:A1403598:A693585,Generating SPARQL Executable Mappings to Integrate Ontologies,118-131,C59
 P687789,A595659:A981985:A1403839:A2282279,From Conceptual Models to Safety Assurance,195-208,C57
 P687790,A1564229:A39244:A1966628,Towards a Model of Services Based on Co-creation; Abstraction and Restriction,476-485,C59
-P687791,A1325143:A1372257:A1964683:A2190293:A1140242:A1854947,Capturing Variability of Law with Nomos 2,383-396,C56
+P687791,A1325143:A1372257:A1964683:A2190293:A1140242:A1854947,Capturing Variability of Law with Nómos 2,383-396,C56
 P687792,A2351100:A1242949,Schema Decryption for Large Extract-Transform-Load Systems,116-125,C56
 P687793,A2247191:A476917,Enhancing Entity-Relationship Schemata for Conceptual Database Structure Models,603-611,C52
 P687795,A1273023:A1245399:A713043,On the Impact of the Model-Based Representation of Inconsistencies to Manual Reviews - Results from a Controlled Experiment,466-473,C58
@@ -5700,7 +5700,7 @@ P731157,A1720512:A907487:A1565004,Experiences from Developing the Domain-Specifi
 P731160,A989474:A70235,Towards an Energy-Proportional Storage System using a Cluster of Wimpy Nodes,311-325,C63
 P731161,A1646767:A1204300,View Maintenance using Partial Deltas,287-306,C65
 P731162,A111260,Towards the End-to-End Design for Big Data Management in the Cloud: Why; How; and When?,15-16,C63
-P731164,A856184,Confidentiality a la Carte with Cipherbase,23,C64
+P731164,A856184,Confidentiality à la Carte with Cipherbase,23,C64
 P731165,A1005159,Forecasting in Database Systems,483-492,C61
 P731167,A704815:A1404994:A2038466,MR-DSJ: Distance-Based Self-Join for Large-Scale Vector Data Analysis with MapReduce,37-56,C63
 P731168,A1407419:A359397:A1439889:A2225106:A1194373:A1855758,Applying Stratosphere for Big Data Analytics,507-510,C63
@@ -6054,7 +6054,7 @@ P740298,A1994059:A1859937:A766820:A1306086:A2277117,A Simple Convolutional Gener
 P740299,A555710:A2217815,Predicting content change on the web,415-424,C69
 P740300,A1500558:A1412058:A1127884:A2008083:A722518:A721747:A1404620:A70070,Personalized entity recommendation: a heterogeneous information network approach,283-292,C72
 P740301,A1966083:A1040742:A705474,KMV-peer: a robust and adaptive peer-selection algorithm,157-166,C74
-P740302,A1203844:A1263012,WSDM 2016 Workshop on the Ethics of Online Experimentation,695-696,C70
+P740302,A712672:A1263012,WSDM 2016 Workshop on the Ethics of Online Experimentation,695-696,C70
 P740303,A983371:A1685127:A1424363,Modeling Document Networks with Tree-Averaged Copula Regularization,691-699,C73
 P740305,A2237110:A111353:A704488,Querying and Tracking Influencers in Social Streams,493-502,C70
 P740306,A2155702:A1497930:A1444420,SHNE: Representation Learning for Semantic-Associated Heterogeneous Networks,690-698,C67
@@ -6089,7 +6089,7 @@ P740335,A1412617:A1429530:A353915:A2106006,Understanding and Predicting Graded S
 P740336,A1974018:A1008879:A1660087,Modeling Time to Open of Emails with a Latent State for User Engagement Level,531-539,C75
 P740337,A1565713,Offline Evaluation and Optimization for Interactive Systems,413-414,C66
 P740338,A1248438:A1001785,Raising Graphs From Randomness to Reveal Information Networks,23-32,C73
-P740339,A555710:A1203844:A1204208:A1702413:A661991:A1563775,Temporal web dynamics and its application to information retrieval,781-782,C69
+P740339,A555710:A712672:A1204208:A1702413:A661991:A1563775,Temporal web dynamics and its application to information retrieval,781-782,C69
 P740340,A969100:A1534879,Large-scale hierarchical text classification without labelled data,685-694,C74
 P740341,A2299879:A1980791:A358524:A83673:A1223372:A988352,End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding,384-392,C68
 P740342,A1412632:A839539:A705567:A1359438,DiFacto: Distributed Factorization Machines,377-386,C70
@@ -7306,7 +7306,7 @@ P923286,A252835:A2284831:A39514,Learning to Answer Complex Questions over Knowle
 P923287,A1050979:A554693,A personalized recommendation system on scholarly publications,2133-2136,C92
 P923288,A1052805:A927995:A1478686,New Online Kernel Ridge Regression via Incremental Predictive Sampling,791-800,C86
 P923289,A2422778:A277909:A1975538:A1986701,Privacy Preserving Approximate K-means Clustering,1321-1330,C86
-P923290,A1203844:A2106006:A2060016:A1932405,Robust models of mouse movement on dynamic web search results pages,1451-1460,C87
+P923290,A712672:A2106006:A2060016:A1932405,Robust models of mouse movement on dynamic web search results pages,1451-1460,C87
 P923292,A2136451:A1565054:A175076:A1650205,Crowdsourced Selection on Multi-Attribute Data,307-316,C91
 P923293,A2161188:A478449:A402507,Document Filtering for Long-tail Entities,771-780,C88
 P923295,A1196261:A566021:A276528:A1242937:A1404761,Originator or propagator?: incorporating social role theory into topic models for twitter content analysis,1649-1654,C87
@@ -7616,7 +7616,7 @@ P923649,A1439955:A1632220,A Retrievability Analysis: Exploring the Relationship 
 P923650,A213632:A855648:A1565525,Question routing in community question answering: putting category in its place,2041-2044,C92
 P923651,A1550393:A1274050,Document Prioritization for Scalable Query Processing,1609-1618,C90
 P923652,A346373:A1262462,Learning Interactions for Social Prediction in Large-scale Networks,161-170,C90
-P923653,A2347003:A1203844:A1444177,Learning to aggregate vertical results into web search results,201-210,C92
+P923653,A2347003:A712672:A1444177,Learning to aggregate vertical results into web search results,201-210,C92
 P923655,A402133:A856539,Efficient Algorithms for the Two Locus Problem in Genome-Wide Association Study: Algorithms for the Two Locus Problem,2305-2310,C88
 P923656,A1903880:A1708426:A305783:A2239315:A2450189,Imbalanced sentiment classification,2469-2472,C92
 P923657,A1743335:A2153343:A663477:A1563775:A1164753,Generative Question Refinement with Deep Reinforcement Learning in Retrieval-based QA System,1643-1652,C86
@@ -7695,7 +7695,7 @@ P923740,A134912:A540451:A455674:A961827,Timely crawling of high-quality ephemera
 P923741,A426734:A412967:A516675,Towards measuring the visualness of a concept,2415-2418,C89
 P923742,A1444162:A1693547:A705345:A1692050,STFMap: query- and feature-driven visualization of large time series data sets,2743-2745,C89
 P923743,A2195504:A2224590:A2137506:A393847,Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Patterns in an Arbitrary Time Range,1083-1092,C93
-P923744,A1311551:A2450898,Differentially Private Regression for Discrete-Time Survival Analysis,1199-1208,C91
+P923744,A148891:A2450898,Differentially Private Regression for Discrete-Time Survival Analysis,1199-1208,C91
 P923745,A1386668:A1041037:A1333886,Mining query structure from click data: a case study of product queries,2217-2220,C92
 P923746,A70069,Structured data in web search,7-8,C87
 P923747,A889514:A1860061,Inspect What Your Location History Reveals About You: Raising user awareness on privacy threats associated with disclosing his location data,2861-2864,C86
@@ -7781,7 +7781,7 @@ P923839,A817971:A1557091:A80997,A Personalised Ranking Framework with Multiple S
 P923840,A2361387:A1204193:A2078652:A2385145,Behavior-driven clustering of queries into topics,1373-1382,C92
 P923841,A849359:A515549:A1557091:A80997,Experiments with a Venue-Centric Model for Personalisedand Time-Aware Venue Suggestion,53-62,C85
 P923842,A997391:A1846539:A1200788:A1649556,PARL: Let Strangers Speak Out What You Like,677-686,C93
-P923843,A17523:A2130236:A1043907:A704984,Extracting cross references from life science databases for search result ranking,1253-1258,C92
+P923843,A17523:A75231:A1043907:A704984,Extracting cross references from life science databases for search result ranking,1253-1258,C92
 P923844,A450682:A686661:A1261369:A1381848,Truth Discovery by Claim and Source Embedding,2183-2186,C91
 P923845,A1093825:A1386668:A516471:A402507,Calibration: A Simple Way to Improve Click Models,1503-1506,C93
 P923846,A2043195:A534018:A443987,Robust Subspace Clustering via Tighter Rank Approximation,393-401,C85
@@ -8104,7 +8104,7 @@ P924207,A2280580:A1902548:A928714:A378248,Attention-based Adaptive Model to Unif
 P924208,A475908:A1307769:A398929:A112830:A477855,Content based social behavior prediction: a multi-task learning approach,995-1000,C92
 P924209,A25230:A1050054,Visualizing Deep Neural Networks with Interaction of Super-pixels,2327-2330,C91
 P924210,A281392:A2084580:A631655:A2084120:A2106377,Search Result Diversification Based on Hierarchical Intents,63-72,C85
-P924211,A2233534:A1974619:A1302495:A1243154,Indexes for highly repetitive document collections,463-468,C92
+P924211,A2233534:A1134863:A1302495:A1243154,Indexes for highly repetitive document collections,463-468,C92
 P924212,A995541:A523508:A834597:A1312618:A70216,Automated feature generation from structured knowledge,1395-1404,C92
 P924213,A479605:A2063392:A822774:A704485,How People Use the Web in Large Indoor Spaces,1879-1882,C90
 P924214,A1907966:A666496:A117122:A1019167:A1650340:A918315:A756103,On Migratory Behavior in Video Consumption,1109-1118,C91
@@ -8462,7 +8462,7 @@ P924624,A1411279:A1854877:A1016123,Authormagic: an approach to author disambigua
 P924625,A1429368:A397698:A276819:A337616,PatentDom: Analyzing Patent Relationships on Multi-View Patent Graphs,1369-1378,C90
 P924626,A926378:A1049283,Learning to Ask: Question-based Sequential Bayesian Product Search,369-378,C86
 P924627,A2036647:A1120951:A955876:A1145595:A1427345:A652792:A1740149,AceKG: A Large-scale Knowledge Graph for Academic Data Mining,1487-1490,C93
-P924628,A1311551:A2450898,Privacy Protection for Flexible Parametric Survival Models,1273-1282,C93
+P924628,A148891:A2450898,Privacy Protection for Flexible Parametric Survival Models,1273-1282,C93
 P924630,A473734:A301121:A1911193:A471758,Fine-Grained Fuel Consumption Prediction,2783-2791,C86
 P924631,A884620:A1539141:A1749888,An efficient and robust privacy protection technique for massive streaming choice-based information,1169-1172,C87
 P924632,A1851446:A1055961:A1049283:A456410,The Solitude of Relevant Documents in the Pool,1989-1992,C88
@@ -8529,7 +8529,7 @@ P924706,A1750754:A89189:A1665522,SemiNMF-PCA framework for Sparse Data Co-cluste
 P924708,A688796:A2151924:A69931,A Sampling-Based System for Approximate Big Data Analysis on Computing Clusters,2481-2484,C86
 P924709,A1432087:A1913742,Name Disambiguation in Anonymized Graphs using Network Embedding,1239-1248,C91
 P924710,A663477:A1555888:A2242751:A1381848:A460590,Clustering short text using Ncut-weighted non-negative matrix factorization,2259-2262,C89
-P924711,A1444428:A1203844:A991368:A1336495,The Fourth International Workshop on Social Web for Disaster Management (SWDM 2016),2503-2504,C88
+P924711,A1444428:A712672:A991368:A1336495,The Fourth International Workshop on Social Web for Disaster Management (SWDM 2016),2503-2504,C88
 P924712,A462878:A1408194:A1281633,Multiview hierarchical bayesian regression model andapplication to online advertising,485-494,C89
 P924713,A2260393:A11302:A690686:A1472891,REGAL: Representation Learning-based Graph Alignment,117-126,C93
 P924714,A1591390:A1285215:A1682859,A Mixtures-of-Trees Framework for Multi-Label Classification,211-220,C90
@@ -8563,7 +8563,7 @@ P924748,A1855249:A1254831:A410563:A866134:A856111,Efficient filtering and rankin
 P924749,A2243027:A834824,Extraction and integration of web data by end-users,2405-2410,C87
 P924750,A2231722:A1640509:A855648,Leveraging Social Connections to Improve Personalized Ranking for Collaborative Filtering,261-270,C90
 P924752,A27237:A30597:A856401:A1292502:A1500590,Fast evaluation of iceberg pattern-based aggregate queries,2219-2224,C87
-P924753,A843691:A1216508:A2382817:A1565671:A1203844,Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance; Fairness & Satisfaction in Recommendation Systems,2243-2251,C93
+P924753,A843691:A1216508:A2382817:A1565671:A712672,Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance; Fairness & Satisfaction in Recommendation Systems,2243-2251,C93
 P924754,A629422:A532494:A1899285:A2247061,Shared-Nothing Distributed Enumeration of 2-Plexes,2469-2472,C86
 P924755,A1195011:A1031443:A1548826:A609915:A286718:A2040752:A693866:A2280201,Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising,1443-1451,C93
 P924756,A1750299:A678899:A20257:A460252:A1443591,Bootstrapping active name disambiguation with crowdsourcing,1213-1216,C87
@@ -9155,7 +9155,7 @@ P925430,A1555888:A256962:A1152325:A1443585,A Deep Relevance Matching Model for A
 P925431,A719410:A396998:A980762:A755829,Error Link Detection and Correction in Wikipedia,307-316,C88
 P925432,A1001314:A816730:A341623:A2011471,Ranking Sentiment Explanations for Review Summarization Using Dual Decomposition,1931-1934,C90
 P925434,A1799042:A755775:A1473198:A1259945:A1565950,SemStore: A Semantic-Preserving Distributed RDF Triple Store,509-518,C90
-P925435,A1198741:A1037520:A350061:A843110,Providing grades and feedback for student summaries by ontology-based information extraction,1722-1726,C89
+P925435,A697375:A1037520:A350061:A843110,Providing grades and feedback for student summaries by ontology-based information extraction,1722-1726,C89
 P925436,A712650,Slow Search: Improving Information Retrieval Using Human Assistance,1,C85
 P925438,A544085:A1271856:A2069401:A299678,GiraphAsync: Supporting Online and Offline Graph Processing via Adaptive Asynchronous Message Processing,479-488,C88
 P925439,A318309:A1123436:A1041037,Offline and Online Satisfaction Prediction in Open-Domain Conversational Systems,1281-1290,C86
@@ -9373,7 +9373,7 @@ P925685,A1197518:A758397:A1276514:A1272109:A821878:A1409630:A264622:A2360814:A49
 P925686,A2343246:A229368:A12520,Analysis of Telegram; An Instant Messaging Service,2035-2038,C91
 P925687,A2187420:A1681990:A834707,Classification and annotation in social corpora using multiple relations,1215-1220,C92
 P925688,A434569:A13539,Enterprise Discussion Analysis,1967-1970,C90
-P925689,A1048930:A1700195,Interest mining from user tweets,1869-1872,C87
+P925689,A1048930:A1588793,Interest mining from user tweets,1869-1872,C87
 P925690,A1597598:A1193596:A535604,Incorporate Group Information to Enhance Network Embedding,1901-1904,C88
 P925691,A398148:A1422375:A535604,Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction,1655-1658,C93
 P925692,A1818393:A2297054:A928222:A39313,Distinguishing Trajectories from Different Drivers using Incompletely Labeled Trajectories,863-872,C93
@@ -10072,7 +10072,7 @@ P926499,A1306898:A681380:A1928438:A1388994,Probabilistic latent class models for
 P926500,A1724372:A1445394:A836242:A1242999,MAGIK: managing completeness of data,2725-2727,C89
 P926501,A158369:A928714:A904122:A1902548:A378248:A1423106:A1154970,Detecting Promotion Campaigns in Query Auto Completion,125-134,C88
 P926502,A1203407:A1614808:A1590246:A1707753,Document-Level Multi-Aspect Sentiment Classification for Online Reviews of Medical Experts,2723-2731,C86
-P926503,A836879:A1630873:A1233648:A1203844,A Study of Realtime Summarization Metrics,2125-2130,C88
+P926503,A836879:A1630873:A1233648:A712672,A Study of Realtime Summarization Metrics,2125-2130,C88
 P926504,A1652384:A2293909:A1579767:A268871:A46532,On Real-time Detecting Passenger Flow Anomalies,1053-1062,C93
 P926505,A964696:A705576:A1854866:A1565582,Multiple keyword-based queries over XML streams,1577-1582,C92
 P926506,A907844:A77111:A883237:A446439:A2347192,Budgeted Task Scheduling for Crowdsourced Knowledge Acquisition,1059-1068,C91
@@ -10507,7 +10507,7 @@ P948808,A2133405:A1849395:A1444195:A1443585,Target Apps Selection: Towards a Uni
 P948809,A1966436:A1833370:A748577:A1791131:A1443991:A216645,EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation,435-444,C95
 P948810,A1734492:A439286:A834707,Gaussian Embeddings for Collaborative Filtering,1065-1068,C100
 P948811,A1410727:A2300099:A697049:A1321156:A1591243:A1936763:A2069330:A314012:A1268901:A2038302:A1043009,Neural-Network Lexical Translation for Cross-lingual IR from Text and Speech,645-654,C95
-P948812,A196923:A191286:A192341:A2047088:A1203844,Understanding and Evaluating User Satisfaction with Music Discovery,55-64,C102
+P948812,A196923:A191286:A192341:A2047088:A712672,Understanding and Evaluating User Satisfaction with Music Discovery,55-64,C102
 P948814,A1633548:A111363,Crowdsourcing for search evaluation and social-algorithmic search,1180,C98
 P948815,A412327:A520474:A741687:A1331312,Learning to rank social update streams,651-660,C98
 P948816,A1618836:A1854915:A1272254,Can Deep Effectiveness Metrics Be Evaluated Using Shallow Judgment Pools?,35-44,C100
@@ -10606,7 +10606,7 @@ P948923,A2206254:A534493:A1565713,Neural Approaches to Conversational AI,1371-13
 P948924,A1444091:A1443585:A1555888:A1432851:A402507,Neu-IR: The SIGIR 2016 Workshop on Neural Information Retrieval,1245-1246,C97
 P948925,A1262379:A113320:A1695088:A1243309:A2363383,The effect of threshold priming and need for cognition on relevance calibration and assessment,623-632,C96
 P948926,A2231182:A1927831,Query Performance Prediction for Pseudo-Feedback-Based Retrieval,1261-1264,C95
-P948927,A1203844:A1204208:A283399:A555710:A402507:A1702413,SIGIR 2013 workshop on time aware information access (#TAIA2013),1137,C96
+P948927,A712672:A1204208:A283399:A555710:A402507:A1702413,SIGIR 2013 workshop on time aware information access (#TAIA2013),1137,C96
 P948928,A1361471:A2300267,Music Retrieval and Recommendation: A Tutorial Overview,1133-1136,C94
 P948929,A606672,Torii: Attribute-based Polarity Analysis with Big Datasets,1187,C97
 P948930,A1978545:A310256:A1420551:A1032232:A1394044:A2069625:A1255854,Reinforcement Learning for User Intent Prediction in Customer Service Bots,1265-1268,C95
@@ -10618,7 +10618,7 @@ P948936,A1194111:A1855217:A209451,Query suggestions in the absence of query logs
 P948938,A1211148:A1667776,Embedding Edge-attributed Relational Hierarchies,873-876,C95
 P948939,A1214317:A1006416,Regularised Cross-Modal Hashing,907-910,C94
 P948940,A1469577:A355256:A272752:A2339154:A217431,An Accurate; Efficient; and Scalable Approach to Channel Matching in Smart TVs,1025-1028,C100
-P948941,A2347003:A1203844:A409752:A2247255,SIGIR 2015 Workshop on Reproducibility; Inexplicability; and Generalizability of Results (RIGOR),1147-1148,C94
+P948941,A2347003:A712672:A409752:A2247255,SIGIR 2015 Workshop on Reproducibility; Inexplicability; and Generalizability of Results (RIGOR),1147-1148,C94
 P948942,A2046144:A1883944:A1731042:A331103:A207690,Large-Scale Goodness Polarity Lexicons for Community Question Answering,1185-1188,C100
 P948943,A1006493:A1927831,Cluster-based fusion of retrieved lists,893-902,C101
 P948944,A111363,The Data Stack in Information Retrieval,597,C97
@@ -10906,7 +10906,7 @@ P949271,A1267737:A2337055:A2343028:A2343929:A1141650,ICE: Item Concept Embedding
 P949272,A2075050:A705134:A1242906,Incremental diversification for very large sets: a streaming-based approach,585-594,C101
 P949274,A167015:A407722:A1555888:A1441840:A1381848,Informational friend recommendation in social media,1045-1048,C96
 P949275,A538715:A526262,Leveraging Procedural Knowledge for Task-oriented Search,513-522,C94
-P949276,A1702413:A378118:A2078652:A1913384:A1203844,Mobile query reformulations,1011-1014,C99
+P949276,A1702413:A378118:A2078652:A1913384:A712672,Mobile query reformulations,1011-1014,C99
 P949278,A1557091:A1374138:A80997,Learning to predict response times for online query scheduling,621-630,C98
 P949279,A546717:A1855043,High Quality Graph-Based Similarity Search,83-92,C94
 P949280,A1175760:A1127889:A1830988:A559642,Evolution of Information Needs based on Life Event Experiences with Topic Transition,1009-1012,C100
@@ -10920,7 +10920,7 @@ P949288,A1470094,Find Relevant Cases in All Cases: Your Journey at Doctrine,1393
 P949289,A1497704:A1898288:A777277,Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval,1029-1032,C95
 P949290,A704580,Automatic Understanding of the Visual World,3-4,C95
 P949291,A593103,The role of current working context in professional search,1148,C96
-P949292,A1432851:A1203844:A1444091,Luandri: A Clean Lua Interface to the Indri Search Engine,1221-1223,C100
+P949292,A1432851:A712672:A1444091,Luandri: A Clean Lua Interface to the Indri Search Engine,1221-1223,C100
 P949293,A172663:A396351:A1612870:A1855639:A1500759,Mailbox-Based vs. Log-Based Query Completion for Mail Search,937-940,C100
 P949294,A2057134:A708948:A177583,A comparison of the optimality of statistical significance tests for information retrieval evaluation,925-928,C96
 P949295,A1422375:A652890,Gibberish; Assistant; or Master?: Using Tweets Linking to News for Extractive Single-Document Summarization,1003-1006,C94
@@ -11021,7 +11021,7 @@ P949402,A238793:A76010:A961958:A347185:A972135:A739340,iGlasses: A Novel Recomme
 P949403,A1592520:A1368818,FitYou: integrating health profiles to real-time contextual suggestion,1263-1264,C99
 P949404,A1381038:A1902548:A1149739:A2276928:A313525:A928714:A57129:A378248,Effects of User Negative Experience in Mobile News Streaming,705-714,C95
 P949405,A1522147:A715045:A1433410:A341623:A2348406:A2211305,User Attention-guided Multimodal Dialog Systems,445-454,C95
-P949406,A342335:A1203844,Out of sight; not out of mind: on the effect of social and physical detachment on information need,385-394,C101
+P949406,A342335:A712672,Out of sight; not out of mind: on the effect of social and physical detachment on information need,385-394,C101
 P949407,A154049:A1704101,User Behavior in Asynchronous Slow Search,345-354,C97
 P949409,A1502570:A1258409:A2105983:A865994,Multi-Level Matching Networks for Text Matching,949-952,C95
 P949410,A1023062:A2084259:A1128667:A2217217,Encoding Syntactic Dependency and Topical Information for Social Emotion Classification,881-884,C95
@@ -11560,7 +11560,7 @@ P950017,A1632220,The economics in interactive information retrieval,15-24,C101
 P950018,A1904151:A1593533:A75308:A55383:A2137322:A2427192:A552025,NRPA: Neural Recommendation with Personalized Attention,1233-1236,C95
 P950019,A1194452:A1444091,Ingrams: A Neuropsychological Explanation For Why People Search,877-880,C97
 P950020,A1272642:A1192576:A121189:A409752,Critically Examining the Neural Hype: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models,1129-1132,C95
-P950021,A342335:A1203844,Location and timeliness of information sources during news events,1105-1106,C101
+P950021,A342335:A712672,Location and timeliness of information sources during news events,1105-1106,C101
 P950022,A893317:A402507:A1201185,Hypergeometric language models for republished article finding,485-494,C101
 P950023,A2377116:A2206002:A931826:A2277117:A463621:A81919,Discrete Collaborative Filtering,325-334,C97
 P950024,A1276735:A2277117:A2074828:A755914:A1306086,Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation,125-134,C95
@@ -11718,7 +11718,7 @@ P950195,A1143616:A302618:A434721,The TREC files: the (ground) truth is out there
 P950196,A2323826:A930115:A1132575:A350021,Content-Based Weak Supervision for Ad-Hoc Re-Ranking,993-996,C95
 P950198,A1188348:A402507,Online Learning to Rank for Information Retrieval: SIGIR 2016 Tutorial,1215-1218,C97
 P950199,A1200946:A913390:A2031830,$100; 000 prize jackpot. call now!: identifying the pertinent features of SMS spam,1175-1176,C98
-P950200,A515549:A1566821:A649246:A736964:A823732:A1865747:A375003,Third International Workshop on Recent Trends in News Information Retrieval (NewsIR'19),1429-1431,C95
+P950200,A515549:A897996:A649246:A736964:A823732:A1865747:A375003,Third International Workshop on Recent Trends in News Information Retrieval (NewsIR'19),1429-1431,C95
 P950201,A1288965:A515910:A1742271:A739340,Mapping queries to questions: towards understanding users' information needs,977-980,C96
 P950202,A444882:A1927931,Sentiment diversification with different biases,593-602,C96
 P950203,A2337269:A115635:A443239:A402507,Attention-based Hierarchical Neural Query Suggestion,1093-1096,C102
@@ -11806,7 +11806,7 @@ P950298,A822774:A39302:A704485:A1262379,Using Information Scent to Understand Mo
 P950299,A597082:A516790,Fine-Grained Information Identification in Health Related Posts,1001-1004,C102
 P950301,A1903820:A121455,Auto-completion for Question Answering Systems at Bloomberg,1351-1352,C102
 P950302,A1477693:A477008:A1081379:A1692364,Predicting lifespans of popular tweets in microblog,1129-1130,C98
-P950303,A1849395:A2420308:A1203844:A1901338:A1444091,SIGIR 2018 Workshop on Learning from Limited or Noisy Data for Information Retrieval,1439-1440,C102
+P950303,A1849395:A2420308:A712672:A1901338:A1444091,SIGIR 2018 Workshop on Learning from Limited or Noisy Data for Information Retrieval,1439-1440,C102
 P950304,A70963:A2228386:A2183175,Exploiting Food Choice Biases for Healthier Recipe Recommendation,575-584,C100
 P950306,A865261:A353429,Utilizing marginal net utility for recommendation in e-commerce,1003-1012,C101
 P950307,A1564968:A1005872:A2453283:A288598:A1695570,Selective Gradient Boosting for Effective Learning to Rank,155-164,C102
@@ -11929,7 +11929,7 @@ P950441,A1260641:A1758170:A1004326,Personalized Semantic Ranking for Collaborati
 P950442,A2173175:A1849395,Analyzing and Predicting News Popularity in an Instant Messaging Service,1053-1056,C95
 P950444,A1214317:A1006416:A2344710,Neighbourhood preserving quantisation for LSH,1009-1012,C96
 P950445,A2074828:A350965:A1896747,SIGIR 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018),1411-1413,C102
-P950446,A1203844:A701525:A1299035:A402507:A1702413,SIGIR 2014 workshop on temporal; social and spatially-aware information access (#TAIA2014),1298,C99
+P950446,A712672:A701525:A1299035:A402507:A1702413,SIGIR 2014 workshop on temporal; social and spatially-aware information access (#TAIA2014),1298,C99
 P950447,A1133766:A194609:A1865767:A677616:A2418844:A2247255:A1910201,SIGIR 2018 Workshop on eCommerce (ECOM18),1407-1409,C102
 P950448,A361386:A1055660:A1855914,Optimizing Trade-offs Among Stakeholders in Real-Time Bidding by Incorporating Multimedia Metrics,205-214,C100
 P950449,A2224634:A554693,Predicting the ratings of multimedia items for making personalized recommendations,475-484,C98
@@ -12299,7 +12299,7 @@ P950850,A1396167,A Novel Approach to Define and Model Contextual Features in Rec
 P950851,A41121:A1593933:A409752:A981894,Old dogs are great at new tricks: column stores for ir prototyping,863-866,C99
 P950852,A2010149:A1443914:A1565075,Bagging gradient-boosted trees for high precision; low variance ranking models,85-94,C101
 P950853,A1375634:A72185:A347518,A Study of Per-Topic Variance on System Comparison,1181-1184,C102
-P950855,A1203844:A741280:A2106006,Search Result Prefetching Using Cursor Movement,609-618,C97
+P950855,A712672:A741280:A2106006,Search Result Prefetching Using Cursor Movement,609-618,C97
 P950856,A547269:A2184250:A1443585,Automatic boolean query suggestion for professional search,825-834,C101
 P950857,A1268154:A835143:A1711063:A1633923:A2205355,Indexing strategies for graceful degradation of search quality,575-584,C101
 P950858,A763074:A1495989,Searching in the city of knowledge: challenges and recent developments,1123,C96
@@ -12439,7 +12439,7 @@ P951009,A1713142:A2192885:A549597,Reputation analysis with a ranked sentiment-le
 P951010,A702211:A565987:A392504,Retrieval from Noisy E-Discovery Corpus in the Absence of Training Data,755-758,C94
 P951011,A1986750:A1696192:A1693605:A238035,Semantic full-text search with broccoli,1265-1266,C99
 P951012,A1551383:A1334389:A1926875:A528205:A1694956:A530943:A1694910:A1480243:A1927931:A1855097:A540315,A framework for manipulating and searching multiple retrieval types,1001,C98
-P973745,A764616:A2203051:A1859937:A1228512,Hot or Not? Forecasting Cellular Network Hot Spots Using Sector Performance Indicators,259-270,C109
+P973745,A745768:A2203051:A1859937:A1228512,Hot or Not? Forecasting Cellular Network Hot Spots Using Sector Performance Indicators,259-270,C109
 P973748,A64887,Towards Explaining the Effects of Data Preprocessing on Machine Learning,2086-2090,C104
 P973749,A2137998:A2204197:A2444364:A1855351:A1863634:A2346367,CliqueSquare in action: Flat plans for massively parallel RDF queries,1432-1435,C103
 P973750,A1695065:A1164778,Catch the Wind: Graph workload balancing on cloud,553-564,C105
@@ -12721,7 +12721,7 @@ P974081,A1828096:A2086123:A2382790:A402510,Efficient Information Flow Maximizati
 P974082,A515910:A1761919:A2224548:A1288965:A1764876:A39313,Price-and-Time-Aware Dynamic Ridesharing,1061-1072,C111
 P974083,A1045668:A1413639:A849622:A705531,Program transformations for asynchronous query submission,375-386,C110
 P974084,A1618398:A592345:A2247227:A463768:A283879,kNNVWC: An efficient k-nearest neighbours approach based on Various-Widths Clustering,1572-1573,C106
-P974085,A2444392:A14271:A535654:A1204382,A comparison of adaptive radix trees and hash tables,1227-1238,C103
+P974085,A88632:A14271:A535654:A1204382,A comparison of adaptive radix trees and hash tables,1227-1238,C103
 P974087,A536078:A1230022:A1268499,Survival Topic Models for Predicting Outcomes for Trauma Patients,1497-1504,C109
 P974088,A2165987:A1699065:A1164778,Top-k graph pattern matching over large graphs,1033-1044,C105
 P974089,A2397585:A2386781:A1748760:A495938:A1578178:A1914120,Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms,1430-1441,C104
@@ -13326,7 +13326,7 @@ P974821,A287369:A1273050:A2042406:A1565645:A286635,The Min-dist Location Selecti
 P974822,A89537:A2298976:A402379:A1986226,ARROW: Approximating Reachability Using Random Walks Over Web-Scale Graphs,470-481,C104
 P974824,A2141834:A35497:A834346:A456401:A830964:A277794:A705531,The XDa-TA system for automated grading of SQL query assignments,1468-1471,C103
 P974825,A1029859:A391419:A1255543:A1338512,GB-KMV: An Augmented KMV Sketch for Approximate Containment Similarity Search,458-469,C104
-P974826,A239282:A2075638:A900372:A13960,Physical Representation-Based Predicate Optimization for a Visual Analytics Database,1466-1477,C104
+P974826,A239282:A2075638:A189312:A13960,Physical Representation-Based Predicate Optimization for a Visual Analytics Database,1466-1477,C104
 P974827,A1556462:A2005605:A769670:A740273:A457376,Private spatial data aggregation in the local setting,289-300,C106
 P974828,A277794:A705531:A1411943:A714260:A2213228:A908991,Generating test data for killing SQL mutants: A constraint-based approach,1175-1186,C110
 P974829,A705327,Transforming Big Data into Smart Data: Deriving value via harnessing Volume; Variety; and Velocity using semantic techniques and technologies,2,C108
@@ -13516,7 +13516,7 @@ P975070,A1286014:A914222:A2245458,Reverse Query-Aware Locality-Sensitive Hashing
 P975071,A1056837:A1014676:A1023140:A2105595:A1650022,Query optimization for differentially private data management systems,1093-1104,C105
 P975072,A2361280:A111431:A1164700,Processing and Notifying Range Top-k Subscriptions,810-821,C107
 P975073,A1785566:A665196:A1743017,Ontology-Based Approach for Academic Evaluation System,1569-1574,C109
-P975074,A2203051:A764616:A1866611:A1449921:A1228512,The Good; the Bad; and the KPIs: How to Combine Performance Metrics to Better Capture Underperforming Sectors in Mobile Networks,297-308,C109
+P975074,A2203051:A745768:A1866611:A1449921:A1228512,The Good; the Bad; and the KPIs: How to Combine Performance Metrics to Better Capture Underperforming Sectors in Mobile Networks,297-308,C109
 P975075,A2286184:A213400,ClEveR: Clustering events with high density of true-to-false occurrence ratio,918-929,C106
 P975076,A2138471:A2076303,Similarity Search in Graph Databases: A Multi-Layered Indexing Approach,783-794,C109
 P975077,A112448:A1270043:A86796,Predicting Named Entity Location Using Twitter,161-172,C111
@@ -13593,7 +13593,7 @@ P975162,A871112:A756107,Modeling Multidimensional User Preferences for Collabora
 P975163,A659603:A2106498:A1565327:A2105819,Understanding short texts through semantic enrichment and hashing,1552-1553,C106
 P975164,A1753207:A301121:A1565327:A1700295:A2453897,Cleaning structured event logs: A graph repair approach,30-41,C103
 P975165,A2281449:A37071:A1565950:A1300067:A1385489:A2453677,Road network mix-zones for anonymous location based services,1300-1303,C105
-P975166,A1721810:A1204199:A542634:A2121605,t-closeness through microaggregation: Strict privacy with enhanced utility preservation,1464-1465,C106
+P975166,A1721810:A1204199:A542634:A1929968,t-closeness through microaggregation: Strict privacy with enhanced utility preservation,1464-1465,C106
 P975168,A1959606:A1022336:A2186174:A2071915:A1139288,Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks (Extended Abstract),57-58,C109
 P975169,A460027:A1855080:A1866833:A349902,LDV: Light-weight database virtualization,1179-1190,C103
 P975170,A1395981:A1685094,A novel; low-latency algorithm for multiple Group-By query optimization,301-312,C106
@@ -14149,7 +14149,7 @@ P978463,A2363417:A766937:A1197107:A1027247:A1947287:A1310468,Mining Personal Con
 P978468,A2258500:A277958:A2006690:A2418676:A2074505:A714894,Multi-label Answer Aggregation Based on Joint Matrix Factorization,517-526,C120
 P978472,A454269:A858681:A550897:A1565747,Mining Customer Valuations to Optimize Product Bundling Strategy,555-564,C118
 P978475,A2453837:A1983635:A737586,Predicted Edit Distance Based Clustering of Gene Sequences,1206-1211,C120
-P978478,A524325:A1198741:A1037520,Calculating Feature Weights in Naive Bayes with Kullback-Leibler Measure,1146-1151,C119
+P978478,A524325:A697375:A1037520,Calculating Feature Weights in Naive Bayes with Kullback-Leibler Measure,1146-1151,C119
 P978480,A1721863:A1445033:A1651349:A2165901:A834659,Communication-Efficient Distributed Multiple Reference Pattern Matching for M2M Systems,787-796,C114
 P978484,A1758345:A1740295:A1443624,Nonlinear Causal Discovery for High Dimensional Data: A Kernelized Trace Method,1003-1008,C114
 P978485,A1480083:A1566007,Defining and Evaluating Network Communities Based on Ground-Truth,745-754,C116
@@ -15822,7 +15822,7 @@ P1007416,A1023021:A1270019:A1855187,Highly efficient algorithms for structural c
 P1007420,A1595264:A1551005:A461016:A522577:A546226:A1334287,Random walks based modularity: application to semi-supervised learning,213-224,C126
 P1007430,A614387:A1086181:A2075558:A1677489:A502283:A501137:A307974:A1198747,Learning Fast Matching Models from Weak Annotations,2985-2991,C122
 P1007434,A1330361:A1415807:A401257:A1929926:A2068592,Scalable Parallel EM Algorithms for Latent Dirichlet Allocation in Multi-Core Systems,669-679,C121
-P1007435,A1559654,La Securite Ouverte How We Doin? So Far?,5,C124
+P1007435,A1559654,La Sécurité Ouverte How We Doin? So Far?,5,C124
 P1007441,A2296149:A1426488:A2296046:A853832,HTTP/2 Prioritization and its Impact on Web Performance,1755-1764,C129
 P1007449,A1434277:A847926,LETOR Methods for Unsupervised Rank Aggregation,1331-1340,C127
 P1007451,A776816:A774675:A2383440:A959945,Predicting positive and negative links in signed social networks by transfer learning,1477-1488,C123
@@ -16012,7 +16012,7 @@ P1008022,A1971193:A652862:A2068843:A1499962:A556314:A1398608:A1481433,Co-Regular
 P1008026,A2302092:A1471861:A2189243:A1028482,Persona-Aware Tips Generation?,1006-1016,C122
 P1008027,A157865:A1565859:A929620,When Confidence and Competence Collide: Effects on Online Decision-Making Discussions,1381-1390,C127
 P1008028,A1311070:A764775,Learning to re-rank: query-dependent image re-ranking using click data,277-286,C128
-P1008030,A1432851:A1203844:A1444091,Learning to Match using Local and Distributed Representations of Text for Web Search,1291-1299,C127
+P1008030,A1432851:A712672:A1444091,Learning to Match using Local and Distributed Representations of Text for Web Search,1291-1299,C127
 P1008031,A349964:A834736:A1300098:A464724:A2171960:A705063,OPAL: automated form understanding for the deep web,829-838,C125
 P1008033,A1002680:A111264,On participation in group chats on Twitter,165-176,C123
 P1008034,A103124:A1199217:A561696:A657041,Exploiting Diversity in Android TLS Implementations for Mobile App Traffic Classification,1657-1668,C122
@@ -16478,7 +16478,7 @@ P1009379,A1356542:A1444162:A705345,nTD: Noise-Profile Adaptive Tensor Decomposit
 P1009381,A360683:A1306086:A271264:A1994059,A Semantic Graph-Based Approach for Mining Common Topics from Multiple Asynchronous Text Streams,1201-1209,C127
 P1009382,A2151340:A1405616:A642915:A1350181,Usage Patterns and the Economics of the Public Cloud,83-91,C127
 P1009393,A1924099:A984155:A880554,Learning-to-Rank for Real-Time High-Precision Hashtag Recommendation for Streaming News,1191-1202,C124
-P1009400,A2184250:A1203844:A1307438:A736251:A1143586,Generalized link suggestions via web site clustering,77-86,C128
+P1009400,A2184250:A712672:A1307438:A736251:A1143586,Generalized link suggestions via web site clustering,77-86,C128
 P1009403,A1590755:A2007138:A1705383:A1565670:A1592645:A1414504:A1976605,Bimodal Distribution and Co-Bursting in Review Spam Detection,1063-1072,C127
 P1009405,A2222528:A887649:A1273383:A758723:A708094:A1164696,Table Cell Search for Question Answering,771-782,C124
 P1009406,A771276:A1758898:A279284:A1393634:A1401277:A1755875:A1910265,Exploring HTTP Header Manipulation In-The-Wild,451-458,C127
@@ -16810,7 +16810,7 @@ P1010349,A1698478:A771276:A885143,PYTHIA: a Framework for the Automated Analysis
 P1010354,A1806370:A1093855:A336468:A482691:A1476575:A402507,Improving Outfit Recommendation with Co-supervision of Fashion Generation,1095-1105,C122
 P1010358,A367165:A1199100:A961464,BOAT: Building Auto-Tuners with Structured Bayesian Optimization,479-488,C127
 P1010360,A1559751:A1138869:A1858144:A2041668,Strategyproof mechanisms for competitive influence in networks,141-150,C123
-P1010361,A1536448:A1044754:A1303777:A1429530:A1203844,Contextual and dimensional relevance judgments for reusable SERP-level evaluation,131-142,C126
+P1010361,A1536448:A1044754:A1303777:A1429530:A712672,Contextual and dimensional relevance judgments for reusable SERP-level evaluation,131-142,C126
 P1010364,A144576:A1349758:A523468:A1341806:A834866:A351777,Dealing with Interdependencies and Uncertainty in Multi-Channel Advertising Campaigns Optimization,1376-1386,C122
 P1010366,A1038090:A1802592:A1721374:A827629:A1723006:A825379:A307326:A829030,User Session Identification Based on Strong Regularities in Inter-activity Time,410-418,C121
 P1010368,A1468760:A2222553:A1463686:A1398752:A111253,DeepSense: A Unified Deep Learning Framework for Time-Series Mobile Sensing Data Processing,351-360,C127
@@ -17020,7 +17020,7 @@ P1010947,A2220488:A329451:A515281:A192341:A191286:A196923,Search Mindsets: Under
 P1010948,A2312417:A991368:A238307:A1986267:A644012,Iterative Discriminant Tensor Factorization for Behavior Comparison in Massive Open Online Courses,2068-2079,C122
 P1010952,A280959:A1860540:A2377599:A120398:A2068592,Characterizing search intent diversity into click models,17-26,C128
 P1010954,A1921731:A1464128:A1044753:A14971:A1054604,Towards Reconciling SPARQL and Certain Answers,23-33,C121
-P1010955,A566844:A2165353,A Fast and Provable Method for Estimating Clique Counts Using Turan's Theorem,441-449,C127
+P1010955,A566844:A2165353,A Fast and Provable Method for Estimating Clique Counts Using Turán's Theorem,441-449,C127
 P1010961,A1546646:A2040753:A1851446:A482691:A1409202,From Stances' Imbalance to Their HierarchicalRepresentation and Detection,2323-2332,C122
 P1010963,A1578477:A705147:A1711478,Detection and Analysis of Self-Disclosure in Online News Commentaries,3272-3278,C122
 P1010965,A904964:A270995:A1294854,YouTube around the world: geographic popularity of videos,241-250,C125
@@ -17070,7 +17070,7 @@ P1216936,A2157660:A1555026:A704647:A880554:A1099106:A904738:A1629605:A2232430,PD
 P1216938,A722434:A2247347,On over-specialization and concentration bias of recommendations: probabilistic neighborhood selection in collaborative filtering systems,153-160,C135
 P1216939,A1639923,CHAMELEON: a deep learning meta-architecture for news recommender systems,578-583,C138
 P1216940,A2290243:A1882177:A1628452:A39346,Performance comparison of neural and non-neural approaches to session-based recommendation,462-466,C131
-P1216942,A318530:A312486:A309815:A1803133,Music recommendations in hyperbolic space: an application of empirical bayes and hierarchical poincare embeddings,437-441,C131
+P1216942,A318530:A312486:A309815:A1803133,Music recommendations in hyperbolic space: an application of empirical bayes and hierarchical poincaré embeddings,437-441,C131
 P1216943,A1228324:A2362531,Product Recommendations Enhanced with Reviews,398-399,C136
 P1216944,A372114:A1555792,Ghosting: contextualized inline query completion in large scale retail search,196-200,C131
 P1216947,A1985575:A1711444:A704740:A549071,OSMRec Tool for Automatic Recommendation of Categories on Spatial Entities in OpenStreetMap,337-338,C130
@@ -17086,7 +17086,7 @@ P1216964,A1935318:A1033119:A2085677,Crowd Sourcing; with a Few Answers: Recommen
 P1216966,A586786,Feature Selection For Human Recommenders,379,C133
 P1216967,A1986267:A660455:A120326:A906076:A2279990:A114913:A1038733,RecSys'17 Joint Workshop on Interfaces and Human Decision Making for Recommender Systems,384-385,C136
 P1216968,A1976618:A1622076:A1443959,Multi-armed recommender system bandit ensembles,432-436,C131
-P1216969,A822191:A2068750:A703919,Multiple objective optimization in recommender systems,11-18,C134
+P1216969,A412837:A2068750:A703919,Multiple objective optimization in recommender systems,11-18,C134
 P1216970,A369124,Enhancing personalization and learner engagement through context-aware recommendation in TEL,413-415,C135
 P1216972,A1669064,Gaussian Ranking by Matrix Factorization,115-122,C130
 P1216973,A713907:A48692:A402510:A402393:A210419,LocalRec'15: Workshop on Location-Aware Recommendations,351-352,C130
@@ -17104,7 +17104,7 @@ P1216991,A1481615:A1665430,The top N news recommender: count distortion and mani
 P1216993,A58988:A737448:A313865,Style conditioned recommendations,128-136,C131
 P1216996,A125836:A2225112,Nudging Grocery Shoppers to Make Healthier Choices,289-292,C130
 P1216998,A723710:A2213587:A718835,You are what you consume: a bayesian method for personalized recommendations,221-228,C132
-P1217000,A196923:A192341:A191286:A2365331:A1203844,Mixed methods for evaluating user satisfaction,541-542,C138
+P1217000,A196923:A192341:A191286:A2365331:A712672,Mixed methods for evaluating user satisfaction,541-542,C138
 P1217001,A266331,Recommendation in social networks,491-492,C132
 P1217002,A1276725:A273776:A277898:A705030,First workshop on recommendation systems for television and online video: (RecSysTV 2014),391-392,C135
 P1217008,A871049:A2365132:A834707,Latent Trajectory Modeling: A Light and Efficient Way to Introduce Time in Recommender Systems,281-284,C130
@@ -17179,7 +17179,7 @@ P1217100,A239335:A660455:A278657:A906076,A Multi-criteria Recommender System Exp
 P1217101,A557739:A834718:A1170076:A740199,Cognitive company discovery,508-509,C138
 P1217102,A2338024:A1965721,Evaluating Decision-Aware Recommender Systems,74-78,C136
 P1217106,A1725763:A1477311:A1254004:A2247290,Finding a needle in a haystack of reviews: cold start context-based hotel recommender system demo,305-306,C134
-P1217107,A460951:A1896478,Deja Vu: The Importance of Time and Causality in Recommender Systems,342,C136
+P1217107,A460951:A1896478,Déjà Vu: The Importance of Time and Causality in Recommender Systems,342,C136
 P1217108,A48353,The user-centered design of a recommender system for a universal library catalogue,337-340,C134
 P1217109,A517173:A1038733,Behaviorism is Not Enough: Better Recommendations through Listening to Users,221-224,C133
 P1217112,A865261:A555859:A704825,Utilizing related products for post-purchase recommendation in e-commerce,329-332,C137
@@ -17229,7 +17229,7 @@ P1217171,A1370757:A9933:A475287,Context adaptation in interactive recommender sy
 P1217174,A1266851:A2236520,Human-Recommender Systems: From Benchmark Data to Benchmark Cognitive Models,127-130,C133
 P1217175,A12944:A402393:A475287,Interactive multi-party critiquing for group recommendation,265-268,C137
 P1217176,A1735495:A1271185,Making the Most of Preference Feedback by Modeling Feature Dependencies,285-288,C130
-P1217177,A1792161:A1226256:A2343033:A1682877:A1303847,Aligning daily activities with personality: towards a recommender system for improving wellbeing,368-372,C131
+P1217177,A1792161:A1226256:A927486:A1682877:A1303847,Aligning daily activities with personality: towards a recommender system for improving wellbeing,368-372,C131
 P1217178,A1374172,Recommendations in Travel,234,C130
 P1217179,A73648,Personalization challenges in e-Learning,345,C136
 P1217180,A1622608:A1307529,Enhancing VAEs for collaborative filtering: flexible priors & gating mechanisms,403-407,C131
@@ -17283,7 +17283,7 @@ P1217251,A1207532:A1208593:A1640509,Decomposing fit semantics for product size r
 P1217252,A76088:A118637:A464868:A462014:A423344:A1909637:A1201090:A1391154,Recommender systems challenge 2012,353-354,C134
 P1217253,A704647:A1444058,A Novel Recommender System for Helping Marathoners to Achieve a New Personal-Best,116-120,C136
 P1217255,A277898:A273776:A579081:A705030,3rd Workshop on Recommendation Systems for Television and Online Video (RecSysTV 2016),423-424,C133
-P1217256,A764616:A1859937,Getting Deep Recommenders Fit: Bloom Embeddings for Sparse Binary Input/Output Networks,279-287,C136
+P1217256,A745768:A1859937,Getting Deep Recommenders Fit: Bloom Embeddings for Sparse Binary Input/Output Networks,279-287,C136
 P1217257,A2227360:A535868:A1012651,Agent-based computational investing recommender system,455-458,C132
 P1217259,A2241018:A700736:A402156:A560610,Preference elicitation for narrowing the recommended list for groups,333-336,C135
 P1217260,A2451286:A1669064:A699594:A1633772,On top-k recommendation using social networks,67-74,C134
@@ -17377,7 +17377,7 @@ P1217386,A354177:A1256389:A906076:A660455:A278657,T-RecS: A Framework for a Temp
 P1217388,A1965721:A379269:A1443959,Probabilistic collaborative filtering with negative cross entropy,387-390,C132
 P1217391,A1727819:A883666:A2227873,Constrained collective matrix factorization,237-240,C134
 P1217394,A39346:A1747592:A1930297:A910091:A69608:A9933,The sixth ACM RecSys workshop on recommender systems and the social web,395,C135
-P1217396,A2173000:A2161059:A821348:A2045436:A1630412:A1201090,Explaining and exploring job recommendations: a user-driven approach for interacting with knowledge-based job recommender systems,60-68,C131
+P1217396,A1502419:A2161059:A821348:A2045436:A1630412:A1201090,Explaining and exploring job recommendations: a user-driven approach for interacting with knowledge-based job recommender systems,60-68,C131
 P1217397,A1737962:A73648,Personalized Catch-up & DVR: VOD or Linear; That is the Question,227,C130
 P1217398,A982508:A2168212:A1379717:A1640509,Vista: A Visually; Socially; and Temporally-aware Model for Artistic Recommendation,309-316,C133
 P1217399,A910091,The Role of User Location in Personalized Search and Recommendation,236,C130
@@ -18134,7 +18134,7 @@ P1351953,A1565139,Letter from the Editor-in-Chief,1,J254
 P1351954,A266688:A1708769:A266328:A2057091:A1538332:A477262:A1283956:A896626,SystemML's Optimizer: Plan Generation for Large-Scale Machine Learning Programs,52-62,J614
 P1351955,A2106498,Letter from the Editor-in-Chief,1,J25
 P1351956,A885647:A339506,Scheduling Data-Intensive Tasks on Heterogeneous Many Cores,61-72,J312
-P1351957,A135612:A1136768:A401945:A1373800:A431194:A1970254:A397577:A834952:A709802:A2083652:A1911618:A705693:A515167,Geo-Replication: Fast If Possible; Consistent If Necessary,81-92,J624
+P1351957,A135612:A1136768:A401945:A1373800:A431194:A845159:A397577:A834952:A709802:A2083652:A1911618:A705693:A515167,Geo-Replication: Fast If Possible; Consistent If Necessary,81-92,J624
 P1351958,A1363122,Letter from the Special Issue Editor,2,J410
 P1351959,A1130224:A1204217:A1507600:A439869,Interactive Data Exploration via Machine Learning Models,38-49,J497
 P1351960,A1962172:A1938964:A1132346:A1554131,Beyond Simple Request Processing with RAMCloud,62-69,J86
@@ -18154,7 +18154,7 @@ P1351973,A40161:A1854819,MODELDB: Opportunities and Challenges in Managing Machi
 P1351974,A171428:A1205444:A1566007,Representation Learning on Graphs: Methods and Applications,52-74,J254
 P1351975,A1761799:A1549826:A2066066:A1855308:A995345:A855793,MonetDB: Two Decades of Research in Column-oriented Database Architectures,40-45,J191
 P1351976,A1761799:A432682:A2073844:A1508401:A807587:A352763:A2264930:A32466:A610563:A132017:A1953153,The Periodic Table of Data Structures,64-75,J410
-P1351977,A2217846:A426845:A2364554:A1501873:A534609:A1054463:A1761799:A856367:A1371224:A656876:A758503:A74443:A1854769:A1855066:A1125990:A2453296:A247491:A402175:A1297629:A705456:A1558899,Business Analytics in (a) Blink,9-14,J191
+P1351977,A2217846:A426845:A2364554:A1501873:A534609:A1054463:A1761799:A856367:A1371224:A656876:A758503:A74443:A1854769:A1855066:A1125990:A2453296:A247491:A402175:A1297629:A705456:A1144370,Business Analytics in (a) Blink,9-14,J191
 P1351978,A704839:A69786,Nutritional Labels for Data and Models,13-23,J460
 P1351979,A755857,TCDE Chair Candidate Xiaofang Zhou,4,J614
 P1351980,A2225121:A543968:A612021,RDMA Reads: To Use or Not to Use?,3-14,J86
@@ -18552,7 +18552,7 @@ P1657746,A1986401,Front Matter,i-ix,J653
 P1657747,A1365945:A755921:A764949,Query Reranking As A Service,888-899,J331
 P1657748,A1729167:A1493819:A855715,Index-Assisted Hierarchical Computations in Main-Memory RDBMS,1065-1076,J51
 P1657749,A9896:A949434:A1565054:A305108:A115148,Balance-Aware Distributed String Similarity-Based Query Processing System,961-974,J482
-P1657750,A995594:A1811102:A114128:A1815284:A378704:A1811363:A2297045:A1008598:A20192:A268055:A1204433:A1810727:A1816761:A1390321:A1816073:A2231384:A1236303:A1812554:A1809842:A2225263:A1195198:A1813352,Procella: Unifying serving and analytical data at YouTube,2022-2034,J685
+P1657750,A995594:A1811102:A114128:A1815284:A378704:A1811363:A2297045:A1008598:A20192:A268055:A1204433:A1810727:A1816761:A1390321:A1816073:A428905:A1236303:A1812554:A1809842:A2225263:A1195198:A1813352,Procella: Unifying serving and analytical data at YouTube,2022-2034,J685
 P1657751,A695741:A349856:A856184:A1044165:A1854819:A1352933:A480577:A348725,CrowdDB: Query Processing with the VLDB Crowd,1387-1390,J121
 P1657752,A1957158:A461205:A325653:A2234005:A454214,BSMA: A Benchmark for Analytical Queries over Social Media Data,1573-1576,J398
 P1657753,A1877107:A999436:A1336617:A111580,ColumnML: Column-Store Machine Learning with On-The-Fly Data Transformation,348-361,J492
@@ -20069,7 +20069,7 @@ P1659263,A1314314:A1646162:A288581,Aggregation in Probabilistic Databases via Kn
 P1659264,A1857386:A2340077:A475540:A1023140:A1493284:A2105595,DITIR: Distributed Index for High Throughput Trajectory Insertion and Real-time Temporal Range Query,1865-1868,J594
 P1659265,A1986285,Big Data Research: Will Industry Solve all the Problems?,2053-2056,J318
 P1659266,A111395:A2453897,Front Matter,i-vi,J663
-P1659267,A14271:A2444392:A1204382,A Seven-Dimensional Analysis of Hashing Methods and its Implications on Query Processing,96-107,J438
+P1659267,A14271:A88632:A1204382,A Seven-Dimensional Analysis of Hashing Methods and its Implications on Query Processing,96-107,J438
 P1659268,A1251090:A513914:A1315134,The shortest path is not always a straight line,672-683,J152
 P1659269,A1365945:A39514:A1855531:A704839,On Obtaining Stable Rankings,237-250,J58
 P1659270,A1294429:A855739:A993354:A705198,TreeScope: Finding Structural Anomalies In Semi-Structured Data,1904-1907,J318
@@ -20089,7 +20089,7 @@ P1659283,A1969276:A1019664:A2298855:A1164700,Interactive Summarization and Explo
 P1659284,A2224634:A1050979:A554693,Generating Exact- and Ranked Partially-Matched Answers to Questions in Advertisements,217-228,J636
 P1659285,A1533729:A1022586:A1505584:A525323,Inferray: fast in-memory RDF inference,468-479,J201
 P1659286,A1855178,Open Data Integration,2130-2139,J238
-P1659287,A135612:A1970254:A397577:A1911618:A2083652,IPA: Invariant-preserving Applications for Weakly consistent Replicated Databases,404-418,J492
+P1659287,A135612:A845159:A397577:A1911618:A2083652,IPA: Invariant-preserving Applications for Weakly consistent Replicated Databases,404-418,J492
 P1659288,A1986575:A1532146:A1147353,An Analytical Study of Large SPARQL Query Logs,149-161,J187
 P1659289,A480255:A1008598:A39313:A70069,Hyper-local; directions-based ranking of places,290-301,J622
 P1659290,A1431799:A127318:A69866,QUEST: An Exploratory Approach to Robust Query Processing,1585-1588,J398
@@ -20125,7 +20125,7 @@ P1659319,A115148:A2443195:A1854819:A704890,SilkMoth: An Efficient Method for Fin
 P1659320,A266688:A2057091:A2051514:A477262:A266328:A393370,On Optimizing Operator Fusion Plans for Large-Scale Machine Learning in SystemML,1755-1768,J238
 P1659321,A168897:A1761759:A1040446,Secure Multi-Party Functional Dependency Discovery,184-196,J434
 P1659322,A45082:A2246982:A982011:A2106163,Computing k-Regret Minimizing Sets,389-400,J292
-P1659323,A123092:A2319952:A1880458:A1726771:A124010:A402609,Declarative and distributed graph analytics with GRADOOP,2006-2009,J238
+P1659323,A123092:A2319952:A1880458:A629988:A124010:A402609,Declarative and distributed graph analytics with GRADOOP,2006-2009,J238
 P1659324,A1440468:A1403656:A1538401:A1858214,TOP: A Framework for Enabling Algorithmic Optimizations for Distance-Related Problems,1046-1057,J159
 P1659325,A1965328:A25679:A1855178:A307731:A2364787,Data Lake Management: Challenges and Opportunities,1986-1989,J685
 P1659326,A1403483:A704853,Approximate Lifted Inference with Probabilistic Databases,629-640,J363
@@ -20371,7 +20371,7 @@ P1678420,A1394639:A539684:A1445065,A survey of modeling language specification t
 P1678421,A1634474:A402282:A541697,Mining neighbor-based patterns in data streams,331-350,J642
 P1678422,A1043495:A2022980:A2126712,ANN-Benchmarks: A benchmarking tool for approximate nearest neighbor algorithms,,J526
 P1678423,A404201:A2363053,Facilitating representation and retrieval of structured cases: Principles and toolkit,106-114,J549
-P1678424,A1379010:A1307176:A1721319,Volunteering for Linked Data Wrapper maintenance: A platform perspective,101468,J577
+P1678424,A1379010:A1307176:A1137574,Volunteering for Linked Data Wrapper maintenance: A platform perspective,101468,J577
 P1678425,A350081:A2377100,Preface,65,J421
 P1678426,A1610448:A1001202,Exploiting multimodal interactions in recommender systems with ensemble algorithms,120-132,J293
 P1678427,A265957:A1661803:A1606941:A1516387:A855666,Impact analysis and change propagation in service-oriented enterprises: A systematic review,43-73,J171
@@ -20440,7 +20440,7 @@ P1678489,A1494028:A1855690:A1962473:A1983716:A15160,Shaping City Neighborhoods L
 P1678490,A1400372:A893182:A835223,Home is where your friends are: Utilizing the social graph to locate twitter users in a city,77-87,J78
 P1678491,A99376:A1565495:A85699,Efficient Path Routing Over Road Networks in the Presence of Ad-Hoc Obstacles,,J242
 P1678492,A611925:A530008:A322190,From keywords to relational database content: A semantic mapping method,,J242
-P1678493,A1974619:A1302495:A2233534:A1243154:A1237660:A842427:A1316679,On the reproducibility of experiments of indexing repetitive document collections,181-194,J250
+P1678493,A1134863:A1302495:A2233534:A1243154:A1237660:A842427:A1316679,On the reproducibility of experiments of indexing repetitive document collections,181-194,J250
 P1678494,A2232173:A1136607,Reviews with revenue in reputation: Credibility management method for consumer-opinion platforms,189-196,J709
 P1678495,A2057825:A2337914,Uniform data access platform for SQL and NoSQL database systems,93-105,J341
 P1678496,A111553:A704881:A120049,Time prediction based on process mining,450-475,J64
@@ -20557,7 +20557,7 @@ P1678606,A737432:A111553,Model repair - aligning process models to reality,220-2
 P1678607,A111451:A458513:A2070637,On solving efficiently the view selection problem under bag and bag-set semantics,153-176,J635
 P1678608,A337678:A2365624:A1487091:A2075416:A111436:A834813:A559288,Handling probabilistic integrity constraints in pay-as-you-go reconciliation of data models,166-180,J250
 P1678609,A2280152:A845898,Modeling user interest in social media using news media and wikipedia,52-64,J70
-P1678610,A1721319:A2226165,Wiki Scaffolding: Aligning wikis with the corporate strategy,737-752,J618
+P1678610,A1137574:A2226165,Wiki Scaffolding: Aligning wikis with the corporate strategy,737-752,J618
 P1678611,A2357748:A1188284:A705507,Latent ranking analysis using pairwise comparisons in crowdsourcing platforms,7-21,J70
 P1678612,A1209318:A1051610,Preventing database schema extraction by error message handling,135-156,J293
 P1678613,A266384:A69967:A1254608:A347168,Splitting GSM schemas: A framework for outsourcing of declarative artifact systems,157-187,J262
@@ -20581,7 +20581,7 @@ P1678630,A1666707:A111553:A1851091,A general process mining framework for correl
 P1678631,A736972:A1716125:A396439,Energy-efficient air-indices for shortest path and distance queries on road networks,182-198,J658
 P1678632,A288553:A2162340:A705680,Special issue on DOLAP 2015: Evolving data warehousing and OLAP cubes to big data analytics,1-2,J542
 P1678633,A1204038:A2453355,Cloud Intelligence,309-310,J171
-P1678634,A1986787:A1974619:A1876887:A1906069,A compact representation for trips over networks built on self-indexes,1-22,J32
+P1678634,A1986787:A1134863:A1876887:A1906069,A compact representation for trips over networks built on self-indexes,1-22,J32
 P1678635,A1245948:A49854:A1651924:A281075:A1687795,Transforming unstructured natural language descriptions into measurable process performance indicators using Hidden Markov Models,27-39,J658
 P1678636,A2105983:A1444195,A geometric framework for data fusion in information retrieval,20-35,J674
 P1678637,A1507851:A993120:A345106:A1917196,ReX: Representative extrapolating relational databases,83-99,J176
@@ -20825,7 +20825,7 @@ P1678874,A660545:A902540:A1295096:A1746657:A1854972,Assessing flexibility in eve
 P1678875,A1293732:A402124:A855935,A framework for visually monitoring business process compliance,381-409,J417
 P1678876,A1146294:A1986181:A1146249,Category- and selection-enabled nearest neighbor joins,3-16,J542
 P1678877,A839772:A697641:A704810,Situation monitoring of urban areas using social media data streams,129-141,J78
-P1678878,A2233534:A1974619:A1302495:A1243154,Universal indexes for highly repetitive document collections,1-23,J605
+P1678878,A2233534:A1134863:A1302495:A1243154,Universal indexes for highly repetitive document collections,1-23,J605
 P1678879,A1669423:A1468600:A1866271:A768009:A1986890,Modeling and execution of event stream processing in business processes,140-156,J262
 P1678880,A2355320:A704762,Maintaining consistent results of continuous queries under diverse window specifications,42-61,J287
 P1678881,A1245948:A49854:A1687795,Checking process compliance against natural language specifications using behavioral spaces,83-95,J32
@@ -21097,7 +21097,7 @@ P1750458,A31392:A922963:A1643834:A1444026,Quantiles over data streams: experimen
 P1750459,A349964:A834736:A1300098:A464724:A2171960:A705063,The ontological key: automatically understanding and integrating forms to access the deep Web,615-640,J459
 P1750460,A773405:A856309,Multi-objective parametric query optimization,107-124,J567
 P1750461,A1448862:A844657:A1565327:A348582:A1255543,I/O efficient ECC graph decomposition via graph reduction,275-300,J304
-P1750462,A1721810:A1204199:A542634:A2121605,Enhancing data utility in differential privacy via microaggregation-based $$k$$ k -anonymity,771-794,J555
+P1750462,A1721810:A1204199:A542634:A1929968,Enhancing data utility in differential privacy via microaggregation-based $$k$$ k -anonymity,771-794,J555
 P1750463,A695815:A755983:A288533:A1647272:A2082917,Indexing in-network trajectory flows,643-669,J307
 P1750464,A263929:A1907172:A350093:A2161465,S3-TM: scalable streaming short text matching,849-866,J404
 P1750465,A2069401:A1271856:A1164778,Toward continuous pattern detection over evolving large graph with snapshot isolation,269-290,J185
@@ -21680,7 +21680,7 @@ P1920179,A959689:A954307,Optimierung der Onsite-Suche am Beispiel von otto.de,15
 P1920180,A1242949:A2164819,Das Fachgebiet Informationssysteme am Hasso-Plattner-Institut,69-76,J701
 P1920181,A70083,Skyline Queries,247-251,J23
 P1920182,A1198494:A2038832:A1986794,Information Extraction Meets Crowdsourcing: A Promising Couple,109-120,J610
-P1920183,A1855662:A820262:A1437114:A2101663:A36407:A1565574:A2249086:A453692:A2243256:A712130:A2402955:A1933640:A1855758:A1520143:A2256376:A2248661,Particulate Matter Matters - The Data Science Challenge @ BTW 2019,165-182,J354
+P1920183,A1855662:A820262:A1437114:A2101663:A36407:A1565574:A2249086:A453692:A261764:A712130:A2402955:A1933640:A1855758:A1520143:A2256376:A2248661,Particulate Matter Matters - The Data Science Challenge @ BTW 2019,165-182,J354
 P1920184,A2253530:A848160:A402609,Analyzing Temporal Graphs with Gradoop,199-208,J354
 P1920185,A2305016:A377193:A2032493,Konzepte zur Datenverarbeitung in Referenzarchitekturen für Industrie 4.0 - Konsequenzen bei der Umsetzung einer IT-Architektur,39-50,J141
 P1920186,A1005159:A1303282:A1363697:A891209:A266688:A1565574,Towards Integrated Data Analytics: Time Series Forecasting in DBMS,45-53,J343
@@ -22067,7 +22067,7 @@ P1926090,A2066418:A1444026:A1203879:A835191,Lightweight Query Authentication on 
 P1926091,A214459:A2235052:A835200,Capturing Missing Tuples and Missing Values,10:1-10:47,J276
 P1926092,A1282523:A40922:A2235052:A475206:A478829,Strong simulation: Capturing topology in graph pattern matching,4:1-4:46,J406
 P1926093,A1565303:A2073520:A2106269:A625091:A2224548,Boosting the Quality of Approximate String Matching by Synonyms,15:1-15:42,J632
-P1926094,A1295183:A1565964:A2380764,Naive Evaluation of Queries over Incomplete Databases,31:1-31:42,J173
+P1926094,A1295183:A1565964:A2380764,Naïve Evaluation of Queries over Incomplete Databases,31:1-31:42,J173
 P1926095,A1634636:A1565964:A707239:A2105731,Expressive Languages for Path Queries over Graph-Structured Data,31:1-31:46,J81
 P1926096,A885488:A963702:A1044753:A1054604,Static analysis and optimization of semantic web queries,25:1-25:45,J114
 P1926097,A552604:A1134096:A1547763:A346710,Bounded Repairability for Regular Tree Languages,18:1-18:45,J15
@@ -22178,7 +22178,7 @@ P2013318,A1368341:A440346,Coupled intrinsic and extrinsic human language resourc
 P2013319,A1616165:A1916288:A701341:A1635481,Virus propagation: threshold conditions for multiple profile networks,807-836,J510
 P2013320,A277958:A2300553:A426871:A607632:A424207,Semi-supervised classification based on subspace sparse representation,81-101,J346
 P2013321,A1025432:A1642738:A1541584:A1369053:A662283:A1708445,Learning extremely shared middle-level image representation for scene classification,509-530,J295
-P2013322,A758972:A1454993:A408168,DRAL: a tool for discovering relevant e-activities for learners,211-250,J245
+P2013322,A758972:A278926:A408168,DRAL: a tool for discovering relevant e-activities for learners,211-250,J245
 P2013323,A1543610:A2247340:A1683371:A2165984:A1540357:A538715,Query-dependent cross-domain ranking in heterogeneous network,109-145,J652
 P2013324,A1928770:A1967356:A2297785:A87006:A1495042:A1014303,Event-based summarization using a centrality-as-relevance model,945-968,J491
 P2013325,A1429368:A907657:A397698:A1028416:A276819,PatSearch: an integrated framework for patentability retrieval,135-158,J379
@@ -22307,7 +22307,7 @@ P2013447,A2281081:A1268949:A968527,Sleeved co-clustering of lagged data,251-279,
 P2013448,A943419:A2041897:A2217113:A2238098:A1098648:A1334331,Incorporating word embeddings into topic modeling of short text,1123-1145,J607
 P2013449,A555829:A299956:A568326:A1267659:A2200264,A probabilistic model for semantic advertising,387-412,J303
 P2013450,A1038945:A682300:A703016,Novel approaches to crawling important pages early,707-734,J13
-P2013451,A1975469:A2068206:A714714:A349854,TensorCast: forecasting and mining with coupled tensors,497-522,J44
+P2013451,A323381:A2068206:A714714:A349854,TensorCast: forecasting and mining with coupled tensors,497-522,J44
 P2013452,A892871:A479712,Local bilateral clustering for identifying research topics and groups from bibliographical data,179-199,J158
 P2013453,A1967627:A1242933:A929046,Closed motifs for streaming time series classification,101-125,J66
 P2013454,A407883:A1627977:A1624083:A659086:A1440959:A267819:A368477,Autonomic workload performance tuning in large-scale data repositories,27-63,J168
@@ -22682,7 +22682,7 @@ P2013822,A1965472:A2073602:A13212,Batch incremental processing for FP-tree const
 P2013823,A110757:A1666798:A526350:A1200460,A novel density peaks clustering with sensitivity of local density and density-adaptive metric,285-309,J303
 P2013824,A1996747:A217536:A348479:A698131,Tour recommendation and trip planning using location-based social media: a survey,1247-1275,J256
 P2013825,A1697412:A330195:A2235051,AGraP: an algorithm for mining frequent patterns in a single graph using inexact matching,385-406,J123
-P2013826,A30284:A1906069:A1986787:A1974619,Compressed kd-tree for temporal graphs,553-595,J646
+P2013826,A30284:A1906069:A1986787:A1134863,Compressed kd-tree for temporal graphs,553-595,J646
 P2013827,A1681733:A2443180:A1128412,Application of correlation coefficient to interval-valued intuitionistic fuzzy multiple attribute decision-making with incomplete weight information,337-349,J199
 P2013828,A832999:A1196422:A1689852,On efficiently mining high utility sequential patterns,597-627,J646
 P2013829,A1535624:A70903,Hypergraph querying using structural indexing and layer-related-closure verification,537-565,J20
@@ -22938,7 +22938,7 @@ P2014078,A2184723:A2066833:A1301026,Large-scale analysis of self-disclosure patt
 P2014079,A1907992:A1921181:A1726100:A1911830:A1164753,Enhancing stock market prediction with extended coupled hidden Markov model over multi-sourced data,1071-1090,J607
 P2014080,A484175:A69936,Dynamic evaluation of the development process of knowledge-based information systems,233-247,J108
 P2014081,A1399507:A999447:A1415756,Scalable sequential alternating proximal methods for sparse structural SVMs and CRFs,599-621,J537
-P2014082,A1975469:A1649982:A697495:A349854:A1415122:A1497930:A1026798:A1472891,Discovery of comet communities in temporal and labeled graphs Com^2,657-677,J20
+P2014082,A323381:A1649982:A697495:A349854:A1415122:A1497930:A1026798:A1472891,Discovery of comet communities in temporal and labeled graphs Com^2,657-677,J20
 P2014083,A2058018:A855826,Statistical semantics for enhancing document clustering,365-393,J513
 P2014084,A172343:A702999:A1301489:A2277625,Modeling and implementing distributed data mining strategies in JaCa-DDM,99-143,J24
 P2014085,A428765:A917278:A84906:A111367:A454548:A1411786:A1049727,Improvement of neural network classifier using floating centroids,433-454,J584
@@ -23653,7 +23653,7 @@ P2173353,A1662916:A1444370,Designing emotionally sentient agents,74-83,J300
 P2173354,A321659,Surgical robots deliver care more precisely,14-16,J128
 P2173355,A1469168:A1638173:A513849,Online event processing,43-49,J89
 P2173356,A2308700,A 'reasonable' solution to deformation methods: technical perspective,98,J613
-P2173357,A704469:A2174777,Multitier programming in Hop,53-59,J626
+P2173357,A704469:A2172712,Multitier programming in Hop,53-59,J626
 P2173358,A434998,Stopping the leaks,19-21,J550
 P2173359,A834798:A342709:A1277116:A1143994,Computational thinking should just be good thinking,28-30,J213
 P2173360,A434998,The power of memory,15-17,J606
@@ -23816,7 +23816,7 @@ P2173516,A1017147,The new jobs,21-23,J521
 P2173517,A675618,Between the abbey and the edge of time,176-,J566
 P2173518,A2452669:A1619400:A2303110:A1199217:A1855448,On the categorization of scientific citation profiles in computer science,82-90,J645
 P2173519,A834702,Technology and academic lives,37-39,J17
-P2173520,A797460:A2375881:A346942,Are we losing momentum?,22-24,J427
+P2173520,A183176:A2375881:A346942,Are we losing momentum?,22-24,J427
 P2173521,A834798:A881032,Sampling bias in CS education; and where's the cyber strategy?,10-11,J79
 P2173522,A893288:A543644:A288569:A1701723,Passwords and the evolution of imperfect authentication,78-87,J616
 P2173523,A1358146:A170359,What regulators can do to advance privacy through design,20-22,J241
@@ -25591,7 +25591,7 @@ P2175291,A898781,The legacy of Steve Jobs,26-28,J604
 P2175292,A39470:A358392:A1294872:A2453722,A domain-specific architecture for deep neural networks,50-59,J402
 P2175293,A695059:A835115:A2004865,Invisible work in standard bibliometric evaluation of computer science,141-146,J710
 P2175294,A1018798:A851252:A111231:A1262287:A855968:A704951,Effectiveness of anonymization in double-blind review,30-33,J454
-P2175295,A2346188:A717397:A1997877:A1236113:A1681342:A717595,Programming in K-12 science classrooms,33-35,J332
+P2175295,A2346188:A717397:A1997877:A1236113:A380449:A717595,Programming in K-12 science classrooms,33-35,J332
 P2175296,A1039962,Why computer scientists should care about cyber conflict and U.S. national security policy,41-43,J474
 P2175297,A71253,In honor of Alan Turing,20-23,J422
 P2175298,A443910,HTTP/2.0: the IETF is phoning it in,40-42,J178
@@ -25716,7 +25716,7 @@ P2175416,A1087279,Hack for hire,32-37,J671
 P2175417,A595218:A198413,Using free and open source tools to manage software quality,51-55,J616
 P2175418,A174500,Intermediate representation,57-62,J678
 P2175419,A2300931:A2449696:A541069,The next generation of GPS navigation systems,84-93,J706
-P2175420,A342662:A1064904:A705306:A927588:A911765:A2349837:A1443754:A1215689:A1004043:A2073351:A405740,Touchless interaction in surgery,70-77,J680
+P2175420,A342662:A464246:A705306:A927588:A911765:A2349837:A1443754:A1215689:A1004043:A2073351:A405740,Touchless interaction in surgery,70-77,J680
 P2175421,A1204099:A1933515:A405199:A332064,Reputation systems for open collaboration,81-87,J576
 P2175422,A71253,Speech-to-speech translations stutter; but researchers see mellifluous future,16-19,J613
 P2175423,A822883,Charles W. Bachman: 1924-2017,24-25,J251
@@ -25874,7 +25874,7 @@ P2506071,A1200540:A72504:A989572:A1560136,On the Upper Bounds of Spread for Gree
 P2506072,A84342:A1556270:A1750731:A282103:A704700,IF-Matching: Towards Accurate Map-Matching with Information Fusion,114-127,J133
 P2506073,A337706:A1651349:A1444309,Non-Overlapping Subsequence Matching of Stream Synopses,101-114,J313
 P2506074,A1730206:A461280:A2238741,PrivateGraph: Privacy-Preserving Spectral Analysis of Encrypted Graphs in the Cloud,981-995,J52
-P2506075,A1721810:A1204199:A542634:A2121605,t-Closeness through Microaggregation: Strict Privacy with Enhanced Utility Preservation,3098-3110,J381
+P2506075,A1721810:A1204199:A542634:A1929968,t-Closeness through Microaggregation: Strict Privacy with Enhanced Utility Preservation,3098-3110,J381
 P2506076,A1034230:A1684332:A429815:A683601:A2042281:A1200460:A1947287,Erratum to Mining Distinction and Commonality across Multiple Domains Using Generative Model for Text Classification,2301,J405
 P2506077,A1540466:A1500615:A426503:A121338:A1164753,Improved Consistent Weighted Sampling Revisited,2332-2345,J40
 P2506078,A2306230:A455517:A755857:A344317,Responsibility Analysis for Lineagesof Conjunctive Queries with Inequalities,1532-1543,J589
@@ -26157,7 +26157,7 @@ P2506354,A1413747:A528434:A1636178:A2283240,Majority Voting and Pairing with Mul
 P2506355,A483600:A564571:A755915,A Personalized Ontology Model for Web Information Gathering,496-511,J126
 P2506356,A901872:A407319:A834790:A2205355,Organizing User Search Histories,912-925,J633
 P2506357,A282739:A1500828:A555228,Competitive Quantization for Approximate Nearest Neighbor Search,2884-2894,J95
-P2506358,A1307305,Inference-Based Naive Bayes: Turning Naive Bayes Cost-Sensitive,2302-2313,J647
+P2506358,A1307305,Inference-Based Naïve Bayes: Turning Naïve Bayes Cost-Sensitive,2302-2313,J647
 P2506359,A1667116:A1023088:A344317:A1908471,Structure Based User Identification across Social Networks,1178-1191,J340
 P2506360,A1761812,Enhanced Clients for Data Stores and Cloud Services,1969-1983,J552
 P2506361,A1665122:A464395:A1047243,Resampling-Based Ensemble Methods for Online Class Imbalance Learning,1356-1368,J232
@@ -26957,7 +26957,7 @@ P2507154,A666949:A1443825,Maximizing Acceptance in Rejection-Aware Spatial Crowd
 P2507155,A972135:A1421692:A771434:A1023140:A2246901,K-Anonymity for Crowdsourcing Database,2207-2221,J359
 P2507156,A1357051:A435029,Software Fault Prediction Using Quad Tree-Based K-Means Clustering Algorithm,1146-1150,J372
 P2507157,A1327010,An Efficient Algorithm to Compute a Quantum Probability Space,1452-1463,J547
-P2507158,A121210:A266305:A111334,Anonimos: An LP-Based Approach for Anonymizing Weighted Social Network Graphs,590-604,J198
+P2507158,A121210:A266305:A111334,Anónimos: An LP-Based Approach for Anonymizing Weighted Social Network Graphs,590-604,J198
 P2507159,A2134910:A358524:A2216728:A1023140,A General Recommendation Model for Heterogeneous Networks,3140-3153,J539
 P2507160,A72946:A80575:A2106498:A2383819:A1230092,Scaling Up Markov Logic Probabilistic Inference for Social Graphs,433-445,J596
 P2507161,A1332646:A1565235:A2165592:A300505:A755857,Access Time Oracle for Planar Graphs,1959-1970,J236
@@ -27238,7 +27238,7 @@ P2507435,A48941:A681164:A2084935:A2241079,Extracting Kernel Dataset from Big Sen
 P2507436,A1495579:A1631248:A564571,Pattern-based Topics for Document Modelling in Information Filtering,1629-1642,J698
 P2507437,A2237913:A1500615:A1209925:A115900,D22HistoSketch: Discriminative and Dynamic Similarity-Preserving Sketching of Streaming Histograms,1898-1911,J552
 P2507438,A2233652:A1370297:A1761480:A154316:A1947287,Detecting Pickpocket Suspects from Large-Scale Public Transit Records,465-478,J540
-P2507439,A890398:A1665398:A976169:A1571278:A1370536,A Survey of Discretization Techniques: Taxonomy and Empirical Analysis in Supervised Learning,734-750,J268
+P2507439,A890398:A1665398:A976169:A456816:A1370536,A Survey of Discretization Techniques: Taxonomy and Empirical Analysis in Supervised Learning,734-750,J268
 P2507440,A590590:A1352380:A705507,Efficient Processing of Skyline Queries Using MapReduce,1031-1044,J467
 P2507441,A440687:A834773:A373486,Interactive Data Exploration with Smart Drill-Down,46-60,J419
 P2507442,A2283240:A1041446:A1668179:A2276451,Data Mining with Big Data,97-107,J611
@@ -27396,7 +27396,7 @@ P2507593,A977826:A2453837:A1899909:A283318:A1565676,Topological Transformation A
 P2507594,A2281529:A111618:A411984,Privacy-Preserving Outsourced Media Search,2738-2751,J397
 P2507595,A973190:A1444154,RFID Data Processing in Supply Chain Management Using a Path Encoding Scheme,742-758,J595
 P2507596,A71770:A27237:A1292502:A2306037,Explaining Missing Answers to Top-k SQL Queries,2071-2085,J236
-P2507597,A770252:A430064:A456778,Higher Order Naive Bayes: A Novel Non-IID Approach to Text Classification,1022-1034,J670
+P2507597,A770252:A430064:A456778,Higher Order Naïve Bayes: A Novel Non-IID Approach to Text Classification,1022-1034,J670
 P2507598,A2244094:A299811:A981631:A856078,Dynamic Facet Ordering for Faceted Product Search Engines,1004-1016,J467
 P2507599,A1452114:A1196261:A276528:A1242937:A2106377,Characterizing and Predicting Early Reviewers for Effective Product Marketing on E-Commerce Websites,2271-2284,J391
 P2507600,A997582:A1052599:A338464:A2351302,CoFiDS: A Belief-Theoretic Approach for Automated Collaborative Filtering,175-189,J644
