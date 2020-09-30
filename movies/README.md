@@ -20,6 +20,21 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 - ProductionCompanies : A list of production companies involved with the movie, seperated by a vertical bar '|'.
 - ProductionCountries : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) standard country code. Format: code1-country1|code2-country2|...|codeN-countryN
 - SpokenLanguages : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code. Format: code1-language1|code2-language2|...|codeN-languageN
+
+| Datapoint        | Description                                                                  | Example |
+| ---------------- | ---------------------------------------------------------------------------- |---------|
+| MovieID          | An ID that uniquely identifies each movie.                                   |
+| OriginalLanguage | The language of the original movie title, denoted in it's [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code equivalent.                                                        |
+| OriginalTitle    | Höhe des Spielfelds                                                          |
+| EnglishTitle     | Zeile des Startrohrs                                                         |
+| Budget           | Spalte des Startrohrs                                                        |
+| Revenue          | Zeile des Zielrohrs                                                          |
+| Homepage         | Spalte des Zielrohrs                                                         |
+| Runtime          | Anzahl der Einträge in der Highscore-Liste                                   |
+| ReleaseDate      | Highscore-Liste                                                              |
+| Genres           | Spielfeld                                                                    |
+
+Following is an excerpt from the **movies.csv** file which is representative of the dataset's structure:
 ```
 MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runtime,ReleaseDate,Genres,CastID,ProductionCompanies,ProductionCountries,SpokenLanguages
 136558,en,Kingdom Come,Kingdom Come,,,http://brokenkingdomfilm.com/#/kingdomcome,88.0,2011-01-01,Comedy,52fe4c18c3a368484e1a6d23|52fe4c18c3a368484e1a6d27|52fe4c18c3a368484e1a6d2b|52fe4c18c3a368484e1a6d2f|52fe4c18c3a368484e1a6d33|52fe4c18c3a368484e1a6d37|52fe4c18c3a368484e1a6d3b|52fe4c18c3a368484e1a6d3f|52fe4c18c3a368484e1a6d43|52fe4c18c3a368484e1a6d47|52fe4c18c3a368484e1a6d4b|52fe4c18c3a368484e1a6d4f|52fe4c18c3a368484e1a6d53|52fe4c18c3a368484e1a6d57|52fe4c18c3a368484e1a6d5b|52fe4c18c3a368484e1a6d5f|52fe4c18c3a368484e1a6d63|52fe4c18c3a368484e1a6d6b|52fe4c18c3a368484e1a6d93|59e392eb9251410b670000b6,,,
