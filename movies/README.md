@@ -15,11 +15,16 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 - *Homepage* : A link to the movies website.
 - *Runtime* : The duration of the movie in minutes.
 - *ReleaseDate* : The date on which the movie was/will be released.
-- *Genres* : A list of genres that the movie is categorized under, seperated by a vertical bar '|'.
-- *CastID* : A list of 24 character long IDs, elonging to the movies cast members, seperated by a vertical bar '|'.
-- *ProductionCompanies* : A list of production companies involved with the movie, seperated by a vertical bar '|'.
-- *ProductionCountries* : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) standard country code. Format: code1-country1|code2-country2|...|codeN-countryN
-- *SpokenLanguages* : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code. Format: code1-language1|code2-language2|...|codeN-languageN
+- *Genres* : A list of genres that the movie is categorized under.
+  - Format : genre1|genre2|...|genreN
+- *CastID* : A list of 24 character long IDs, elonging to the movies cast members.
+  - Format : castid1|castid2|...|castidN
+- *ProductionCompanies* : A list of production companies involved with the movie.
+  - Format : company1|company2|...|companyN
+- *ProductionCountries* : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) standard country code.
+  -Format : code1-country1|code2-country2|...|codeN-countryN
+- *SpokenLanguages* : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code.
+  -Format : code1-language1|code2-language2|...|codeN-languageN
 
 <!-- | Datapoint           | Description                                                                                                | Example |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |---------|
