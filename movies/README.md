@@ -1,11 +1,11 @@
 # Movies
 
 ## Overview 
-This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni-trier.de/) respository (Mar 02, 2020), and contains denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting) for persons, theses, publications, and conferences/journals. Note: Due to free-form conference titles and affiliations as well as a wealth of other issues, we cleaned this dataset with a mix of automatic and semi-automic data cleaning techniques.
+This dataset was derived from a larger movie dataset - [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv) -  containing metadata on over 45,000 movies as well as 26 milion ratings from 270,000 users for all of the movies, which had been collected from [TMDB](https://www.themoviedb.org/) and [GroupLens](https://grouplens.org/) respectively. This derived dataset is comprised of data on around 12,000 movies within denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting) and is divided into three seperate files for movies, persons (cast members) and ratings (given to the movies by various users).
 
 ## Structure: 
 
-**Movies.csv:** The movies file contains metadata on over 10,000 different movie titles. The datapoints included in the file are:
+**Movies.csv:** The movies file contains metadata on over 12,000 different movie titles. The datapoints included in the file are:
 - *MovieID* : An ID that uniquely identifies each movie.
 - *OriginalLanguage* : The language of the original movie title, denoted in it's [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code equivalent.
 - *OriginalTitle* : The title of the movie in it's original language.
