@@ -7,7 +7,7 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 
 **Movies.csv:** The movies file contains metadata on over 10,000 different movie titles. The datapoints included in the file are:
 - *MovieID* : An ID that uniquely identifies each movie.
-- *OriginalLanguage* : The language of the original movie title, denoted in it's [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code equivalent.
+- *OriginalLanguage* : The language of the original movie title, denoted in it's [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code equivalent.
 - *OriginalTitle* : The title of the movie in it's original language.
 - *EnglishTitle* : The english equivalent of the original title.
 - *Budget* : The amount of money invented into making the movie.
@@ -15,24 +15,27 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 - *Homepage* : A link to the movies website.
 - *Runtime* : The duration of the movie in minutes.
 - *ReleaseDate* : The date on which the movie was/will be released.
+  - Format : yyyy-mm-dd
 - *Genres* : A list of genres that the movie is categorized under.
   - Format : genre1|genre2|...|genreN
 - *CastID* : A list of 24 character long IDs, elonging to the movies cast members.
   - Format : castid1|castid2|...|castidN
 - *ProductionCompanies* : A list of production companies involved with the movie.
   - Format : company1|company2|...|companyN
-- *ProductionCountries* : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) standard country code.
+- *ProductionCountries* : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country code.
   - Format : code1-country1|code2-country2|...|codeN-countryN
-- *SpokenLanguages* : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code.
+- *SpokenLanguages* : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code.
   - Format : code1-language1|code2-language2|...|codeN-languageN
 
 The following is an excerpt from the **Movies.csv** file which is representative of the dataset's structure:
 ```
 MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runtime,ReleaseDate,Genres,CastID,ProductionCompanies,ProductionCountries,SpokenLanguages
-136558,en,Kingdom Come,Kingdom Come,,,http://brokenkingdomfilm.com/#/kingdomcome,88.0,2011-01-01,Comedy,52fe4c18c3a368484e1a6d23|52fe4c18c3a368484e1a6d27|52fe4c18c3a368484e1a6d2b|52fe4c18c3a368484e1a6d2f|52fe4c18c3a368484e1a6d33|52fe4c18c3a368484e1a6d37|52fe4c18c3a368484e1a6d3b|52fe4c18c3a368484e1a6d3f|52fe4c18c3a368484e1a6d43|52fe4c18c3a368484e1a6d47|52fe4c18c3a368484e1a6d4b|52fe4c18c3a368484e1a6d4f|52fe4c18c3a368484e1a6d53|52fe4c18c3a368484e1a6d57|52fe4c18c3a368484e1a6d5b|52fe4c18c3a368484e1a6d5f|52fe4c18c3a368484e1a6d63|52fe4c18c3a368484e1a6d6b|52fe4c18c3a368484e1a6d93|59e392eb9251410b670000b6,,,
-110428,fr,Camille Claudel 1915,Camille Claudel 1915,3512454.0,115860.0,,95.0,2013-03-13,Drama,52fe4ad6c3a36847f81e4625|52fe4ad6c3a36847f81e4629|52fe4ad6c3a36847f81e4635|52fe4ad6c3a36847f81e4639|52fe4ad6c3a36847f81e462d|52fe4ad6c3a36847f81e4631|577ed7b0c3a368694a00321f|577ed7bf9251416976004503|577ed7cbc3a36868fd003082|577ed7d59251416c8100153b|577ed7e392514132970058ce|577ed7ec9251416bee001563|577ed7f79251416b9b001636|577ed7ffc3a3686a09003332,Canal+|Arte France Cinéma|3B Productions|C.R.R.A.V. Nord Pas de Calais|Region PACA,FR-France,fr-Français
-62775,fi,Havukka-Ahon Ajattelija,Havukka-Ahon Ajattelija,2225000.0,,,,2010-01-15,Comedy|Drama,52fe468dc3a368484e09706f|52fe468dc3a368484e097073|52fe468dc3a368484e097077,,,fi-suomi
-13477,en,When in Rome,When in Rome,,36699403.0,,91.0,2010-01-29,Fantasy|Comedy|Romance,52fe456e9251416c750564d3|52fe456e9251416c750564d7|52fe456e9251416c75056523|52fe456f9251416c75056527|52fe456f9251416c7505652b|52fe456f9251416c7505652f|52fe456f9251416c75056533|52fe456f9251416c75056537|52fe456f9251416c7505653b|52fe456f9251416c7505653f|52fe456f9251416c75056543|52fe456f9251416c75056547|52fe456f9251416c7505654b|52fe456f9251416c7505654f|56abc21d9251417e2200353e|56abc2889251417e1a00325b|56abc4f4c3a3681c3f003b4f|56abc52a9251417e140036fa|56ec8cbd92514143fc0038fa,Krasnoff Foster Productions|Touchstone Pictures|Film Production Consultants,US-United States of America,en-English|it-Italiano
+136558,en,Kingdom Come,Kingdom Come,,,http://brokenkingdomfilm.com/#/kingdomcome,88,2011-01-01,Comedy,,,,
+110428,fr,Camille Claudel 1915,Camille Claudel 1915,3512454,115860,,95,2013-03-13,Drama,,Canal+|Arte France Cinéma|3B Productions|C.R.R.A.V. Nord Pas de Calais|Region PACA,FR-France,fr-Français
+62775,fi,Havukka-Ahon Ajattelija,Havukka-Ahon Ajattelija,2225000,,,,2010-01-15,Comedy|Drama,,,,fi-suomi
+13477,en,When in Rome,When in Rome,,36699403,,91,2010-01-29,Fantasy|Comedy|Romance,,Krasnoff Foster Productions|Touchstone Pictures|Film Production Consultants,US-United States of America,en-English|it-Italiano
+12201,en,Edge of Darkness,Edge of Darkness,80000000,74901339,,117,2010-01-29,Crime|Drama|Mystery|Thriller,,Icon Productions|BBC Films|GK Films|Warner Bros.,GB-United Kingdom|US-United States of America,en-English
+37034,zh,Su Qi-Er,True Legend,20000000,,,115,2010-02-09,Action|Fantasy,,Shanghai Film Group|Focus Features|EDKO Film|Edko Management and Consulting,CN-China,zh-普通话
 ```
 
 **Persons.csv:** The persons file contains information about the cast members and their characters in the movies. The datapoints included in the file are:
@@ -45,18 +48,18 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 The following is an excerpt from the **Persons.csv** file which is representative of the dataset's structure:
 ```
 MovieID,CastID,Name,Gender,Character
-136558,52fe4c18c3a368484e1a6d23,Daniel Gillies,2.0,Himself
-136558,52fe4c18c3a368484e1a6d27,Rachael Leigh Cook,1.0,Herself
-136558,52fe4c18c3a368484e1a6d2b,Seth Green,2.0,Himself
-110428,52fe4ad6c3a36847f81e4625,Juliette Binoche,1.0,Camille Claudel
+136558,52fe4c18c3a368484e1a6d23,Daniel Gillies,2,Himself
+136558,52fe4c18c3a368484e1a6d27,Rachael Leigh Cook,1,Herself
+136558,52fe4c18c3a368484e1a6d2b,Seth Green,2,Himself
+110428,52fe4ad6c3a36847f81e4625,Juliette Binoche,1,Camille Claudel
 110428,52fe4ad6c3a36847f81e4629,Jean-Luc Vincent,,Paul Claudel
 110428,52fe4ad6c3a36847f81e4635,Robert Leroy,,Le medecin
 ```
 
 **Ratings.csv:** The ratings file contains information about the ratings given to the movies by different users. The datapoints included in the file are:
-- *UserID* : An ID identifying the user by which the rating was made.
+- *UserID* : An ID identifying the user that published the rating.
 - *MovieID* : An ID referencing the movie that had been rated.
-- *Rating* : The users rating of the movie on a scale 1.0 - 5.0.
+- *Rating* : The user's rating of the movie on a scale from 1.0 to 5.0.
 - *Timestamp* : Timestamp at which the user's rating was published.
 
 The following is an excerpt from the **Ratings.csv** file which is representative of the dataset's structure:
