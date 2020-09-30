@@ -18,11 +18,12 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 | Homepage            | A link to the movies website.                                                         |
 | Runtime             | The duration of the movie in minutes.                                                 |
 | ReleaseDate         | The date on which the movie was/will be released.                                     |
-| Genres              | A list of genres that the movie is categorized under, seperated by a vertical bar '|'.|
+| Genres              | A list of genres that the movie is categorized under,
+seperated by a vertical bar '&#124;'.                                                                         |
 | CastID              | A list of 24 character long IDs, elonging to the movies cast members,
-seperated by a vertical bar '|'.                                                                              |
+seperated by a vertical bar '&#124;'.                                                                              |
 | ProductionCompanies |  A list of production companies involved with the movie,
-seperated by a vertical bar '|'.                                                                              |
+seperated by a vertical bar '&#124;'.                                                                              |
 | ProductionCountries | A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) standard country code. Format: **code1-country1|code2-country2|...|codeN-countryN**                                            |
 | SpokenLanguages     | A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code. Format: **code1-language1|code2-language2|...|codeN-languageN**                                                       |
 
