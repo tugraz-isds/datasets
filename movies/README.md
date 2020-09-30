@@ -6,7 +6,8 @@ This dataset was derived from a CC0-licensed dump of the [DBLP](https://dblp.uni
 ## Structure: 
 
 **movies.csv:** The movies file contains metadata on over 10,000 different movie titles. The datapoints included in the file are:
-- MovieID | An ID that uniquely identifies each movie.
+MovieID
+: An ID that uniquely identifies each movie.
 - OriginalLanguage : The language of the original movie title, denoted in it's [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) standard language code equivalent.
 - OriginalTitle : The title of the movie in it's original language.
 - EnglishTitle : The english equivalent of the original title.
