@@ -24,7 +24,7 @@ The following dataset was derived from a larger movie dataset - [The Movies Data
   - Format : company1|company2|...|companyN
 - *ProductionCountries* : A list of countries in which the movie was filmed, paired with their [ISO 3166-1](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country code.
   - Format : code1-country1|code2-country2|...|codeN-countryN
-- *SpokenLanguages* : A list of languages spoken in the movie, pair with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code.
+- *SpokenLanguages* : A list of languages spoken in the movie, paired with their [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code.
   - Format : code1-language1|code2-language2|...|codeN-languageN
 
 The following is an excerpt from the **Movies.csv** file which is representative of the dataset's structure:
