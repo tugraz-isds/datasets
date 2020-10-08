@@ -62,7 +62,7 @@ MovieID,CastID,Name,Gender,Character
 - *MovieID* : An ID referencing the movie that had been rated.
 - *Rating* : The user's rating of the movie made on a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
 - *Timestamp* : Timestamp at which the user's rating was published.
-  - Format: yyy-mm-dd|hh:mm:ss
+  - Format: yyyy-mm-dd|hh:mm:ss
 
 The following is an excerpt from the **Ratings.csv** file, which is representative of the dataset's structure:
 ```
