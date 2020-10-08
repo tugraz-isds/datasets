@@ -31,12 +31,12 @@ The following dataset was derived from a larger movie dataset - [The Movies Data
 The following is an excerpt from the **Movies.csv** file, which is representative of the dataset's structure:
 ```
 MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runtime,ReleaseDate,Genres,CastID,ProductionCompanies,ProductionCountries,SpokenLanguages
-136558,en,Kingdom Come,Kingdom Come,,,http://brokenkingdomfilm.com/#/kingdomcome,88,2011-01-01,Comedy,,,,
-110428,fr,Camille Claudel 1915,Camille Claudel 1915,3512454,115860,,95,2013-03-13,Drama,,Canal+|Arte France Cinéma|3B Productions|C.R.R.A.V. Nord Pas de Calais|Region PACA,FR-France,fr-Français
-62775,fi,Havukka-Ahon Ajattelija,Havukka-Ahon Ajattelija,2225000,,,,2010-01-15,Comedy|Drama,,,,fi-suomi
-13477,en,When in Rome,When in Rome,,36699403,,91,2010-01-29,Fantasy|Comedy|Romance,,Krasnoff Foster Productions|Touchstone Pictures|Film Production Consultants,US-United States of America,en-English|it-Italiano
-12201,en,Edge of Darkness,Edge of Darkness,80000000,74901339,,117,2010-01-29,Crime|Drama|Mystery|Thriller,,Icon Productions|BBC Films|GK Films|Warner Bros.,GB-United Kingdom|US-United States of America,en-English
-37034,zh,Su Qi-Er,True Legend,20000000,,,115,2010-02-09,Action|Fantasy,,Shanghai Film Group|Focus Features|EDKO Film|Edko Management and Consulting,CN-China,zh-普通话
+136558,en-English,Kingdom Come,Kingdom Come,,,http://brokenkingdomfilm.com/#/kingdomcome,88,2011-01-01,Comedy,,,,
+110428,fr-Français,Camille Claudel 1915,Camille Claudel 1915,3512454,115860,,95,2013-03-13,Drama,,Canal+|Arte France Cinéma|3B Productions|C.R.R.A.V. Nord Pas de Calais|Region PACA,FR-France,fr-Français
+62775,fi-suomi,Havukka-Ahon Ajattelija,Havukka-Ahon Ajattelija,2225000,,,,2010-01-15,Comedy|Drama,,,,fi-suomi
+13477,en-English,When in Rome,When in Rome,,36699403,,91,2010-01-29,Fantasy|Comedy|Romance,,Krasnoff Foster Productions|Touchstone Pictures|Film Production Consultants,US-United States of America,en-English|it-Italiano
+12201,en-English,Edge of Darkness,Edge of Darkness,80000000,74901339,,117,2010-01-29,Crime|Drama|Mystery|Thriller,,Icon Productions|BBC Films|GK Films|Warner Bros.,GB-United Kingdom|US-United States of America,en-English
+37034,zh-普通话,Su Qi-Er,True Legend,20000000,,,115,2010-02-09,Action|Fantasy,,Shanghai Film Group|Focus Features|EDKO Film|Edko Management and Consulting,CN-China,zh-普通话
 ```
 
 **Persons.csv:** The Persons file contains information on the cast members and their characters in the movies. The data points included in the file are:
@@ -62,15 +62,16 @@ MovieID,CastID,Name,Gender,Character
 - *MovieID* : An ID referencing the movie that had been rated.
 - *Rating* : The user's rating of the movie made on a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
 - *Timestamp* : Timestamp at which the user's rating was published.
+  - Format: yyy-mm-dd|hh:mm:ss
 
 The following is an excerpt from the **Ratings.csv** file, which is representative of the dataset's structure:
 ```
 UserID,MovieID,Rating,Timestamp
-1,58559,4.0,1425942007
-1,96821,5.0,1425941382
-7,58559,5.0,1486253675
-7,88744,1.5,1486253974
-11,58559,4.5,1231675382
-15,49530,3.5,1346002547
+1,58559,4.0,2015-03-09|23:00:07
+1,96821,5.0,2015-03-09|22:49:42
+7,58559,5.0,2017-02-05|00:14:35
+7,88744,1.5,2017-02-05|00:19:34
+11,58559,4.5,2009-01-11|12:03:02
+15,49530,3.5,2012-08-26|17:35:47
 ```
 
