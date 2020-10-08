@@ -61,17 +61,17 @@ MovieID,CastID,Name,Gender,Character
 - *UserID* : An ID identifying the user that published the rating.
 - *MovieID* : An ID referencing the movie that had been rated.
 - *Rating* : The user's rating of the movie made on a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
-- *Timestamp* : Timestamp at which the user's rating was published.
-  - Format: yyyy-mm-dd|hh:mm:ss
+- *Date* : The date on which the user's rating was published.
+  - Format: yyyy-mm-dd
 
 The following is an excerpt from the **Ratings.csv** file, which is representative of the dataset's structure:
 ```
-UserID,MovieID,Rating,Timestamp
-1,58559,4.0,2015-03-09|23:00:07
-1,96821,5.0,2015-03-09|22:49:42
-7,58559,5.0,2017-02-05|00:14:35
-7,88744,1.5,2017-02-05|00:19:34
-11,58559,4.5,2009-01-11|12:03:02
-15,49530,3.5,2012-08-26|17:35:47
+UserID,MovieID,Rating,Date
+1,58559,4.0,2015-03-09
+1,96821,5.0,2015-03-09
+7,58559,5.0,2017-02-05
+7,88744,1.5,2017-02-05
+11,58559,4.5,2009-01-11
+15,49530,3.5,2012-08-26
 ```
 
