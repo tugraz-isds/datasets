@@ -41,7 +41,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 
 **Persons.csv:** The Persons file contains information on the cast members and their characters in the movies. The data points included in the file are:
 - *MovieID* : An ID referencing the movie in which the character appeared.
-- *CastID* : A 24 character long ID that uniquely identifies each character played by the cast.
+- *CastID* : A 24 character long ID that uniquely identifies each movie character played by the cast.
 - *Name* : The name of the cast member.
 - *Gender* : The gender of the cast member (1 = female, 2 = male)
 - *Character* : Full name of the movie's character.
