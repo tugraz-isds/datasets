@@ -60,9 +60,10 @@ MovieID,CastID,Name,Gender,Character
 **Ratings.csv:** The Ratings file contains information on the ratings given to the movies by different users. The data points included in the file are:
 - *UserID* : An ID identifying the user that published the rating.
 - *MovieID* : An ID referencing the movie that had been rated.
-- *Rating* : The user's rating of the movie made on a 5-star scale, with half-star increments (0.5 stars - 5.0 stars).
+- *Rating* : The user's rating of the movie.
+  - Scale : 0.5 stars - 5.0 stars (half-star increments)
 - *Date* : The date on which the user's rating was published.
-  - Format: yyyy-mm-dd
+  - Format : yyyy-mm-dd
 
 The following is an excerpt from the **Ratings.csv** file, which is representative of the dataset's structure:
 ```
