@@ -54,7 +54,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 31196,en-English,Growth,Growth,300000,,http://www.growththemovie.com/,90,2010-01-29,Horror|Science Fiction|Thriller,,New Artists Alliance,US-United States of America,en-English|de-Deutsch
 39830,en-English,Bass Ackwards,Bass Ackwards,,,http://www.bassackwardsfilm.com/,103,2010-01-23,Adventure|Comedy,,Zipline Entertainment,US-United States of America,en-English
 23483,en-English,Kick-Ass,Kick-Ass,28000000,96188903,,117,2010-03-22,Action|Crime,,Lionsgate|Marv Films,GB-United Kingdom|US-United States of America,en-English
-35056,en-English,Date Night,Date Night,55000000,152263880,http://www.datenight-movie.com/,97,2010-04-08,Comedy,,Twentieth Century Fox Film Corporation|Dune Entertainment|21 Laps Entertainment,US-United States of America,he-עִבְרִית|en-English
+35056,en-English,Date Night,Date Night,55000000,152263880,http://www.datenight-movie.com/,97,2010-04-08,Comedy,,Twentieth Century Fox Film Corporation|Dune Entertainment|21 Laps Entertainment,US-United States of America,he-עברית|en-English
 36419,en-English,After.Life,After.Life,4500000,3606395,http://www.afterlifethefilm.com/,104,2010-04-09,Drama|Horror|Mystery|Thriller,,Plum Pictures|Harbor Light Entertainment|Lleju Productions,US-United States of America,en-English
 52903,fi-suomi,Miesten vuoro,Steam of Life,580000,,,80,2010-03-26,Documentary,,Oktober oy,FI-Finland,fi-suomi
 34583,en-English,The Final,The Final,,,http://www.thefinalmovie.com/,93,2010-01-28,Drama|Horror|Thriller,,Agora Entertainment,US-United States of America,en-English
@@ -218,7 +218,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 39933,en-English,Toe to Toe,Toe to Toe,,,,104,2010-02-26,Drama|Romance,,Offhollywood Digital|Susie Q Productions|Toe to Toe Film Productions|Pureland Pictures,US-United States of America,en-English
 46812,en-English,Lost Boys: The Thirst,Lost Boys: The Thirst,4400000,,,81,2010-05-12,Action|Adventure|Comedy,,ApolloMovie Beteiligungs|Thunder Road Pictures|Hollywood Media Bridge|Film Afrika Worldwide,ZA-South Africa|US-United States of America,en-English|pl-Polski|es-Español
 46837,en-English,Kaboom,Kaboom,,539957,,86,2010-08-22,Science Fiction|Comedy|Mystery,,Wild Bunch|Desperate Pictures|Super Crispy Entertainment,FR-France|US-United States of America,en-English
-75341,en-English,Budrus,Budrus,,,http://www.justvision.org/budrus,70,2010-10-08,Documentary|Foreign,,Just Vision Films,PS-Palestinian Territory|IL-Israel,ar-العربية|he-עִבְרִית|en-English
+75341,en-English,Budrus,Budrus,,,http://www.justvision.org/budrus,70,2010-10-08,Documentary|Foreign,,Just Vision Films,PS-Palestinian Territory|IL-Israel,ar-العربية|he-עברית|en-English
 44549,hi-हिन्दी,PEEPLI [Live],PEEPLI [Live],2270000,6900000,http://www.peeplilivethefilm.com/,104,2010-08-13,Drama|Comedy,,,IN-India,hi-हिन्दी|en-English
 45649,en-English,Rubber,Rubber,500000,98017,http://www.rubberfilm.com/,85,2010-07-09,Comedy|Drama|Fantasy|Horror|Mystery,,Canal+|Backup Films|Arte France|Arte France Cinéma|Elle Driver|1.85 Films|Realitism Films|Sindika Dokolo,FR-France|AO-Angola,en-English
 39681,en-English,Les 7 jours du talion,Seven Days,,,http://www.patricksenecal.net/scenarios_talion.html,105,2010-06-22,Drama|Horror|Thriller,,Go Films,CA-Canada,fr-Français
@@ -351,7 +351,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 49849,en-English,Cowboys & Aliens,Cowboys & Aliens,163000000,174822325,http://www.cowboysandaliensmovie.com/,119,2011-07-29,Action|Science Fiction|Thriller|Western,,Imagine Entertainment|DreamWorks SKG|Universal Pictures|platinum studios|Reliance Entertainment|Relativity Media|K/O Paper Products|Fairview Entertainment|K/O Camera Toys,US-United States of America,en-English
 49073,es-Español,Igualita a mi,Just Like Me,,,http://www.igualitaami.com/,108,2010-08-12,Comedy,,,AR-Argentina,es-Español
 57448,fr-Français,L'amour fou,L'amour fou,,,http://www.sddistribution.fr/fiche.php?id=40,98,2010-09-22,Documentary,,,FR-France,fr-Français
-58772,en-English,Shtikat Haarchion,A Film Unfinished,,,,89,2010-08-18,History|Documentary|Foreign,,,IL-Israel|DE-Germany,en-English|de-Deutsch|he-עִבְרִית|pl-Polski|yi-ייִדיש
+58772,en-English,Shtikat Haarchion,A Film Unfinished,,,,89,2010-08-18,History|Documentary|Foreign,,,IL-Israel|DE-Germany,en-English|de-Deutsch|he-עברית|pl-Polski|yi-ייִדיש
 40619,en-English,Day & Night,Day & Night,,,http://www.pixar.com/shorts/d&n/index.html,6,2010-06-17,Animation|Family,,Walt Disney Pictures|Pixar Animation Studios,US-United States of America,
 52013,en-English,Marwencol,Marwencol,,58,,83,2010-03-12,Documentary,,,,en-English
 111239,en-English,Edge,Edge,,,,92,2010-10-23,Action|Thriller,,,GB-United Kingdom,en-English
@@ -945,7 +945,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 65892,en-English,My Future Boyfriend,My Future Boyfriend,,,http://abcfamily.go.com/movies/my-future-boyfriend,73,2011-04-10,Comedy,,Bayonne Entertainment,US-United States of America,en-English
 87408,en-English,به امید دیدار,Goodbye,,,http://www.filmfestivalrotterdam.com/en/films/b-omid-didar,104,2011-09-07,Drama,,Ariel Film,NL-Netherlands,ar-العربية
 82321,en-English,The Loneliest Planet,The Loneliest Planet,,,,113,2011-08-10,Drama,,,US-United States of America|DE-Germany,en-English
-96888,en-English,Ha-shoter,Policeman,,,,105,2011-07-09,Drama,,Rabinovich Film Fund Cinema Project|Laïla Films|HOT,IL-Israel,en-English|de-Deutsch|he-עִבְרִית
+96888,en-English,Ha-shoter,Policeman,,,,105,2011-07-09,Drama,,Rabinovich Film Fund Cinema Project|Laïla Films|HOT,IL-Israel,en-English|de-Deutsch|he-עברית
 62564,no-Norsk,Få meg på; for faen,Turn Me On; Dammit!,3100000,,http://turnmeondammit.com/,76,2011-08-19,Drama|Comedy,,Motlys,NO-Norway,en-English|no-Norsk
 77560,de-Deutsch,Faust,Faust,,,,140,2011-09-08,Fantasy|Drama,,Proline Film,RU-Russia,de-Deutsch
 56815,es-Español,Post Mortem,Post Mortem,,,http://www.postmortemlapelicula.cl/,98,2010-07-02,Thriller|Drama|Horror,,,CL-Chile|DE-Germany|MX-Mexico,es-Español
@@ -979,7 +979,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 80125,de-Deutsch,Rubbeldiekatz,Woman in Love,,,,108,2011-12-15,Comedy,,Boje Buck Produktion|Universal Pictures International (UPI),DE-Germany,de-Deutsch|fr-Français|en-English
 52850,en-English,Toast,Toast,,,,90,2010-12-30,Drama|Comedy|History|Family,,BBC Films|Ruby Films|Screen West Midlands,GB-United Kingdom,en-English
 64678,en-English,The Art of Getting By,The Art of Getting By,,1406224,http://www.foxsearchlight.com/theartofgettingby/,83,2011-06-17,Drama|Romance,,Goldcrest Films International|Atlantic Pictures|Gigi Productions,US-United States of America,en-English
-57400,fr-Français,Shlichuto Shel Hamemune Al Mashabei Enosh,The Human Resources Manager,,,,103,2011-03-04,Comedy|Drama,,Pallas Film|Libra Film|2-Team Productions,FR-France|DE-Germany|IL-Israel,en-English|he-עִבְרִית|ro-Română
+57400,fr-Français,Shlichuto Shel Hamemune Al Mashabei Enosh,The Human Resources Manager,,,,103,2011-03-04,Comedy|Drama,,Pallas Film|Libra Film|2-Team Productions,FR-France|DE-Germany|IL-Israel,en-English|he-עברית|ro-Română
 67911,en-English,Bucky Larson: Born to Be a Star,Bucky Larson: Born to Be a Star,10000000,,http://www.buckylarson.com/,97,2011-09-09,Comedy,,Columbia Pictures|Happy Madison Productions,US-United States of America,en-English|pl-Polski
 66120,fr-Français,Le Moine,The Monk,11000000,807535,,101,2011-07-12,Thriller,,Diaphana Films,FR-France|ES-Spain,fr-Français
 192695,en-English,All Watched Over by Machines of Loving Grace,All Watched Over by Machines of Loving Grace,,,,177,2011-06-06,Documentary,,BBC Productions,GB-United Kingdom,en-English
@@ -1114,7 +1114,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 73889,de-Deutsch,Das Lied in mir,The Day I Was Not Born,,,http://www.ufa.de/produktionen/tv_movie/das_lied_in_mir/,94,2010-09-03,Drama|Foreign,,,AR-Argentina|DE-Germany,en-English|de-Deutsch|es-Español
 85052,hi-हिन्दी,हाउसफुल २,Housefull 2,,,,145,2012-04-05,Drama|Comedy|Romance,,,IN-India,hi-हिन्दी
 85050,hi-हिन्दी,Agent Vinod,Agent Vinod,,,,157,2012-03-23,Action|Foreign,,Illuminati Films Pvt Ltd,IN-India,hi-हिन्दी
-72551,he-עִבְרִית,הערת שוליים,Footnote,,,,103,2011-05-25,Drama|Comedy,,United King Films,IL-Israel,he-עִבְרִית
+72551,he-עברית,הערת שוליים,Footnote,,,,103,2011-05-25,Drama|Comedy,,United King Films,IL-Israel,he-עברית
 85033,fr-Français,Café de Flore,Café de Flore,,,,120,2011-11-17,Drama|Romance,,Item 7|Monkey Pack Films,CA-Canada|FR-France,fr-Français
 91070,en-English,L!fe Happens,L!fe Happens,930000,30905,http://www.lifehappensfilm.com/,100,2011-06-18,Comedy,,Stardust Pictures|Dot Dot Dot Productions,CA-Canada|US-United States of America,en-English
 56180,es-Español,La casa muda,The Silent House,6000,,http://www.lacasamuda.com/,86,2010-08-25,Drama|Horror|Mystery|Thriller,,Elle Driver|Tokio Films,UY-Uruguay,es-Español
@@ -1182,7 +1182,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 103243,hi-हिन्दी,Vicky Donor,Vicky Donor,,,,122,2012-04-20,Comedy|Romance,,Eros International,IN-India,hi-हिन्दी
 51823,en-English,Across the Line: The Exodus of Charlie Wright,Across the Line: The Exodus of Charlie Wright,,,,94,2010-12-28,Drama|Action|Thriller|Crime,,,US-United States of America,en-English|es-Español
 61979,en-English,Tres metros sobre el cielo,Three Steps Above Heaven,,,http://www.3msc.es,122,2010-12-03,Romance|Drama,,Antena 3 Films,ES-Spain,es-Español
-76493,en-English,The Dictator,The Dictator,65000000,179379533,http://www.dictatorthemovie.com/,83,2012-05-15,Comedy,,Paramount Pictures,US-United States of America,en-English|he-עִבְרִית
+76493,en-English,The Dictator,The Dictator,65000000,179379533,http://www.dictatorthemovie.com/,83,2012-05-15,Comedy,,Paramount Pictures,US-United States of America,en-English|he-עברית
 80169,en-English,Thrive,Thrive,,,http://www.thrivemovement.com/,132,2011-11-11,Documentary,,,,en-English|de-Deutsch
 93084,en-English,Keyhole,Keyhole,,21291,http://keyholemovie.com/,94,2011-09-09,Drama|Action|Thriller,,,CA-Canada,en-English|fr-Français
 86850,en-English,The Island President,The Island President,,76398,http://theislandpresident.com/,101,2012-03-28,Documentary,,,,en-English|fr-Français
@@ -1518,7 +1518,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 82690,en-English,Wreck-It Ralph,Wreck-It Ralph,165000000,471222889,http://disney.go.com/wreck-it-ralph,108,2012-11-01,Family|Animation|Comedy|Adventure,,Walt Disney Animation Studios,US-United States of America,en-English
 82693,en-English,Silver Linings Playbook,Silver Linings Playbook,21000000,205738714,http://silverliningsplaybookmovie.com/,122,2012-09-08,Drama|Comedy|Romance,,The Weinstein Company,US-United States of America,en-English
 87502,en-English,Flight,Flight,31000000,161772375,http://www.paramount.com/flight,138,2012-11-02,Drama,,Paramount Pictures|Parkes/MacDonald Productions|ImageMovers,US-United States of America,en-English
-84170,en-English,Five Broken Cameras,Five Broken Cameras,,,,90,2011-11-23,War|Documentary,,Guy DVD Films|Alegria Productions|Burnat Films,IL-Israel|PS-Palestinian Territory,ar-العربية|he-עִבְרִית
+84170,en-English,Five Broken Cameras,Five Broken Cameras,,,,90,2011-11-23,War|Documentary,,Guy DVD Films|Alegria Productions|Burnat Films,IL-Israel|PS-Palestinian Territory,ar-العربية|he-עברית
 96724,en-English,Anna Karenina,Anna Karenina,,68929150,,130,2012-09-06,Drama|Romance,,Universal Pictures|Focus Features|Working Title Films,FR-France|GB-United Kingdom,ru-Pусский|en-English
 87827,en-English,Life of Pi,Life of Pi,120000000,609016565,http://www.lifeofpimovie.com/,127,2012-11-20,Adventure|Drama|Action,,Ingenious Film Partners|Ingenious Media|Dune Entertainment|Fox 2000 Pictures|Big Screen Productions|Haishang Films,US-United States of America|TW-Taiwan|GB-United Kingdom,en-English|fr-Français|hi-हिन्दी|ja-日本語|zh-普通话|ta-தமிழ்
 84226,en-English,The Day,The Day,,,,85,2011-09-15,Action|Drama|Horror|Science Fiction,,Preferred Content|Faction M|Guy A. Danella Productions,US-United States of America,en-English|de-Deutsch
@@ -1564,7 +1564,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 73935,en-English,Vamps,Vamps,16000000,,,93,2012-08-25,Comedy|Romance|Horror,,Lucky Monkey Pictures|Red Hour Films,US-United States of America,en-English
 126056,en-English,The Naughty Room,The Naughty Room,,,,,2012-01-01,,,,,
 91549,en-English,The Moth Diaries,The Moth Diaries,,3838,,85,2011-09-06,Horror,,Irish Film Board,CA-Canada|IE-Ireland,en-English
-144271,en-English,Joe + Belle,Joe + Belle,28000,,http://www.joeandbelle.com/,80,2011-06-01,Romance|Crime|Drama|Comedy,,,,en-English|fr-Français|he-עִבְרִית
+144271,en-English,Joe + Belle,Joe + Belle,28000,,http://www.joeandbelle.com/,80,2011-06-01,Romance|Crime|Drama|Comedy,,,,en-English|fr-Français|he-עברית
 84288,en-English,The Invisible War,The Invisible War,,,http://invisiblewarmovie.com/,93,2012-01-20,Crime|Drama|History|Documentary,,Canal+|Chain Camera Pictures|ITVS|Rise Films|Girls' Club Entertainment|Fork Films|Cuomo Cole Productions,US-United States of America,en-English
 135718,hi-हिन्दी,OMG: Oh My God!,OMG: Oh My God!,,,,125,2012-09-28,Comedy|Drama|Fantasy,,,IN-India,hi-हिन्दी
 50620,en-English,The Twilight Saga: Breaking Dawn - Part 2,The Twilight Saga: Breaking Dawn - Part 2,120000000,829000000,,115,2012-11-13,Adventure|Fantasy|Drama|Romance,,Summit Entertainment|Sunswept Entertainment|Temple Hill Entertainment,US-United States of America,en-English
@@ -1629,7 +1629,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 80717,es-Español,Violeta se fue a los cielos,Violeta Went to Heaven,,,http://www.violetafilm.com/,110,2011-08-11,Drama,,Instituto Nacional de Cine y Artes Audiovisuales (INCAA)|Agência Nacional do Cinema (ANCINE)|Wood Producciones S.A.|Maíz Producciones,BR-Brazil|CL-Chile|AR-Argentina,fr-Français|pl-Polski|es-Español
 76609,fr-Français,L'Ordre et la Morale,Rebellion,,,http://www.lordreetlamorale-lefilm.com/#/nav/teaser,136,2011-11-16,Drama|Action|History,,France 2 Cinéma|UGC Images|Studio 37|Nord-Ouest Productions,FR-France,fr-Français
 64074,en-English,Two in the Wave,Two in the Wave,,,,91,2010-05-19,Documentary|Foreign,,,,fr-Français|en-English
-117629,he-עִבְרִית,הסיפור של יוסי,Yossi,500000,116207,http://yossifilm.com/,84,2012-05-16,Drama|Romance,,Lama Films|United King Films,IL-Israel,he-עִבְרִית
+117629,he-עברית,הסיפור של יוסי,Yossi,500000,116207,http://yossifilm.com/,84,2012-05-16,Drama|Romance,,Lama Films|United King Films,IL-Israel,he-עברית
 76800,en-English,The Last Rites of Joe May,The Last Rites of Joe May,,,http://joemaythemovie.com,106,2011-10-28,Drama,,Last Rites of Joe May; The|Steppenwolf Films,US-United States of America,en-English
 127501,hi-हिन्दी,Barfi!,Barfi,4437508,2804874,http://www.utvgroup.com/motion-pictures/coming-soon/barfii.html,155,2012-09-14,Drama|Romance|Comedy,,UTV Motion Pictures,IN-India,hi-हिन्दी
 97630,en-English,Zero Dark Thirty,Zero Dark Thirty,40000000,132820716,http://www.zerodarkthirty-movie.com/site/,157,2012-12-19,Thriller|Drama|History,,Columbia Pictures|Annapurna Pictures|First Light Production,US-United States of America,en-English|ar-العربية
@@ -1857,7 +1857,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 133121,en-English,Biohazard: Damnation,Resident Evil: Damnation,,,http://www.sonypictures.com/homevideo/residentevildamnation/,100,2012-09-25,Animation,,Digital Frontier|Sony Pictures Entertainment|Capcom Company,JP-Japan,ja-日本語|en-English
 51590,en-English,Assault of the Sasquatch,Assault of the Sasquatch,,,,75,2010-03-01,Action|Adventure|Horror,,,,en-English
 60011,en-English,The Bang Bang Club,The Bang Bang Club,,,,106,2010-09-15,Drama|Romance,,Film Foundry Partners,CA-Canada|ZA-South Africa,xh-isiXhosa|en-English|af-Afrikaans|zu-isiZulu
-127918,en-English,The Gatekeepers,The Gatekeepers,,,,101,2012-07-09,Documentary,,Les Films du Poisson|Cinephil|RTBF|Arte France|NDR,,en-English|he-עִבְרִית
+127918,en-English,The Gatekeepers,The Gatekeepers,,,,101,2012-07-09,Documentary,,Les Films du Poisson|Cinephil|RTBF|Arte France|NDR,,en-English|he-עברית
 124461,en-English,A Glimpse Inside the Mind of Charles Swan III,A Glimpse Inside the Mind of Charles Swan III,,,,86,2012-11-15,Comedy,,American Zoetrope|A24,US-United States of America,en-English|de-Deutsch
 121835,de-Deutsch,Lore,Lore,,,,108,2012-08-02,Drama|War|Thriller,,Porchlight Films|Rohfilm|Edge City Films,AU-Australia|DE-Germany|GB-United Kingdom,en-English|de-Deutsch
 167179,pl-Polski,Drogówka,Traffic Department,1800000,,http://www.facebook.com/drogowka,118,2013-01-31,Drama|Crime,,Canal+Polska|Agora Entertainment|Film It,PL-Poland,pl-Polski
@@ -1988,7 +1988,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 62878,en-English,Riverworld,Riverworld,,,,178,2010-04-18,Drama|Science Fiction|Thriller,,Reunion Pictures,US-United States of America|CA-Canada,en-English
 131822,fi-suomi,Kuningas Litmanen,Kuningas Litmanen,431274,,,,2012-09-28,,,,FI-Finland,fi-suomi|en-English
 111667,es-Español,La noche de enfrente,Night Across the Street,,,,107,2012-07-11,,,,CL-Chile|FR-France,fr-Français|es-Español
-116466,he-עִבְרִית,The Flat,The Flat,,,http://www.ruthfilms.com/the-flat.html,97,2011-07-11,Documentary|Foreign,,,,en-English|de-Deutsch|he-עִבְרִית
+116466,he-עברית,The Flat,The Flat,,,http://www.ruthfilms.com/the-flat.html,97,2011-07-11,Documentary|Foreign,,,,en-English|de-Deutsch|he-עברית
 96535,en-English,Patience (After Sebald),Patience (After Sebald),,,http://www.sodapictures.com/cinema/183/,90,2012-01-27,Documentary,,,GB-United Kingdom,en-English
 75720,en-English,One Life,One Life,,,http://www.bbcearth.com/movies/modal/one-life-movie/,85,2011-07-19,Family|Documentary,,BBC Earth|BBC Earth Films,GB-United Kingdom,en-English|fr-Français|de-Deutsch|ru-Pусский
 158739,en-English,Blue Caprice,Blue Caprice,,,,93,2013-09-12,Crime|Drama|Mystery,,Intrinsic Value Films,US-United States of America,en-English
@@ -2169,7 +2169,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 85047,en-English,London; Paris; New York,London; Paris; New York,2640000,,,100,2012-03-02,Romance,,,,
 87567,en-English,The Big Wedding,The Big Wedding,35000000,21819348,,90,2013-04-25,Comedy,,Millenium Films|Two Ton Films,US-United States of America,en-English|es-Español|la-Latin
 128215,en-English,Still Mine,Still Mine,,,,102,2012-09-10,Drama,,Mulmur Feed Co. Production,CA-Canada,en-English
-121873,de-Deutsch,Hannah Arendt,Hannah Arendt,,717205,,113,2012-09-11,Drama,,MACT Productions|Heimatfilm GbR|Les Productions de l'Amour Fou,DE-Germany|LU-Luxembourg|FR-France,de-Deutsch|en-English|fr-Français|he-עִבְרִית|la-Latin
+121873,de-Deutsch,Hannah Arendt,Hannah Arendt,,717205,,113,2012-09-11,Drama,,MACT Productions|Heimatfilm GbR|Les Productions de l'Amour Fou,DE-Germany|LU-Luxembourg|FR-France,de-Deutsch|en-English|fr-Français|he-עברית|la-Latin
 75945,es-Español,La Otra Familia,The Other Family,,,http://www.laotrafamilia.com/,130,2011-03-25,Drama,,Rio Negro,MX-Mexico,es-Español
 121446,en-English,Birders: The Central Park Effect,Birders: The Central Park Effect,,,,61,2012-07-16,Documentary,,,,en-English
 144481,en-English,41,41,,,,120,2012-06-12,,,,US-United States of America,en-English
@@ -2340,7 +2340,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 77931,en-English,The Smurfs 2,The Smurfs 2,105000000,347434178,http://smurfhappens.com,105,2013-07-30,Fantasy|Family|Comedy|Animation,,Columbia Pictures|Sony Pictures Animation|Kerner Entertainment Company|Hemisphere Media Capital|NeoReel,US-United States of America,en-English
 177699,en-English,Alan Partridge: Alpha Papa,Alan Partridge: Alpha Papa,4000000,9800000,http://alanpartridge-alphapapa.com,90,2013-07-24,Comedy,,BBC Films|StudioCanal|Baby Cow Productions|British Film Institute (BFI)|Baby Cow Films,GB-United Kingdom,en-English
 158743,en-English,Computer Chess,Computer Chess,,,http://www.computerchessmovie.com/,91,2013-07-17,Comedy,,Computer Chess,US-United States of America,en-English
-121791,en-English,L'Attentat,The Attack,,,,102,2012-09-01,Drama,,Canal+|3b productions|Ciné+|Scope Pictures|Fresco Films|Douri Films|Random House Films,BE-Belgium|FR-France|LB-Lebanon|QA-Qatar,ar-العربية|he-עִבְרִית
+121791,en-English,L'Attentat,The Attack,,,,102,2012-09-01,Drama,,Canal+|3b productions|Ciné+|Scope Pictures|Fresco Films|Douri Films|Random House Films,BE-Belgium|FR-France|LB-Lebanon|QA-Qatar,ar-العربية|he-עברית
 201676,en-English,My Little Pony: Equestria Girls,My Little Pony: Equestria Girls,,,http://www.hasbro.com/equestriagirls/,72,2013-06-15,Animation|Comedy|Family|Fantasy|Music,,Hasbro|DHX Media,US-United States of America,en-English
 205985,en-English,Miss You Can Do It,Miss You Can Do It,,,http://www.hbo.com/documentaries/miss-you-can-do-it/index.html,75,2013-06-24,Documentary|Family|Drama,,HBO,US-United States of America,en-English
 147276,en-English,Jay and Silent Bob Go Down Under,Jay and Silent Bob Go Down Under,,,http://smodcast.com/,60,2012-11-30,Comedy,,Epix,AU-Australia,en-English
@@ -2365,7 +2365,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 198210,en-English,Evidence,Evidence,,,,93,2013-07-19,Horror|Thriller|Mystery,,FilmEngine|Bold Films|Marc Platt Productions,US-United States of America,en-English
 115782,en-English,Jobs,Jobs,12000000,35931410,http://thejobsmovie.com/,128,2013-08-16,Drama|History,,Open Road Films|Dillywood|Five Star Institute|Silver Reel,US-United States of America,en-English
 123553,en-English,The Mortal Instruments: City of Bones,The Mortal Instruments: City of Bones,60000000,90565421,http://www.themortalinstrumentsmovie.com/,130,2013-08-21,Action|Adventure|Drama|Mystery|Romance|Fantasy,,Constantin Film Produktion|Don Carmody Productions|Unique Features|Mr. Smith Productions,US-United States of America,en-English
-113362,en-English,Hitler's Children,Hitler's Children,,,,83,2011-11-21,War|Documentary|History,,Maya Productions,,en-English|de-Deutsch|he-עִבְרִית
+113362,en-English,Hitler's Children,Hitler's Children,,,,83,2011-11-21,War|Documentary|History,,Maya Productions,,en-English|de-Deutsch|he-עברית
 47559,en-English,The First Grader,The First Grader,,,http://www.thefirstgrader-themovie.com/,103,2010-09-04,Romance|Drama,,Original Pictures|Sixth Sense Productions,GB-United Kingdom|US-United States of America|KE-Kenya,en-English
 154282,en-English,Touchy Feely,Touchy Feely,,35022,http://www.magpictures.com/touchyfeely/,89,2013-01-19,Drama,,Lynn Shelton,US-United States of America,en-English
 92506,en-English,Four Horsemen,Four Horsemen,,,http://fourhorsemenfilm.com,97,2012-03-14,Documentary,,,,en-English
@@ -2384,7 +2384,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 205022,hi-हिन्दी,Chennai Express,Chennai Express,18000000,62000000,http://www.chennaiexp2013.com/chennaiexpress.aspx,141,2013-08-09,Romance|Comedy|Action,,UTV Motion Pictures|Red Chillies Entertainment,IN-India,hi-हिन्दी|ta-தமிழ்
 98064,en-English,The Source Family,The Source Family,,,,91,2011-11-02,Music|Documentary,,,,en-English
 56937,nb-Bokmål,Fritt vilt III,Cold Prey III,,,http://www.frittvilt3.com/,95,2010-10-15,Horror,,Fantefilm,NO-Norway,no-Norsk
-122088,he-עִבְרִית,למלא את החלל,Fill the Void,,1775316,,90,2012-07-01,Drama,,Norma Productions|Avi Chai fund|Israel Film Fund|Reshet Broadcasting|Sundance,IL-Israel,he-עִבְרִית
+122088,he-עברית,למלא את החלל,Fill the Void,,1775316,,90,2012-07-01,Drama,,Norma Productions|Avi Chai fund|Israel Film Fund|Reshet Broadcasting|Sundance,IL-Israel,he-עברית
 101179,en-English,Truth or Dare,Truth or Dare,,,http://www.truthordarefilm.com/,95,2012-08-05,Horror|Thriller|Mystery,,Corona Pictures,GB-United Kingdom,en-English
 104880,en-English,Shadows of Liberty,Shadows of Liberty,,,,93,2012-04-27,Documentary,,,,
 130055,fr-Français,Cherchez Hortense,Looking for Hortense,,,,100,2012-09-05,Drama|Comedy,,SBS Productions,FR-France,fr-Français
@@ -2520,7 +2520,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 138202,en-English,Future Weather,Future Weather,,,,100,2012-04-29,Drama,,Present Pictures,US-United States of America,en-English
 122089,fr-Français,Après mai,Something in the Air,,85154,,122,2012-09-02,Romance|Drama,,MK2 Productions,FR-France,en-English|fr-Français|it-Italiano
 128081,en-English,I Declare War,I Declare War,,,,94,2013-05-10,Action|Comedy|Drama,,Samaritan Entertainment,CA-Canada,en-English
-188761,es-Español,Wakolda,The German Doctor,,,,90,2013-05-19,Drama|Thriller,,Pyramide Productions|Wanda Films|Dreamer Joint Venture Filmproduction,AR-Argentina,de-Deutsch|es-Español|he-עִבְרִית
+188761,es-Español,Wakolda,The German Doctor,,,,90,2013-05-19,Drama|Thriller,,Pyramide Productions|Wanda Films|Dreamer Joint Venture Filmproduction,AR-Argentina,de-Deutsch|es-Español|he-עברית
 222759,es-Español,Puerta de Hierro; el exilio de Perón,Puerta de Hierro; el exilio de Perón,,,,100,2013-03-14,,,,AR-Argentina,es-Español
 192160,en-English,This Is Our Time,This Is Our Time,,,,104,2013-03-01,Drama,,Pure Flix Entertainment|Check the Gate Productions,US-United States of America,en-English
 167032,en-English,Curse of Chucky,Curse of Chucky,5000000,,,97,2013-10-04,Horror|Thriller,,Universal 1440 Entertainment,US-United States of America,en-English
@@ -2601,7 +2601,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 82627,en-English,Man On a Mission: Richard Garriott's Road to the Stars,Man On a Mission: Richard Garriott's Road to the Stars,,,,94,2010-03-14,Documentary,,,,en-English
 103195,de-Deutsch,The Substance: Albert Hofmann's LSD,The Substance: Albert Hofmann's LSD,,,,90,2011-11-17,Documentary,,,CH-Switzerland,cs-Český|en-English|de-Deutsch
 80274,en-English,Ender's Game,Ender's Game,110000000,125537191,http://www.if-sentinel.com/,114,2013-10-23,Science Fiction|Action|Adventure,,Summit Entertainment|Chartoff Productions|Odd Lot Entertainment|K/O Paper Products|Digital Domain|Taleswapper,US-United States of America,en-English
-200481,en-English,The Blue Umbrella,The Blue Umbrella,,,http://www.pixar.com/short_films/Theatrical-Shorts/The-Blue-Umbrella,7,2013-02-12,Animation|Romance,,Pixar Animation Studios,US-United States of America,xx-No Language
+200481,en-English,The Blue Umbrella,The Blue Umbrella,,,http://www.pixar.com/short_films/Theatrical-Shorts/The-Blue-Umbrella,7,2013-02-12,Animation|Romance,,Pixar Animation Studios,US-United States of America,xx
 88274,ro-Română,Buna! Ce faci?,Hello! How Are You?,,,,102,2010-05-28,Comedy|Romance,,Rollin Studio Romania,RO-Romania,ro-Română
 210624,en-English,TWA Flight 800,TWA Flight 800,,,http://press.epixhd.com/programming/twa-flight-800/,90,2013-07-17,Documentary,,Epix,US-United States of America,en-English
 213121,en-English,Toy Story of Terror!,Toy Story of Terror!,,,,22,2013-10-15,Animation|Comedy|Family,,Walt Disney Pictures|Pixar Animation Studios,US-United States of America,en-English
@@ -2855,7 +2855,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 53389,fr-Français,Krach,Trader Games,,,,85,2010-09-01,Drama|Thriller|Foreign,,Versus Production|Radio Télévision Belge Francophone (RTBF)|Cine Nomine|Caramel Film,FR-France,fr-Français
 122796,en-English,Bad Karma,Bad Karma,,,,87,2012-09-12,Thriller,,Anchor Bay,AU-Australia,en-English|fr-Français
 111473,en-English,The Invisible Woman,The Invisible Woman,,1234254,,111,2013-12-25,Drama|Romance,,BBC Films|Headline Pictures|Magnolia Mae Films|Taeoo Entertainment,GB-United Kingdom,en-English
-204810,he-עִבְרִית,Hunting Elephants,Hunting Elephants,2300000,4500000,,107,2013-07-03,Comedy|Crime,,United King Films|Bleiberg Entertainment,IL-Israel,de-Deutsch|he-עִבְרִית|en-English
+204810,he-עברית,Hunting Elephants,Hunting Elephants,2300000,4500000,,107,2013-07-03,Comedy|Crime,,United King Films|Bleiberg Entertainment,IL-Israel,de-Deutsch|he-עברית|en-English
 126963,ja-日本語,ドラゴンボールZ 神と神,Dragon Ball Z: Battle of Gods,,50353002,http://www.dragonball2013.com/,85,2013-03-30,Animation|Action,,Twentieth Century Fox Film Corporation|Toei Animation|Yasahi-Mation Productions,JP-Japan,en-English|ja-日本語
 136735,es-Español,El cártel de los sapos,The Snitch Cartel,,,http://www.elcartellapelicula.com/,106,2012-11-11,Drama|Crime,,11:11 Mediaworks|Itaca Films|BN Films|Onceonce Films,CO-Colombia|MX-Mexico|US-United States of America,en-English|es-Español
 153158,es-Español,Metegol,Underdogs,22000000,24000000,,106,2013-07-18,Animation|Adventure|Romance,,100 Bares|Ministerio de Cultura|Instituto de Crédito Oficial (ICO)|Televisión Federal (Telefe)|369 Productions|Catmandu Branded Entertainment|JEMPSA|Plural - Jempsa|Prana Animation Studios,AR-Argentina|ES-Spain,es-Español|en-English
@@ -2939,7 +2939,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 72767,en-English,Battleground,Battleground,1000000,,,95,2012-01-01,Drama|Action|Thriller,,Dimeworth Films|Mojo Promotions,CA-Canada,en-English|ru-Pусский
 127687,en-English,Tapestries of Hope,Tapestries of Hope,,,,78,2010-09-28,Documentary,,,,en-English
 107203,pt-Português,Xingu,Xingu,,,http://www.xinguofilme.com.br/,102,2012-04-06,Drama,,O2 Filmes|Globo filmes,BR-Brazil,pt-Português
-171540,he-עִבְרִית,Mi mefahed mezeev hara,Big Bad Wolves,,33232,,110,2013-04-21,Comedy|Crime,,United King Films|United Channel Movies,IL-Israel,ar-العربية|he-עִבְרִית|es-Español
+171540,he-עברית,Mi mefahed mezeev hara,Big Bad Wolves,,33232,,110,2013-04-21,Comedy|Crime,,United King Films|United Channel Movies,IL-Israel,ar-العربية|he-עברית|es-Español
 164328,de-Deutsch,Das merkwürdige Kätzchen,The Strange Little Cat,,,,72,2013-02-11,Comedy|Drama|Family,,Deutsche Film- und Fernsehakademie Berlin (DFFB),DE-Germany,de-Deutsch
 186992,fr-Français,L'Inconnu du Lac,Stranger by the Lake,,,,97,2013-05-17,Drama|Thriller,,Les films du Worso,FR-France,fr-Français
 130150,en-English,Labor Day,Labor Day,18000000,20275812,,111,2013-12-27,Drama,,Mr. Mudd Production|Indian Paintbrush|Right of Way Films,US-United States of America,en-English
@@ -3033,9 +3033,9 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 41445,en-English,Psychosis,Psychosis,1200000,,,89,2010-07-19,Horror|Mystery|Thriller,,Kingsway Films|Red Sparrow,GB-United Kingdom,en-English
 125680,en-English,Mer eller mindre mann,The Almost Man,,,,80,2012-09-14,Comedy|Drama,,,NO-Norway,no-Norsk
 137646,en-English,The Education of Mohammad Hussein,The Education of Mohammad Hussein,,,,38,2012-05-14,,,,US-United States of America,en-English
-187028,ar-العربية,عمر,Omar,,,,96,2013-05-21,Thriller|Drama|Romance,,ZBROS,PS-Palestinian Territory,ar-العربية|he-עִבְרִית
+187028,ar-العربية,عمر,Omar,,,,96,2013-05-21,Thriller|Drama|Romance,,ZBROS,PS-Palestinian Territory,ar-العربية|he-עברית
 252841,hi-हिन्दी,Highway,Highway,,,http://highwaythefilm.com/,133,2014-02-20,Drama|Romance,,,IN-India,hi-हिन्दी|ne-नेपाली
-77458,fr-Français,Le cochon de Gaza,When Pigs Have Wings,,,,98,2011-09-21,Comedy,,StudioCanal,FR-France|DE-Germany|BE-Belgium,ar-العربية|en-English|he-עִבְרִית
+77458,fr-Français,Le cochon de Gaza,When Pigs Have Wings,,,,98,2011-09-21,Comedy,,StudioCanal,FR-France|DE-Germany|BE-Belgium,ar-العربية|en-English|he-עברית
 248507,fr-Français,Supercondriaque,Superchondriac,,,,107,2014-02-26,Comedy,,TF1 Films Productions|Pathé Distribution|Canal+|Ciné+|Artémis Productions|Casa Kafka Pictures|Tax Shelter Film Funding|TF1|Fortis Film Fund|Les Productions du Ch'timi|La Wallonie,BE-Belgium|FR-France,uk-Український|en-English|fr-Français
 127847,es-Español,7 cajas,7 Boxes,,,,100,2012-08-10,Action|Thriller,,Maneglia Schémbori Realizadores,PY-Paraguay,gn-Avañe'ẽ|ko-한국어/조선말|es-Español
 204765,fr-Français,Prêt à tout,Prêt à tout,,,,,2014-01-21,Comedy,,Jerico|Vendôme Production|Siam Movies,FR-France,fr-Français
@@ -3101,7 +3101,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 109404,en-English,8,8,,,http://www.8theplay.com/,91,2012-03-03,,,,,
 182827,ja-日本語,舟を編む,The Great Passage,,,http://fune-amu.com/,133,2013-04-04,Drama,,Little More Co.,JP-Japan,ja-日本語
 209403,en-English,Bad Words,Bad Words,9500000,7800000,,88,2013-09-06,Comedy,,Darko Entertainment|Aggregate Film,US-United States of America,en-English
-235260,en-English,Son of God,Son of God,22000000,67800064,,138,2014-02-28,Drama,,Hearst Entertainment Productions|LightWorkers Media,US-United States of America,en-English|he-עִבְרִית
+235260,en-English,Son of God,Son of God,22000000,67800064,,138,2014-02-28,Drama,,Hearst Entertainment Productions|LightWorkers Media,US-United States of America,en-English|he-עברית
 94331,en-English,Fightville,Fightville,,,http://www.fightville.net/,85,2011-03-12,Documentary,,,US-United States of America,en-English
 68713,fr-Français,Tu seras mon fils,You Will Be My Son,,,,102,2011-08-23,Drama,,Epithète Films,FR-France,fr-Français
 115821,en-English,El artista y la modelo,The Artist and the Model,,,,104,2012-09-28,Drama,,Fernando Trueba Producciones Cinematográficas S.A.,ES-Spain,fr-Français
@@ -3258,7 +3258,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 177552,en-English,A Resurrection,A Resurrection,,,,98,2013-03-21,Horror|Thriller,,,US-United States of America,en-English
 227425,en-English,Alpha and Omega 2: A Howl-iday Adventure,Alpha and Omega 2: A Howl-iday Adventure,,,,45,2013-10-08,Animation|Adventure|Comedy,,LionsGate|Crest Animation Productions,US-United States of America,en-English
 258096,en-English,Alpha and Omega 3: The Great Wolf Games,Alpha and Omega 3: The Great Wolf Games,,,http://www.lionsgatepublicity.com/home-entertainment/alphaandomega3greatwolfgames/,45,2014-03-25,Animation|Family|Adventure|Comedy,,Lionsgate|Crest Animation Productions,US-United States of America,en-English
-216541,he-עִבְרִית,Ambushed,Ambushed,,,,93,2013-09-21,Action|Crime|Drama,,Hollywood Media Bridge|Anchor Bay Films|Voltage pictures|Creamovies|Picture Perfect Corp.,US-United States of America,en-English
+216541,he-עברית,Ambushed,Ambushed,,,,93,2013-09-21,Action|Crime|Drama,,Hollywood Media Bridge|Anchor Bay Films|Voltage pictures|Creamovies|Picture Perfect Corp.,US-United States of America,en-English
 112287,en-English,Axed,Axed,,,http://www.axedmovie.com/,84,2012-02-27,Thriller,,,GB-United Kingdom,en-English|fr-Français
 201360,en-English,All of Me,All of Me,,,http://www.allofmemovie.com/,74,2013-06-15,Documentary,,,,
 258476,en-English,A Fragile Trust: Plagiarism; Power; and Jayson Blair at the New York Times,A Fragile Trust: Plagiarism; Power; and Jayson Blair at the New York Times,,,http://afragiletrust.com,75,2014-03-07,Documentary,,,,en-English
@@ -3363,7 +3363,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 175541,en-English,Black Nativity,Black Nativity,17500000,7018189,http://www.foxsearchlight.com/blacknativity/,93,2013-11-27,Drama|Music,,Fox Searchlight Pictures|Malvern Pictures,US-United States of America,en-English
 220820,en-English,Blood of Redemption,Blood of Redemption,,,,85,2013-09-23,Drama|Action|Thriller|Crime,,VMI Worldwide|High Five Films,US-United States of America,cs-Český|en-English
 79906,en-English,Occupant,Occupant,,,http://www.occupantmovie.com/,,2011-10-14,Horror|Thriller,,,,
-140870,xx-No Language,Minuscule - La vallée des fourmis perdues,Minuscule: Valley of the Lost Ants,19700000,30000000,http://www.minuscule.com/en/pages/home,89,2013-11-17,Animation|Adventure|Family,,Futurikon|Entre Chien et Loup|Futurikon Production II|Mollywood|Nozon,BE-Belgium|FR-France,xx-No Language
+140870,xx,Minuscule - La vallée des fourmis perdues,Minuscule: Valley of the Lost Ants,19700000,30000000,http://www.minuscule.com/en/pages/home,89,2013-11-17,Animation|Adventure|Family,,Futurikon|Entre Chien et Loup|Futurikon Production II|Mollywood|Nozon,BE-Belgium|FR-France,xx
 94671,en-English,Jayne Mansfield's Car,Jayne Mansfield's Car,,14836,,122,2012-02-13,Drama,,Media Talent Group|AR Films|Aldamisa Entertainment,US-United States of America|RU-Russia,en-English
 128841,en-English,The Thompsons,The Thompsons,3000000,,http://www.accentfilm.com/product.cfm?id=MTAwMDI4MA%3D%3D&cat=Mw%3D%3D,84,2012-08-21,Horror|Thriller,,,US-United States of America|GB-United Kingdom,en-English
 82881,en-English,Tangled Ever After,Tangled Ever After,,,,6,2012-01-13,Animation|Comedy|Action|Family,,Walt Disney Animation Studios,US-United States of America,en-English
@@ -3551,7 +3551,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 193722,ja-日本語,R100,R100,5500000,,http://www.r-100.com/,100,2013-10-05,Comedy|Drama,,Warner Bros.|Yoshimoto Kogyo Company,JP-Japan,ja-日本語
 201361,en-English,American Revolutionary: The Evolution of Grace Lee Boggs,American Revolutionary: The Evolution of Grace Lee Boggs,,,http://americanrevolutionaryfilm.com/,82,2013-06-16,Documentary,,,,en-English
 244610,en-English,The Den,The Den,,,,81,2013-12-12,Horror|Thriller,,Onset Films|Cliffbrook Films,US-United States of America,en-English
-261825,he-עִבְרִית,Efes Beyahasei Enosh,Zero Motivation,,,,97,2014-06-26,Drama|Comedy,,July August Productions,IL-Israel,he-עִבְרִית
+261825,he-עברית,Efes Beyahasei Enosh,Zero Motivation,,,,97,2014-06-26,Drama|Comedy,,July August Productions,IL-Israel,he-עברית
 106337,en-English,Free Samples,Free Samples,,,https://www.facebook.com/FreeSamplesMovie,80,2012-05-20,Comedy,,,US-United States of America,en-English
 76757,en-English,Jupiter Ascending,Jupiter Ascending,176000003,183987723,http://www.jupiterascending.com,124,2015-02-04,Science Fiction|Fantasy|Action|Adventure,,Village Roadshow Pictures|Dune Entertainment|Anarchos Productions|Warner Bros.,US-United States of America,en-English
 98566,en-English,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,125000000,477200000,http://www.teenagemutantninjaturtlesmovie.com,101,2014-08-07,Science Fiction|Action|Adventure|Fantasy|Comedy,,Paramount Pictures|Nickelodeon Movies|Platinum Dunes,US-United States of America,en-English
@@ -3666,7 +3666,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 261770,en-English,Affluenza,Affluenza,,,,85,2014-07-11,Drama|Romance,,M.E.G.A. Films|Lookbook Films,US-United States of America,en-English
 265832,en-English,700 Sundays,700 Sundays,,,,119,2014-04-19,,,,US-United States of America,en-English
 244264,en-English,Laggies,Laggies,,1066981,,100,2014-09-25,Comedy|Romance,,Anonymous Content|A24|Merced Media Partners|PenLife Media,US-United States of America,en-English
-215935,he-עִבְרִית,Bethlehem,Bethlehem,,,,99,2013-09-01,Drama|Thriller,,Entre Chien et Loup|Pie Films|Gringo Films,BE-Belgium|DE-Germany|IL-Israel,ar-العربية|he-עִבְרִית
+215935,he-עברית,Bethlehem,Bethlehem,,,,99,2013-09-01,Drama|Thriller,,Entre Chien et Loup|Pie Films|Gringo Films,BE-Belgium|DE-Germany|IL-Israel,ar-العربية|he-עברית
 245859,en-English,God Help the Girl,God Help the Girl,,,,111,2014-08-22,Comedy|Drama|Music,,HanWay Films|Barry Mendel Productions|British Film Company,GB-United Kingdom,en-English
 264767,en-English,Misconception,Misconception,,,,93,2014-04-21,Documentary,,,US-United States of America,en-English
 285026,en-English,The Last Season,The Last Season,,,,78,2014-04-25,,,,,
@@ -3899,7 +3899,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 199851,es-Español,Hawaii,Hawaii,,,,106,2013-04-12,Romance,,Universidad del Cine|La Noria Cine,AR-Argentina,es-Español
 112735,en-English,The Skinny,The Skinny,,,,103,2012-02-10,Comedy,,,,
 96239,en-English,Zombadings 1: Patayin sa Shokot si Remington,Remington and the Curse of the Zombadings,22361,721651,http://www.zombadings.com/index/,96,2011-08-31,Foreign|Comedy|Horror|Drama,,Reality Entertainment|Post Manila|Origin8 Media|SQ Film Laboratories,PH-Philippines,
-128154,he-עִבְרִית,Out in the Dark,Out in the Dark,,,,96,2012-09-09,Drama|Romance,,Periscope Productions|M7200 Productions,IL-Israel|US-United States of America,ar-العربية|he-עִבְרִית
+128154,he-עברית,Out in the Dark,Out in the Dark,,,,96,2012-09-09,Drama|Romance,,Periscope Productions|M7200 Productions,IL-Israel|US-United States of America,ar-العربية|he-עברית
 180147,es-Español,Nosotros los nobles,We Are The Nobles,2000000,,http://www.nosotroslosnobles.com/,108,2013-03-28,Comedy,,Alazraki Films,MX-Mexico,es-Español
 227094,en-English,The Returned,The Returned,,,,98,2013-11-15,Horror|Thriller|Drama,,Castelao Producciones,ES-Spain|CA-Canada,en-English
 244801,en-English,52 Tuesdays,52 Tuesdays,,,,114,2014-05-01,Drama|Family,,Closer Productions,AU-Australia,en-English
@@ -3939,7 +3939,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 58760,en-English,Jackboots on Whitehall,Jackboots on Whitehall,6000000,,,87,2010-10-08,War|Animation|Comedy,,Matador Pictures|Cinema Four|Arcadia Motion Pictures|uFilm|Regent Capital|Entertainment Motion Pictures|Umedia|Swipe Films,GB-United Kingdom,en-English
 81347,fi-suomi,Likainen pommi,Likainen pommi,900000,,,83,2011-09-23,Comedy,,Juonifilmi,FI-Finland,fi-suomi
 131631,en-English,The Hunger Games: Mockingjay - Part 1,The Hunger Games: Mockingjay - Part 1,125000000,752100229,http://www.thehungergames.movie/,123,2014-11-18,Science Fiction|Adventure|Thriller,,Lionsgate|Color Force,US-United States of America,en-English
-270403,he-עִבְרִית,Gett,Gett: The Trial of Viviane Amsalem,,,,115,2014-06-25,Drama,,Arte France Cinéma|Films Distribution|Israel Film Fund|DBG / deux beaux garçons|Canal+ France|Elzévir & Cie|Mini Traité Franco Allemand [fr]|Riva Films,DE-Germany|IL-Israel|FR-France,he-עִבְרִית|fr-Français
+270403,he-עברית,Gett,Gett: The Trial of Viviane Amsalem,,,,115,2014-06-25,Drama,,Arte France Cinéma|Films Distribution|Israel Film Fund|DBG / deux beaux garçons|Canal+ France|Elzévir & Cie|Mini Traité Franco Allemand [fr]|Riva Films,DE-Germany|IL-Israel|FR-France,he-עברית|fr-Français
 222649,en-English,Rosewater,Rosewater,,,,103,2014-11-07,Drama,,Odd Lot Entertainment|International Traders|Busboy Productions,US-United States of America,en-English
 294959,en-English,Valley Uprising,Valley Uprising,,,http://www.valleyuprising.com/,99,2014-09-01,Adventure|Documentary,,Sender Films,US-United States of America,it-Italiano|en-English
 273334,en-English,United States of Secrets (Part One): The Program,United States of Secrets (Part One): The Program,,,,114,2014-05-13,,,,,
@@ -4000,7 +4000,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 200044,en-English,Deranged,Deranged,,,,78,2012-06-06,Horror,,Templeheart Films|EnMar Productions|Burn Hand Film Productions,GB-United Kingdom,en-English
 232679,en-English,When the Game Stands Tall,When the Game Stands Tall,15000000,30127963,,115,2014-08-22,Drama,,Mandalay Pictures|Affirm Films,US-United States of America,en-English
 192558,hi-हिन्दी,Aashiqui 2,Aashiqui 2,1300000,16000000,,132,2013-04-25,Drama|Romance,,T-Series|Vishesh Films,IN-India,hi-हिन्दी
-193726,en-English,ABCs of Death 2,ABCs of Death 2,,7171,,125,2014-10-02,Horror,,Magnet Releasing|Drafthouse Films|Timpson Films,US-United States of America|NZ-New Zealand|CA-Canada|IL-Israel|JP-Japan,ar-العربية|en-English|fr-Français|de-Deutsch|he-עִבְרִית|ja-日本語|pt-Português
+193726,en-English,ABCs of Death 2,ABCs of Death 2,,7171,,125,2014-10-02,Horror,,Magnet Releasing|Drafthouse Films|Timpson Films,US-United States of America|NZ-New Zealand|CA-Canada|IL-Israel|JP-Japan,ar-العربية|en-English|fr-Français|de-Deutsch|he-עברית|ja-日本語|pt-Português
 228813,en-English,Neurons to Nirvana,Neurons to Nirvana,,,http://neuronstonirvana.com/,69,2013-10-19,Documentary,,Mangusta Productions,,en-English
 204768,fr-Français,Les invincibles,Les invincibles,,,,,2013-09-18,Comedy,,Chic Films,FR-France,ar-العربية|fr-Français
 201759,fr-Français,La Marque des anges - Miserere,Miserere,20000000,,,106,2013-06-26,Thriller,,TF1 Films Productions|Pathé Films,FR-France,fr-Français
@@ -4119,7 +4119,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 289416,en-English,Grace,Grace,,,,87,2014-10-28,Thriller|Horror,,Automatik Entertainment|Colony Pictures,CA-Canada,en-English
 99879,fr-Français,Hiver Nomade,Winter Nomads,,,,90,2012-02-10,Documentary,,KMBO,CH-Switzerland|FR-France|DE-Germany,fr-Français
 163870,ja-日本語,天地明察,Tenchi: The Samurai Astronomer,,,http://www.tenchi-meisatsu.jp/,141,2012-09-15,Drama|History,,Kadokawa Pictures,JP-Japan,ja-日本語
-250798,en-English,The Green Prince,The Green Prince,,,,99,2014-01-16,Documentary,,,,en-English|he-עִבְרִית
+250798,en-English,The Green Prince,The Green Prince,,,,99,2014-01-16,Documentary,,,,en-English|he-עברית
 277846,en-English,Castles in the Sky,Castles in the Sky,,,,90,2014-06-23,Drama|History,,,,en-English
 282297,en-English,Cowspiracy: The Sustainability Secret,Cowspiracy: The Sustainability Secret,117,,http://cowspiracy.com/,85,2014-07-01,Documentary,,First Spark Media|A.U.M. Films,US-United States of America,en-English
 123581,en-English,McConkey,McConkey,,,,100,2013-09-30,Documentary|Adventure,,,US-United States of America,en-English
@@ -4650,7 +4650,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 143146,en-English,Ritual,Ritual,,,https://www.facebook.com/Ritual.horror,90,2013-12-31,Horror,,EBF Productions,US-United States of America,en-English
 212455,en-English,House Party: Tonight's the Night,House Party: Tonight's the Night,,,,80,2013-07-23,,,,,en-English|pl-Polski
 44998,en-English,The Dry Land,The Dry Land,,12000,,92,2010-07-30,Drama,,,US-United States of America,en-English|es-Español
-51832,he-עִבְרִית,Paam Hayiti,The Matchmaker,2150000,,,112,2010-06-23,Drama,,Metro Communications,IL-Israel,he-עִבְרִית
+51832,he-עברית,Paam Hayiti,The Matchmaker,2150000,,,112,2010-06-23,Drama,,Metro Communications,IL-Israel,he-עברית
 77716,en-English,The Cup,The Cup,,,http://www.cupmovie.com.au,106,2011-11-13,Drama|History,,Village Roadshow|Screen Australia|Silver Lion Films|Film Victoria|Ingenious Broadcasting,AU-Australia,en-English|fr-Français
 86709,en-English,Last Man Standing,Last Man Standing,,,,84,2011-06-07,Drama|Action|Thriller,,Sony Pictures Television|Valhalla Motion Pictures,US-United States of America,en-English
 238206,en-English,Eddie Izzard: Force Majeure Live,Eddie Izzard: Force Majeure Live,,,http://www.eddieizzard.com,85,2013-11-18,Comedy,,Universal Pictures UK,GB-United Kingdom,en-English
@@ -4736,7 +4736,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 157787,fr-Français,Nom de code : Rose,Nom de code : Rose,,,,,2012-12-04,,,EuropaCorp,FR-France,fr-Français
 226363,en-English,Powder Room,Powder Room,,,,86,2013-11-29,Comedy,,,GB-United Kingdom,en-English
 253851,en-English,Shirin in Love,Shirin in Love,,,,104,2014-03-14,Comedy|Romance,,,,en-English
-310589,ru-Pусский,На пороге страха,Beyond the Fear,,,,80,2014-12-02,Documentary,,,RU-Russia|LV-Latvia|IL-Israel,he-עִבְרִית|ru-Pусский
+310589,ru-Pусский,На пороге страха,Beyond the Fear,,,,80,2014-12-02,Documentary,,,RU-Russia|LV-Latvia|IL-Israel,he-עברית|ru-Pусский
 287504,en-English,Modris,Modris,,,http://modrisfilm.com/,98,2014-10-24,Drama,,,GR-Greece|LV-Latvia|DE-Germany,ru-Pусский|lv-Latviešu
 292396,en-English,Deliverance Creek,Deliverance Creek,,,,,2014-09-13,Drama,,Lifetime Television,,en-English
 290555,en-English,Wolves,Wolves,18000000,,,90,2014-08-28,Horror|Action,,Copperheart Entertainment|Entertainment One|Dark Hero Studios,CA-Canada|FR-France,en-English
@@ -4794,7 +4794,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 293461,en-English,Monsterimies,Monsterman,,,,85,2014-09-26,Documentary|Drama,,Film i Väst|Jabfilm|Common Ground Pictures|Illume Oy,FI-Finland|NO-Norway|SE-Sweden,fi-suomi|en-English
 317384,fr-Français,P'tit Quinquin,Li'l Quinquin,,,,200,2014-09-18,Mystery|Comedy|Crime,,Arte France|CNC|3B Productions|Région Nord-Pas-de-Calais|Le Fresnoy Studio National des Arts Contemporains|TV5 Monde|Cofinova 10|Pictanovo Nord-Pas-de-Calais,FR-France,fr-Français
 80337,en-English,These Amazing Shadows,These Amazing Shadows,,,http://www.theseamazingshadows.com/,88,2011-01-22,Documentary,,Gravitas Docufilms,US-United States of America,en-English
-137008,en-English,small roads,small roads,,,,103,2011-09-03,Documentary,,,,xx-No Language
+137008,en-English,small roads,small roads,,,,103,2011-09-03,Documentary,,,,xx
 250660,en-English,Ivory Tower,Ivory Tower,,,,97,2014-06-13,Documentary,,Participant Media,US-United States of America,en-English
 290739,en-English,Land,Land,415000,,,76,2010-05-02,Documentary,,National Film Board of Canada (NFB)|Deliberate Films|Six Island Productions,CA-Canada,en-English
 163978,en-English,Soundtracker,Soundtracker,,,,88,2010-05-02,Documentary,,,,
@@ -5019,7 +5019,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 300803,en-English,Dragonheart 3: The Sorcerer's Curse,Dragonheart 3: The Sorcerer's Curse,,,,97,2015-02-24,Action|Adventure|Fantasy,,Raffaella Productions,US-United States of America,en-English
 322260,en-English,Crockdale,Crockdale,,,,,2011-01-01,,,,,
 303457,pa-ਪੰਜਾਬੀ,Chaar Sahibzaade,Chaar Sahibzaade,,,,134,2014-11-06,Action|Adventure|Animation|Documentary|Family|History,,Eros International|Baweja Movies,IN-India,en-English|hi-हिन्दी|pa-ਪੰਜਾਬੀ
-295914,ky-??????,Kurmanjan Datka. Queen of the Mountains,Queen of the Mountains,,,,135,2014-08-22,Drama|Action,,Kirghizfilm|Aitysh Film,KG-Kyrgyz Republic,ky-??????
+295914,ky-Кыргыз тили,Kurmanjan Datka. Queen of the Mountains,Queen of the Mountains,,,,135,2014-08-22,Drama|Action,,Kirghizfilm|Aitysh Film,KG-Kyrgyz Republic,ky-Кыргыз тили
 249772,te-తెలుగు,1 - నేనొక్కడినే,1 - Nenokkadine,,,,150,2014-01-10,Action|Comedy|Romance,,14 Reels Entertainment,IN-India,te-తెలుగు
 299049,en-English,Bey Yaar,Bey Yaar,,,,150,2014-08-29,Family|Comedy|Drama,,,,gu-ગુજરાતી
 214218,en-English,Life's a Breeze,Life's a Breeze,,,,83,2013-07-19,Drama|Comedy,,Fastnet Films|Film i Väst|Anagram Produktion,IE-Ireland|SE-Sweden,en-English
@@ -5034,7 +5034,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 218393,el-ελληνικά,Na kathesai kai na koitas,Standing Aside; Watching,,,,98,2013-11-08,,,Greek Film Center|Hellenic Radio & Television (ERT)|Feelgood Entertainment|2/35|Blonde Audiovisual Productions|Stefi Films|Heretic,GR-Greece,el-ελληνικά
 83209,de-Deutsch,Mahler auf der Couch,Mahler on the Couch,,,http://www.mahleraufdercouch.de/,97,2010-06-24,Drama,,,AT-Austria|DE-Germany,de-Deutsch
 243938,en-English,Hot Tub Time Machine 2,Hot Tub Time Machine 2,14000000,12314651,,93,2015-02-20,Comedy,,Paramount Pictures|United Artists|Metro-Goldwyn-Mayer (MGM),US-United States of America,en-English
-269711,xx-No Language,JohnnyExpress,JohnnyExpress,,,http://www.james-woo.com/#!jonnyexpress/ccag,5,2014-05-08,Animation|Comedy|Science Fiction,,Alfred Image Works,KR-South Korea,xx-No Language
+269711,xx,JohnnyExpress,JohnnyExpress,,,http://www.james-woo.com/#!jonnyexpress/ccag,5,2014-05-08,Animation|Comedy|Science Fiction,,Alfred Image Works,KR-South Korea,xx
 268522,zh-普通话,等风来,Up in the Wind,,,,106,2013-12-31,,,,CN-China,zh-普通话
 189204,en-English,Lovestruck: The Musical,Lovestruck: The Musical,,,,83,2013-04-21,Comedy|Fantasy|Romance,,,,en-English
 170750,en-English,Getting Go: The Go Doc Project,Getting Go: The Go Doc Project,,,,91,2013-03-04,Drama,,Speak Productions,US-United States of America,en-English
@@ -5185,7 +5185,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 300364,sl-Slovenščina,Pot v raj,Sailing to Paradise,,,,80,2014-09-01,Romance|Comedy|Drama,,SEVER & SEVER,SI-Slovenia,sl-Slovenščina
 324436,sv-svenska,Dyke Hard,Dyke Hard,30000,,http://dykehardmovie.com,94,2015-02-08,Comedy,,,SE-Sweden,sv-svenska|en-English
 325205,fi-suomi,Toiset tytöt,Other Girls,,,,83,2015-03-27,Drama,,Fisher King Production,FI-Finland,fi-suomi
-89531,sl-Slovenščina,Circus Fantasticus,Silent Sonata,2000000,,http://www.silentsonatamovie.com/,75,2011-02-08,War|Fantasy|Drama,,The Chimney Pot|Cine Works|Staragara,FI-Finland|IE-Ireland|SI-Slovenia|SE-Sweden,xx-No Language
+89531,sl-Slovenščina,Circus Fantasticus,Silent Sonata,2000000,,http://www.silentsonatamovie.com/,75,2011-02-08,War|Fantasy|Drama,,The Chimney Pot|Cine Works|Staragara,FI-Finland|IE-Ireland|SI-Slovenia|SE-Sweden,xx
 256306,zh-普通话,冰毒,Ice Poison,,,,95,2014-02-07,,,,MM-Myanmar|TW-Taiwan,zh-普通话
 215637,gl-Galego,Costa da Morte,Coast of Death,,,http://loispatino.com/Costa-da-Morte,82,2013-08-11,Documentary|Drama|Family,,Zeitun Films,ES-Spain,gl-Galego
 228558,en-English,The Harry Hill Movie,The Harry Hill Movie,,,,85,2013-12-20,Comedy,,,GB-United Kingdom,en-English
@@ -5328,7 +5328,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 255253,en-English,El rostro,The Face,,,,64,2013-11-15,,,,,es-Español
 101995,tr-Türkçe,Yeraltı,Inside,,,,107,2012-04-13,,,,,tr-Türkçe
 54424,tr-Türkçe,Çoğunluk,Majority,,,,111,2010-01-10,Drama,,,TR-Turkey,tr-Türkçe
-138767,en-English,Heder 514,Room 514,,,http://www.room514.com/,90,2012-10-12,,,,,he-עִבְרִית
+138767,en-English,Heder 514,Room 514,,,http://www.room514.com/,90,2012-10-12,,,,,he-עברית
 254023,en-English,The Humbling,The Humbling,2000000,,,112,2014-03-26,Drama|Comedy,,Ambi Pictures|Hammerton Productions,US-United States of America,en-English
 131739,ja-日本語,Rengô kantai shirei chôkan: Yamamoto Isoroku,Isoroku Yamamoto; the Commander-in-Chief of the Combined Fleet,,,,135,2011-12-23,History|War,,Bandai Visual Company|Kinoshita Komuten|Toei Company|TV Asahi|Watanabe Entertainment|SBI Holdings|Broadmedia Studios|Asatsu-DK|Yoshidamasaki,JP-Japan,de-Deutsch|ja-日本語
 264763,en-English,Regarding Susan Sontag,Regarding Susan Sontag,,,http://www.sontagfilm.org/,101,2014-04-20,Documentary,,,US-United States of America,en-English
@@ -5666,7 +5666,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 308715,en-English,Away and Back,Away and Back,,,,96,2015-01-25,Drama|Comedy,,Hallmark Hall of Fame Productions,US-United States of America,en-English
 254320,en-English,The Lobster,The Lobster,4000000,15656193,http://tickets.picturehouseentertainment.co.uk/gb/the-lobster/,118,2015-10-08,Thriller|Comedy|Drama|Romance|Science Fiction,,Haut et Court|Eurimages|Lemming Film|Element Pictures|Nederlands Fonds voor de Film|Canal+|Greek Film Center|Film4|Ciné+|Centre National du Cinéma et de L'image Animée (CNC)|Faliro House Productions|Scarlet Films|Institut Français|L'Aide aux Cinémas du Monde|Limp Films|Ministère des Affaires étrangères et du Développement International|Protagonist Films,FR-France|GR-Greece|IE-Ireland|NL-Netherlands|GB-United Kingdom,en-English|fr-Français
 322766,en-English,Beautiful & Twisted,Beautiful & Twisted,,,,90,2015-01-31,Crime|Drama|Thriller,,Sony Pictures Television|Silver Screen Pictures,US-United States of America,en-English
-287483,de-Deutsch,Am Ende ein Fest,The Farewell Party,,,,90,2014-08-29,Comedy|Drama,,United King Films|Pallas Film|Pie Films|Twenty Twenty Vision Filmproduktion GmbH|2-Team Productions,DE-Germany|IL-Israel,he-עִבְרִית
+287483,de-Deutsch,Am Ende ein Fest,The Farewell Party,,,,90,2014-08-29,Comedy|Drama,,United King Films|Pallas Film|Pie Films|Twenty Twenty Vision Filmproduktion GmbH|2-Team Productions,DE-Germany|IL-Israel,he-עברית
 256057,es-Español,Güeros,Güeros,,,,106,2015-03-20,Drama|Comedy,,Consejo Nacional para la Cultura y las Artes (CONACULTA)|UNAM|Catatonia Films,MX-Mexico,es-Español
 287424,en-English,Maggie,Maggie,4000000,187112,http://www.maggiethefilm.com/,95,2015-05-08,Horror,,Lionsgate|Grindstone Entertainment Group|Silver Reel|Sly Predator|Matt Baer Films|Gold Star Films|Lotus Entertainment (I),CH-Switzerland|US-United States of America,en-English
 268920,en-English,Hot Pursuit,Hot Pursuit,35000000,51680201,,87,2015-05-08,Action|Comedy|Crime,,New Line Cinema|Warner Bros.|Metro-Goldwyn-Mayer (MGM)|Pacific Standard,US-United States of America,es-Español|en-English
@@ -5716,7 +5716,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 251516,en-English,Kung Fury,Kung Fury,630019,,http://www.kungfury.com/,31,2015-05-22,Action|Comedy|Science Fiction|Fantasy,,Laser Unicorns,SE-Sweden,en-English|de-Deutsch|sv-svenska
 151693,en-English,Morgan,Morgan,,,http://unitedgaynetwork.com/morgan/index.shtml,89,2012-01-07,Drama,,,US-United States of America,en-English
 102596,en-English,Follow Me: The Yoni Netanyahu Story,Follow Me: The Yoni Netanyahu Story,,,http://followmethemovie.com/,,2012-05-18,Documentary|War,,,,
-58859,ky-??????,Svet-Ake,The Light Thief,,,,80,2011-03-02,Drama,,Pallas Film|Zweites Deutsches Fernsehen (ZDF)|Asap films|Volya Films|Oy Art Film,KG-Kyrgyz Republic|DE-Germany|NL-Netherlands|FR-France,ky-??????
+58859,ky-Кыргыз тили,Svet-Ake,The Light Thief,,,,80,2011-03-02,Drama,,Pallas Film|Zweites Deutsches Fernsehen (ZDF)|Asap films|Volya Films|Oy Art Film,KG-Kyrgyz Republic|DE-Germany|NL-Netherlands|FR-France,ky-Кыргыз тили
 320295,hi-हिन्दी,Detective Byomkesh Bakshy!,Detective Byomkesh Bakshy!,,,http://www.detectivebyomkeshbakshy.com/,148,2015-04-03,Action|Drama|Thriller,,Yash Raj Films|Dibakar Banerjee Productions,IN-India,hi-हिन्दी
 323517,hi-हिन्दी,बदलापुर,Badlapur,3700000,11480000,,128,2015-02-20,Crime|Mystery|Thriller,,Illuminati Films|Maddock Films,IN-India,hi-हिन्दी
 273886,hi-हिन्दी,Holiday,Holiday,,,,170,2014-06-06,Thriller|Action|Romance,,Reliance Entertainment,IN-India,hi-हिन्दी
@@ -5759,7 +5759,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 126315,es-Español,Después de Lucía,After Lucia,,,,93,2012-10-03,Drama,,Pop Films|Filmadora Nacional|Stromboli Films,MX-Mexico,es-Español
 84196,en-English,A Fierce Green Fire,A Fierce Green Fire,,,http://www.afiercegreenfire.com/,101,2013-03-01,Documentary,,,US-United States of America,en-English
 316067,en-English,Misery Loves Comedy,Misery Loves Comedy,,,,94,2015-01-23,Comedy|Documentary,,Heretic Films,US-United States of America,en-English
-158589,he-עִבְרִית,S#x Acts,Six Acts,,,http://www.sixactsfilm.com/,100,2012-06-06,Drama,,,,he-עִבְרִית
+158589,he-עברית,S#x Acts,Six Acts,,,http://www.sixactsfilm.com/,100,2012-06-06,Drama,,,,he-עברית
 244783,en-English,Song One,Song One,6000000,32251,http://songonemovie.tumblr.com/,86,2014-01-20,Drama,,Worldview Entertainment,US-United States of America,en-English
 253267,en-English,Vessel,Vessel,,,http://vesselthefilm.com/,90,2014-03-09,Documentary,,Neue Vitaskop Film,EC-Ecuador|US-United States of America,en-English
 300179,en-English,The Lion’s Mouth Opens,The Lion’s Mouth Opens,,,,28,2014-01-18,Documentary,,,US-United States of America,en-English
@@ -5775,7 +5775,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 150473,et-Eesti,Vasaku jala reede,Bad Hair Friday,,,http://www.badhairfriday.com/,100,2012-02-15,Thriller,,,EE-Estonia,et-Eesti
 76101,en-English,Freerunner,Freerunner,5000000,,,87,2011-09-14,Action,,Vitamin A Films|Strategic Film Partners|Satori!films,US-United States of America,en-English
 61035,de-Deutsch,Hier kommt Lola,Hier kommt Lola,,,,96,2010-03-04,Family|Comedy|Drama|Music,,Bavaria Filmverleih- und Produktions GmbH|Constantin Film.|Kiddinx Filmproduktion,DE-Germany,de-Deutsch
-223932,he-עִבְרִית,Bananot LaEurovision,Cupcakes,,,,92,2013-03-13,Comedy,,United King Films,IL-Israel|FR-France,en-English|fr-Français|he-עִבְרִית
+223932,he-עברית,Bananot LaEurovision,Cupcakes,,,,92,2013-03-13,Comedy,,United King Films,IL-Israel|FR-France,en-English|fr-Français|he-עברית
 176077,en-English,Enter the Dangerous Mind,Enter the Dangerous Mind,,,,88,2013-03-11,Thriller,,Cimarron Productions|Vedette Finance,US-United States of America,en-English
 262788,en-English,El Inventor de Juegos,The Games Maker,6000000,,,112,2014-07-03,Adventure|Family,,Sepia Films|DAP Italy|Televisión Federal (Telefe)|Pampa Films|Benteveo Producciones|7Glab Entertainment|Orinoco Films,AR-Argentina|CA-Canada|IT-Italy,en-English
 320006,fa-فارسی,تاکسی,Taxi,,,http://www.kinolorber.com/film.php?id=2101,82,2015-04-15,Documentary|Drama|Comedy,,Jafar Panahi Film Productions,IR-Iran,fa-فارسی
@@ -5785,7 +5785,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 329243,en-English,Comedy Central Roast of Donald Trump,Comedy Central Roast of Donald Trump,,,http://www.cc.com/shows/roast-of-donald-trump,65,2011-03-15,Comedy,,Comedy Central,US-United States of America,en-English
 279960,en-English,I Am Road Comic,I Am Road Comic,,,http://www.iamroadcomic.com,69,2014-04-14,Comedy|Documentary,,,US-United States of America,en-English
 298664,en-English,Magician: The Astonishing Life and Work of Orson Welles,Magician: The Astonishing Life and Work of Orson Welles,,,,92,2014-12-12,Documentary,,,US-United States of America,en-English
-86412,en-English,The Fantastic Flying Books of Mr Morris Lessmore,The Fantastic Flying Books of Mr Morris Lessmore,,,http://morrislessmore.com/,15,2011-01-30,Adventure|Animation,,Moonbot Studios,US-United States of America,xx-No Language
+86412,en-English,The Fantastic Flying Books of Mr Morris Lessmore,The Fantastic Flying Books of Mr Morris Lessmore,,,http://morrislessmore.com/,15,2011-01-30,Adventure|Animation,,Moonbot Studios,US-United States of America,xx
 300168,zh-普通话,天將雄師,Dragon Blade,65000000,121545703,,127,2015-02-19,Action|Drama|Adventure,,Shanghai Film Group|Jackie & JJ Production|Sparkle Roll Media|Huayi Brothers Media|Alibaba Pictures Group|Home Media & Entertainment Fund|Tencent Video|China Film & TV Capital|Visualizer Film Company,HK-Hong Kong|CN-China,en-English|zh-普通话
 132316,hi-हिन्दी,Jab Tak Hai Jaan,Jab Tak Hai Jaan,,,,176,2012-11-13,Drama|Romance,,Yash Raj Films,IN-India,hi-हिन्दी
 74458,hi-हिन्दी,Mere Brother Ki Dulhan,Mere Brother Ki Dulhan,5510000,18050000,http://www.yashrajfilms.com/microsites/mbkd/index.html,139,2011-09-09,Drama|Comedy|Romance,,Yash Raj Films,IN-India,hi-हिन्दी|en-English
@@ -5911,13 +5911,13 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 188927,en-English,Star Trek Beyond,Star Trek Beyond,185000000,343471816,http://www.startrekmovie.com/,122,2016-07-07,Action|Adventure|Science Fiction,,Paramount Pictures|Bad Robot|Perfect Storm Entertainment|Alibaba Pictures Group|Skydance Media|Sneaky Shark|Huahua Media,US-United States of America,en-English
 139357,ta-தமிழ்,Pizza,Pizza,240000,2800000,,127,2012-10-19,Thriller|Comedy|Romance|Horror,,Thirukumaran Entertainment,IN-India,ta-தமிழ்|te-తెలుగు
 79464,hi-हिन्दी,Rockstar,Rockstar,10920000,19660000,,159,2011-11-11,Drama|Music|Romance,,,,cs-Český|en-English|hi-हिन्दी
-74586,fr-Français,Kalevet,Rabies,500000,,,90,2010-12-02,Horror,,United King Films,IL-Israel,he-עִבְרִית
+74586,fr-Français,Kalevet,Rabies,500000,,,90,2010-12-02,Horror,,United King Films,IL-Israel,he-עברית
 196032,sv-svenska,Snabba cash - Livet deluxe,Easy Money III,,,https://www.facebook.com/SnabbaCashFilm,127,2013-08-29,Crime|Thriller|Drama,,Fantefilm|Sveriges Television (SVT)|Zweites Deutsches Fernsehen (ZDF)|Tre Vänner Produktion AB|Film i Väst|Nordisk Film|Hobohm Brothers|Nordsvensk Filmunderhallning,SE-Sweden,ar-العربية|hr-Hrvatski|en-English|es-Español|sv-svenska
 276909,en-English,Deepsea Challenge 3D,Deepsea Challenge 3D,,,,90,2014-08-08,Documentary,,,,en-English
 256273,en-English,The Fluffy Movie,The Fluffy Movie,,,,101,2014-07-25,Comedy,,Open Road Films,US-United States of America,en-English
 277558,en-English,Final Girl,Final Girl,,,,90,2015-04-14,Action|Drama|Thriller,,NGN Productions|Prospect Park|Final Girl Productions,US-United States of America|CA-Canada,en-English
 299939,en-English,Debug,Debug,,,,86,2014-11-03,Horror|Science Fiction,,Copperheart Entertainment|Monkeys & Parrots,CA-Canada,en-English
-43083,he-עִבְרִית,Zohi Sdom,This is Sodom,2745000,5850000,http://www.mako.co.il/sdom/,88,2010-08-05,Comedy|History,,United King Films,IL-Israel|BG-Bulgaria,he-עִבְרִית
+43083,he-עברית,Zohi Sdom,This is Sodom,2745000,5850000,http://www.mako.co.il/sdom/,88,2010-08-05,Comedy|History,,United King Films,IL-Israel|BG-Bulgaria,he-עברית
 224087,en-English,Run,Run,,,,106,2013-10-10,Action|Drama,,Spinning Owls Productions|224 Entertainment,US-United States of America,en-English
 293452,en-English,The Disappointments Room,The Disappointments Room,15000000,,,92,2016-09-09,Drama|Thriller|Horror,,Relativity Media,US-United States of America,en-English
 83388,fr-Français,American Translation,American Translation,,,http://www.americantranslation-lefilm.com/,109,2011-06-07,Drama,,TLA Releasing,FR-France,fr-Français
@@ -5930,7 +5930,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 279977,en-English,The Mirror,The Mirror,,,,88,2015-08-23,Horror,,Haunted Mirror,GB-United Kingdom,en-English
 97082,en-English,Ouwehoeren,Meet the Fokkens,,,http://www.meetthefokkens.com/,80,2011-12-01,Documentary,,Submarine,NL-Netherlands,nl-Nederlands
 219666,en-English,Laiškai Sofijai,Letters To Sofija,,,,,2013-08-28,Drama,,,LT-Lithuania,lt-Lietuvikai|ru-Pусский|pl-Polski
-282502,en-English,Dancing Arabs,Dancing Arabs,,,,104,2014-07-10,Drama,,MACT Productions|Alma Films|ZDF/Arte|United Channel Movies|Heimatfilm|Riva Film|Konken Studios,FR-France|IL-Israel|DE-Germany,ar-العربية|he-עִבְרִית
+282502,en-English,Dancing Arabs,Dancing Arabs,,,,104,2014-07-10,Drama,,MACT Productions|Alma Films|ZDF/Arte|United Channel Movies|Heimatfilm|Riva Film|Konken Studios,FR-France|IL-Israel|DE-Germany,ar-العربية|he-עברית
 38877,en-English,Not the Messiah (He's a Very Naughty Boy),Not the Messiah (He's a Very Naughty Boy),,,,92,2010-03-25,Comedy|Music|History,,Python (Monty) Pictures Limited|Stage 6 Films|Picture Production Company,GB-United Kingdom,en-English
 293238,de-Deutsch,Labyrinth,Labyrinth,20000000,,,180,2012-11-24,Fantasy|Adventure|History,,,GB-United Kingdom|DE-Germany|ZA-South Africa,fr-Français|en-English
 53774,en-English,The Sinking of the Laconia,The Sinking of the Laconia,18550417,,http://www.ufa.de/produktionen/tv_movie/laconia,180,2011-01-06,Drama|History|War,,Two Oceans Production|Talkback Thames|Teamworx,GB-United Kingdom|DE-Germany,en-English|de-Deutsch
@@ -5942,7 +5942,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 70006,en-English,Never Back Down 2: The Beatdown,Never Back Down 2: The Beatdown,3000000,,,90,2011-09-13,Drama|Action,,,US-United States of America,en-English
 128206,hi-हिन्दी,Shahid,Shahid,,,,129,2013-10-18,Drama,,,IN-India,hi-हिन्दी
 212754,en-English,Siddharth,Siddharth,,,,96,2013-10-10,Drama|Foreign,,,CA-Canada,hi-हिन्दी
-255528,en-English,Blank: A Vinylmation Love Story,Blank: A Vinylmation Love Story,,,http://shows.disney.com/blank,37,2014-02-14,Adventure|Family|Animation|Romance,,,,xx-No Language
+255528,en-English,Blank: A Vinylmation Love Story,Blank: A Vinylmation Love Story,,,http://shows.disney.com/blank,37,2014-02-14,Adventure|Family|Animation|Romance,,,,xx
 286519,en-English,Boychoir,Boychoir,,,,106,2014-09-04,Drama,,Informant Media|Informant Films,US-United States of America,en-English
 113190,en-English,Beyond Gay: The Politics of Pride,Beyond Gay: The Politics of Pride,,,http://biggaymovie.com/,87,2010-03-26,Documentary|History,,,CA-Canada,en-English
 217341,en-English,Rewind,Rewind,,,,120,2013-08-26,Science Fiction,,Syfy|Universal Cable Productions,US-United States of America,en-English
@@ -6402,7 +6402,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 79247,en-English,Wyjazd Integracyjny,Wyjazd Integracyjny,,,,85,2011-11-04,Drama|Comedy|Romance,,,,pl-Polski
 65696,pl-Polski,Och; Karol 2,Och; Karol 2,,,http://www.ochkarol2.pl/,97,2011-01-21,Comedy|Romance,,,PL-Poland,pl-Polski
 226702,en-English,Układ zamknięty,The Closed Circuit,,,,100,2013-04-05,Drama|Crime,,Filmicon|Kino Swiat,PL-Poland,pl-Polski
-315575,fr-Français,Trois souvenirs de ma jeunesse,My Golden Days,,269144,,123,2015-05-20,Drama,,France 2 Cinéma|Angoa-Agicoa|Procirep|Why Not Productions|Canal+|Ciné+|France Télévisions|Centre National de la Cinématographie (CNC)|Pictanovo Nord-Pas-de-Calais|Cinémage 9|Soficinéma 11,FR-France,fr-Français|he-עִבְרִית|ru-Pусский
+315575,fr-Français,Trois souvenirs de ma jeunesse,My Golden Days,,269144,,123,2015-05-20,Drama,,France 2 Cinéma|Angoa-Agicoa|Procirep|Why Not Productions|Canal+|Ciné+|France Télévisions|Centre National de la Cinématographie (CNC)|Pictanovo Nord-Pas-de-Calais|Cinémage 9|Soficinéma 11,FR-France,fr-Français|he-עברית|ru-Pусский
 204016,en-English,In No Great Hurry: 13 Lessons in Life with Saul Leiter,In No Great Hurry: 13 Lessons in Life with Saul Leiter,,,,75,2014-01-03,,,,GB-United Kingdom,en-English
 182560,en-English,Dark Places,Dark Places,20000000,208588,http://darkplacesmovie.com/,113,2015-03-31,Drama|Mystery|Thriller,,Denver and Delilah Productions|Mandalay Vision|Exclusive Media Group|Hugo Productions|Cuatro Plus Films|Da Vinci Media Ventures|A24|Daryl Prince Productions,FR-France|GB-United Kingdom|US-United States of America,en-English
 48751,en-English,Deep Gold,Deep Gold,,,http://www.deepgoldmovie.com/us/,,2011-04-22,Action|Thriller,,Bigfoot Entertainment,PH-Philippines|US-United States of America,en-English
@@ -6607,7 +6607,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 209413,en-English,L'intrepido,Intrepido: A Lonely Hero,,,,104,2013-09-06,Comedy,,,IT-Italy,it-Italiano
 140208,en-English,Bad Boy Street,Bad Boy Street,,,http://www.imdb.com/title/tt2240764/,80,2012-10-22,Drama|Romance,,TLA Releasing,US-United States of America,fr-Français|en-English
 273599,en-English,The Suicide Theory,The Suicide Theory,,,https://www.facebook.com/TheSuicideTheoryFilm,98,2015-07-10,Drama|Thriller,,Seven8 Media,AU-Australia,en-English
-102292,fr-Français,Une bouteille à la mer,A Bottle in the Gaza Sea,,,,100,2011-10-08,Drama,,TS Productions|France 3 (FR3),FR-France,he-עִבְרִית|fr-Français|ar-العربية
+102292,fr-Français,Une bouteille à la mer,A Bottle in the Gaza Sea,,,,100,2011-10-08,Drama,,TS Productions|France 3 (FR3),FR-France,he-עברית|fr-Français|ar-العربية
 297098,en-English,Chelsea Handler Uganda Be Kidding Me Live,Chelsea Handler Uganda Be Kidding Me Live,,,http://www.chelseahandler.com/news/227993,71,2014-10-10,Comedy,,,US-United States of America,en-English
 318033,en-English,Dreamcatcher,Dreamcatcher,,,,104,2015-03-27,Documentary,,,US-United States of America|GB-United Kingdom,en-English
 224100,en-English,The Paw Project,The Paw Project,,,http://www.pawprojectmovie.com/,58,2013-09-27,Documentary|History,,,US-United States of America,en-English
@@ -6654,7 +6654,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 214137,da-Dansk,The Man Who Saved the World,The Man Who Saved the World,,,https://www.statementfilm.com/,120,2014-08-13,Documentary|Drama,,Danish Film Institute,,ru-Pусский|en-English
 318042,en-English,B-Movie: Lust & Sound in West-Berlin,B-Movie: Lust & Sound in West-Berlin,,,,94,2015-02-05,Music|Documentary,,Scenes From|DEF Media|Interzone Pictures,DE-Germany,en-English|de-Deutsch
 351964,en-English,The Escort,The Escort,,,http://willslocombe.com/?project=the-escort,88,2015-06-15,Drama|Comedy|Romance,,Skyhook Productions|Cloverhill Pictures|Perspective Productions,US-United States of America,en-English
-121640,en-English,Zaytoun,Zaytoun,8000000,42330,,107,2012-10-14,Drama|War|Adventure|Thriller,,Bedlam Productions|H.W. Buffalo & Co,IL-Israel|GB-United Kingdom,ar-العربية|en-English|he-עִבְרִית
+121640,en-English,Zaytoun,Zaytoun,8000000,42330,,107,2012-10-14,Drama|War|Adventure|Thriller,,Bedlam Productions|H.W. Buffalo & Co,IL-Israel|GB-United Kingdom,ar-العربية|en-English|he-עברית
 324150,en-English,Uncle John,Uncle John,,,http://www.unclejohnfilm.com/,114,2015-03-16,Mystery|Drama|Crime|Thriller,,,US-United States of America,en-English
 302502,en-English,Pervert Park,Pervert Park,,,,77,2014-11-06,Crime|Documentary,,Final Cut for Real|De Andra,DK-Denmark|SE-Sweden,en-English
 291156,sr-Srpski,Ničije dete,No One's Child,,,,103,2014-09-01,Drama,,Kinorama|Art & Popcorn,RS-Serbia|HR-Croatia,sr-Srpski
@@ -6685,7 +6685,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 234931,en-English,Russell Brand - From Addiction to Recovery,Russell Brand - From Addiction to Recovery,,,,60,2012-10-01,Documentary,,BBC,GB-United Kingdom,en-English
 312149,en-English,Russell Brand: End the Drugs War,Russell Brand: End the Drugs War,,,,57,2014-12-17,,,,,
 332270,ru-Pусский,Битва за Севастополь,Battle for Sevastopol,5000000,,,110,2015-04-02,Drama|Romance|War,,Kinodel,UA-Ukraine|RU-Russia,en-English|ru-Pусский
-202570,he-עִבְרִית,Shablulim BaGeshem,Snails in the Rain,,,http://www.snailsintherain.com,82,2013-06-20,Drama,,Regal Entertainment|Reshet Broadcasting|FishCorb Films|Rabinovich Film Fund Cinema Project|Second Television & Radio Authority|Mozer Films,IL-Israel,he-עִבְרִית
+202570,he-עברית,Shablulim BaGeshem,Snails in the Rain,,,http://www.snailsintherain.com,82,2013-06-20,Drama,,Regal Entertainment|Reshet Broadcasting|FishCorb Films|Rabinovich Film Fund Cinema Project|Second Television & Radio Authority|Mozer Films,IL-Israel,he-עברית
 128311,en-English,Under the Bed,Under the Bed,,,,87,2012-07-19,Horror,,Site B|Through The Heart,US-United States of America,en-English
 262897,en-English,Un altro mondo,Another World,,,http://www.unaltromondo.net,63,2014-03-15,Documentary,,,IT-Italy,es-Español|en-English|it-Italiano|ja-日本語
 337073,en-English,Almost Mercy,Almost Mercy,,,,84,2015-01-01,Horror,,,,
@@ -6881,7 +6881,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 87835,en-English,Inkubus,Inkubus,,,,82,2011-10-28,Horror,,,US-United States of America,en-English
 125558,en-English,Among Friends,Among Friends,,,http://amongfriendsmovie.com/,80,2012-07-08,Comedy|Horror,,Hollywood Treasures|Three Little Birds Productions,US-United States of America,en-English
 266433,en-English,Ejecta,Ejecta,,,,82,2014-09-24,Science Fiction,,Foresight Features,CA-Canada,en-English
-347328,he-עִבְרִית,אני לא מאמין; אני רובוט!,OMG; I'm a Robot!,,,https://www.facebook.com/OmgRobot,90,2015-08-06,Comedy|Science Fiction,,,IL-Israel,he-עִבְרִית
+347328,he-עברית,אני לא מאמין; אני רובוט!,OMG; I'm a Robot!,,,https://www.facebook.com/OmgRobot,90,2015-08-06,Comedy|Science Fiction,,,IL-Israel,he-עברית
 319910,en-English,Broken Horses,Broken Horses,,,,101,2015-03-15,Thriller|Mystery|Drama|Crime,,Reliance Entertainment,US-United States of America,en-English
 252773,fr-Français,N'importe Qui,WTF,,,,81,2014-03-05,Comedy,,Why Not Productions|Wild Bunch Distribution,FR-France,fr-Français
 284279,no-Norsk,Børning,Burnout,4000000,,https://www.facebook.com/boerning/timeline,93,2014-08-24,Action|Comedy,,Filmkameratene A/S,NO-Norway,no-Norsk
@@ -7009,7 +7009,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 338421,cn-广州话 / 廣州話,迷城,Wild City,,,,102,2015-07-25,Thriller|Action|Crime,,Mei Ah Films Production Co. Ltd.,HK-Hong Kong,cn-广州话 / 廣州話
 314365,en-English,Spotlight,Spotlight,20000000,88346473,http://www.spotlightthefilm.com,128,2015-11-06,Drama|Thriller|History,,Universal Pictures|Participant Media|Anonymous Content|Rocklin / Faust|First Look Media,CA-Canada|US-United States of America,en-English
 359108,en-English,Viva,Viva,,,http://www.viva-movie.com,100,2015-11-08,Drama,,Magnolia Pictures|Irish Film Board|Treasure Entertainment,IE-Ireland|CU-Cuba,es-Español
-336050,hu-Magyar,Saul fia,Son of Saul,1000000,1777043,http://www.sonofsaul.co.uk/,107,2015-06-11,War|Drama|Thriller,,Laokoon Filmgroup|Hungarian National Film Fund,HU-Hungary,fr-Français|de-Deutsch|el-ελληνικά|he-עִבְרִית|hu-Magyar|pl-Polski|ru-Pусский|sk-Slovenčina|yi-ייִדיש
+336050,hu-Magyar,Saul fia,Son of Saul,1000000,1777043,http://www.sonofsaul.co.uk/,107,2015-06-11,War|Drama|Thriller,,Laokoon Filmgroup|Hungarian National Film Fund,HU-Hungary,fr-Français|de-Deutsch|el-ελληνικά|he-עברית|hu-Magyar|pl-Polski|ru-Pусский|sk-Slovenčina|yi-ייִדיש
 101420,en-English,Burden of Evil,Burden of Evil,,,,91,2012-04-22,Thriller,,,,en-English
 333674,en-English,Intruders,Intruders,,,,90,2016-01-15,Drama|Thriller|Horror,,Room 101|Vicarious Entertainment|Campbell Grobman Films|Jeff Rice Films|Black Fish Films,US-United States of America,en-English
 344120,fr-Français,Enragés,Rabid Dogs,,,,100,2015-09-30,Action|Drama|Thriller,,JD Productions|J.S. Productions|Black Dynamite Films|Transfilm International,CA-Canada|FR-France,fr-Français
@@ -7019,7 +7019,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 321228,tr-Türkçe,Remake; Remix; Rip-Off: About Copy Culture & Turkish Pop Cinema,Remake; Remix; Rip-Off: About Copy Culture & Turkish Pop Cinema,,,http://www.remakeremixripoff.com/,96,2014-08-13,Documentary,,Das Kleine Fernsehspiel (ZDF)|UFA Fiction|Cine Plus Filmproduktion|Otomat|Sommerhaus Filmproduktionen,DE-Germany|TR-Turkey,de-Deutsch|tr-Türkçe
 257237,it-Italiano,Il castello,Il castello,,,,,2011-02-26,,,,,it-Italiano
 239523,ja-日本語,劇場版 HUNTER×HUNTER -The LAST MISSION-,Hunter × Hunter: The Last Mission,,,http://www.hxh-movie.jp/,97,2013-12-27,Adventure|Animation|Action,,,,ja-日本語
-239619,de-Deutsch,Hannas Reise,Hanna's Journey,,,,100,2014-01-23,Romance|Comedy,,2Pilots Filmproduction,DE-Germany|IL-Israel,he-עִבְרִית|de-Deutsch|en-English
+239619,de-Deutsch,Hannas Reise,Hanna's Journey,,,,100,2014-01-23,Romance|Comedy,,2Pilots Filmproduction,DE-Germany|IL-Israel,he-עברית|de-Deutsch|en-English
 65766,en-English,Bon appétit,Bon appétit,,,http://wwws.warnerbros.de/bonappetit/,91,2010-11-12,Romance,,,CH-Switzerland,de-Deutsch|es-Español
 285598,en-English,Call Girl of Cthulhu,Call Girl of Cthulhu,,,https://www.facebook.com/cgocthulhu,92,2014-05-08,Comedy|Horror,,Midnight Crew Studios,,en-English
 290382,en-English,Roger Waters: The Wall,Roger Waters: The Wall,,,http://rogerwatersthewall.com/,133,2014-09-29,Music,,Dolby|Rue 21 Productions|Picture House Entertainmet,GB-United Kingdom,en-English|fr-Français
@@ -7075,7 +7075,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 182131,ja-日本語,リトルウィッチアカデミア,Little Witch Academia,480000,,http://littlewitchacademia.jp/,26,2013-03-02,Action|Animation|Comedy|Fantasy,,Trigger,JP-Japan,ja-日本語
 58493,en-English,A Small Act,A Small Act,,,http://www.hbo.com/documentaries/a-small-act/index.html,88,2010-01-01,Documentary,,,,ki-Gĩkũyũ|en-English|sw-Kiswahili|sv-svenska
 62368,it-Italiano,Cat Shit One,Cat Shit One,,,http://catshitone.jp/,25,2010-10-17,Animation|War,,International Digital Artist (IDA),JP-Japan,en-English|ja-日本語
-245536,hu-Magyar,Nyuszi és öz,Rabbit and Deer,,,http://www.rabbitanddeer.com/,17,2013-12-25,Adventure|Animation,,Moholy-Nagy University of Art and Design,HU-Hungary,xx-No Language
+245536,hu-Magyar,Nyuszi és öz,Rabbit and Deer,,,http://www.rabbitanddeer.com/,17,2013-12-25,Adventure|Animation,,Moholy-Nagy University of Art and Design,HU-Hungary,xx
 312940,ru-Pусский,Krot na more,The Mole at the Sea,,,,5,2012-09-01,Comedy|Animation|Adventure,,,RU-Russia,
 355545,en-English,Paul Taylor Creative Domain,Paul Taylor Creative Domain,,,http://www.paultaylorcreativedomain.com/,86,2014-01-31,Documentary,,,,
 285181,no-Norsk,1001 gram,1001 Grams,,,,93,2014-09-07,Drama,,Bulbul Films|CinePostproduction,DE-Germany|NO-Norway,en-English|fr-Français|no-Norsk
@@ -7175,7 +7175,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 353616,en-English,Pitch Perfect 3,Pitch Perfect 3,,,,,2017-12-21,Comedy,,,,en-English
 158675,en-English,Les Misérables in Concert - The 25th Anniversary,Les Misérables in Concert - The 25th Anniversary,,,,178,2010-10-03,History|Music,,,GB-United Kingdom,en-English
 171759,en-English,The Lost Medallion: The Adventures of Billy Stone,The Lost Medallion: The Adventures of Billy Stone,,,http://www.thelostmedallion.com/,97,2013-03-01,Adventure|Family,,Kaos Entertainment,US-United States of America,en-English|de-Deutsch
-336029,he-עִבְרִית,A Tale of Love and Darkness,A Tale of Love and Darkness,4000000,,http://www.focusfeatures.com/loveanddarkness,95,2015-09-03,Drama,,Handsomecharlie Films|Ram Bergman Productions,US-United States of America|IL-Israel,he-עִבְרִית
+336029,he-עברית,A Tale of Love and Darkness,A Tale of Love and Darkness,4000000,,http://www.focusfeatures.com/loveanddarkness,95,2015-09-03,Drama,,Handsomecharlie Films|Ram Bergman Productions,US-United States of America|IL-Israel,he-עברית
 82968,pt-Português,Sangue do Meu Sangue,Blood of My Blood,,,http://filmesanguedomeusangue.blogs.sapo.pt/,140,2011-09-27,Drama,,Midas Filmes,PT-Portugal,pt-Português
 316042,en-English,Hyena Road,Hyena Road,,,http://rhombusmedia.com/film/hyena-road/,120,2015-10-09,War|Drama,,Rhombus Media|International Traders|Buffalo Gal Pictures|Whizbang Films|Triple 7 Films|Bron Creative,CA-Canada,en-English
 304126,fr-Français,Guibord s'en va-t-en guerre,My Internship in Canada,,,,108,2015-10-02,Comedy,,micro_scope,CA-Canada,fr-Français
@@ -7189,14 +7189,14 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 273197,zh-普通话,催眠大师,The Great Hypnotist,,,,104,2014-04-29,Thriller|Drama|Mystery,,,CN-China,zh-普通话
 295799,en-English,Iris,Iris,,,http://www.magpictures.com/iris/,83,2014-10-09,Documentary,,,,en-English
 243352,en-English,Where Hope Grows,Where Hope Grows,,1156000,http://wherehopegrowsmovie.com/,95,2014-04-06,Drama,,Godspeed Pictures,US-United States of America,en-English
-141760,en-English,Sfurim,Numbered,,,http://knowproductions.net/films_new/Numbered,60,2012-10-14,Documentary,,,IL-Israel,he-עִבְרִית
+141760,en-English,Sfurim,Numbered,,,http://knowproductions.net/films_new/Numbered,60,2012-10-14,Documentary,,,IL-Israel,he-עברית
 346079,en-English,6 Ways to Die,6 Ways to Die,,,,103,2015-07-31,Thriller|Action|Crime,,Formula Features,US-United States of America,en-English
 244316,en-English,Into the Grizzly Maze,Into the Grizzly Maze,10000000,,,94,2015-02-27,Action|Horror|Thriller,,Purple Pictures|Paul Schiff Productions|Indomitable Entertainment,CA-Canada|US-United States of America,en-English
 277190,nl-Nederlands,Oorlogsgeheimen,Secrets of War,,,,94,2014-07-03,War|Family|Drama,,Bijker Film & TV,NL-Netherlands,nl-Nederlands
 352208,en-English,Where to Invade Next,Where to Invade Next,,,http://wheretoinvadenext.com/,120,2015-12-23,Documentary,,Dog Eat Dog Films|IMG Films,US-United States of America,en-English
 289097,en-English,Cell 213,Cell 213,,,,109,2011-06-10,Horror,,Access Motion Pictures,CA-Canada,en-English|pt-Português
 357441,en-English,Karachi se Lahore,Karachi se Lahore,,,https://www.epicbuzz.net/movies/karachi-se-lahore,,2015-07-31,Family|Comedy,,,PK-Pakistan,ur-اردو
-359364,fr-Français,Human,Human,13000000,,http://www.human-themovie.org/,263,2015-09-12,Documentary,,Humankind Production|Bettencourt Schuller Foundation|GoodPlanet Foundation,FR-France,ru-Pусский|el-ελληνικά|en-English|es-Español|fr-Français|it-Italiano|pt-Português|ar-العربية|he-עִבְרִית
+359364,fr-Français,Human,Human,13000000,,http://www.human-themovie.org/,263,2015-09-12,Documentary,,Humankind Production|Bettencourt Schuller Foundation|GoodPlanet Foundation,FR-France,ru-Pусский|el-ελληνικά|en-English|es-Español|fr-Français|it-Italiano|pt-Português|ar-العربية|he-עברית
 121869,en-English,Eisenstein in Guanajuato,Eisenstein in Guanajuato,,,https://www.facebook.com/eisensteinguanajuato,105,2015-02-11,Comedy|Romance,,Yleisradio (YLE)|Vrijzinnig Protestantse Radio Omroep (VPRO)|ZDF/Arte|Fu Works|Mollywood|Edith Film Oy|Potemkino|Submarine|Paloma Negra Films,BE-Belgium|FI-Finland|FR-France|MX-Mexico|NL-Netherlands,es-Español|en-English
 310568,lt-Lietuvikai,Sangailės vasara,The Summer of Sangaile,,,,88,2015-03-29,Drama|Romance,,Eurimages|Les Films d'Antoine|Cofinova 10|Fralita Films|Viking Film|Lithuanian Film Center|Netherlands Fund for Film,FR-France|LT-Lithuania|NL-Netherlands,lt-Lietuvikai
 319994,en-English,El botón de nácar,The Pearl Button,,,,82,2015-10-15,Documentary,,France 3 Cinéma|Westdeutscher Rundfunk (WDR)|Ciné+|France Télévisions|Mediapro|Centre National de la Cinématographie (CNC)|Radio Télévision Suisse (RTS)|Atacama Productions|Valdivia Film|Consejo Nacional de la Cultura y las Artes,CL-Chile|FR-France|ES-Spain|CH-Switzerland,es-Español
@@ -7256,7 +7256,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 325848,fr-Français,Connasse; Princesse des cœurs,Connasse; Princesse des cœurs,,,,80,2015-04-29,Comedy,,LGM Productions,BE-Belgium|FR-France,fr-Français
 335724,ru-Pусский,Территория,Territory,,,,170,2015-04-16,Adventure|Drama,,Andreevsky Flag Film Company|Volgafilm,RU-Russia,ru-Pусский
 334328,en-English,Live from New York!,Live from New York!,,,http://www.livefromnewyorkmovie.com,90,2015-04-15,Comedy|Documentary,,BehindTheLine Productions,US-United States of America,
-355600,en-English,Junun,Junun,,,,54,2015-10-09,Music|Documentary,,Ghoulardi Film Company,US-United States of America,en-English|he-עִבְרִית|hi-हिन्दी|ur-اردو
+355600,en-English,Junun,Junun,,,,54,2015-10-09,Music|Documentary,,Ghoulardi Film Company,US-United States of America,en-English|he-עברית|hi-हिन्दी|ur-اردو
 316761,en-English,Call Me Lucky,Call Me Lucky,,,http://www.callmeluckymovie.com/,106,2015-08-07,Documentary,,Type 55 Films,US-United States of America,en-English
 257117,en-English,Blood Punch,Blood Punch,,,,104,2014-02-21,Horror|Thriller,,Bluff Road Productions,US-United States of America,en-English
 362373,en-English,Eaters,Eaters,,,,90,2015-10-06,Horror|Thriller,,,,en-English
@@ -7460,7 +7460,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 314400,it-Italiano,Sangue del mio sangue,Blood of My Blood,,,,106,2015-09-09,History|Drama,,Rai Cinema|IBC Movie|Kavac Film,CH-Switzerland|IT-Italy|FR-France,it-Italiano|la-Latin
 334991,ja-日本語,岸辺の旅,Journey to the Shore,,,,128,2015-09-30,Fantasy|Romance|Drama,,WoWow|Comme des Cinémas|Amuse|Showgate|Pony Canyon|Hakuhodo|Office Shirous,JP-Japan,ja-日本語
 253273,en-English,Patrick's Day,Patrick's Day,,,,102,2014-03-08,,,,,en-English
-284343,he-עִבְרִית,Boreg,Self Made,,,,89,2014-06-16,Drama,,United King Films|Movie Plus productions,IL-Israel,fr-Français|he-עִבְרִית|ar-العربية|de-Deutsch
+284343,he-עברית,Boreg,Self Made,,,,89,2014-06-16,Drama,,United King Films|Movie Plus productions,IL-Israel,fr-Français|he-עברית|ar-العربية|de-Deutsch
 93178,ja-日本語,岳 みんなの山,Peak: The Rescuers,,,,126,2011-05-07,Drama,,Asahi Broadcasting,JP-Japan,ja-日本語
 84094,ja-日本語,Reiruweizu: 49-sai de densha no untenshi ni natta otoko no monogatari,Railways,,,,130,2010-05-29,Drama,,Robot,JP-Japan,ja-日本語
 84942,en-English,The Watermen,The Watermen,1150000,,http://www.thewatermenmovie.com/us/,96,2011-12-25,Horror|Thriller,,Seven Cities Media,US-United States of America,en-English
@@ -7675,7 +7675,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 330007,es-Español,En la Gama de los Grises,In the Grayscale,,,,101,2015-03-06,Romance|Drama,,Tantan Films,CL-Chile,es-Español
 84106,pt-Português,Capitães da Areia,Captains of the Sands,4500000,,http://www.capitaesdaareia.com.br/home.php?lang=en,96,2011-10-07,Adventure|Drama|Foreign,,MGN Filmes,BR-Brazil,pt-Português
 257200,fr-Français,Les conquérants,The Conquerors,,,,96,2013-09-25,Comedy,,Canal+|Moteur s'il vous plaît|Iota Production,FR-France|BE-Belgium,fr-Français
-214099,en-English,Rock the Casbah,Rock the Casbah,,,,93,2013-09-11,Comedy|Drama,,Pathé|Agora Films|Estrella Productions,FR-France|MA-Morocco,ar-العربية|he-עִבְרִית
+214099,en-English,Rock the Casbah,Rock the Casbah,,,,93,2013-09-11,Comedy|Drama,,Pathé|Agora Films|Estrella Productions,FR-France|MA-Morocco,ar-العربية|he-עברית
 259838,en-English,Die Reise zum sichersten Ort der Erde,Journey to the Safest Place on Earth,,,,100,2013-10-10,Documentary,,,,en-English
 253339,en-English,All American High: Revisited,All American High: Revisited,,,,85,2014-03-09,Documentary,,,US-United States of America,en-English
 184080,en-English,Doin' It in the Park: Pick-Up Basketball; NYC,Doin' It in the Park: Pick-Up Basketball; NYC,,,http://buy.doinitinthepark.com/,90,2012-06-17,Documentary|History,,Goldcrest Films International,US-United States of America,en-English
@@ -7689,7 +7689,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 261810,en-English,Silenced,Silenced,,,,95,2014-11-19,Documentary,,,,en-English
 329724,fr-Français,En équilibre,In Harmony,,,,88,2015-04-15,Drama,,Mandarin Films|Cinéfrance 1888,FR-France,fr-Français
 301270,el-ελληνικά,Το γάλα,Το γάλα,,,,99,2012-10-10,Drama,,,,el-ελληνικά
-285848,fr-Français,Félix et Meira,Felix and Meira,,,,105,2015-01-11,Drama|Family|Romance,,Metafilms,CA-Canada,en-English|fr-Français|he-עִבְרִית|it-Italiano|es-Español|yi-ייִדיש
+285848,fr-Français,Félix et Meira,Felix and Meira,,,,105,2015-01-11,Drama|Family|Romance,,Metafilms,CA-Canada,en-English|fr-Français|he-עברית|it-Italiano|es-Español|yi-ייִדיש
 189215,en-English,The Untold History of the United States,The Untold History of the United States,,,,585,2012-11-12,Documentary|History,,Ixtlan Productions|Showtime Networks,US-United States of America,en-English|fr-Français
 193154,ru-Pусский,Ку! Кин-дза-дза,Ku! Kin-dza-dza,4520000,,,100,2013-04-10,Animation|Comedy|Science Fiction,,Ритм|Первый Канал|СТВ|Югра-фильм,RU-Russia,ru-Pусский
 253192,ru-Pусский,Быстрее; чем кролики,Faster than Rabbits,3000000,5279982,,99,2014-01-01,Comedy,,Strela,RU-Russia,ru-Pусский
@@ -7886,7 +7886,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 267094,en-English,9-Man,9-Man,,,http://9-man.com/,87,2014-04-27,Documentary,,,US-United States of America,zh-普通话|en-English|cn-广州话 / 廣州話
 242093,en-English,Under the Electric Sky,Under the Electric Sky,,,,85,2014-05-29,Documentary|Music,,,,
 258435,fr-Français,La Ritournelle,Folies Bergère,,,,98,2014-03-08,Comedy,,Avenue B Productions,FR-France,fr-Français
-214215,en-English,Les Interdits,Friends from France,,,,92,2013-11-27,Drama,,Les Films du Poisson,FR-France,fr-Français|it-Italiano|he-עִבְרִית
+214215,en-English,Les Interdits,Friends from France,,,,92,2013-11-27,Drama,,Les Films du Poisson,FR-France,fr-Français|it-Italiano|he-עברית
 279570,en-English,10%: What Makes a Hero?,10%: What Makes a Hero?,,,http://www.yoavshamirfilms.com/#!10percent/co0g,88,2013-07-16,Adventure|Documentary,,Yoav Shamir Films,CD-Congo|IL-Israel|US-United States of America|ZA-South Africa|DE-Germany,
 122326,en-English,100 Ghost Street: The Return of Richard Speck,100 Ghost Street: The Return of Richard Speck,150,,,84,2012-07-24,Horror,,Asylum,US-United States of America,en-English
 262165,en-English,The Unwanted,The Unwanted,100000,,http://www.itnfilms.net/#!The-Unwanted/c1q8z/558a5e5e0cf2bba69535a098,95,2014-03-31,Drama|Horror|Mystery,,Kino Lorber|Kinokater|ITN Films,US-United States of America,en-English
@@ -7921,7 +7921,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 338614,en-English,Unbranded,Unbranded,,,,105,2015-04-25,Documentary,,,,en-English
 359983,en-English,The Lion Guard: Return of the Roar,The Lion Guard: Return of the Roar,,,,44,2015-11-22,TV Movie|Animation|Family,,Walt Disney Television Animation,,en-English
 135799,ja-日本語,その夜の侍,The Samurai That Night,,,,120,2012-11-17,Drama,,TV Man Union,JP-Japan,ja-日本語
-270646,en-English,Haganenet,The Kindergarten Teacher,,,,120,2014-04-19,Drama,,Haut et Court|Arte France Cinéma|Pie Films,FR-France|IL-Israel,he-עִבְרִית
+270646,en-English,Haganenet,The Kindergarten Teacher,,,,120,2014-04-19,Drama,,Haut et Court|Arte France Cinéma|Pie Films,FR-France|IL-Israel,he-עברית
 52776,en-English,72家租客,72 Tenants of Prosperity,,,,99,2010-02-11,Comedy,,Sil-Metropole Organisation|Shaw Brothers|United Filmmakers Organization (UFO)|Television Broadcasts Limited (TVB),HK-Hong Kong,cn-广州话 / 廣州話
 357681,en-English,Hitting the Apex,Hitting the Apex,,,http://hittingtheapexfilm.com/,138,2015-09-02,Documentary,,First Movie Companie,US-United States of America,en-English
 259694,en-English,How to Be Single,How to Be Single,38000000,112343513,http://howtobesinglemovie.com/,110,2016-01-21,Comedy|Romance,,New Line Cinema|Flower Films|Metro-Goldwyn-Mayer Pictures,US-United States of America,en-English
@@ -7945,7 +7945,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 104194,zh-普通话,10+10,10+10,,,,114,2011-04-01,,,,TW-Taiwan,zh-普通话
 79781,en-English,The Last Fall,The Last Fall,,,http://www.facebook.com/TheLastFallMovie?ref=ts,98,2012-03-09,Drama,,,US-United States of America,en-English
 323968,en-English,OzLand,OzLand,,,http://www.ozlandthefilm.com/,115,2015-02-08,Science Fiction|Drama|Fantasy,,,,
-120172,he-עִבְרִית,Another World,Another World,1000000,,http://www.anotherworldthemovie.com/,100,2014-09-14,Action|Drama|Science Fiction,,Spotlight Pictures,IL-Israel,en-English
+120172,he-עברית,Another World,Another World,1000000,,http://www.anotherworldthemovie.com/,100,2014-09-14,Action|Drama|Science Fiction,,Spotlight Pictures,IL-Israel,en-English
 177112,en-English,Found in Time,Found in Time,,,,,2012-10-05,,,,,
 284460,en-English,Samurai Cop 2: Deadly Vengeance,Samurai Cop 2: Deadly Vengeance,1500000,,https://www.kickstarter.com/projects/samuraicop2/samurai-cop-2-deadly-vengeance,90,2015-10-09,Action|Comedy|Crime,,Cinema Epoch|Cineridge Entertainment,US-United States of America,en-English|ja-日本語
 168112,sv-svenska,Eskil & Trinidad,Eskil & Trinidad,4200000,,,98,2013-03-29,Drama|Family,,SF Film,SE-Sweden,sv-svenska
@@ -8079,7 +8079,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 317442,ja-日本語,The Last: Naruto the Movie,The Last: Naruto the Movie,,,,114,2014-12-06,Action|Animation|Romance,,Aniplex,JP-Japan,ja-日本語
 261157,en-English,Senn,Senn,,,http://sennition.com/,84,2013-02-19,Science Fiction|Mystery|Adventure,,,US-United States of America,en-English
 267955,en-English,Nintendo Quest,Nintendo Quest,,,http://nintendoquest.com/,92,2015-06-26,Documentary,,Vision Films|Pyre Productions,CA-Canada|US-United States of America,en-English
-352200,he-עִבְרִית,Rabin; the Last Day,Rabin; the Last Day,4600000,,,153,2015-11-04,Thriller|Documentary|Drama,,Les films du Worso|Orange Studios|Agav Films|​LGM CINEMA|HAMON HAFAKOT,FR-France|IL-Israel,en-English|he-עִבְרִית
+352200,he-עברית,Rabin; the Last Day,Rabin; the Last Day,4600000,,,153,2015-11-04,Thriller|Documentary|Drama,,Les films du Worso|Orange Studios|Agav Films|​LGM CINEMA|HAMON HAFAKOT,FR-France|IL-Israel,en-English|he-עברית
 366566,fr-Français,Le Grand partage,Le Grand partage,,,,,2015-12-23,Comedy,,Pan Européenne Production,FR-France,fr-Français
 337075,en-English,The Alchemist's Letter,The Alchemist's Letter,,,http://www.alchemistletter.com/,6,2015-04-21,Family|Fantasy|Mystery,,Pixel Veil,US-United States of America,en-English
 309811,en-English,Shadows on the Wall,Shadows on the Wall,,,http://shadows-movie.com/,110,2014-12-10,Horror|Science Fiction,,,US-United States of America,en-English
@@ -8353,7 +8353,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 364116,en-English,The Other Side of the Door,The Other Side of the Door,,14332467,,96,2016-02-25,Thriller|Horror,,Pindrop|Kriti Productions|Fugitive Studios|HireWorks|Lipsync Post,GB-United Kingdom|IN-India,en-English
 291870,en-English,Dirty Grandpa,Dirty Grandpa,11500000,94073028,http://www.dirtygrandpa.movie/,102,2016-01-21,Comedy,,Lionsgate|Josephson Entertainment|QED International|Ninjas Runnin' Wild Productions|Covert Media|BillBlock Media,US-United States of America,en-English
 379297,en-English,Toni Braxton: Unbreak My Heart,Toni Braxton: Unbreak My Heart,,,,85,2016-01-23,Drama|Music,,Lighthouse Pictures,US-United States of America,en-English
-214105,he-עִבְרִית,Plaot,The Wonders,,,,112,2013-06-05,Mystery,,United King Films,IL-Israel,he-עִבְרִית
+214105,he-עברית,Plaot,The Wonders,,,,112,2013-06-05,Mystery,,United King Films,IL-Israel,he-עברית
 364427,ru-Pусский,Орлеан,Orleans,2500000,302000,,106,2015-09-17,Drama|Comedy|Thriller,,Central Partnership,RU-Russia,ru-Pусский
 333377,en-English,Requiem for the American Dream,Requiem for the American Dream,,44695,http://requiemfortheamericandream.com/,73,2015-04-18,Documentary,,PF Pictures|Naked City Films,US-United States of America,en-English
 159514,en-English,Matterhorn,Matterhorn,,,,87,2013-01-24,Drama|Comedy,,Column Film,NL-Netherlands,de-Deutsch|nl-Nederlands
@@ -8490,7 +8490,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 333350,en-English,A Faster Horse,A Faster Horse,,,,90,2015-10-08,Documentary,,White Horse Pictures,US-United States of America,en-English
 253282,en-English,She's Lost Control,She's Lost Control,,,http://sheslostcontrolmovie.com/,90,2014-02-09,Drama,,Rotor Film Babelsberg|SLC Film,US-United States of America,en-English
 307318,en-English,Stephen Fry Live: More Fool Me,Stephen Fry Live: More Fool Me,,,,94,2014-11-01,,,,,
-329063,ru-Pусский,Мы не можем жить без космоса,We Can't Live Without Cosmos,,,,16,2014-08-21,Animation|Drama,,Melnitsa Animation Studio|The CTB Film Company,RU-Russia,xx-No Language
+329063,ru-Pусский,Мы не можем жить без космоса,We Can't Live Without Cosmos,,,,16,2014-08-21,Animation|Drama,,Melnitsa Animation Studio|The CTB Film Company,RU-Russia,xx
 86495,en-English,Oliver Sherman,Oliver Sherman,,,,90,2011-02-04,Drama,,,,en-English
 370168,es-Español,Chicago Boys,Chicago Boys,,,,,2015-11-08,Documentary,,,,
 374618,en-English,Scrawl,Scrawl,,,https://www.facebook.com/scrawlmovie,82,2015-10-17,Horror|Fantasy,,,,en-English
@@ -8884,7 +8884,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 375742,pl-Polski,Córki dancingu,The Lure,1300000,101657,,92,2015-12-25,Horror|Music,,Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF)|Telewizja Polska	(koprodukcja)|Polski Instytut Sztuki Filmowej (współfinansowanie)|Platige Image (koprodukcja)|HBO Polska (koprodukcja),PL-Poland,pl-Polski
 336011,en-English,White Girl,White Girl,700000,200242,,88,2016-09-02,Drama,,Killer Films|Greencard Pictures|Bank Street Films|Supermarché,US-United States of America,en-English
 290825,en-English,Yoga Hosers,Yoga Hosers,5000000,,http://www.yogahosers.com/,88,2016-07-08,Comedy|Fantasy|Horror|Thriller,,Invincible Pictures Corp.|Abbolita Productions|Destro Films,US-United States of America,en-English|fr-Français|de-Deutsch
-239103,de-Deutsch,Lauf Junge lauf,Run Boy Run,,,,108,2013-11-12,Drama|War,,,DE-Germany|FR-France|PL-Poland,he-עִבְרִית|de-Deutsch|pl-Polski|yi-ייִדיש
+239103,de-Deutsch,Lauf Junge lauf,Run Boy Run,,,,108,2013-11-12,Drama|War,,,DE-Germany|FR-France|PL-Poland,he-עברית|de-Deutsch|pl-Polski|yi-ייִדיש
 157005,en-English,Google and the World Brain,Google and the World Brain,,,http://www.worldbrainthefilm.com/,89,2013-01-18,Documentary,,,,en-English
 333663,en-English,War on Everyone,War on Everyone,,,,98,2016-10-07,Comedy,,Head Gear Films|Reprisal Films|Metrol Technology|Kreo Films FZ|Reel Chefs Catering,GB-United Kingdom,nl-Nederlands|en-English|pt-Português
 250852,en-English,The Notorious Mr. Bout,The Notorious Mr. Bout,,,,94,2014-01-17,Documentary,,,,ru-Pусский|en-English
@@ -8949,7 +8949,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 298165,en-English,He Took His Skin Off for Me,He Took His Skin Off for Me,,,http://hetookhisskinoffforme.com/,11,2014-10-18,Horror|Drama|Romance,,,GB-United Kingdom,en-English
 334362,de-Deutsch,Highway to Hellas,Highway to Hellas,,,,89,2015-08-06,Comedy,,Pantaleon Entertainment GmbH,GR-Greece|DE-Germany,de-Deutsch|el-ελληνικά
 203890,en-English,2 Hours,2 Hours,,,,26,2012-09-29,Horror,,,,en-English
-276828,en-English,Wind,Wind,,,,4,2013-06-15,Animation,,,,xx-No Language
+276828,en-English,Wind,Wind,,,,4,2013-06-15,Animation,,,,xx
 317213,es-Español,Les Bessons Del Carrer de Potent,The Twin Girls of Sunset Street,,,http://vimeo.com/111524409,12,2010-02-10,Thriller|Animation|Crime,,,ES-Spain,en-English
 195030,fr-Français,Palmipédarium,Palmipedarium,,,,10,2012-09-14,Animation|Drama,,,FR-France,fr-Français
 348396,en-English,Ave Maria,Ave Maria,,,,15,2015-05-18,,,,,
@@ -9388,7 +9388,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 375170,zh-普通话,紅衣小女孩,The Tag-Along,,,,92,2015-11-17,Thriller|Horror,,Once Upon A Story|Greener Grass,TW-Taiwan,zh-普通话
 330916,en-English,King Jack,King Jack,,,http://kingjackmovie.com/,81,2015-04-01,Drama,,Whitewater Films|Stink Films|Buffalo Picture House,US-United States of America,en-English
 376549,cn-广州话 / 廣州話,The Strange House,The Strange House,,,,87,2015-07-24,Drama|Horror|Mystery|Thriller,,Magilm Pictures,CN-China,cn-广州话 / 廣州話
-87061,xx-No Language,Le Voyage Extraordinaire,The Extraordinary Voyage,,,http://www.lobsterfilms.com/,78,2011-12-08,Adventure|Documentary|Fantasy,,,,en-English|fr-Français
+87061,xx,Le Voyage Extraordinaire,The Extraordinary Voyage,,,http://www.lobsterfilms.com/,78,2011-12-08,Adventure|Documentary|Fantasy,,,,en-English|fr-Français
 216203,en-English,Pieces of Talent,Pieces of Talent,,,http://piecesoftalent.com,95,2012-01-01,Horror|Thriller,,,US-United States of America,en-English
 332872,es-Español,Julieta,Julieta,1490000,,http://sonyclassics.com/julieta/,96,2016-04-08,Drama|Romance,,El Deseo|TVE|Canal+ France|Ciné +,ES-Spain,es-Español
 339397,en-English,Café Society,Café Society,30000000,43763247,http://www.cafesocietymovie.com/#,96,2016-05-11,Comedy|Drama|Romance,,Gravier Productions|Perdido Productions,US-United States of America,en-English
@@ -9673,7 +9673,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 254664,zh-普通话,一路有你,The Journey,1220000,,http://thejourney.my,102,2014-01-30,Comedy|Drama|Family,,Astro Shaw|Woohoo Pictures,MY-Malaysia,cn-广州话 / 廣州話|en-English|ms-Bahasa melayu|zh-普通话
 64694,es-Español,No eres tú; soy yo,No eres tú; soy yo,,,,100,2010-08-27,Drama|Comedy|Romance|Foreign,,Warner Bros. Television|Fidecine|Río Negro Producciones,MX-Mexico,es-Español
 402877,en-English,Lifeline,Lifeline,,,http://www.lifelinefilm.com/,32,2016-05-06,Thriller,,,,zh-普通话|en-English
-337703,fr-Français,La tortue rouge,The Red Turtle,,921974,,80,2016-06-29,Animation|Drama|Fantasy,,Why Not Productions|Wild Bunch|Prima Linéa Productions|Belvision|Arte France Cinéma|Studio Ghibli|CN4 Productions,FR-France|JP-Japan,xx-No Language
+337703,fr-Français,La tortue rouge,The Red Turtle,,921974,,80,2016-06-29,Animation|Drama|Fantasy,,Why Not Productions|Wild Bunch|Prima Linéa Productions|Belvision|Arte France Cinéma|Studio Ghibli|CN4 Productions,FR-France|JP-Japan,xx
 228941,ja-日本語,Hotori no sakuko,Au revoir l'été,,,,125,2013-10-19,Drama,,Wa Entertainment,JP-Japan,ja-日本語
 81633,ja-日本語,歓待,Hospitalité,,,,96,2010-10-24,Comedy|Foreign,,,JP-Japan,ja-日本語
 394047,en-English,The Dog Lover,The Dog Lover,2000000,,http://www.thedoglovermovie.com/,101,2016-07-08,Drama,,ESX Productions|ESX Entertainment,US-United States of America,en-English
@@ -9681,7 +9681,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 400411,en-English,Satanic,Satanic,,252,http://www.magnetreleasing.com/satanic/,84,2016-07-01,Horror,,Marvista Entertainment|Circle of Confusion,US-United States of America,en-English
 376233,en-English,Life; Animated,Life; Animated,,,http://www.lifeanimateddoc.com/,91,2016-03-03,Animation|Documentary,,A&E IndieFilms|Motto Pictures|Roger Ross Williams Productions,FR-France|US-United States of America,en-English
 364051,fr-Français,Les Innocentes,The Innocents,6000000,,http://www.filmsdistribution.com/Film.aspx?ID=8474,115,2016-02-10,Drama,,France 2 Cinéma|Mars Films|Eurimages|Canal+|Polish Film Institute|Ciné+|Scope Pictures|France 2 (FR2)|Mandarin Films|Aeroplan Film|Sofica Manon 5|Cofinova 11|La Banque Postale Image 8|A Plus Image 6|NC+,PL-Poland|FR-France,fr-Français|pl-Polski|ru-Pусский
-349441,en-English,Ha'milim ha'tovot,The Kind Words,,,,118,2015-05-28,Drama,,Pie Films|Amérique Film,CA-Canada|IL-Israel,fr-Français|he-עִבְרִית
+349441,en-English,Ha'milim ha'tovot,The Kind Words,,,,118,2015-05-28,Drama,,Pie Films|Amérique Film,CA-Canada|IL-Israel,fr-Français|he-עברית
 373479,en-English,Eat that Question: Frank Zappa in His Own Words,Eat that Question: Frank Zappa in His Own Words,,,,88,2016-05-03,Music|Documentary,,,DE-Germany|FR-France,en-English
 373922,cn-广州话 / 廣州話,三人行,Three,,,,88,2016-06-02,Thriller|Crime|Action,,Milky Way Image Company|Media Asia Group,HK-Hong Kong,cn-广州话 / 廣州話|zh-普通话
 359641,es-Español,Zonda: folclore argentino,Argentina,,,,85,2015-09-26,Music|Documentary,,MK2 Production|Instituto Nacional de Cine y Artes Audiovisuales (INCAA),AR-Argentina|FR-France|ES-Spain,es-Español
@@ -9752,7 +9752,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 356201,ko-한국어/조선말,돌연변이,Collective Invention,,,,92,2015-09-14,Comedy|Drama,,CJ Entertainment,KR-South Korea,ko-한국어/조선말
 392885,en-English,Daniel Tosh: People Pleaser,Daniel Tosh: People Pleaser,,,,62,2016-04-17,Comedy,,Irwin Entertainment|Black Heart Productions|Tosh Company Inc.,US-United States of America,en-English
 175427,en-English,These Birds Walk,These Birds Walk,,,http://thesebirdswalk.net,71,2013-11-01,Documentary|Drama,,Oscilloscope Laboratories,PK-Pakistan,ur-اردو
-318052,en-English,The Man in the Wall,The Man in the Wall,,,http://www.6sales.es/the-man-in-the-wall.html,92,2015-01-22,,,United Channel Movies,IL-Israel,he-עִבְרִית
+318052,en-English,The Man in the Wall,The Man in the Wall,,,http://www.6sales.es/the-man-in-the-wall.html,92,2015-01-22,,,United Channel Movies,IL-Israel,he-עברית
 254251,en-English,Our RoboCop Remake,Our RoboCop Remake,,,http://ourrobocopremake.com/,106,2014-01-26,Comedy|Action|Crime|Science Fiction,,Channel 101,US-United States of America,en-English
 98948,en-English,Abraham Lincoln vs. Zombies,Abraham Lincoln vs. Zombies,150000,,http://www.theasylum.cc/product.php?id=202,90,2012-05-29,Horror|Action|Thriller,,Asylum; The,US-United States of America,en-English
 215814,en-English,Forbidden Ground,Forbidden Ground,,,,95,2013-08-16,War|Action|Drama,,24/7 Films|Armzfx|Scarlet Fire Films,AU-Australia,en-English
@@ -9833,7 +9833,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 390584,en-English,King Cobra,King Cobra,,,https://tribecafilm.com/filmguide/archive/king-cobra-2016,92,2016-04-16,Crime|Drama,,RabbitBandini Productions|SSS Entertainment|Yale Productions|BondIt|Digital Ignition Entertainment,US-United States of America,en-English
 396395,en-English,The Wedding March,The Wedding March,,,http://www.hallmarkchannel.com/the-wedding-march,84,2016-06-25,Romance|TV Movie,,,,en-English
 230058,en-English,Tumbledown,Tumbledown,,,http://tlareleasing.com/films/tumbledown/,80,2013-10-25,Drama|Mystery|Romance,,TLA Releasing|Bangor Films,US-United States of America,en-English
-168552,he-עִבְרִית,Hanoar,Youth,,,,107,2013-08-29,Drama,,United King Films|Green Productions|ONE TWO Films,IL-Israel,he-עִבְרִית
+168552,he-עברית,Hanoar,Youth,,,,107,2013-08-29,Drama,,United King Films|Green Productions|ONE TWO Films,IL-Israel,he-עברית
 324277,en-English,Jaco,Jaco,,,,111,2014-10-06,Music|Documentary,,,,
 390989,en-English,Sharknado 4: The 4th Awakens,Sharknado 4: The 4th Awakens,,,http://www.syfy.com/sharknado4,85,2016-07-31,Comedy|Horror|Science Fiction,,The Asylum|Syfy|BondIt,US-United States of America,en-English
 382079,en-English,Donald Trump's The Art of the Deal: The Movie,Donald Trump's The Art of the Deal: The Movie,,,http://www.funnyordie.com/videos/ad38087bac/donald-trump-art-of-the-deal-movie?_cc=__d___&_ccid=96a7f26975065b2e,50,2016-02-10,Comedy,,Funny or Die,US-United States of America,en-English
@@ -10038,7 +10038,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 267802,es-Español,Cambio de Ruta,Cambio de Ruta,,,http://www.cambioderuta.com.mx/,,2014-05-23,,,,,es-Español
 75452,no-Norsk,Mennesker i solen,People in the Sun,,,,78,2011-03-04,Comedy|Drama,,,NO-Norway,da-Dansk|no-Norsk
 374617,en-English,Imperium,Imperium,,35000,http://www.imperiumthemovie.com/,109,2016-08-19,Crime|Drama|Thriller,,Grindstone Entertainment Group|Tycor International Film Company|Sculptor Media|Green-Light International|Atomic Features,US-United States of America,en-English
-361069,he-עִבְרִית,ברש,Blush,,,http://lamafilms.com/movie/barash,85,2015-10-22,Drama|Romance,,Lama Films|Israel Film Fund,IL-Israel,ar-العربية|he-עִבְרִית
+361069,he-עברית,ברש,Blush,,,http://lamafilms.com/movie/barash,85,2015-10-22,Drama|Romance,,Lama Films|Israel Film Fund,IL-Israel,ar-العربية|he-עברית
 378503,en-English,Ranenyy Angel,The Wounded Angel,,,,113,2016-02-11,Drama,,Capricci Films|Augenschein Filmproduktion|Kazahfilm Studios,FR-France|DE-Germany|KZ-Kazakhstan,
 383064,fr-Français,La route d'Istanbul,Road to Istanbul,,,,100,2016-02-15,Drama,,Arte France|3B Productions|Tassili Films|Scope Pictures,DZ-Algeria|BE-Belgium|FR-France,ar-العربية|fr-Français|tr-Türkçe
 278738,en-English,The Greggs,The Greggs,,,,20,2014-06-26,,,,,en-English
@@ -10210,7 +10210,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 250388,en-English,Rampage: Capital Punishment,Rampage: Capital Punishment,,,,93,2014-07-19,Action|Crime|Thriller,,Boll Kino Beteiligungs GmbH & Co. KG|Studio West Productions(VCC)|Amok II Productions,CA-Canada|DE-Germany,en-English
 395925,en-English,Rampage: President Down,Rampage: President Down,,,,,2016-08-26,Thriller|Action|Crime,,Event Film Distribution,US-United States of America|CA-Canada,en-English
 127236,ru-Pусский,Я тоже хочу,Me Too,,,,89,2012-09-07,Drama|Foreign,,CTB Film Company,RU-Russia,ru-Pусский
-352812,en-English,Tick Tock Tale,Tick Tock Tale,,,,6,2010-06-10,Animation,,Walt Disney Pictures|Walt Disney Animation Studios,US-United States of America,en-English|xx-No Language
+352812,en-English,Tick Tock Tale,Tick Tock Tale,,,,6,2010-06-10,Animation,,Walt Disney Pictures|Walt Disney Animation Studios,US-United States of America,en-English|xx
 338544,en-English,For the Love of Spock,For the Love of Spock,,,http://fortheloveofspock.com/,105,2016-09-09,Documentary,,455 Films,CA-Canada|US-United States of America,en-English
 392091,en-English,Los Punks: We Are All We Have,Los Punks: We Are All We Have,,,,79,2016-01-22,Documentary,,,US-United States of America,en-English
 364615,es-Español,Toro,Toro,4000000,,,105,2016-04-22,Drama|Crime|Thriller,,Escándalo Films|Apaches Entertainment|Zircocine|Atresmedia Cine,ES-Spain,es-Español
@@ -10262,7 +10262,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 385654,hr-Hrvatski,Život je truba,Life Is a Trumpet,,,,92,2015-10-15,Drama|Comedy,,Film House Bas Celik|Film and Music Entertainment (F&ME)|Artikulacija,HR-Croatia|GB-United Kingdom|SI-Slovenia|ME-Montenegro|RS-Serbia,hr-Hrvatski
 359870,en-English,Burn Burn Burn,Burn Burn Burn,,,,106,2016-10-28,Drama|Comedy,,Rather Good Films,GB-United Kingdom,en-English
 329718,en-English,Altamira,Finding Altamira,9500000,,http://morenafilms.com/en/peliculas/altamira-2/,97,2016-04-01,Drama|History,,Morena Films,ES-Spain|GB-United Kingdom|FR-France,en-English
-231762,en-English,8,8,,,,9,2010-04-30,War,,Turbulence Films,CH-Switzerland,xx-No Language
+231762,en-English,8,8,,,,9,2010-04-30,War,,Turbulence Films,CH-Switzerland,xx
 355771,en-English,Return of the Atom,Return of the Atom,,,http://deckert-distribution.com/film-catalogue/return-of-the-atom/,110,2015-09-11,Documentary,,,,
 190681,en-English,L'accordeur,The Piano Tuner,,,,14,2011-01-04,Drama|Thriller,,,,fr-Français
 329639,pt-Português,Desculpe o Transtorno,Love Stories,,,,94,2016-09-15,Comedy,,Gullane Filmes,BR-Brazil,pt-Português
@@ -10400,7 +10400,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 377492,en-English,Dirty 30,Dirty 30,,,http://dirtythirtymovie.com/,87,2016-09-23,Romance|Comedy,,Lionsgate,US-United States of America,en-English
 411638,es-Español,Tarde para la ira,The Fury of a Patient Man,1200000,,,92,2016-09-09,Thriller,,La Canica Films|Agosto la Película,ES-Spain,es-Español
 241639,zh-普通话,夜莺,The Nightingale,,,,100,2014-02-26,Drama,,China Film Co-Production Corporation|Envision Films|Stellar Mega Films|Centre National de la Cinématographie (CNC)|Pan Eurasia Films|Kinology,FR-France|CN-China,zh-普通话
-280030,en-English,Farewell Baghdad,Farewell Baghdad,,,,105,2014-04-10,Drama,,United King Films|Movie Plus productions,IL-Israel,ar-العربية|he-עִבְרִית
+280030,en-English,Farewell Baghdad,Farewell Baghdad,,,,105,2014-04-10,Drama,,United King Films|Movie Plus productions,IL-Israel,ar-العربية|he-עברית
 392820,en-English,Gimme Danger,Gimme Danger,,,http://www.gimmedangerfilm.com/,108,2016-10-28,Documentary,,,US-United States of America,en-English
 384036,en-English,Mannerlaatta,Tectonic Plate,,,,73,2016-02-15,,,,FI-Finland,
 396899,fr-Français,La jeune fille sans mains,The Girl Without Hands,,,,76,2016-12-14,Animation,,Les Films Pelléas|Les Films Sauvages,FR-France,fr-Français
@@ -10414,7 +10414,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 402612,hu-Magyar,Gondolj rám,Gondolj rám,,,,103,2016-01-21,Drama|Comedy,,Inzert44,HU-Hungary,hu-Magyar
 363383,hu-Magyar,Az éjszakám a nappalod,My Night; Your Day,,,,,2015-10-26,Crime|Comedy,,Új Budapest Filmstudió,,
 412437,fi-suomi,Pahan kukat,Flowers of Evil,,,,105,2016-06-14,Drama|Crime,,Solar Films inc.,FI-Finland,fi-suomi
-414771,he-עִבְרִית,The Last Band In Lebanon,The Last Band in Lebanon,,,,98,2016-10-13,Comedy,,United King Films,IL-Israel,ar-العربية|he-עִבְרִית
+414771,he-עברית,The Last Band In Lebanon,The Last Band in Lebanon,,,,98,2016-10-13,Comedy,,United King Films,IL-Israel,ar-العربية|he-עברית
 395560,en-English,Capsule,Capsule,1300000,,http://capsulethemovie.com/,91,2015-12-23,Drama|History|Thriller|Science Fiction,,Ecaveo Capital Partners|Hermes Space Industries,GB-United Kingdom,en-English
 381046,en-English,The Dwarvenaut,The Dwarvenaut,,,,82,2016-04-30,Documentary,,Raving Cyclops Studios,US-United States of America,en-English
 356335,en-English,Man vs. Snake,Man vs. Snake,,,,93,2015-09-27,Documentary,,,,
@@ -10514,7 +10514,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 324560,en-English,Brimstone,Brimstone,,,http://www.brimstonethemovie.com/,148,2017-01-12,Mystery|Thriller|Western,,X-Filme Creative Pool|Film i Väst|Prime Time|Illusion Film & Television|Backup Media|N279 Entertainment|FilmWave,GB-United Kingdom|US-United States of America|NL-Netherlands|FR-France|DE-Germany|BE-Belgium|SE-Sweden,nl-Nederlands|en-English|pt-Português
 416390,en-English,Dugma: The Button,Dugma: The Button,,,https://www.journeyman.tv/film/6585/dugma-the-button,58,2016-01-01,,,,NO-Norway,
 207932,en-English,Inferno,Inferno,75000000,220021259,http://www.infernothemovie.com/,121,2016-10-13,Thriller,,Columbia Pictures|Imagine Entertainment|Mid Atlantic Films|Sony Pictures Releasing|LStar Capital,HU-Hungary|US-United States of America,en-English
-331313,en-English,Keeping Up with the Joneses,Keeping Up with the Joneses,40000000,29918745,http://www.JonesesMovie.com/,105,2016-10-20,Action|Comedy,,Fox 2000 Pictures|Parkes+MacDonald Image Nation,US-United States of America,he-עִבְרִית|en-English
+331313,en-English,Keeping Up with the Joneses,Keeping Up with the Joneses,40000000,29918745,http://www.JonesesMovie.com/,105,2016-10-20,Action|Comedy,,Fox 2000 Pictures|Parkes+MacDonald Image Nation,US-United States of America,he-עברית|en-English
 335796,en-English,Ouija: Origin of Evil,Ouija: Origin of Evil,9000000,81705746,http://ouijamovie.com/,99,2016-10-20,Horror|Thriller,,Universal Pictures|Platinum Dunes|Hasbro|Blumhouse Productions|Allspark Pictures,US-United States of America,en-English
 381040,en-English,My Blind Brother,My Blind Brother,,,,85,2016-09-19,Comedy|Drama|Romance,,Safehouse Pictures|Low Spark Films|Think Media Studios,US-United States of America,en-English
 419147,en-English,Louis Theroux: Savile,Louis Theroux: Savile,,,,75,2016-10-02,Documentary,,BBC,GB-United Kingdom,en-English
@@ -10792,7 +10792,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 402693,es-Español,100 metros,100 Meters,,,,,2016-11-04,Comedy|Drama,,Filmax|Castelao Pictures,PT-Portugal|ES-Spain,es-Español
 40690,en-English,Classic Albums: Black Sabbath - Paranoid,Classic Albums: Black Sabbath - Paranoid,,,http://blacksabbath.com,55,2010-06-28,Music|Documentary,,British Broadcasting Corporation (BBC)|Isis Productions,GB-United Kingdom,en-English
 254047,en-English,The Wedding Pact,The Wedding Pact,,,,91,2014-02-04,Comedy|Romance,,Freefall Films,US-United States of America,en-English
-128104,en-English,Inch'Allah,Inch'Allah,,,http://www.inchallah-lefilm.com/,101,2012-09-08,Drama,,micro_scope,CA-Canada|FR-France,ar-العربية|en-English|fr-Français|he-עִבְרִית
+128104,en-English,Inch'Allah,Inch'Allah,,,http://www.inchallah-lefilm.com/,101,2012-09-08,Drama,,micro_scope,CA-Canada|FR-France,ar-العربية|en-English|fr-Français|he-עברית
 396232,en-English,Sour Grapes,Sour Grapes,,,http://www.sourgrapesfilm.com/,86,2016-05-27,Documentary,,Met Film Production,GB-United Kingdom,en-English
 378480,en-English,Il Solengo,Il Solengo,,,,70,2016-01-30,Documentary,,,,
 393961,en-English,Food Choices,Food Choices,,,http://foodchoicesmovie.com,90,2016-04-21,Documentary,,,,en-English
@@ -10824,7 +10824,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 363093,ko-한국어/조선말,대호,The Tiger: An Old Hunter's Tale,5000,11083449,,139,2015-12-16,Action|Adventure|History|Thriller,,Next Entertainment World|Sanai Pictures,KR-South Korea,ja-日本語|ko-한국어/조선말
 128111,ko-한국어/조선말,범죄소년,Juvenile Offender,,,,107,2012-09-11,,,,KR-South Korea,ko-한국어/조선말
 102871,it-Italiano,Giochi d'estate,Summer Games,2000000,,,98,2011-09-01,Drama,,Look Now,CH-Switzerland|IT-Italy,it-Italiano
-71543,en-English,Hadikduk HaPnimi,Intimate Grammar,,,,110,2010-09-23,Drama,,Norma Productions|Libretto Films,IL-Israel,he-עִבְרִית
+71543,en-English,Hadikduk HaPnimi,Intimate Grammar,,,,110,2010-09-23,Drama,,Norma Productions|Libretto Films,IL-Israel,he-עברית
 44010,en-English,Logan,Logan,135000,10474,http://www.realbean.com/l/home.php,94,2010-09-10,Comedy|Drama|Family,,logan films|Real Bean Entertainment|Avilon Audio,US-United States of America,en-English
 86821,en-English,Ayn Rand & the Prophecy of Atlas Shrugged,Ayn Rand & the Prophecy of Atlas Shrugged,,,http://atlasshruggeddocumentary.com/,87,2011-11-01,Documentary,,,US-United States of America,en-English
 201365,en-English,Belle du Seigneur,Belle du Seigneur,,,,124,2012-11-29,Drama|Romance,,Delux Productions|B.D.S. Productions|TNVO,BE-Belgium|FR-France|LU-Luxembourg,en-English
@@ -10911,7 +10911,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 418693,en-English,Marathon: The Patriots Day Bombing,Marathon: The Patriots Day Bombing,,,http://www.hbo.com/documentaries/marathon-the-patriots-day-bombing,108,2016-11-21,Documentary,,HBO Documentary Films,US-United States of America,en-English
 394423,en-English,Mourning Son,Mourning Son,,,http://mourningsonthefilm.com,107,2015-12-01,Documentary,,Spread Entertainment,US-United States of America,en-English
 418691,en-English,Shadows of the Dead,Shadows of the Dead,,,,90,2016-10-22,Horror,,Cinetel Films,US-United States of America,en-English
-412213,he-עִבְרִית,ישמח חתני,The Women's Balcony,,,,96,2016-09-29,Drama|Comedy,,Pie Films,IL-Israel,he-עִבְרִית
+412213,he-עברית,ישמח חתני,The Women's Balcony,,,,96,2016-09-29,Drama|Comedy,,Pie Films,IL-Israel,he-עברית
 406431,en-English,The Hurt Business,The Hurt Business,,,,107,2016-01-01,Documentary,,Generation Iron Fitness Network|Vladar Company; The,US-United States of America,en-English
 389044,fr-Français,L'effet aquatique,The Together Project,,,,82,2016-06-29,Drama|Comedy|Romance,,Agat Films|Ex Nihilo|Zik Zak Filmworks,FR-France|IS-Iceland,en-English|fr-Français|is-Íslenska
 345727,en-English,Pentatonix: On My Way Home,Pentatonix: On My Way Home,,,,90,2015-06-18,Music|Documentary,,,,
@@ -11041,7 +11041,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 381289,en-English,A Dog's Purpose,A Dog's Purpose,22000000,194647323,https://www.uphe.com/movies/a-dogs-purpose,100,2017-01-19,Comedy|Drama|Family|Fantasy,,Universal Pictures|Amblin Entertainment|Pariah Entertainment Group|Original Pictures|Reliance Entertainment|Walden Media|Pariah,US-United States of America,en-English
 266558,en-English,Casus Belli,Casus Belli,,,http://casusbellifilm.com/film/,11,2010-12-09,,,,,el-ελληνικά
 334890,en-English,The Schoolboy,The Schoolboy,,,,20,2015-04-11,Mystery|Drama,,,,en-English
-393521,he-עִבְרִית,שבוע ויום,One Week and a Day,,,,98,2016-12-14,Comedy|Drama,,Black Sheep Film Productions,IL-Israel,he-עִבְרִית
+393521,he-עברית,שבוע ויום,One Week and a Day,,,,98,2016-12-14,Comedy|Drama,,Black Sheep Film Productions,IL-Israel,he-עברית
 360814,hi-हिन्दी,दंगल,Dangal,10400000,310000000,,161,2016-12-23,Drama,,Walt Disney Pictures|Aamir Khan Productions,IN-India,hi-हिन्दी
 65871,en-English,Zombie Undead,Zombie Undead,,,http://www.zombieundead.com/,79,2010-01-15,Horror,,,,en-English
 229878,en-English,공범,Blood and Ties,,,,95,2013-10-24,Thriller,,CJ Entertainment,KR-South Korea,ko-한국어/조선말
@@ -11125,7 +11125,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 76420,en-English,DC Showcase: Catwoman,DC Showcase: Catwoman,,,,15,2011-10-18,Action|Adventure|Animation|Science Fiction,,DC Comics|Warner Bros. Animation|Warner Premiere|DC Entertainment,US-United States of America,en-English
 269246,en-English,Batman Beyond Darwyn Cooke's Batman 75th Anniversary Short,Batman Beyond Darwyn Cooke's Batman 75th Anniversary Short,,,,1,2014-04-19,Action|Animation|Science Fiction,,DC Comics|Warner Bros. Animation,US-United States of America,en-English
 264170,en-English,Batman: Strange Days,Batman: Strange Days,,,,3,2014-04-09,Action|Animation,,DC Comics,US-United States of America,en-English
-256421,en-English,Superman 75,Superman 75,,,http://www.dccomics.com/,2,2013-10-15,Documentary|Animation,,Warner Bros. Animation,US-United States of America,xx-No Language
+256421,en-English,Superman 75,Superman 75,,,http://www.dccomics.com/,2,2013-10-15,Documentary|Animation,,Warner Bros. Animation,US-United States of America,xx
 43641,en-English,Superman/Shazam!: The Return of Black Adam,Superman/Shazam!: The Return of Black Adam,,,,25,2010-11-09,Animation|Action,,DC Comics|Warner Premiere,US-United States of America,en-English
 365037,en-English,Swearnet Live,Swearnet Live,,,,75,2014-10-01,Comedy,,Netflix,CA-Canada,en-English
 274326,en-English,Trailer Park Boys - Live in F**kin' Dublin,Trailer Park Boys - Live in F**kin' Dublin,,,http://www.netflix.com,81,2014-05-01,Comedy,,,,
@@ -11163,7 +11163,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 334679,en-English,All Work All Play: The Pursuit of eSports Glory Live,All Work All Play: The Pursuit of eSports Glory Live,,,,90,2015-04-20,Documentary,,,,en-English
 102053,en-English,Them Idiots: Whirled Tour,Them Idiots: Whirled Tour,,,,120,2012-03-12,Comedy,,Country Music Television (CMT)|Parallel Entertainment Pictures,US-United States of America,
 289171,fr-Français,Le Grimoire d'Arkandias,The Secret of Arkandias,,,,91,2014-10-22,Fantasy|Comedy|Adventure,,UGC Distribution|Les films du 24|Umedia|Cinéfrance 1888,FR-France,fr-Français
-412205,en-English,Past Life,Past Life,,,,110,2016-12-01,Drama,,United King Films|Metro Communications|Artomas Communications|Ars Veritas Productions|Sunshine Films,IL-Israel,en-English|de-Deutsch|he-עִבְרִית|pl-Polski
+412205,en-English,Past Life,Past Life,,,,110,2016-12-01,Drama,,United King Films|Metro Communications|Artomas Communications|Ars Veritas Productions|Sunshine Films,IL-Israel,en-English|de-Deutsch|he-עברית|pl-Polski
 429238,en-English,Coin Heist,Coin Heist,,,https://www.netflix.com/nz/title/80097725,97,2017-01-06,Family|Crime,,Adaptive Studios,US-United States of America,en-English|fr-Français|de-Deutsch
 409502,en-English,I'm Not Ashamed,I'm Not Ashamed,1500000,2000000,http://imnotashamedfilm.com/,112,2016-10-21,Drama,,Visible Pictures|All Entertainment,US-United States of America,en-English
 426808,en-English,A Cinderella Christmas,A Cinderella Christmas,,,,,2016-12-03,Romance|Comedy,,,,en-English
@@ -11271,7 +11271,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 181135,en-English,Twist of Faith,Twist of Faith,,,,85,2013-03-09,Drama,,,,en-English
 268105,es-Español,Los parecidos,The Similars,,,,89,2015-09-25,Science Fiction,,,MX-Mexico,es-Español
 89440,pl-Polski,Święta krowa,Father; Son & Holy Cow,,,,,2011-08-04,Drama|Comedy,,,,
-412203,ar-العربية,Bar Bahar,In Between,,,,96,2016-11-25,Drama,,,FR-France|IL-Israel,ar-العربية|he-עִבְרִית
+412203,ar-العربية,Bar Bahar,In Between,,,,96,2016-11-25,Drama,,,FR-France|IL-Israel,ar-العربية|he-עברית
 221112,zh-普通话,被偷走的那五年,The Stolen Years,,,,111,2013-08-29,Romance,,China Movie Channel|Beijing New Film Association,CN-China,zh-普通话
 341178,en-English,Dangerous Company,Dangerous Company,,,http://www.mylifetime.com/movies/dangerous-company,85,2015-08-15,Thriller,,Cartel Pictures,CA-Canada,en-English
 376003,en-English,Mercury Plains,Mercury Plains,,,http://www.carnabysales.com/film/mercury-plains/,102,2016-01-05,Action|Adventure|Drama,,Republic of EPIC|Number 5 Films,US-United States of America,en-English|es-Español
@@ -11345,7 +11345,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 389677,en-English,Blind Vaysha,Blind Vaysha,,,,8,2016-02-15,Animation,,,CA-Canada,
 406398,en-English,Pear Cider and Cigarettes,Pear Cider and Cigarettes,,,,35,2016-07-01,,,,GB-United Kingdom|CA-Canada,
 366985,en-English,The Beautiful Beast,The Beautiful Beast,,,,100,2013-11-06,Drama|Romance,,Silver Peak Productions,US-United States of America,en-English
-355930,he-עִבְרִית,Tikkun,Tikkun,,,,120,2015-07-10,Drama,,Plan B Productions|Mouth Agape; The,IL-Israel,he-עִבְרִית|yi-ייִדיש
+355930,he-עברית,Tikkun,Tikkun,,,,120,2015-07-10,Drama,,Plan B Productions|Mouth Agape; The,IL-Israel,he-עברית|yi-ייִדיש
 340584,en-English,Lavender,Lavender,,,http://www.lavenderthemovie.com/,92,2017-03-03,Drama|Thriller,,South Creek Pictures|3 Legged Dog Films,CA-Canada|US-United States of America,en-English
 356500,en-English,Detour,Detour,,,http://www.bankside-films.com/screeners/detour.html,97,2017-01-20,Thriller,,Head Gear Films|Kreo Films FZ|Bankside Films,ZA-South Africa|GB-United Kingdom,en-English
 381645,en-English,My Father Die,My Father Die,,,http://myfatherdie.com/,102,2016-03-12,Action|Drama,,KnightMarcher,US-United States of America,en-English
@@ -11653,7 +11653,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 354285,en-English,The Sense of an Ending,The Sense of an Ending,,,,108,2017-03-10,Mystery|Drama,,BBC Films|FilmNation Entertainment|Origin Pictures,GB-United Kingdom,en-English
 340676,fr-Français,Personal Shopper,Personal Shopper,6000000,1305195,http://www.ifcfilms.com/films/personal-shopper,105,2016-10-19,Drama|Mystery|Thriller,,ARTE France Cinéma|Sirena Film|Scope Pictures|Poisson Rouge Pictures|Detailfilm|CG Cinéma|Vortex Sutra,DE-Germany|FR-France,sv-svenska|en-English|fr-Français
 403252,fr-Français,La femme et le TGV,The Railroad Lady,,,http://tgv-movie.com/,30,2016-08-05,Comedy|Drama,,Jacques à Bâle Pictures,CH-Switzerland,fr-Français
-356401,he-עִבְרִית,Hatuna MeNiyar,Wedding Doll,,,,82,2015-07-15,Drama,,,IL-Israel,en-English|he-עִבְרִית
+356401,he-עברית,Hatuna MeNiyar,Wedding Doll,,,,82,2015-07-15,Drama,,,IL-Israel,en-English|he-עברית
 403114,en-English,Window Horses,Window Horses,,,http://www.windowhorses.com,85,2016-06-13,Animation|Drama,,National Film Board of Canada (NFB),CA-Canada,en-English|fa-فارسی
 246252,en-English,The Strange Ones,The Strange Ones,,,http://www.thestrangeones.com/,14,2011-01-20,Drama|Mystery,,,US-United States of America,en-English
 70740,en-English,Goblin,Goblin,,,,92,2010-07-13,Horror|Fantasy|Science Fiction,,,CA-Canada,en-English
@@ -11781,7 +11781,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 416569,fi-suomi,Syysprinssi,Love and Fury,,,,94,2016-10-14,Drama,,Oy Future Film Ab,FI-Finland,fi-suomi
 84167,en-English,Momoiro sora o,About The Pink Sky,,,,113,2012-01-25,Drama,,Michaelgion,JP-Japan,ja-日本語
 444193,en-English,The Evil Within,The Evil Within,4000000,,,98,2017-06-13,Horror,,Vision Films|Writers Studio; The|Supernova LLC,US-United States of America,en-English
-413687,en-English,Harmonia,Harmonia,,,,98,2016-07-11,,,Inosan Productions,IL-Israel,ar-العربية|he-עִבְרִית
+413687,en-English,Harmonia,Harmonia,,,,98,2016-07-11,,,Inosan Productions,IL-Israel,ar-العربية|he-עברית
 331485,en-English,Streit's: Matzo and the American Dream,Streit's: Matzo and the American Dream,,,,83,2015-03-20,History|Documentary|Family,,,US-United States of America,en-English
 343887,en-English,The Last Laugh,The Last Laugh,,,,89,2016-04-18,Documentary,,,US-United States of America,en-English
 356294,en-English,25 April,25 April,,,,85,2015-09-15,Documentary,,General Film Corporation,NZ-New Zealand,en-English
@@ -11856,7 +11856,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 63077,de-Deutsch,Die kommenden Tage,The Coming Days,8900000,,,130,2010-11-04,Drama|Science Fiction,,Badlands Company|Dream Team Productions,DE-Germany,de-Deutsch
 400928,en-English,Gifted,Gifted,7000000,37461045,http://www.foxsearchlight.com/gifted/,101,2017-04-12,Drama,,Fox Searchlight Pictures|FilmNation Entertainment|Dayday Films|Grade A Entertainment,US-United States of America,en-English
 399615,es-Español,Ataúd blanco: El juego diabólico,White Coffin,,,https://www.facebook.com/AtaudBlanco,75,2016-07-21,Thriller|Horror|Action,,Del Toro Films,AR-Argentina,es-Español
-173796,en-English,Brave Miss World,Brave Miss World,,,http://linorspeaksout.com/,99,2013-12-13,Documentary,,,,en-English|he-עִבְרִית
+173796,en-English,Brave Miss World,Brave Miss World,,,http://linorspeaksout.com/,99,2013-12-13,Documentary,,,,en-English|he-עברית
 213927,en-English,Born to Race: Fast Track,Born to Race: Fast Track,,,,94,2014-03-20,Action,,American Cinema International|Soundscape Media|ESX Productions,US-United States of America,en-English
 408647,en-English,Teen Titans: The Judas Contract,Teen Titans: The Judas Contract,,,,84,2017-03-22,Science Fiction|Animation|Action,,DC Comics|Warner Bros. Animation|DC Entertainment,US-United States of America,en-English
 364830,en-English,The Champions,The Champions,,,,93,2015-11-06,Documentary,,,US-United States of America,en-English
@@ -11886,7 +11886,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 339846,en-English,Baywatch,Baywatch,69000000,177856751,http://www.thebaywatchmovie.com/,116,2017-05-12,Action|Comedy,,Paramount Pictures|Montecito Picture Company; The|Flynn Picture Company|Fremantle Productions|Seven Bucks Productions|Skydance Media|Uncharted,US-United States of America,en-English
 418437,en-English,Unforgettable,Unforgettable,12000000,17768012,,100,2017-04-20,Drama|Thriller,,DiNovi Pictures,US-United States of America,en-English
 373569,en-English,Snatched,Snatched,42000000,60845711,,90,2017-05-03,Action|Comedy,,Twentieth Century Fox Film Corporation|Chernin Entertainment|Feigco Entertainment,US-United States of America,en-English|pt-Português|es-Español
-398390,en-English,Superbia,Superbia,,,,16,2016-05-17,Animation,,,SK-Slovakia|HU-Hungary|CZ-Czech Republic,xx-No Language
+398390,en-English,Superbia,Superbia,,,,16,2016-05-17,Animation,,,SK-Slovakia|HU-Hungary|CZ-Czech Republic,xx
 282035,en-English,The Mummy,The Mummy,125000000,407778013,http://www.themummy.com,110,2017-06-06,Thriller|Action|Adventure,,Universal Pictures|Sean Daniel Company|Secret Hideout,US-United States of America,ar-العربية|en-English|th-ภาษาไทย
 404584,en-English,From a House on Willow Street,From a House on Willow Street,,,,90,2017-03-24,Action|Horror,,The Darkside|Fat Cigar Productions,ZA-South Africa,en-English
 348375,fr-Français,Adama,Adama,,,,85,2015-10-21,Animation|Drama,,NAIA Productions,FR-France,fr-Français
@@ -12056,7 +12056,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 455601,en-English,Maria Bamford: Old Baby,Maria Bamford: Old Baby,,,,64,2017-05-02,Comedy,,,,en-English
 64051,en-English,Jimi Plays Berkeley,Jimi Plays Berkeley,,,,55,2012-07-10,Music|Documentary,,,,en-English
 439998,it-Italiano,Omicidio all'italiana,Omicidio all'italiana,,,,,2017-03-02,Comedy,,Leone Film|Medusa Film|Lotus Production,IT-Italy,it-Italiano
-369697,en-English,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,,,,117,2017-04-14,Comedy|Thriller|Drama,,Lightstream Pictures,US-United States of America,he-עִבְרִית|en-English
+369697,en-English,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,,,,117,2017-04-14,Comedy|Thriller|Drama,,Lightstream Pictures,US-United States of America,he-עברית|en-English
 371859,fr-Français,La mort de Louis XIV,The Death of Louis XIV,,17355,,105,2016-11-02,Drama|History,,Capricci Films|Rosa Filmes,PT-Portugal|FR-France,fr-Français
 61672,fr-Français,Titeuf - le film,Titeuf,,,,,2011-04-06,Animation,,Pathé Distribution,FR-France,fr-Français
 227334,en-English,Gahan Wilson: Born Dead; Still Weird,Gahan Wilson: Born Dead; Still Weird,,,http://www.borndeadstillweird.com/,85,2013-10-11,Documentary,,,US-United States of America,en-English
@@ -12334,7 +12334,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 369894,en-English,Wakefield,Wakefield,,,,106,2016-09-02,Drama,,Mockingbird Pictures,US-United States of America,en-English
 424235,en-English,Lana Del Rey: The Greatest Story Never Told,Lana Del Rey: The Greatest Story Never Told,,,,34,2013-06-04,,,,,
 424971,en-English,In View,In View,,,,93,2016-11-20,,,,,
-412363,he-עִבְרִית,Laavor et hakir,The Wedding Plan,,,,110,2017-05-12,Comedy|Romance,,,IL-Israel,he-עִבְרִית
+412363,he-עברית,Laavor et hakir,The Wedding Plan,,,,110,2017-05-12,Comedy|Romance,,,IL-Israel,he-עברית
 447061,en-English,Red Nose Day Actually,Red Nose Day Actually,4000000,,,15,2017-03-24,TV Movie|Comedy|Romance,,BBC Films|NBC Productions|Portobello Studios,GB-United Kingdom,en-English|pt-Português
 448449,en-English,Whitney: Can I Be Me,Whitney: Can I Be Me,,,https://dogwoof.com/whitney-can-i-be-me/,105,2017-04-24,Music|Documentary,,,,en-English
 339964,en-English,Valerian and the City of a Thousand Planets,Valerian and the City of a Thousand Planets,197471676,90024292,,137,2017-07-20,Adventure|Science Fiction|Action,,EuropaCorp,FR-France,fr-Français|en-English
@@ -12621,7 +12621,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 394185,en-English,Chokeslam,Chokeslam,,,http://chaosafilmcompany.com/chokeslam/,,2016-10-10,Comedy,,Chaos; a Film Company,CA-Canada,en-English
 404733,en-English,Overdrive,Overdrive,,,http://www.overdrivemovie.co.uk/home/,93,2017-06-29,Thriller|Action,,Kinology|Umedia|Setient Pictures,FR-France,en-English|fr-Français|de-Deutsch
 348391,en-English,Speech & Debate,Speech & Debate,,,,105,2017-04-07,Comedy|Drama,,Sycamore Pictures,US-United States of America,en-English
-382751,en-English,Junction 48,Junction 48,,,http://junction48.com/,97,2016-02-13,Drama|Action|Crime,,,,ar-العربية|he-עִבְרִית
+382751,en-English,Junction 48,Junction 48,,,http://junction48.com/,97,2016-02-13,Drama|Action|Crime,,,,ar-العربية|he-עברית
 401132,en-English,Independents' Day,Independents' Day,500000,,,91,2016-06-07,Action|Science Fiction,,Asylum; The|Slightly Distorted Productions,US-United States of America,en-English
 405446,es-Español,El auge del humano,The Human Surge,,,,96,2016-08-19,Drama,,,PT-Portugal|AR-Argentina|BR-Brazil,pt-Português|es-Español
 458506,en-English,Tour de Pharmacy,Tour de Pharmacy,,,http://www.hbo.com/tour-de-pharmacy,41,2017-07-08,Comedy|TV Movie,,HBO Films|VER|Legends of Sport|Cineverse|Media Services,US-United States of America,en-English
@@ -12740,7 +12740,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 206277,en-English,Shirley: Visions of Reality,Shirley: Visions of Reality,,,,93,2013-12-26,Drama,,KGP Kranzelbinder Gabriele Production,AT-Austria,en-English
 92108,pl-Polski,Baby są jakieś inne,Baby sa jakies inne,1689118,,,90,2011-10-14,Comedy|Drama,,Studio Filmowe Kadr|Polski Instytut Sztuki Filmowej|Kino Świat (koprodukcja)|Agora Films S.A. (koprodukcja)|Opus Film (koprodukcja),PL-Poland,pl-Polski
 88844,en-English,Code Blue,Code Blue,,,,81,2011-09-29,Drama,,Zentropa Entertainments,NL-Netherlands,nl-Nederlands|en-English
-182981,nl-Nederlands,Nude Area,Nude Area,,,,73,2014-06-01,Romance|Drama,,Canal+|Apple Film Productions|Topkapi Films,NL-Netherlands|PL-Poland,xx-No Language
+182981,nl-Nederlands,Nude Area,Nude Area,,,,73,2014-06-01,Romance|Drama,,Canal+|Apple Film Productions|Topkapi Films,NL-Netherlands|PL-Poland,xx
 432025,pl-Polski,Sztuka kochania. Historia Michaliny Wisłockiej,The Art of Loving. Story of Michalina Wislocka,,,,121,2017-01-27,Drama,,Next Film,PL-Poland,pl-Polski
 87229,is-Íslenska,Kóngavegur,King's Road,,,,99,2010-03-26,Drama|Comedy,,Mystery Productions,IS-Iceland,is-Íslenska
 383618,sv-svenska,Siv sover vilse,Siv Sleeps Astray,,,http://sivgaatlogeren.nl/,79,2016-09-28,Adventure|Family,,Viking Film|Snowcloud Films,NL-Netherlands|SE-Sweden,sv-svenska
