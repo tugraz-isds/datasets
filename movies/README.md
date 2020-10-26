@@ -1,14 +1,13 @@
 # Movies
 
 ## Overview
-The following dataset was derived from a larger movie dataset - [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv). The original contains metadata on over 45,000 movies, as well as 26 million ratings from 270,000 users for all of the movies, which had been collected from [TMDB](https://www.themoviedb.org/) and [GroupLens](https://grouplens.org/) respectively. From this large collection, data on around 12,000 movies from the past 10 years was extracted and stored formatted within three denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): **Movies.csv**, **Persons.csv** (cast members) and **Ratings.csv** (given to the movies by various users).
+The following dataset was derived from a larger movie dataset - [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv). The original contains metadata of over 45,000 movies as well as 26 milion ratings from 270,000 users for all of the movies, which have been collected from [TMDB](https://www.themoviedb.org/) and [GroupLens](https://grouplens.org/), respectively. From this large collection, data of around 12,000 movies from the past 10 years were extracted and stored as three denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): **Movies.csv**, **Persons.csv** (cast members) and **Ratings.csv** (given to the movies by various users).
 
 ## Structure: 
 
-**Movies.csv:** The Movies file contains metadata on over 12,000 different movie titles. The data points included in the file are:
+**Movies.csv:** The movies file contains metadata on over 12,000 different movie titles. The datapoints included in the file are:
 - *MovieID* : An ID that uniquely identifies each movie.
 - *OriginalLanguage* : The language of the original movie title, denoted in its [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code equivalent.
-  - Format: code-language
 - *OriginalTitle* : The title of the movie in its original language.
 - *EnglishTitle* : The English equivalent of the original title.
 - *Budget* : The amount of money invested into making the movie.
@@ -41,7 +40,7 @@ MovieID,OriginalLanguage,OriginalTitle,EnglishTitle,Budget,Revenue,Homepage,Runt
 
 **Persons.csv:** The Persons file contains information on the cast members and their characters in the movies. The data points included in the file are:
 - *MovieID* : An ID referencing the movie in which the character appeared.
-- *CastID* : A 24 character long ID that uniquely identifies each movie character played by the cast.
+- *CastID* : An ID that uniquely identifies each character played by the cast member.
 - *Name* : The name of the cast member.
 - *Gender* : The gender of the cast member (1 = female, 2 = male)
 - *Character* : Full name of the movie's character.
@@ -57,7 +56,7 @@ MovieID,CastID,Name,Gender,Character
 62775,52fe468dc3a368484e097073,Tommi Korpela,2,maisteri Kronberg
 ```
 
-**Ratings.csv:** The Ratings file contains information on the ratings given to the movies by different users. The data points included in the file are:
+**Ratings.csv:** The ratings file contains information on the ratings given to the movies by different users. The data points included in the file are:
 - *UserID* : An ID identifying the user that published the rating.
 - *MovieID* : An ID referencing the movie that had been rated.
 - *Rating* : The user's rating of the movie.
@@ -75,4 +74,3 @@ UserID,MovieID,Rating,Date
 11,58559,4.5,2009-01-11
 15,49530,3.5,2012-08-26
 ```
-
