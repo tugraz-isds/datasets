@@ -1,7 +1,7 @@
 # Movies
 
 ## Overview
-The following dataset was derived from a larger movie dataset - [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv). The original contains metadata of over 45,000 movies as well as 26 milion ratings from 270,000 users for all of the movies, which have been collected from [TMDB](https://www.themoviedb.org/) and [GroupLens](https://grouplens.org/), respectively. From this large collection, data of around 12,000 movies from the past 10 years were extracted and stored as three denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): **Movies.csv**, **Persons.csv** (cast members) and **Ratings.csv** (given to the movies by various users).
+The following dataset was derived from a larger movie dataset - [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv). The original contains metadata of over 45,000 movies as well as 26 million ratings from 270,000 users for all of the movies, which have been collected from [TMDB](https://www.themoviedb.org/) and [GroupLens](https://grouplens.org/), respectively. From this large collection, data of around 12,000 movies from the past 10 years were extracted and stored as three denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): **Movies.csv**, **Persons.csv** (cast members) and **Ratings.csv** (given to the movies by various users).
 
 ## Structure: 
 
