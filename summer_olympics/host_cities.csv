@@ -1,3 +1,4 @@
+City,Country,Year,Continent,StartDate,EndDate
 Athens,Greece,1896,Europe,6 April 1896,15 April 1896 	
 Paris,France,1900,Europe,14 May 1900,28 October 1900 	
 St. Louis,United States,1904,North America,1 July 1904,23 November 1904 	
@@ -13,7 +14,7 @@ Helsinki,Finland,1952,Europe,19 July 1952,3 August 1952
 Melbourne/Stockholm,Australia/Sweden,1956,Oceania/Europe,22 November 1956/10 June 1956,8 December 1956/17 June 1956 	
 Rome,Italy,1960,Europe,25 August 1960,11 September 1960 	
 Tokyo,Japan,1964,Asia,10 October 1964,24 October 1964 	
-Mexico City,1968,Mexico,North America,12 October 1968,27 October 1968 	
+Mexico City,Mexico,1968,North America,12 October 1968,27 October 1968 	
 Munich,West Germany,1972,Europe,26 August 1972,11 September 1972 	
 Montreal,Canada,1976,North America,17 July 1976,1 August 1976 	
 Moscow,Soviet Union,1980,Europe,19 July 1980,3 August 1980 	
