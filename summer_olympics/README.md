@@ -24,6 +24,7 @@ This extensive collection of data holds records of almost 140 thousand athletes 
 * *Gender* : The gender of the athlete.
   * Values: M (= Male), F (= Female)
 * *DateOfBirth* : The birth date of the athlete.
+  * Format: yyyy-mm-dd
 * *Height* : The height of the athlete in centimetres.
 * *Weight* : The weight of the athlete in kilograms.
 * *Team* : The name of the team/country for which the athlete played.
@@ -40,15 +41,15 @@ The following is an excerpt from the **AthleteEvents.csv** file, which is repres
 
 ```
 AID,Name,Gender,DateOfBirth,Height,Weight,Team,NOC,Games,Year,City,Sport,Event,Medal
-105331,Tonya Denise "Teee" Sanders-Williams (-Slacanin),F,01/01/1968,180,66,United States of America,USA,1992 Summer,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,Bronze
-105331,Tonya Denise "Teee" Sanders-Williams (-Slacanin),F,01/01/1968,180,66,United States of America,USA,1996 Summer,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,
-105332,Cael Norman Sanderson,M,01/01/1979,182,84,United States of America,USA,2004 Summer,2004,Athina,Wrestling,Wrestling Men's Light-Heavyweight; Freestyle,Gold
-105333,Fred R. Sanderson,M,01/01/1873,,,United States of America,USA,1904 Summer,1904,St. Louis,Tennis,Tennis Men's Singles,
-105334,Keith Sanderson,M,01/01/1975,183,95,United States of America,USA,2008 Summer,2008,Beijing,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
-105334,Keith Sanderson,M,01/01/1975,183,95,United States of America,USA,2012 Summer,2012,London,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
-105334,Keith Sanderson,M,01/01/1975,183,95,United States of America,USA,2016 Summer,2016,Rio de Janeiro,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
-105335,Nicole Sanderson,F,01/01/1976,182,65,Australia,AUS,2004 Summer,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,
-105336,Ronald Harcourt Sanderson,M,01/01/1877,,85,Great Britain,GBR,1908 Summer,1908,London,Rowing,Rowing Men's Coxed Eights,Gold
+105331,Tonya Denise "Teee" Sanders-Williams (-Slacanin),F,1968-01-01,180,66,United States of America,USA,1992 Summer,1992,Barcelona,Volleyball,Volleyball Women's Volleyball,Bronze
+105331,Tonya Denise "Teee" Sanders-Williams (-Slacanin),F,1968-01-01,180,66,United States of America,USA,1996 Summer,1996,Atlanta,Volleyball,Volleyball Women's Volleyball,
+105332,Cael Norman Sanderson,M,1979-01-01,182,84,United States of America,USA,2004 Summer,2004,Athina,Wrestling,Wrestling Men's Light-Heavyweight; Freestyle,Gold
+105333,Fred R. Sanderson,M,1873-01-01,,,United States of America,USA,1904 Summer,1904,St. Louis,Tennis,Tennis Men's Singles,
+105334,Keith Sanderson,M,1975-01-01,183,95,United States of America,USA,2008 Summer,2008,Beijing,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
+105334,Keith Sanderson,M,1975-01-01,183,95,United States of America,USA,2012 Summer,2012,London,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
+105334,Keith Sanderson,M,1975-01-01,183,95,United States of America,USA,2016 Summer,2016,Rio de Janeiro,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
+105335,Nicole Sanderson,F,1976-01-01,182,65,Australia,AUS,2004 Summer,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,
+105336,Ronald Harcourt Sanderson,M,1877-01-01,,85,Great Britain,GBR,1908 Summer,1908,London,Rowing,Rowing Men's Coxed Eights,Gold
 ```
 
 **HostCities.csv:** The HostCities file contains data on the cities that hosted any of the summer Olympic games. The data points included in the file are:
@@ -58,23 +59,25 @@ AID,Name,Gender,DateOfBirth,Height,Weight,Team,NOC,Games,Year,City,Sport,Event,M
 * *City* : The name of the city.
 * *Year* : The year in which the Olympic games took place.
 * *StartDate* : The date on which the Olympic games started.
+  * Format: yyyy-mm-dd
 * *EndDate* : The date on which the Olympic games ended.
+  * Format: yyyy-mm-dd
 
-If the Olympic games took place in two different cities, the values of all data fields (except *year*) are separated by a pipe "|".
+If the Olympic games took place in two different cities, then the multivalued data fields are separated by a pipe "|".
 
 The following is an excerpt from the **HostCities.csv** file, which is representative of the dataset's structure:
 
 ```
 NOC,Country,City,Year,StartDate,EndDate
-AUS,Australia,Sydney,2000,15/09/2000,01/10/2000
-AUS|SWE,Australia|Sweden,Melbourne|Stockholm,1956,22/11/1956|10/06/1956,08/12/1956|17/06/1956
-BEL,Belgium,Antwerp,1920,14/08/1920,12/09/1920
-BRA,Brazil,Rio de Janeiro,2016,05/08/2016,21/08/2016
-CAN,Canada,Montreal,1976,17/07/1976,01/08/1976
-FIN,Finland,Helsinki,1952,19/07/1952,03/08/1952
-FRA,France,Paris,1900,14/05/1900,28/10/1900
-FRA,France,Paris,1924,05/07/1924,27/07/1924
-FRA,France,Paris,2024,26/07/2024,11/08/2024
+AUS,Australia,Sydney,2000,2000-09-15,2000-10-01
+AUS|SWE,Australia|Sweden,Melbourne|Stockholm,1956,1956-06-10,1956-12-08
+BEL,Belgium,Antwerp,1920,1920-08-14,1920-09-12
+BRA,Brazil,Rio de Janeiro,2016,2016-08-05,2016-08-21
+CAN,Canada,Montreal,1976,1976-07-17,1976-08-01
+FIN,Finland,Helsinki,1952,1952-07-19,1952-08-03
+FRA,France,Paris,1900,1900-05-14,1900-10-28
+FRA,France,Paris,1924,1924-07-05,1924-07-27
+FRA,France,Paris,2024,2024-07-26,2024-08-11
 ```
 
 **NOCRegions.csv:** The Countries file contains data on countries. The data points included in the file are:
