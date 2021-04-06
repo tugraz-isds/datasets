@@ -50,6 +50,7 @@ AID,Name,Gender,DateOfBirth,Height,Weight,Team,NOC,Games,Year,City,Sport,Event,M
 105334,Keith Sanderson,M,1975-01-01,183,95,United States of America,USA,2016 Summer,2016,Rio de Janeiro,Shooting,Shooting Men's Rapid-Fire Pistol; 25 metres,
 105335,Nicole Sanderson,F,1976-01-01,182,65,Australia,AUS,2004 Summer,2004,Athina,Beach Volleyball,Beach Volleyball Women's Beach Volleyball,
 105336,Ronald Harcourt Sanderson,M,1877-01-01,,85,Great Britain,GBR,1908 Summer,1908,London,Rowing,Rowing Men's Coxed Eights,Gold
+105337,Theresa Ione "Tessa" Sanderson (-White),F,1956-01-01,168,70,Great Britain,GBR,1976 Summer,1976,Montreal,Athletics,Athletics Women's Javelin Throw,
 ```
 
 **HostCities.csv:** The HostCities file contains data on the cities that hosted any of the summer Olympic games. The data points included in the file are:
@@ -78,26 +79,28 @@ FIN,Finland,Helsinki,1952,1952-07-19,1952-08-03
 FRA,France,Paris,1900,1900-05-14,1900-10-28
 FRA,France,Paris,1924,1924-07-05,1924-07-27
 FRA,France,Paris,2024,2024-07-26,2024-08-11
+GER,Germany,Berlin,1936,1936-08-01,1936-08-16
 ```
 
 **NOCRegions.csv:** The Countries file contains data on countries. The data points included in the file are:
 
 * *NOC* : The National Olympic Committee code of the country/team.
-* *Team* : The name of the country/team.
+* *Region* : The name of the country/team.
 * *Population* : The population of the country.
 * *GDP* : The gross domestic product of the country.
 
 The following is an excerpt from the **NOCRegions.csv** file, which is representative of the dataset's structure:
 
 ```
-NOC,Team,Population,GDP
+NOC,Region,Population,GDP
 IOP,Independent Olympic Participants,,
-IRI,Islamic Republic of Iran,79109272,
-IRL,Ireland,4640703,61133.672427322
-IRQ,Iraq,36423395,4943.76038832056
-ISL,Iceland,330823,50173.3399156473
-ISR,Israel,8380400,35728.0934951515
-ISV,Virgin Islands; US,103574,
-ITA,Italy,60802085,29957.804315437203
-IVB,Virgin Islands; British,30117,
+IRI,Islamic Republic of Iran,79109272,5550.1
+IRL,Ireland,4640703,78661.0
+IRQ,Iraq,36423395,5955.1
+ISL,Iceland,330823,66944.8
+ISR,Israel,8380400,43592.1
+ISV,Virgin Islands; US,103574,35938.0
+ITA,Italy,60802085,33228.2
+IVB,Virgin Islands; British,30117,34200.0
+JAM,Jamaica,2725941,5582.3
 ```
