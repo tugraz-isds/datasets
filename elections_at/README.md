@@ -59,7 +59,15 @@ The dataset used for the assignment is a derivative of datasets obtained from th
 > * A region may be further separated into districts. The region is then an aggregate of all the districts. 
 >   * If there is no district-specific data available for a given region, the DistrictID will be NULL as well as all of the district-related fields. 
 >   * If district-specific data for a given region is available, the DistrictID will never be NULL.
+> ######
+> * To get a better understanding of how regions are broken down, you may visit the following links:
+>   * [National Election Results 2017 (BMI-Application)][3]
+>   * [National Election Results 2019 (BMI-Application)][4]
+>   * Note that these break downs include **only regions**.
 > ##
+
+[3]: https://bundeswahlen.gv.at/2017/
+[4]: https://bundeswahlen.gv.at/2019/
 
 
 The following is an excerpt from the **Votes.csv** file, which is representative of the dataset's structure:
