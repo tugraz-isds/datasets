@@ -2,7 +2,7 @@
 
 ## Overview
 
-The following dataset is a collection of Austrian National Election records from the years 2017 and 2019. All the records comprised within the datasets are stored in 3 denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): Votes.csv, Parties.csv, and Locations.csv.
+The following dataset is a collection of Austrian National Election records from the years 2017 and 2019. All the records comprised within the datasets are stored in 4 denormalized CSV files (with ',' delimiter and simplified structure without the need for quoting): Elections.csv, Votes.csv, Parties.csv, and Locations.csv.
 
 The dataset used for the assignment is a derivative of datasets obtained from the following public data sources under license Creative Commons Namensnennung 4.0 International ([CC BY 4.0][3]):
 * [Open Data Österreich][1]
@@ -14,6 +14,22 @@ The dataset used for the assignment is a derivative of datasets obtained from th
 
 
 ## Structure
+**Elections.csv** The *Elections* file contains general data about the elections. The data points have the following structue:
+
+* **ElectionID:**  The ID of the election to which the data row refers.
+  * Format: 6-Character *String* ("NR2017" or "NR2019")
+* **Number:** The sequential number of the election's legislative period.
+  * Format: *Numerical*
+* **Date:** The date of the election day.
+  * Format: *yyyy-mm-dd*
+
+The following is an excerpt from the **Elections.csv** file, which is representative of the dataset's structure:
+
+```
+ElectionID,Number,Date
+NR2017,26,2017-10-15
+NR2019,27,2019-09-29
+```
 
 **Votes.csv:**  The *Votes* file contains data on the eligible voters and the election results. The data points have the following structure:
 
