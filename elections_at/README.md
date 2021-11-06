@@ -135,12 +135,6 @@ NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,ÖVP,31647
 * **BallotPosition:** A (unique) number identifying the political party on the ballot.
   * Format: *Numerical* or *NULL* (data is unavailable)
 
-> ##
-> ###### Note:
-> * The long (full) name of a political party may change between elections.
-> ##
-
-
 The following is an excerpt from the **Parties.csv** file, which is representative of the dataset's structure:
 
 ```
