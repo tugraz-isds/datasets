@@ -1,4 +1,4 @@
-ElectionID,RegionID,EligibleVoters,TotalVotes,InvalidVotes,ValidVotes,PartyShort,RegionPartyVotes
+ElectionID,RegionID,EligibleVoters,TotalVotes,InvalidVotes,ValidVotes,PartyShort,PartyVotes
 NR2017,G00000,6400998,5120879,50950,5069929,CPÖ,425
 NR2017,G00000,6400998,5120879,50950,5069929,EUAUS,693
 NR2017,G00000,6400998,5120879,50950,5069929,FLÖ,8889
