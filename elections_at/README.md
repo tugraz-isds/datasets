@@ -37,44 +37,27 @@ NR2019,27,2019-09-29
   * Format: 6-Character *String* ("NR2017" or "NR2019")
 * **RegionID:** The ID of the region (Gebiet) to which the data row refers.
   * Format: 6-Character *String* (e.g. "G60101")
-* **RegionEligibleTotal:** The total number of eligible voters in the region spcified by the RegionID.
+* **ParentID:** The ID of the parent region.
+  * Format: 6-Character *String* (e.g. "G60101") or *NULL* (the region is not part of any other region)
+* **EligibleVoters:** The total number of eligible voters in the region spcified by the RegionID.
   * Format: *Numerical* or *NULL* (the total number of eligible voters is not known)
-* **RegionTotalVotes:** The total number of casted votes in the region specified by the RegionID.
+* **TotalVotes:** The total number of casted votes in the region specified by the RegionID.
   * Format: *Numerical*
-* **RegionInvalidVotes:** The total number of invalid casted votes in the region specified by the RegionID.
+* **InvalidVotes:** The total number of invalid casted votes in the region specified by the RegionID.
   * Format: *Numerical*
-* **RegionValidVotes:** The total number of valid casted votes in the region specified by the RegionID.
+* **ValidVotes:** The total number of valid casted votes in the region specified by the RegionID.
   * Format: *Numerical*
-* **DistrictID:** The ID of the district (Bezirk) to which the data row refers. The district is located in the region specified by the RegionID.
-  * Format: *Numerical* or *NULL* (there is no district-specific data known for the given region - all of the district-specific fields will also be NULL)
-* **DistrictEligibleTotal:** The total number of eligible voters in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (the total number of eligible voters is not known or district-specific data is unavailable)
-* **DistrictEligibleMale:** The number of *male* eligible voters in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (district specific data is unavailable)
-* **DistrictEligibleFemale:** The number of *female* eligible voters in the district spcified by the DistrictID.
-  * Format: *Numerical* or *NULL* (district-specific data is unavailable)
-* **DistrictTotalVotes:** The total number of casted votes in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (district-specific data is unavailable)
-* **DistrictInvalidVotes:** The total number of invalid casted votes in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (district-specific data is unavailable)
-* **DistrictValidVotes:** The total number of valid casted votes in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (district specific data is unavailable)
 * **PartyShort:** The (unique) short name of the politicl party.
   * Format: Variable length *String* (e.g. "ÖVP")
-* **RegionPartyVotes:** The number of votes received by the political party in the region specified by the RegionID.
+* **PartyVotes:** The number of votes received by the political party in the region specified by the RegionID.
   * Format: *Numerical* or *NULL* (The party did not run for election in the region specified by the RegionID)
-* **DistrictPartyVotes:** The number of votes received by the political party in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL* (The party did not run for election in the district specified by the DistrictID or district-specific data is unavailable)
 
 > ##
 > ###### Note:
 > * Regions may be aggregates of multiple other regions.
 >   * e.g. The region "Österreich" (G00000), is an aggregate of "Burgenland" (G10000), "Kärnten" (G20000), "Niederösterreich" (G30000), 
 >"Oberösterreich" (G40000), "Salzburg" (G50000), "Steiermark" (G60000), > "Tirol" (G70000), "Vorarlberg" (G80000) and "Wien" (G90000)
-> ######
-> * A region may be further separated into districts. The region is then an aggregate of all the districts. 
->   * If there is no district-specific data available for a given region, the DistrictID will be NULL as well as all of the district-related fields. 
->   * If district-specific data for a given region is available, the DistrictID will never be NULL.
+>
 > ######
 > * To get a better understanding of how regions are broken down, you may visit the following links:
 >   * [National Election Results 2017 (BMI-Application)][3]
@@ -89,39 +72,39 @@ NR2019,27,2019-09-29
 The following is an excerpt from the **Votes.csv** file, which is representative of the dataset's structure:
 
 ```
-ElectionID,RegionID,RegionEligibleTotal,RegionTotalVotes,RegionInvalidVotes,RegionValidVotes,DistrictID,DistrictEligibleTotal,DistrictEligibleMale,DistrictEligibleFemale,DistrictTotalVotes,DistrictInvalidVotes,DistrictValidVotes,PartyShort,RegionPartyVotes,DistrictPartyVotes
-NR2017,G60100,197958,151765,826,150939,,,,,,,,CPÖ,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,EUAUS,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,FLÖ,184,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,FPÖ,29267,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,GILT,1440,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,GRÜNE,9467,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,KPÖ,3952,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,M,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,NBZ,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,NEOS,12958,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,ODP,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,PILZ,11041,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,SLP,,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,SPÖ,41402,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,WEIßE,178,
-NR2017,G60100,197958,151765,826,150939,,,,,,,,ÖVP,41050,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,CPÖ,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,EUAUS,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,FLÖ,156,3
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,FPÖ,25260,200
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,GILT,1096,18
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,GRÜNE,6932,121
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,KPÖ,3145,62
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,M,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,NBZ,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,NEOS,9763,171
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,ODP,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,PILZ,8507,165
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,SLP,,
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,SPÖ,33017,425
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,WEIßE,148,3
-NR2017,G60101,197958,120375,704,119671,100,2872,1499,1373,1617,9,1608,ÖVP,31647,440
+ElectionID,RegionID,EligibleVoters,TotalVotes,InvalidVotes,ValidVotes,PartyShort,PartyVotes
+NR2017,G60117,5623,3684,23,3661,FPÖ,1178
+NR2017,G60117,5623,3684,23,3661,GILT,35
+NR2017,G60117,5623,3684,23,3661,GRÜNE,95
+NR2017,G60117,5623,3684,23,3661,KPÖ,81
+NR2017,G60117,5623,3684,23,3661,M,
+NR2017,G60117,5623,3684,23,3661,NBZ,
+NR2017,G60117,5623,3684,23,3661,NEOS,219
+NR2017,G60117,5623,3684,23,3661,ODP,
+NR2017,G60117,5623,3684,23,3661,PILZ,162
+NR2017,G60117,5623,3684,23,3661,SLP,
+NR2017,G60117,5623,3684,23,3661,SPÖ,942
+NR2017,G60117,5623,3684,23,3661,WEIßE,4
+NR2017,G60117,5623,3684,23,3661,ÖVP,940
+NR2017,G60199,,31390,122,31268,CPÖ,
+NR2017,G60199,,31390,122,31268,EUAUS,
+NR2017,G60199,,31390,122,31268,FLÖ,28
+NR2017,G60199,,31390,122,31268,FPÖ,4007
+NR2017,G60199,,31390,122,31268,GILT,344
+NR2017,G60199,,31390,122,31268,GRÜNE,2535
+NR2017,G60199,,31390,122,31268,KPÖ,807
+NR2017,G60199,,31390,122,31268,M,
+NR2017,G60199,,31390,122,31268,NBZ,
+NR2017,G60199,,31390,122,31268,NEOS,3195
+NR2017,G60199,,31390,122,31268,ODP,
+NR2017,G60199,,31390,122,31268,PILZ,2534
+NR2017,G60199,,31390,122,31268,SLP,
+NR2017,G60199,,31390,122,31268,SPÖ,8385
+NR2017,G60199,,31390,122,31268,WEIßE,30
+NR2017,G60199,,31390,122,31268,ÖVP,9403
+NR2017,G60300,50288,40062,366,39696,CPÖ,
+NR2017,G60300,50288,40062,366,39696,EUAUS,
+NR2017,G60300,50288,40062,366,39696,FLÖ,90
 ```
 
 **Parties.csv:** The *Parties* file contains data on the political parties of the elections. The data points included are:
@@ -158,32 +141,45 @@ NR2019,NEOS,NEOS - Das Neue Österreich,4
   * Format: 6-Character *String* (e.g. "G60101")
 * **RegionName:** The (full) name of the region specified by the RegionID.
   * Format: Variable length *String*
-* **DistrictID:** The ID of the district (Bezirk) to which the data row refers. The district is located in the region specified by the RegionID.
-  * Format: *Numerical* or *NULL* (there is no district-specific data known for the given region - all of the district-specific fields will also be NULL)
 * **DistrictName:** The (full) name of the district specified by the DistrictID.
   * Format: Variable length *String* or *NULL* (district-specific data is unavailable)
-* **#AdministrativeDistricts:** The number of administrative districts (Sprengel) located in the district specified by the DistrictID.
-  * Format: *Numerical* or *NULL*  (district-specific data is unavailable)
 
 The following is an excerpt from the **Locations.csv** file, which is representative of the dataset's structure:
 
 ```
-ElectionID,RegionID,RegionName,DistrictID,DistrictName,#AdministrativeDistricts
-NR2017,G5A000,Salzburg Stadt,,,
-NR2017,G5A099,Wahlkarten - Salzburg Stadt,,,
-NR2017,G5B000,Flachgau/Tennengau,,,
-NR2017,G5B099,Wahlkarten - Flachgau/Tennengau,,,
-NR2017,G5C000,Lungau/Pinzgau/Pongau,,,
-NR2017,G5C099,Wahlkarten - Lungau/Pinzgau/Pongau,,,
-NR2017,G60000,Steiermark,,,
-NR2017,G60099,Wahlkarten - Steiermark,,,
-NR2017,G60100,Graz(Stadt),,,
-NR2017,G60101,Graz,100,Innere Stadt,4
-NR2017,G60101,Graz,200,St Leonhard,15
-NR2017,G60101,Graz,300,Geidorf,24
-NR2017,G60101,Graz,400,Lend,26
-NR2017,G60101,Graz,500,Gries,24
-NR2017,G60101,Graz,600,Jakomini,31
-NR2017,G60101,Graz,700,Liebenau,14
-NR2017,G60101,Graz,800,St.Peter,16
+ElectionID,RegionID,ParentID,RegionName,DistrictName
+NR2017,G60114,G60100,Graz,Eggenberg
+NR2017,G60115,G60100,Graz,Wetzelsdorf
+NR2017,G60116,G60100,Graz,Straßgang
+NR2017,G60117,G60100,Graz,Puntigam
+NR2017,G60199,G60100,Wahlkarten - Graz(Stadt),
+NR2017,G60300,G6C000,Deutschlandsberg,
+NR2017,G60305,G60300,Frauental an der Laßnitz,
+NR2017,G60318,G60300,Lannach,
+NR2017,G60323,G60300,Pölfing-Brunn,
+NR2017,G60324,G60300,Preding,
+NR2017,G60326,G60300,Sankt Josef (Weststeiermark),
+NR2017,G60329,G60300,Sankt Peter im Sulmtal,
+NR2017,G60341,G60300,Wettmannstätten,
+NR2017,G60344,G60300,Deutschlandsberg,
+NR2017,G60345,G60300,Eibiswald,
+NR2017,G60346,G60300,Groß Sankt Florian,
+NR2017,G60347,G60300,Sankt Martin im Sulmtal,
+NR2017,G60348,G60300,Sankt Stefan ob Stainz,
+NR2017,G60349,G60300,Schwanberg,
+NR2017,G60350,G60300,Stainz,
+NR2017,G60351,G60300,Wies,
+NR2017,G60399,G60300,Wahlkarten - Deutschlandsberg,
+NR2017,G60600,G6A000,Graz-Umgebung,
+NR2017,G60608,G60600,Feldkirchen bei Graz,
+NR2017,G60611,G60600,Gössendorf,
+NR2017,G60613,G60600,Gratkorn,
+NR2017,G60617,G60600,Hart bei Graz,
+NR2017,G60618,G60600,Haselsdorf-Tobelbad,
+NR2017,G60619,G60600,Hausmannstätten,
+NR2017,G60623,G60600,Kainbach bei Graz,
+NR2017,G60624,G60600,Kalsdorf bei Graz,
+NR2017,G60626,G60600,Kumberg,
+NR2017,G60628,G60600,Laßnitzhöhe,
+NR2017,G60629,G60600,Lieboch,
 ```
