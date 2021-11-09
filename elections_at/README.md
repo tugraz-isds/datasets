@@ -39,11 +39,11 @@ NR2019,27,2019-09-29
   * Format: 6-Character *String* (e.g. "G60101")
 * **ParentID:** The ID of the parent region.
   * Format: 6-Character *String* (e.g. "G60101") or *NULL* (the region is not part of any other region)
-* **TotalEligibleVoters:** The total number of eligible voters in the region spcified by the RegionID.
+* **EligibleVoters:** The total number of eligible voters in the region spcified by the RegionID.
   * Format: *Numerical* or *NULL* (the total number of eligible voters is not known)
-* **FemaleEligibleVoters:** The total number of female eligible voters in the region spcified by the RegionID.
+* **EligibleFemale:** The total number of female eligible voters in the region spcified by the RegionID.
   * Format: *Numerical* or *NULL* (the total number of eligible voters is not known)
-* **MaleEligibleVoters:** The total number of male eligible voters in the region spcified by the RegionID.
+* **EligibleMale:** The total number of male eligible voters in the region spcified by the RegionID.
   * Format: *Numerical* or *NULL* (the total number of eligible voters is not known)
 * **TotalVotes:** The total number of casted votes in the region specified by the RegionID.
   * Format: *Numerical*
@@ -76,7 +76,7 @@ NR2019,27,2019-09-29
 The following is an excerpt from the **Votes.csv** file, which is representative of the dataset's structure:
 
 ```
-ElectionID,RegionID,TotalEligibleVoters,FemaleEligibleVoters,MaleEligibleVoters,TotalVotes,InvalidVotes,ValidVotes,PartyShort,PartyVotes
+ElectionID,RegionID,EligibleVoters,EligibleFemale,EligibleMale,TotalVotes,InvalidVotes,ValidVotes,PartyShort,PartyVotes
 NR2017,G60000,969653,,,774037,5902,768135,CPÖ,
 NR2017,G60000,969653,,,774037,5902,768135,EUAUS,
 NR2017,G60000,969653,,,774037,5902,768135,FLÖ,1688
