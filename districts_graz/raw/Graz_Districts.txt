@@ -1,0 +1,18 @@
+Stadtbezirk 	Einw. (1. Jän. 2022) 	Fläche (km²) 	Dichte (Ew/km²)
+1., Innere Stadt 	3.446 	1,16 	2.971
+2., St. Leonhard 	15.075 	1,83 	8.238
+3., Geidorf 	24.301 	5,50 	4.418
+4., Lend 	31.711 	3,70 	8.571
+5., Gries 	30.352 	5,05 	6.010
+6., Jakomini 	31.908 	4,06 	7.859
+7., Liebenau 	15.768 	7,99 	1.973
+8., St. Peter 	16.384 	8,86 	1.849
+9., Waltendorf 	12.124 	4,48 	2.706
+10., Ries 	6.053 	10,16 	596
+11., Mariatrost 	9.692 	13,99 	693
+12., Andritz 	19.592 	18,47 	1.061
+13., Gösting 	11.270 	10,83 	1.041
+14., Eggenberg 	22.062 	7,79 	2.832
+15., Wetzelsdorf 	16.800 	5,77 	2.912
+16., Straßgang 	18.779 	11,75 	1.598
+17., Puntigam 	10.107 	6,18 	1.635 

@@ -1,0 +1,89 @@
+XCoord;YCoord;OBJECTID;NAME;ANSCHRIFT;PLZ;ORT;TELEFON;BEMERKUNG;KAT2;KAT3;HERKUNFT;PHI;LAMBDA
+1719674,17740000;5952637,68100000;1;VS Graz-Krones;Münzgrabenstraße 18;8010;Graz;+43(0)316/872-6980;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,064678;15,448096
+1717974,58710000;5952402,32740000;2;VS Graz-Bertha v. Suttner;Lagergasse 41;8020;Graz;+43(0)316/872-6750;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,06324;15,432828
+1713594,55190000;5950807,73470000;3;VS Graz-Peter Rosegger;Loewegasse 8;8052;Graz;+43(0)316/872-7040;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,053478;15,393482
+1714354,42290000;5948895,28940000;4;Private Realschule Graz-Webling;Unterer Bründlweg 19;8053;Graz;+43(0)316/872-6965;-;Pflichtschulen;Realschule;Stadt Graz - Stadtvermessung;47,041775;15,400308
+1719997,05580000;5958275,37010000;5;VS Graz-Mariagrün;Mariagrüner Straße 87;8043;Graz;+43(0)316/872-6820;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,099167;15,450996
+1717734,16820000;5953382,38760000;6;VS Graz-St. Andrä;Grenadiergasse 1;8020;Graz;+43(0)316/872-6900;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,069237;15,430669
+1717230,24580000;5954377,86150000;7;HS Graz-Kepler;Keplerstraße 52;8020;Graz;+43(0)316/872-6935;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,075325;15,426142
+1721944,35300000;5958038,06450000;8;HS Graz-St. Johann;Mariatroster Straße 128;8043;Graz;+43(0)316/872-6705;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,097713;15,46849
+1714354,42290000;5948895,28940000;9;HS Graz-Webling;Unterer Bründlweg 19;8053;Graz;+43(0)316/872-6965;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,041775;15,400308
+1717879,79370000;5949944,87830000;10;ASO Graz-Triester;Reiherstadlgasse 50;8020;Graz;+43(0)316/872-6858;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,048199;15,431976
+1718624,51820000;5952003,50890000;11;Sprachheilschule Graz ;Brockmanngasse 119;8010;Graz;+43(0)316/872-6725;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,060799;15,438666
+1713007,00060000;5950012,41920000;12;Privatschule OK - Ort f. Kinder;Krottendorfer Straße 91;8052;Graz;+43(0)316/578214;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,048611;15,388204
+1716127,96470000;5955937,95350000;13;Integrative Volksschule der Landessonderschule;Kalvariengürtel 64;8020;Graz;+43(0)316/672136-14;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,084869;15,41624
+1718096,30920000;5955573,78500000;14;Praxis HS der Päd.Hochschule in Stmk.;Hasnerplatz 12;8010;Graz;+43(0)316/8067-1222;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,082642;15,433922
+1717816,73700000;5953435,81500000;15;HS Graz-St. Andrä;Kernstockgasse 1;8020;Graz;+43(0)316/872-6905;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,069561;15,43141
+1721154,93450000;5951346,25080000;16;HS Graz-St. Peter;Brucknerstraße 53;8010;Graz;+43(0)316/872-7015;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,056774;15,461398
+1714423,01110000;5945387,25730000;17;HS Graz-Straßgang;Aribonenstraße 14;8054;Graz;+43(0)316/872-6955;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,020294;15,400924
+1714403,10660000;5952978,31810000;18;HS Graz-Karl Morre;Karl-Morre-Straße 58;8020;Graz;+43(0)316/872-6975;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,066765;15,400745
+1714451,59530000;5954271,40420000;19;HS Graz-Algersdorf;Algersdorfer Straße 11;8020;Graz;+43(0)316/872-6765;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,074677;15,40118
+1718247,93360000;5954050,15150000;20;Sr. Klara Fietz - Priv. VS der Schulschwestern;Kaiser-Franz-Josef-Kai 18;8010;Graz;+43(0)316/829551;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,073322;15,435284
+1720888,23330000;5952031,07970000;21;Private VS des Vereines Projektschule Graz;Moserhofgasse 3a;8010;Graz;+43(0)316/474250;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,060966;15,459002
+1720564,19330000;5954161,54180000;22;Private HS der Ursulinen;Leonhardstraße 62;8010;Graz;+43(0)316/323300-20;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,074001;15,456091
+1721789,47100000;5952981,04700000;23;VS Graz-Waltendorf;Waltendorfer Hauptstraße 17;8010;Graz;+43(0)316/872-7060;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,06678;15,467098
+1721447,69560000;5954783,46970000;24;VS Odilien;Leonhardstraße 130;8010;Graz;+43(0)316/327075;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,077808;15,464027
+1715693,36830000;5960897,55250000;25;VS Graz-St. Veit;St.-Veiter-Straße 76;8046;Graz;+43(0)316/872-7090;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,115196;15,412335
+1714366,63650000;5945510,37280000;26;VS Graz-Straßgang;Kärntner Straße 431;8054;Graz;+43(0)316/872-6950;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,021049;15,400417
+1724063,97720000;5959143,18640000;27;VS Graz-Mariatrost;Mariatroster Straße 194;8044;Graz;+43(0)316/872-6880;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,104473;15,48753
+1715153,02930000;5954249,65980000;28;VS Graz-Leopoldinum;Alte Poststraße 106;8020;Graz;+43(0)316/872-6790;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,074543;15,407482
+1720782,58100000;5948561,31340000;29;VS Graz-Liebenau;Puntigamer Straße 5;8041;Graz;+43(0)316/872-6810;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,03973;15,458053
+1718096,30920000;5955573,78500000;30;Praxis VS der Päd. Hochschule;Hasnerplatz 12;8010;Graz;+43(0)316/8067-1222;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,082642;15,433922
+1714403,10660000;5952978,31810000;31;VS Graz-Karl Morre;Karl-Morre-Straße 58;8020;Graz;+43(0)316/872-6970;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,066765;15,400745
+1721117,20030000;5951293,09760000;32;VS Graz-Neufeld;Brucknerstraße 51;8010;Graz;+43(0)316/872-7010;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,05645;15,461059
+1714451,59530000;5954271,40420000;33;VS Graz-Algersdorf;Algersdorfer Straße 11;8020;Graz;+43(0)316/872-6760;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,074677;15,40118
+1716156,45120000;5949297,91080000;34;VS Graz-Neuhart;Kapellenstraße 100;8053;Graz;+43(0)316/872-7020;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,044239;15,416495
+1716814,54020000;5958879,59550000;35;VS Graz-Viktor-Kaplan;Andritzer Reichsstraße 35b;8045;Graz;+43(0)316/872-6860;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,102859;15,422407
+1716935,87390000;5959638,99340000;36;VS Graz-Andritz;Prochaskagasse 9;8045;Graz;+43(0)316/872-6730;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,107502;15,423497
+1722126,97970000;5951957,63660000;37;VS Graz-Eisteich;Eisteichgasse 14;8042;Graz;+43(0)316/872-6770;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,060516;15,47013
+1712987,41790000;5952966,20940000;38;VS Graz-Baiern;Baiernstraße 86;8020;Graz;+43(0)316/872-6740;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,066689;15,388028
+1721511,75340000;5947389,96010000;39;VS Graz-Engelsdorf;Liebenauer Hauptstraße 177;8041;Graz;+43(0)316/872-6780;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,032558;15,464603
+1715739,86830000;5957437,24640000;40;VS Graz-Fischerau;Augasse 81;8051;Graz;+43(0)316/872-6920;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,09404;15,412753
+1720016,82400000;5956118,58650000;41;Sonderschule Graz-Rosenhain;Panoramagasse 23;8010;Graz;+43(0)316/872-6745;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,085976;15,451174
+1719767,77160000;5955306,89360000;42;Landesinstitut für Hörgeschädigte (SPZ);Rosenberggürtel 12;8010;Graz;+43(0)316/323015-29;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,081009;15,448936
+1717776,51540000;5949309,93220000;43;Polytechnische Schule Graz-Herrgottwies;Herrgottwiesgasse 162a;8055;Graz;+43(0)316/872-6885;-;Pflichtschulen;Polytechnische Schule;Stadt Graz - Stadtvermessung;47,044312;15,431049
+1718326,64290000;5955159,04040000;44;VS Graz-Geidorf;Muchargasse 23;8010;Graz;+43(0)316/872-6800;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,080105;15,435991
+1721944,35300000;5958038,06450000;45;VS Graz-St. Johann;Mariatroster Straße 128;8043;Graz;+43(0)316/872-6700;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,097713;15,46849
+1717376,09350000;5945836,05750000;46;VS Graz-Puntigam;Gradnerstraße 24;8055;Graz;+43(0)316/872-6890;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,023045;15,427452
+1713878,48300000;5954375,15500000;47;Praxis VS der Kirchl. Päd. Hochschule der Diözese;Georgigasse 85-89;8020;Graz;+43(0)316/581670-54;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,07531;15,396032
+1720128,52680000;5959744,83080000;48;Schule im Pfeifferhof (SiP) - Knallerbse des Vereines Mit Kindern leben;Pfeifferhofweg 153;8045;Graz;+43(0)316/354988;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,10815;15,452177
+1717246,51630000;5954448,50580000;49;VS Graz-Gabelsberger;Gabelsbergerstraße 1;8020;Graz;+43(0)316/872-6930;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,07576;15,426288
+1716377,17060000;5955651,31390000;50;HS Graz-Fröbel;Am Fröbelpark 1-3;8020;Graz;+43(0)316/872-7075;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,083115;15,418478
+1716840,01560000;5958245,89240000;51;Regenbogenschule - Förderung alternativer Lernmethoden in Graz;Schöckelbachweg 35;8046;Graz;+43(0)676/6218427;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,098984;15,422636
+1718725,94730000;5953805,23450000;52;HS Graz-Ferdinandeum;Färbergasse 11;8010;Graz;+43(0)316/872-6915;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,071823;15,439578
+1721591,10830000;5947489,82160000;53;HS Graz-Engelsdorf;Liebenauer Hauptstraße 173;8041;Graz;+43(0)316/872-6785;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,033169;15,465316
+1721682,10940000;5945354,05740000;54;VS Graz-Murfeld;Wilhelm-Rösche-Gasse 5;8041;Graz;+43(0)316/872-6830;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,020092;15,466133
+1725424,96120000;5954309,03490000;55;VS Graz-Berliner Ring;Rudolfstraße 242;8047;Graz;+43(0)316/872-6870;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,074905;15,499756
+1718072,00350000;5952467,56020000;56;HS Graz-Albert Schweitzer;Grieskai 62;8020;Graz;+43(0)316/872-6755;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,063637;15,433703
+1720128,52680000;5959744,83080000;57;Schule im Pfeifferhof (SiP) - Knallerbse des Vereines Mit Kindern leben;Pfeifferhofweg 153;8045;Graz;+43(0)316/354988;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,10815;15,452177
+1718624,51820000;5952003,50890000;58;VS Graz-Brockmann;Brockmanngasse 119;8010;Graz;+43(0)316/872-6720;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,060799;15,438666
+1722770,68670000;5950959,18690000;59;VS Graz-St. Peter;Thomas-Arbeiter-Gasse 12;8042;Graz;+43(0)316/872-7080;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,054405;15,475912
+1716377,17060000;5955651,31390000;60;VS Graz-Hirten;Am Fröbelpark 1-3;8020;Graz;+43(0)316/872-7070;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,083115;15,418478
+1729107,53090000;5958278,70350000;61;Karl-Schubert-Schule;Riesstraße 351;8010;Graz;+43(0)316/302434;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,099186;15,532837
+1711415,77620000;5960324,34220000;62;Private VS Ingrid Holzer;Raachgasse 66;8051;Graz;+43(0)664/9604812;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,111694;15,37391
+1720728,21540000;5954549,12330000;63;HS Graz-St. Leonhard;Elisabethstraße 56;8010;Graz;+43(0)316/872-6715;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,076374;15,457564
+1716758,58550000;5958768,65410000;64;HS Graz-Andritz;Andritzer Reichsstraße 35c;8045;Graz;+43(0)316/872-6865;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,10218;15,421905
+1720605,79200000;5954180,60870000;65;Private VS der Ursulinen;Leonhardstraße 62;8010;Graz;+43(0)316/323300-21;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,07412;15,456465
+1720430,98470000;5953237,91900000;66;VS Graz-Nibelungen;Nibelungengasse 18;8010;Graz;+43(0)316/872-7035;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,068352;15,454894
+1717814,21480000;5949966,44600000;67;VS Graz-Triester;Reiherstadlgasse 48;8020;Graz;+43(0)316/872-6850;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,048332;15,431388
+1718885,69950000;5950637,35640000;68;VS Graz-Schönau;Neuholdaugasse 93;8010;Graz;+43(0)316/872-6840;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,052437;15,441013
+1717814,21480000;5949966,44600000;69;ASO Graz-Pestalozzi;Reiherstadlgasse 48;8020;Graz;+43(0)316/872-6855;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,048332;15,431388
+1714334,44230000;5957898,32140000;70;VS Graz-Gösting;Anton-Kleinoscheg-Straße 44;8051;Graz;+43(0)316/872-6940;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,096859;15,400128
+1717727,51370000;5954015,61460000;71;VS Graz-Afritsch;Marschallgasse 19-21;8020;Graz;+43(0)316/872-7050;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,073109;15,430609
+1713944,76870000;5954391,65090000;72;Private VS der Schulschwestern Eggenberg;Georgigasse 84;8020;Graz;+43(0)316/583341-119;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,075409;15,396627
+1720777,91660000;5954482,16000000;73;VS u. HS Graz-Ellen Key;Dürergasse 2;8010;Graz;+43(0)316/872-6718;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,075966;15,458011
+1721453,77320000;5954777,79860000;74;Priv. VS, HS, SS f. sehbeh. u. blinde Kinder (SPZ);Leonhardstraße 130;8010;Graz;+43(0)316/327075;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,077774;15,464083
+1716127,96470000;5955937,95350000;75;Landessonderschule für körperbeh. und mehrfach behinderte Kinder;Kalvariengürtel 64;8020;Graz;+43(0)316/672136;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,084869;15,41624
+1714404,30760000;5948897,06300000;76;VS Graz-Jägergrund;Unterer Bründlweg 21;8053;Graz;+43(0)316/872-6960;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,041786;15,400756
+1723598,15040000;5949722,95200000;77;Freie Waldorfschule;St.-Peter-Hauptstraße 182;8010;Graz;+43(0)316/402606;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,046841;15,483346
+1723531,49250000;5949879,98970000;78;Freie Waldorfschule;St.-Peter-Hauptstraße 182;8010;Graz;+43(0)316/402606;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,047802;15,482747
+1718498,43890000;5955456,68820000;79;Praxis VS der Kirchl. Päd. Hochschule der Diözese;Lange Gasse 2;8010;Graz;+43(0)316/581670-54;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,081924;15,437534
+1720304,79460000;5952826,49010000;80;VS Sacré Coeur;Petersgasse 1;8010;Graz;+43(0)316/828006-63;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,065834;15,453761
+1719699,97030000;5949282,37150000;81;HS Graz-Dr. Renner;Eduard-Keil-Gasse 41;8041;Graz;+43(0)316/872-6875;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,044144;15,448328
+1713907,11600000;5954419,84860000;82;Private  HS d. Vereins der Grazer Schulschwestern;Georgigasse 84;8020;Graz;+43(0)316/583341-12;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,075584;15,39629
+1721028,51580000;5951268,74550000;83;Sporthauptschule Graz;Brucknerstraße 49;8010;Graz;+43(0)316/872-6925;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,056301;15,460262
+1717376,09350000;5945836,05750000;84;HS Graz-Puntigam;Gradnerstraße 24;8055;Graz;+43(0)316/872-6895;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,023045;15,427452
+1718725,94730000;5953805,23450000;85;VS Graz-Ferdinandeum;Färbergasse 11;8010;Graz;+43(0)316/872-6910;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,071823;15,439578
+1718624,51820000;5952003,50890000;86;Heilstättenschule LKH-Universitätsklinikum Graz (SPZ);Brockmanngasse 119;8010;Graz;+43(0)316/872-6735;-;Pflichtschulen;Sonderschule für Kinder mit sonderpäd. Förderbedarf;Stadt Graz - Stadtvermessung;47,060799;15,438666
+1720728,21540000;5954549,12330000;87;VS Graz-Elisabeth;Elisabethstraße 56;8010;Graz;+43(0)316/872-6710;-;Pflichtschulen;Volksschule;Stadt Graz - Stadtvermessung;47,076374;15,457564
+1718725,94730000;5953805,23450000;88;Musik-HS Graz-Ferdinandeum;Färbergasse 11;8010;Graz;+43(0)316/872-6815;-;Pflichtschulen;Neue Mittelschule;Stadt Graz - Stadtvermessung;47,071823;15,439578
