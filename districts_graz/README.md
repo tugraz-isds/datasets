@@ -49,7 +49,7 @@ DistrictID,Name,Population,LandArea,PostalCodes,Streets
 
 ```
 
-**EducationalInstitutions.csv:**  The *EducationalInstitutions* file contains data on the educational institutions located in Graz. The data points have the following structure:
+**Institutions.csv:**  The *EducationalInstitutions* file contains data on the educational institutions located in Graz. The data points have the following structure:
 
 * **Name:** The name of the institution.
   * Format: variable length *string*
