@@ -2,7 +2,7 @@ Name,Address,PostalCode,PhoneNumber,InstitutionsCategory,InstitutionsType
 Bildungsnetzwerk Steiermark,Niesenbergergasse 59,8020,,,Erwachsenenbildung
 ETC-Europäisches Trainings- u. Forschungszentrum für Menschenrechte,Elisabethstraße 50b,8010,+43(0)3163801530,,Erwachsenenbildung
 Verwaltungsakademie Stadt Graz,Pestalozzistraße 59/3,8010,,,Erwachsenenbildung
-ISOP  Externe Hauptschule,Uhlandgasse 1/1,8010,+43(0)316381354,,Erwachsenenbildung
+ISOP Externe Hauptschule,Uhlandgasse 1/1,8010,+43(0)316381354,,Erwachsenenbildung
 Wegener Zentrum für Klima u. Globalen Wandel der Uni Graz,Leechgasse 25,8010,+43(0)3163808430,,Erwachsenenbildung
 AUFWIND,Otto-Loewi-Gasse 14/4/19,8042,,,Erwachsenenbildung
 Peripherie,Friedrichgasse 3/II,8010,,,Erwachsenenbildung
@@ -11,7 +11,7 @@ Berufsförderungsinstitut - bfi,Mariengasse 24,8020,,,Erwachsenenbildung
 Institut CEF_Dr. Christian Ernst Fuchs; GmbH,Parkstraße 17,8010,,,Erwachsenenbildung
 Montagsakademie; Zentrum für Weiterbildung,Harrachgasse 23,8010,+43(0)3163801104,,Erwachsenenbildung
 Volksbildungswerk,Herdergasse 3,8010,+43(0)316321020,,Erwachsenenbildung
-iilo - Institut für individuelle Leistungsoptimierung,Schörgelgasse,8010,+43(0)316818723,,Erwachsenenbildung
+iilo - Institut für individuelle Leistungsoptimierung,Schörgelgasse ?,8010,+43(0)316818723,,Erwachsenenbildung
 Didactica Superlearning Sprachinstitut,Münzgrabenstraße 88,8010,+43(0)316830157,,Erwachsenenbildung
 VHS Volkshochschule Graz Stadt,Hans-Resel-Gasse 6,8020,,,Erwachsenenbildung
 Evangelisches Bildungswerk Steiermark,Kaiser-Josef-Platz 9,8010,+43(0)316837245,,Erwachsenenbildung
@@ -25,7 +25,7 @@ WIFI Steiermark,Körblergasse 111-113,8010,+43(0)3166021234,,Erwachsenenbildung
 Volkswirtschaftliche Gesellschaft Steiermark,Freiheitsplatz 2,8010,+43(0)316830260,,Erwachsenenbildung
 Urania,Burggasse 4/I,8010,+43(0)3168256880,,Erwachsenenbildung
 Sozial- und Heilpädagogisches Förderungsinstitut,Blümelhofweg 12a,8044,+43(0)316392805,,Erwachsenenbildung
-Ak-Bildungszentrum Otto Möbes Schule,Stiftingtalstraße  240,8010,,,Erwachsenenbildung
+Ak-Bildungszentrum Otto Möbes Schule,Stiftingtalstraße 240,8010,,,Erwachsenenbildung
 Inlingua-Language Competence Center,Rechbauerstraße 46,8010,+43(0)316824477,,Erwachsenenbildung
 SteiGLS - Akademie,Schillerstraße 2,8010,+43(0)316386873,,Erwachsenenbildung
 VHS der Kammer für Arbeiter und Angestellte für Stmk.,Merangasse 18,8010,+43(0)31677995000,,Erwachsenenbildung
@@ -165,7 +165,7 @@ VS Graz-Jägergrund,Unterer Bründlweg 21,8053,+43(0)3168726960,Pflichtschulen,V
 Freie Waldorfschule,St.-Peter-Hauptstraße 182,8010,+43(0)316402606,Pflichtschulen,Neue Mittelschule
 VS Sacré Coeur,Petersgasse 1,8010,+43(0)31682800663,Pflichtschulen,Volksschule
 HS Graz-Dr. Renner,Eduard-Keil-Gasse 41,8041,+43(0)3168726875,Pflichtschulen,Neue Mittelschule
-Private  HS d. Vereins der Grazer Schulschwestern,Georgigasse 84,8020,+43(0)31658334112,Pflichtschulen,Neue Mittelschule
+Private HS d. Vereins der Grazer Schulschwestern,Georgigasse 84,8020,+43(0)31658334112,Pflichtschulen,Neue Mittelschule
 Sporthauptschule Graz,Brucknerstraße 49,8010,+43(0)3168726925,Pflichtschulen,Neue Mittelschule
 HS Graz-Puntigam,Gradnerstraße 24,8055,+43(0)3168726895,Pflichtschulen,Neue Mittelschule
 VS Graz-Ferdinandeum,Färbergasse 11,8010,+43(0)3168726910,Pflichtschulen,Volksschule
