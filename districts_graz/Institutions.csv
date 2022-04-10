@@ -1,8 +1,8 @@
 Name,Address,PostalCode,PhoneNumber,InstitutionsCategory,InstitutionsType
-Bildungsnetzwerk Steiermark,Niesenbergerstraße 59,8020,,,Erwachsenenbildung
+Bildungsnetzwerk Steiermark,Niesenbergergasse 59,8020,,,Erwachsenenbildung
 ETC-Europäisches Trainings- u. Forschungszentrum für Menschenrechte,Elisabethstraße 50b,8010,+43(0)3163801530,,Erwachsenenbildung
 Verwaltungsakademie Stadt Graz,Pestalozzistraße 59/3,8010,,,Erwachsenenbildung
-ISOP  Externe Hauptschule,Uhlandgasse 1/1,8010,+43(0)316381354,,Erwachsenenbildung
+ISOP Externe Hauptschule,Uhlandgasse 1/1,8010,+43(0)316381354,,Erwachsenenbildung
 Wegener Zentrum für Klima u. Globalen Wandel der Uni Graz,Leechgasse 25,8010,+43(0)3163808430,,Erwachsenenbildung
 AUFWIND,Otto-Loewi-Gasse 14/4/19,8042,,,Erwachsenenbildung
 Peripherie,Friedrichgasse 3/II,8010,,,Erwachsenenbildung
@@ -11,7 +11,7 @@ Berufsförderungsinstitut - bfi,Mariengasse 24,8020,,,Erwachsenenbildung
 Institut CEF_Dr. Christian Ernst Fuchs; GmbH,Parkstraße 17,8010,,,Erwachsenenbildung
 Montagsakademie; Zentrum für Weiterbildung,Harrachgasse 23,8010,+43(0)3163801104,,Erwachsenenbildung
 Volksbildungswerk,Herdergasse 3,8010,+43(0)316321020,,Erwachsenenbildung
-iilo - Institut für individuelle Leistungsoptimierung,Schörgelgasse,8010,+43(0)316818723,,Erwachsenenbildung
+iilo - Institut für individuelle Leistungsoptimierung,Schörgelgasse ?,8010,+43(0)316818723,,Erwachsenenbildung
 Didactica Superlearning Sprachinstitut,Münzgrabenstraße 88,8010,+43(0)316830157,,Erwachsenenbildung
 VHS Volkshochschule Graz Stadt,Hans-Resel-Gasse 6,8020,,,Erwachsenenbildung
 Evangelisches Bildungswerk Steiermark,Kaiser-Josef-Platz 9,8010,+43(0)316837245,,Erwachsenenbildung
@@ -20,12 +20,12 @@ AK Bildungsberatung,Hans-Resel-Gasse 8-14,8020,,,Erwachsenenbildung
 Bildungshaus Mariatrost,Kirchbergstraße 18,8044,+43(0)316391131,,Erwachsenenbildung
 Bildungshaus Raiffeisenhof,Krottendorfer Straße 81,8052,+43(0)31680507111,,Erwachsenenbildung
 Bildungshaus Schloss St. Martin,Kehlbergstraße 35,8054,+43(0)316283655,,Erwachsenenbildung
-Europahaus Graz,Nikolaiplatz 4c/o EUropäisches Fremdsprachenzentrum,8020,+43(0)316323554888,,Erwachsenenbildung
+Europahaus Graz,Nikolaiplatz 4c/o,8020,+43(0)316323554888,,Erwachsenenbildung
 WIFI Steiermark,Körblergasse 111-113,8010,+43(0)3166021234,,Erwachsenenbildung
 Volkswirtschaftliche Gesellschaft Steiermark,Freiheitsplatz 2,8010,+43(0)316830260,,Erwachsenenbildung
 Urania,Burggasse 4/I,8010,+43(0)3168256880,,Erwachsenenbildung
 Sozial- und Heilpädagogisches Förderungsinstitut,Blümelhofweg 12a,8044,+43(0)316392805,,Erwachsenenbildung
-Ak-Bildungszentrum Otto Möbes Schule,Stiftingtalstraße  240,8010,,,Erwachsenenbildung
+Ak-Bildungszentrum Otto Möbes Schule,Stiftingtalstraße 240,8010,,,Erwachsenenbildung
 Inlingua-Language Competence Center,Rechbauerstraße 46,8010,+43(0)316824477,,Erwachsenenbildung
 SteiGLS - Akademie,Schillerstraße 2,8010,+43(0)316386873,,Erwachsenenbildung
 VHS der Kammer für Arbeiter und Angestellte für Stmk.,Merangasse 18,8010,+43(0)31677995000,,Erwachsenenbildung
@@ -33,7 +33,6 @@ LFI Ländliches Fortbildungsinstitut,Hamerlinggasse 3,8010,+43(0)31680501305,,Er
 bit schulungscenter Nfg GmbH & Co KG,Kärntner Straße 311,8054,+43(0)316285550,,Erwachsenenbildung
 FS Haidegg - Ferdinand Prirsch Schule,Ragnitzstraße 193,8047,+43(0)316301507,Höhere & Berufsbildende Schulen,Fachschule
 FS Alt-Grottenhof - Ekkehard Hauer Schule,Krottendorfer Straße 110,8052,+43(0)316281561,Höhere & Berufsbildende Schulen,Fachschule
-FS Grottenhof-Hardt,Hardter Straße 27,8052,+43(0)316583238,Höhere & Berufsbildende Schulen,Fachschule
 LA für Ehe- u. Familienberatung,Mesnergasse 5,8010,+43(0)3168041,Höhere & Berufsbildende Schulen,Humanberufliche Schule
 BDVS Benko 2-jährig; dzt. stillgelegt,Freiheitsplatz 1,8010,,Höhere & Berufsbildende Schulen,Kaufmännische Schule
 Privatgymnasium und ORG Ursulinen,Leonhardstraße 62,8010,+43(0)31632330011,Höhere & Berufsbildende Schulen,Allgemein bildende höhere Schule
@@ -166,7 +165,7 @@ VS Graz-Jägergrund,Unterer Bründlweg 21,8053,+43(0)3168726960,Pflichtschulen,V
 Freie Waldorfschule,St.-Peter-Hauptstraße 182,8010,+43(0)316402606,Pflichtschulen,Neue Mittelschule
 VS Sacré Coeur,Petersgasse 1,8010,+43(0)31682800663,Pflichtschulen,Volksschule
 HS Graz-Dr. Renner,Eduard-Keil-Gasse 41,8041,+43(0)3168726875,Pflichtschulen,Neue Mittelschule
-Private  HS d. Vereins der Grazer Schulschwestern,Georgigasse 84,8020,+43(0)31658334112,Pflichtschulen,Neue Mittelschule
+Private HS d. Vereins der Grazer Schulschwestern,Georgigasse 84,8020,+43(0)31658334112,Pflichtschulen,Neue Mittelschule
 Sporthauptschule Graz,Brucknerstraße 49,8010,+43(0)3168726925,Pflichtschulen,Neue Mittelschule
 HS Graz-Puntigam,Gradnerstraße 24,8055,+43(0)3168726895,Pflichtschulen,Neue Mittelschule
 VS Graz-Ferdinandeum,Färbergasse 11,8010,+43(0)3168726910,Pflichtschulen,Volksschule
@@ -196,7 +195,7 @@ TU-Graz; Institute der Fakultät für Maschinenbau und Wirtschaftswissen,Koperni
 TU-Graz; ISD und Institut für Human-Computer Interfaces,Krenngasse 37,8010,+43(0)3168735301,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
 TU-Graz; Institute der Fakultät für Elektro- u. Informationstechnik,Kronesgasse 5,8010,+43(0)3168731621,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
 TU-Graz; Institute der Fakultät für Architektur,Inffeldgasse 10/II,8010,+43(0)3168734721,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
-KUG Institut 14 Musikästhetik,Leonhardstraße 15/Palais Meran,8010,+43(0)3163893140,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
+KUG Institut 14 Musikästhetik,Leonhardstraße 15,8010,+43(0)3163893140,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 Uni-Graz; Fakultät der Sozial- und Wirtschaftswissenschaften,Universitätsstraße 15,8010,+43(0)316380,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
 TU-Graz; Fakultät für Informatik; IICM; CGV,Inffeldgasse 16c,8010,+43(0)3168735613,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
 TU-Graz; Fakultät für Informatik; IWM,Inffeldgasse 21a,8010,+43(0)3168739251,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
@@ -210,7 +209,7 @@ TU-Graz; Fakultät für Technische Chemie; Verfahrenstechnik u. Biotechnologie,P
 Uni-Graz; Institute der Fakultät für Regional- u. Bildungswissenschaften,Merangasse 70,8010,+43(0)3163802535,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
 Uni-Graz; Fakultät der Naturwissenschaften,Universitätsplatz 3,8010,+43(0)3163805000,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
 FH Joanneum; Architektur und Projektmanagement,Alte Poststraße 152,8020,+43(0)31654538200,Universitäten; Hoch- & Fachhochschulen,Fachhochschule
-KUG Institut 15 Alte Musik und Aufführungspraxis,Leonhardstraße 15/Palais Meran,8010,+43(0)3163893150,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
+KUG Institut 15 Alte Musik und Aufführungspraxis,Leonhardstraße 15,8010,+43(0)3163893150,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 Uni-Graz; HPR; Zentrum für Bewegungswissenschaften u. sportmedizinische Forschung,Max-Mell-Allee ?,8010,+43(0)3163803900,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
 FH Technopark,Alte Poststraße 156,8020,,Universitäten; Hoch- & Fachhochschulen,Fachhochschule
 Päd. Hochschule Stmk.,Hasnerplatz 12,8010,+43(0)31680671601,Universitäten; Hoch- & Fachhochschulen,Pädagogische Hochschule
@@ -218,7 +217,7 @@ FH Joanneum; Fahrzeugtechnik,Alte Poststraße 149,8020,+43(0)31654538400,Univers
 FH Joanneum; Industrial Design,Alte Poststraße 149,8020,+43(0)31654538100,Universitäten; Hoch- & Fachhochschulen,Fachhochschule
 TU-Graz; Institut für Prozess- und Partikeltechnik,Inffeldgasse 21a,8010,+43(0)3168737464,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
 TU-Graz; Fakultät für Informatik; IAIK,Inffeldgasse 16a,8010,+43(0)3168735514,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
-KUG Institut 16 Jazzforschung,Leonhardstraße 15/Palais Meran II,8010,+43(0)3163893160,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
+KUG Institut 16 Jazzforschung,Leonhardstraße 15,8010,+43(0)3163893160,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 KUG Institut 7 Gesang; Lied; Oratorium,Leonhardstraße 82-84,8010,,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 KUG Institut 9 Schauspiel,Leonhardstraße 19/(TIP),8010,+43(0)31638930903093,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 Uni-Graz; Forschungsstelle Österr.Deutsch,Heinrichstraße 22/II,8010,+43(0)3163802535,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
@@ -269,7 +268,7 @@ TU-Graz; Institut für Molekulare Biotechnologie,Petersgasse 14,8010,+43(0)31687
 TU-Graz; Institut für Papier-; Zellstoff- u. Fasertechnik,Kopernikusgasse 24/II,8010,+43(0)3168730,Universitäten; Hoch- & Fachhochschulen,Technische Universität Graz
 FH Joanneum; Physiotherapie,Eggenberger Allee 13,8020,+43(0)31654536540,Universitäten; Hoch- & Fachhochschulen,Fachhochschule
 MED Institut für Pflegewissenschaften,Billrothgasse 6/I,8010,+43(0)31638572064,Universitäten; Hoch- & Fachhochschulen,Medizinische Universität Graz
-KUG Institut 13 Ethnomusikologie,Leonhardstraße 15/Palais Meran I,8010,+43(0)3163893130,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
+KUG Institut 13 Ethnomusikologie,Leonhardstraße 15,8010,+43(0)3163893130,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 Uni-Graz; Institut für Erziehungswissenschaften,Merangasse 70/2,8010,+43(0)3163802535,Universitäten; Hoch- & Fachhochschulen,Karl-Franzens-Universität Graz
 KUG Institut 10 Musiktheater,Lichtenfelsgasse 14/III,8010,,Universitäten; Hoch- & Fachhochschulen,Kunstuniversität Graz
 FH Joanneum; eHealth,Eggenberger Allee 11,8020,+43(0)31654536500,Universitäten; Hoch- & Fachhochschulen,Fachhochschule
