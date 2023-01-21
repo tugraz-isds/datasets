@@ -1,5 +1,5 @@
-#Name, IATA, ICAO, Country, Active
-Indonesa Air Aisa X,ZM,IDX,Indonesia,Y
+Name, IATA, ICAO, Country, Active
+Air Asia X,ZM,IDX,Indonesia,Y
 Alghanim,ZL,KYA,United States,Y
 Norwegian Air International,ZK,IBK,Norway,Y
 Boliviana de Aviacion,ZI,BOV,Bolivia,Y
@@ -507,5 +507,6 @@ Tech-Mont Helicopter Company,KF,TEM,Slovakia,N
 Sefofane Air Charters,BN,SFE,South Africa,N
 Austrian Airlines,OS,AUA,Austria,Y
 Turkish Airlines,TH,THY,Turkey,Y
-Lufthansa,MH,DLH,Germany,Y
+Lufthansa,LH,DLH,Germany,Y
 Egyptair,MS,MSR,Egypt,Y
+Air Alsie,6I,MMD,Denmark,Y
